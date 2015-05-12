@@ -1,0 +1,2736 @@
+RHC, average results , 7700.39788939,knapsack100.txt
+RHC, average feval calls , 800002.0,knapsack100.txt
+RHC, average time , 0.205200004578,knapsack100.txt
+SA95, average results , 7744.5388657,knapsack100.txt
+SA95, average feval calls , 800002.0,knapsack100.txt
+SA95, average time , 0.824399995804,knapsack100.txt
+SA80, average results , 7801.27652279,knapsack100.txt
+SA80, average feval calls , 800002.0,knapsack100.txt
+SA80, average time , 0.821499991417,knapsack100.txt
+SA70, average results , 7622.77836597,knapsack100.txt
+SA70, average feval calls , 800002.0,knapsack100.txt
+SA70, average time , 0.819400000572,knapsack100.txt
+RHC, average results , 10321.9570367,knapsack120.txt
+RHC, average feval calls , 800002.0,knapsack120.txt
+RHC, average time , 0.24929997921,knapsack120.txt
+SA95, average results , 10498.1008476,knapsack120.txt
+SA95, average feval calls , 800002.0,knapsack120.txt
+SA95, average time , 0.851600003242,knapsack120.txt
+SA80, average results , 10316.327476,knapsack120.txt
+SA80, average feval calls , 800002.0,knapsack120.txt
+SA80, average time , 0.858300018311,knapsack120.txt
+SA70, average results , 10342.240205,knapsack120.txt
+SA70, average feval calls , 800002.0,knapsack120.txt
+SA70, average time , 0.909699988365,knapsack120.txt
+RHC, average results , 12099.6211936,knapsack140.txt
+RHC, average feval calls , 800002.0,knapsack140.txt
+RHC, average time , 0.307099986076,knapsack140.txt
+SA95, average results , 12136.4529055,knapsack140.txt
+SA95, average feval calls , 800002.0,knapsack140.txt
+SA95, average time , 0.969600009918,knapsack140.txt
+SA80, average results , 12214.9011332,knapsack140.txt
+SA80, average feval calls , 800002.0,knapsack140.txt
+SA80, average time , 0.980100011826,knapsack140.txt
+SA70, average results , 12070.0222952,knapsack140.txt
+SA70, average feval calls , 800002.0,knapsack140.txt
+SA70, average time , 0.959000015259,knapsack140.txt
+RHC, average results , 3329.80541214,knapsack40.txt
+RHC, average feval calls , 800002.0,knapsack40.txt
+RHC, average time , 0.11819999218,knapsack40.txt
+SA95, average results , 3294.4370126,knapsack40.txt
+SA95, average feval calls , 800002.0,knapsack40.txt
+SA95, average time , 0.73820002079,knapsack40.txt
+SA80, average results , 3294.74484948,knapsack40.txt
+SA80, average feval calls , 800002.0,knapsack40.txt
+SA80, average time , 0.738999986649,knapsack40.txt
+SA70, average results , 3215.95169537,knapsack40.txt
+SA70, average feval calls , 800002.0,knapsack40.txt
+SA70, average time , 0.744400000572,knapsack40.txt
+RHC, average results , 4559.33650841,knapsack60.txt
+RHC, average feval calls , 800002.0,knapsack60.txt
+RHC, average time , 0.1492000103,knapsack60.txt
+SA95, average results , 4642.42972049,knapsack60.txt
+SA95, average feval calls , 800002.0,knapsack60.txt
+SA95, average time , 0.770399999619,knapsack60.txt
+SA80, average results , 4536.93255347,knapsack60.txt
+SA80, average feval calls , 800002.0,knapsack60.txt
+SA80, average time , 0.771299982071,knapsack60.txt
+SA70, average results , 4568.70302979,knapsack60.txt
+SA70, average feval calls , 800002.0,knapsack60.txt
+SA70, average time , 0.770600008965,knapsack60.txt
+RHC, average results , 6603.36307009,knapsack80.txt
+RHC, average feval calls , 800002.0,knapsack80.txt
+RHC, average time , 0.171799993515,knapsack80.txt
+SA95, average results , 6594.13126313,knapsack80.txt
+SA95, average feval calls , 800002.0,knapsack80.txt
+SA95, average time , 0.787699985504,knapsack80.txt
+SA80, average results , 6599.87609624,knapsack80.txt
+SA80, average feval calls , 800002.0,knapsack80.txt
+SA80, average time , 0.786400008202,knapsack80.txt
+SA70, average results , 6591.09526018,knapsack80.txt
+SA70, average feval calls , 800002.0,knapsack80.txt
+SA70, average time , 0.789800000191,knapsack80.txt
+GA, average results , 7130.31288256,knapsack_ga_100-100-1-100-0.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-1-100-0.txt
+GA, average time , 0.302800011635,knapsack_ga_100-100-1-100-0.txt
+GA, average results , 7456.87522303,knapsack_ga_100-100-1-100-1.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-1-100-1.txt
+GA, average time , 0.335199999809,knapsack_ga_100-100-1-100-1.txt
+GA, average results , 8114.75573425,knapsack_ga_100-100-1-100-10.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-1-100-10.txt
+GA, average time , 0.288499999046,knapsack_ga_100-100-1-100-10.txt
+GA, average results , 7426.17203362,knapsack_ga_100-100-1-40-0.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-1-40-0.txt
+GA, average time , 0.202500009537,knapsack_ga_100-100-1-40-0.txt
+GA, average results , 7690.01565411,knapsack_ga_100-100-1-40-1.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-1-40-1.txt
+GA, average time , 0.17009999752,knapsack_ga_100-100-1-40-1.txt
+GA, average results , 7078.56362254,knapsack_ga_100-100-1-40-10.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-1-40-10.txt
+GA, average time , 0.146199989319,knapsack_ga_100-100-1-40-10.txt
+GA, average results , 6813.49358087,knapsack_ga_100-100-1-60-0.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-1-60-0.txt
+GA, average time , 0.211400008202,knapsack_ga_100-100-1-60-0.txt
+GA, average results , 7865.68546573,knapsack_ga_100-100-1-60-1.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-1-60-1.txt
+GA, average time , 0.161500000954,knapsack_ga_100-100-1-60-1.txt
+GA, average results , 6807.78107769,knapsack_ga_100-100-1-60-10.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-1-60-10.txt
+GA, average time , 0.197399997711,knapsack_ga_100-100-1-60-10.txt
+GA, average results , 6525.72388502,knapsack_ga_100-100-1-80-0.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-1-80-0.txt
+GA, average time , 0.25680000782,knapsack_ga_100-100-1-80-0.txt
+GA, average results , 7387.58068202,knapsack_ga_100-100-1-80-1.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-1-80-1.txt
+GA, average time , 0.24390001297,knapsack_ga_100-100-1-80-1.txt
+GA, average results , 7819.70961464,knapsack_ga_100-100-1-80-10.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-1-80-10.txt
+GA, average time , 0.221899986267,knapsack_ga_100-100-1-80-10.txt
+GA, average results , 7213.39790121,knapsack_ga_100-100-2-100-0.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-2-100-0.txt
+GA, average time , 0.3132999897,knapsack_ga_100-100-2-100-0.txt
+GA, average results , 7830.75807151,knapsack_ga_100-100-2-100-1.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-2-100-1.txt
+GA, average time , 0.290899991989,knapsack_ga_100-100-2-100-1.txt
+GA, average results , 8001.7529221,knapsack_ga_100-100-2-100-10.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-2-100-10.txt
+GA, average time , 0.429200005531,knapsack_ga_100-100-2-100-10.txt
+GA, average results , 6914.17433637,knapsack_ga_100-100-2-40-0.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-2-40-0.txt
+GA, average time , 0.161199998856,knapsack_ga_100-100-2-40-0.txt
+GA, average results , 7016.79256448,knapsack_ga_100-100-2-40-1.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-2-40-1.txt
+GA, average time , 0.153900003433,knapsack_ga_100-100-2-40-1.txt
+GA, average results , 7680.12267946,knapsack_ga_100-100-2-40-10.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-2-40-10.txt
+GA, average time , 0.158400011063,knapsack_ga_100-100-2-40-10.txt
+GA, average results , 7008.49660407,knapsack_ga_100-100-2-60-0.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-2-60-0.txt
+GA, average time , 0.186599993706,knapsack_ga_100-100-2-60-0.txt
+GA, average results , 8055.08049174,knapsack_ga_100-100-2-60-1.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-2-60-1.txt
+GA, average time , 0.170699977875,knapsack_ga_100-100-2-60-1.txt
+GA, average results , 7433.64056827,knapsack_ga_100-100-2-60-10.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-2-60-10.txt
+GA, average time , 0.21289999485,knapsack_ga_100-100-2-60-10.txt
+GA, average results , 6638.86486719,knapsack_ga_100-100-2-80-0.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-2-80-0.txt
+GA, average time , 0.26970000267,knapsack_ga_100-100-2-80-0.txt
+GA, average results , 7399.25099156,knapsack_ga_100-100-2-80-1.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-2-80-1.txt
+GA, average time , 0.264400005341,knapsack_ga_100-100-2-80-1.txt
+GA, average results , 8104.81059127,knapsack_ga_100-100-2-80-10.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-2-80-10.txt
+GA, average time , 0.233599996567,knapsack_ga_100-100-2-80-10.txt
+GA, average results , 6382.54670206,knapsack_ga_100-100-3-100-0.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-3-100-0.txt
+GA, average time , 0.288300013542,knapsack_ga_100-100-3-100-0.txt
+GA, average results , 7773.32348692,knapsack_ga_100-100-3-100-1.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-3-100-1.txt
+GA, average time , 0.283699989319,knapsack_ga_100-100-3-100-1.txt
+GA, average results , 8133.95883895,knapsack_ga_100-100-3-100-10.txt
+GA, average feval calls , 100101.0,knapsack_ga_100-100-3-100-10.txt
+GA, average time , 0.248600006104,knapsack_ga_100-100-3-100-10.txt
+GA, average results , 6857.29510299,knapsack_ga_100-100-3-40-0.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-3-40-0.txt
+GA, average time , 0.117200016975,knapsack_ga_100-100-3-40-0.txt
+GA, average results , 7525.68623494,knapsack_ga_100-100-3-40-1.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-3-40-1.txt
+GA, average time , 0.132100009918,knapsack_ga_100-100-3-40-1.txt
+GA, average results , 7811.10029898,knapsack_ga_100-100-3-40-10.txt
+GA, average feval calls , 40101.0,knapsack_ga_100-100-3-40-10.txt
+GA, average time , 0.139499998093,knapsack_ga_100-100-3-40-10.txt
+GA, average results , 7507.0806629,knapsack_ga_100-100-3-60-0.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-3-60-0.txt
+GA, average time , 0.261000013351,knapsack_ga_100-100-3-60-0.txt
+GA, average results , 7900.28993273,knapsack_ga_100-100-3-60-1.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-3-60-1.txt
+GA, average time , 0.219499993324,knapsack_ga_100-100-3-60-1.txt
+GA, average results , 7664.95493334,knapsack_ga_100-100-3-60-10.txt
+GA, average feval calls , 60101.0,knapsack_ga_100-100-3-60-10.txt
+GA, average time , 0.158299994469,knapsack_ga_100-100-3-60-10.txt
+GA, average results , 6950.9556538,knapsack_ga_100-100-3-80-0.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-3-80-0.txt
+GA, average time , 0.215999984741,knapsack_ga_100-100-3-80-0.txt
+GA, average results , 7056.96662552,knapsack_ga_100-100-3-80-1.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-3-80-1.txt
+GA, average time , 0.193700003624,knapsack_ga_100-100-3-80-1.txt
+GA, average results , 8363.51587049,knapsack_ga_100-100-3-80-10.txt
+GA, average feval calls , 80101.0,knapsack_ga_100-100-3-80-10.txt
+GA, average time , 0.225699996948,knapsack_ga_100-100-3-80-10.txt
+GA, average results , 8781.16916161,knapsack_ga_100-200-1-120-0.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-1-120-0.txt
+GA, average time , 0.325900006294,knapsack_ga_100-200-1-120-0.txt
+GA, average results , 8272.25763495,knapsack_ga_100-200-1-120-2.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-1-120-2.txt
+GA, average time , 0.337400007248,knapsack_ga_100-200-1-120-2.txt
+GA, average results , 8412.42022419,knapsack_ga_100-200-1-120-20.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-1-120-20.txt
+GA, average time , 0.350099992752,knapsack_ga_100-200-1-120-20.txt
+GA, average results , 8534.41597482,knapsack_ga_100-200-1-160-0.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-1-160-0.txt
+GA, average time , 0.455300021172,knapsack_ga_100-200-1-160-0.txt
+GA, average results , 8315.01812582,knapsack_ga_100-200-1-160-2.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-1-160-2.txt
+GA, average time , 0.454200005531,knapsack_ga_100-200-1-160-2.txt
+GA, average results , 9199.98809133,knapsack_ga_100-200-1-160-20.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-1-160-20.txt
+GA, average time , 0.469400000572,knapsack_ga_100-200-1-160-20.txt
+GA, average results , 8150.69150595,knapsack_ga_100-200-1-200-0.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-1-200-0.txt
+GA, average time , 0.666799998283,knapsack_ga_100-200-1-200-0.txt
+GA, average results , 8047.82293516,knapsack_ga_100-200-1-200-2.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-1-200-2.txt
+GA, average time , 0.602600002289,knapsack_ga_100-200-1-200-2.txt
+GA, average results , 9018.07009426,knapsack_ga_100-200-1-200-20.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-1-200-20.txt
+GA, average time , 0.600300002098,knapsack_ga_100-200-1-200-20.txt
+GA, average results , 7580.45669054,knapsack_ga_100-200-1-80-0.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-1-80-0.txt
+GA, average time , 0.271700000763,knapsack_ga_100-200-1-80-0.txt
+GA, average results , 7912.02626154,knapsack_ga_100-200-1-80-2.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-1-80-2.txt
+GA, average time , 0.272000002861,knapsack_ga_100-200-1-80-2.txt
+GA, average results , 8408.92649796,knapsack_ga_100-200-1-80-20.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-1-80-20.txt
+GA, average time , 0.272899985313,knapsack_ga_100-200-1-80-20.txt
+GA, average results , 8335.7611948,knapsack_ga_100-200-2-120-0.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-2-120-0.txt
+GA, average time , 0.388899993896,knapsack_ga_100-200-2-120-0.txt
+GA, average results , 8855.18640983,knapsack_ga_100-200-2-120-2.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-2-120-2.txt
+GA, average time , 0.324099993706,knapsack_ga_100-200-2-120-2.txt
+GA, average results , 8227.90099404,knapsack_ga_100-200-2-120-20.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-2-120-20.txt
+GA, average time , 0.408299994469,knapsack_ga_100-200-2-120-20.txt
+GA, average results , 8271.21283355,knapsack_ga_100-200-2-160-0.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-2-160-0.txt
+GA, average time , 0.434899997711,knapsack_ga_100-200-2-160-0.txt
+GA, average results , 8231.1465857,knapsack_ga_100-200-2-160-2.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-2-160-2.txt
+GA, average time , 0.414499998093,knapsack_ga_100-200-2-160-2.txt
+GA, average results , 8693.96944893,knapsack_ga_100-200-2-160-20.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-2-160-20.txt
+GA, average time , 0.418799996376,knapsack_ga_100-200-2-160-20.txt
+GA, average results , 8127.75608862,knapsack_ga_100-200-2-200-0.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-2-200-0.txt
+GA, average time , 0.517700004578,knapsack_ga_100-200-2-200-0.txt
+GA, average results , 8085.41614623,knapsack_ga_100-200-2-200-2.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-2-200-2.txt
+GA, average time , 0.54240000248,knapsack_ga_100-200-2-200-2.txt
+GA, average results , 8590.08002106,knapsack_ga_100-200-2-200-20.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-2-200-20.txt
+GA, average time , 0.602400016785,knapsack_ga_100-200-2-200-20.txt
+GA, average results , 7948.41099902,knapsack_ga_100-200-2-80-0.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-2-80-0.txt
+GA, average time , 0.254799985886,knapsack_ga_100-200-2-80-0.txt
+GA, average results , 7400.35915183,knapsack_ga_100-200-2-80-2.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-2-80-2.txt
+GA, average time , 0.252300000191,knapsack_ga_100-200-2-80-2.txt
+GA, average results , 7647.21715136,knapsack_ga_100-200-2-80-20.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-2-80-20.txt
+GA, average time , 0.262700009346,knapsack_ga_100-200-2-80-20.txt
+GA, average results , 8604.93557377,knapsack_ga_100-200-3-120-0.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-3-120-0.txt
+GA, average time , 0.316400003433,knapsack_ga_100-200-3-120-0.txt
+GA, average results , 8311.86486798,knapsack_ga_100-200-3-120-2.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-3-120-2.txt
+GA, average time , 0.317100000381,knapsack_ga_100-200-3-120-2.txt
+GA, average results , 8265.45028048,knapsack_ga_100-200-3-120-20.txt
+GA, average feval calls , 120201.0,knapsack_ga_100-200-3-120-20.txt
+GA, average time , 0.322100019455,knapsack_ga_100-200-3-120-20.txt
+GA, average results , 7662.20185464,knapsack_ga_100-200-3-160-0.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-3-160-0.txt
+GA, average time , 0.446000003815,knapsack_ga_100-200-3-160-0.txt
+GA, average results , 8240.48570781,knapsack_ga_100-200-3-160-2.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-3-160-2.txt
+GA, average time , 0.461500000954,knapsack_ga_100-200-3-160-2.txt
+GA, average results , 8193.87304906,knapsack_ga_100-200-3-160-20.txt
+GA, average feval calls , 160201.0,knapsack_ga_100-200-3-160-20.txt
+GA, average time , 0.430900001526,knapsack_ga_100-200-3-160-20.txt
+GA, average results , 8240.45297424,knapsack_ga_100-200-3-200-0.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-3-200-0.txt
+GA, average time , 0.460199999809,knapsack_ga_100-200-3-200-0.txt
+GA, average results , 8962.48205739,knapsack_ga_100-200-3-200-2.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-3-200-2.txt
+GA, average time , 0.522600007057,knapsack_ga_100-200-3-200-2.txt
+GA, average results , 7976.59639451,knapsack_ga_100-200-3-200-20.txt
+GA, average feval calls , 200201.0,knapsack_ga_100-200-3-200-20.txt
+GA, average time , 0.593499994278,knapsack_ga_100-200-3-200-20.txt
+GA, average results , 7642.56314101,knapsack_ga_100-200-3-80-0.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-3-80-0.txt
+GA, average time , 0.36130001545,knapsack_ga_100-200-3-80-0.txt
+GA, average results , 8195.47065,knapsack_ga_100-200-3-80-2.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-3-80-2.txt
+GA, average time , 0.230399990082,knapsack_ga_100-200-3-80-2.txt
+GA, average results , 8464.09036108,knapsack_ga_100-200-3-80-20.txt
+GA, average feval calls , 80201.0,knapsack_ga_100-200-3-80-20.txt
+GA, average time , 0.238700008392,knapsack_ga_100-200-3-80-20.txt
+GA, average results , 9136.06468582,knapsack_ga_100-400-1-160-0.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-1-160-0.txt
+GA, average time , 0.525500011444,knapsack_ga_100-400-1-160-0.txt
+GA, average results , 8775.57680943,knapsack_ga_100-400-1-160-4.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-1-160-4.txt
+GA, average time , 0.477200007439,knapsack_ga_100-400-1-160-4.txt
+GA, average results , 9628.39648753,knapsack_ga_100-400-1-160-40.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-1-160-40.txt
+GA, average time , 0.502999997139,knapsack_ga_100-400-1-160-40.txt
+GA, average results , 8436.84169095,knapsack_ga_100-400-1-240-0.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-1-240-0.txt
+GA, average time , 0.678299999237,knapsack_ga_100-400-1-240-0.txt
+GA, average results , 8412.85321252,knapsack_ga_100-400-1-240-4.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-1-240-4.txt
+GA, average time , 0.6632999897,knapsack_ga_100-400-1-240-4.txt
+GA, average results , 9764.37328202,knapsack_ga_100-400-1-240-40.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-1-240-40.txt
+GA, average time , 0.75490000248,knapsack_ga_100-400-1-240-40.txt
+GA, average results , 9290.71037758,knapsack_ga_100-400-1-320-0.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-1-320-0.txt
+GA, average time , 0.964299988747,knapsack_ga_100-400-1-320-0.txt
+GA, average results , 8740.06427571,knapsack_ga_100-400-1-320-4.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-1-320-4.txt
+GA, average time , 0.91859998703,knapsack_ga_100-400-1-320-4.txt
+GA, average results , 9268.58904543,knapsack_ga_100-400-1-320-40.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-1-320-40.txt
+GA, average time , 0.985400009155,knapsack_ga_100-400-1-320-40.txt
+GA, average results , 7594.92435371,knapsack_ga_100-400-1-400-0.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-1-400-0.txt
+GA, average time , 1.09240000248,knapsack_ga_100-400-1-400-0.txt
+GA, average results , 9010.42862112,knapsack_ga_100-400-1-400-4.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-1-400-4.txt
+GA, average time , 1.06460001469,knapsack_ga_100-400-1-400-4.txt
+GA, average results , 8036.65514165,knapsack_ga_100-400-1-400-40.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-1-400-40.txt
+GA, average time , 1.09670000076,knapsack_ga_100-400-1-400-40.txt
+GA, average results , 9334.75992297,knapsack_ga_100-400-2-160-0.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-2-160-0.txt
+GA, average time , 0.532899999619,knapsack_ga_100-400-2-160-0.txt
+GA, average results , 8861.9034993,knapsack_ga_100-400-2-160-4.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-2-160-4.txt
+GA, average time , 0.600500011444,knapsack_ga_100-400-2-160-4.txt
+GA, average results , 7371.76896135,knapsack_ga_100-400-2-160-40.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-2-160-40.txt
+GA, average time , 0.483600020409,knapsack_ga_100-400-2-160-40.txt
+GA, average results , 8654.03920966,knapsack_ga_100-400-2-240-0.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-2-240-0.txt
+GA, average time , 0.857099986076,knapsack_ga_100-400-2-240-0.txt
+GA, average results , 8707.95248793,knapsack_ga_100-400-2-240-4.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-2-240-4.txt
+GA, average time , 0.753699994087,knapsack_ga_100-400-2-240-4.txt
+GA, average results , 8858.81256482,knapsack_ga_100-400-2-240-40.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-2-240-40.txt
+GA, average time , 0.832700014114,knapsack_ga_100-400-2-240-40.txt
+GA, average results , 9483.55343595,knapsack_ga_100-400-2-320-0.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-2-320-0.txt
+GA, average time , 0.940199995041,knapsack_ga_100-400-2-320-0.txt
+GA, average results , 8832.35211963,knapsack_ga_100-400-2-320-4.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-2-320-4.txt
+GA, average time , 0.854700016975,knapsack_ga_100-400-2-320-4.txt
+GA, average results , 9023.88349055,knapsack_ga_100-400-2-320-40.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-2-320-40.txt
+GA, average time , 0.967199993134,knapsack_ga_100-400-2-320-40.txt
+GA, average results , 9008.09167069,knapsack_ga_100-400-2-400-0.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-2-400-0.txt
+GA, average time , 0.968799996376,knapsack_ga_100-400-2-400-0.txt
+GA, average results , 8422.69585561,knapsack_ga_100-400-2-400-4.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-2-400-4.txt
+GA, average time , 1.07569999695,knapsack_ga_100-400-2-400-4.txt
+GA, average results , 8156.51329563,knapsack_ga_100-400-2-400-40.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-2-400-40.txt
+GA, average time , 1.0364000082,knapsack_ga_100-400-2-400-40.txt
+GA, average results , 8701.70750305,knapsack_ga_100-400-3-160-0.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-3-160-0.txt
+GA, average time , 0.4882999897,knapsack_ga_100-400-3-160-0.txt
+GA, average results , 8392.1421244,knapsack_ga_100-400-3-160-4.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-3-160-4.txt
+GA, average time , 0.563499999046,knapsack_ga_100-400-3-160-4.txt
+GA, average results , 8629.05774996,knapsack_ga_100-400-3-160-40.txt
+GA, average feval calls , 160401.0,knapsack_ga_100-400-3-160-40.txt
+GA, average time , 0.441199994087,knapsack_ga_100-400-3-160-40.txt
+GA, average results , 9474.68703409,knapsack_ga_100-400-3-240-0.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-3-240-0.txt
+GA, average time , 0.729200005531,knapsack_ga_100-400-3-240-0.txt
+GA, average results , 9302.86982551,knapsack_ga_100-400-3-240-4.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-3-240-4.txt
+GA, average time , 0.680400013924,knapsack_ga_100-400-3-240-4.txt
+GA, average results , 9149.77074979,knapsack_ga_100-400-3-240-40.txt
+GA, average feval calls , 240401.0,knapsack_ga_100-400-3-240-40.txt
+GA, average time , 0.776900005341,knapsack_ga_100-400-3-240-40.txt
+GA, average results , 9118.69146299,knapsack_ga_100-400-3-320-0.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-3-320-0.txt
+GA, average time , 0.856300020218,knapsack_ga_100-400-3-320-0.txt
+GA, average results , 8528.30514246,knapsack_ga_100-400-3-320-4.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-3-320-4.txt
+GA, average time , 0.929099988937,knapsack_ga_100-400-3-320-4.txt
+GA, average results , 8765.1409745,knapsack_ga_100-400-3-320-40.txt
+GA, average feval calls , 320401.0,knapsack_ga_100-400-3-320-40.txt
+GA, average time , 0.837299990654,knapsack_ga_100-400-3-320-40.txt
+GA, average results , 8834.3760274,knapsack_ga_100-400-3-400-0.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-3-400-0.txt
+GA, average time , 0.964300012589,knapsack_ga_100-400-3-400-0.txt
+GA, average results , 8953.56987618,knapsack_ga_100-400-3-400-4.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-3-400-4.txt
+GA, average time , 1.08040001392,knapsack_ga_100-400-3-400-4.txt
+GA, average results , 9267.9247698,knapsack_ga_100-400-3-400-40.txt
+GA, average feval calls , 400401.0,knapsack_ga_100-400-3-400-40.txt
+GA, average time , 1.2621999979,knapsack_ga_100-400-3-400-40.txt
+GA, average results , 6326.75007082,knapsack_ga_100-50-1-20-0.txt
+GA, average feval calls , 20051.0,knapsack_ga_100-50-1-20-0.txt
+GA, average time , 0.111800003052,knapsack_ga_100-50-1-20-0.txt
+GA, average results , 7267.28176644,knapsack_ga_100-50-1-20-5.txt
+GA, average feval calls , 20051.0,knapsack_ga_100-50-1-20-5.txt
+GA, average time , 0.0944000005722,knapsack_ga_100-50-1-20-5.txt
+GA, average results , 6647.10413149,knapsack_ga_100-50-1-30-0.txt
+GA, average feval calls , 30051.0,knapsack_ga_100-50-1-30-0.txt
+GA, average time , 0.093799996376,knapsack_ga_100-50-1-30-0.txt
+GA, average results , 6729.52380903,knapsack_ga_100-50-1-30-5.txt
+GA, average feval calls , 30051.0,knapsack_ga_100-50-1-30-5.txt
+GA, average time , 0.0839999914169,knapsack_ga_100-50-1-30-5.txt
+GA, average results , 6204.03834903,knapsack_ga_100-50-1-40-0.txt
+GA, average feval calls , 40051.0,knapsack_ga_100-50-1-40-0.txt
+GA, average time , 0.134800004959,knapsack_ga_100-50-1-40-0.txt
+GA, average results , 6961.50846014,knapsack_ga_100-50-1-40-5.txt
+GA, average feval calls , 40051.0,knapsack_ga_100-50-1-40-5.txt
+GA, average time , 0.112799978256,knapsack_ga_100-50-1-40-5.txt
+GA, average results , 6378.42909656,knapsack_ga_100-50-1-50-0.txt
+GA, average feval calls , 50051.0,knapsack_ga_100-50-1-50-0.txt
+GA, average time , 0.171300005913,knapsack_ga_100-50-1-50-0.txt
+GA, average results , 6700.44672564,knapsack_ga_100-50-1-50-5.txt
+GA, average feval calls , 50051.0,knapsack_ga_100-50-1-50-5.txt
+GA, average time , 0.161000013351,knapsack_ga_100-50-1-50-5.txt
+GA, average results , 6419.49297871,knapsack_ga_100-50-2-20-0.txt
+GA, average feval calls , 20051.0,knapsack_ga_100-50-2-20-0.txt
+GA, average time , 0.0858000040054,knapsack_ga_100-50-2-20-0.txt
+GA, average results , 6590.91329131,knapsack_ga_100-50-2-20-5.txt
+GA, average feval calls , 20051.0,knapsack_ga_100-50-2-20-5.txt
+GA, average time , 0.0884000062943,knapsack_ga_100-50-2-20-5.txt
+GA, average results , 5959.95589948,knapsack_ga_100-50-2-30-0.txt
+GA, average feval calls , 30051.0,knapsack_ga_100-50-2-30-0.txt
+GA, average time , 0.0809000015259,knapsack_ga_100-50-2-30-0.txt
+GA, average results , 7394.24017248,knapsack_ga_100-50-2-30-5.txt
+GA, average feval calls , 30051.0,knapsack_ga_100-50-2-30-5.txt
+GA, average time , 0.0868999958038,knapsack_ga_100-50-2-30-5.txt
+GA, average results , 6371.78824457,knapsack_ga_100-50-2-40-0.txt
+GA, average feval calls , 40051.0,knapsack_ga_100-50-2-40-0.txt
+GA, average time , 0.12460000515,knapsack_ga_100-50-2-40-0.txt
+GA, average results , 6706.97782448,knapsack_ga_100-50-2-40-5.txt
+GA, average feval calls , 40051.0,knapsack_ga_100-50-2-40-5.txt
+GA, average time , 0.13630001545,knapsack_ga_100-50-2-40-5.txt
+GA, average results , 6173.72664711,knapsack_ga_100-50-2-50-0.txt
+GA, average feval calls , 50051.0,knapsack_ga_100-50-2-50-0.txt
+GA, average time , 0.122099995613,knapsack_ga_100-50-2-50-0.txt
+GA, average results , 7524.60008333,knapsack_ga_100-50-2-50-5.txt
+GA, average feval calls , 50051.0,knapsack_ga_100-50-2-50-5.txt
+GA, average time , 0.166700005531,knapsack_ga_100-50-2-50-5.txt
+GA, average results , 6363.52102001,knapsack_ga_100-50-3-20-0.txt
+GA, average feval calls , 20051.0,knapsack_ga_100-50-3-20-0.txt
+GA, average time , 0.0640000104904,knapsack_ga_100-50-3-20-0.txt
+GA, average results , 6225.76115059,knapsack_ga_100-50-3-20-5.txt
+GA, average feval calls , 20051.0,knapsack_ga_100-50-3-20-5.txt
+GA, average time , 0.130100011826,knapsack_ga_100-50-3-20-5.txt
+GA, average results , 6588.40708444,knapsack_ga_100-50-3-30-0.txt
+GA, average feval calls , 30051.0,knapsack_ga_100-50-3-30-0.txt
+GA, average time , 0.0825000047684,knapsack_ga_100-50-3-30-0.txt
+GA, average results , 6160.33572738,knapsack_ga_100-50-3-30-5.txt
+GA, average feval calls , 30051.0,knapsack_ga_100-50-3-30-5.txt
+GA, average time , 0.117299985886,knapsack_ga_100-50-3-30-5.txt
+GA, average results , 6050.05381227,knapsack_ga_100-50-3-40-0.txt
+GA, average feval calls , 40051.0,knapsack_ga_100-50-3-40-0.txt
+GA, average time , 0.112599992752,knapsack_ga_100-50-3-40-0.txt
+GA, average results , 7118.53465862,knapsack_ga_100-50-3-40-5.txt
+GA, average feval calls , 40051.0,knapsack_ga_100-50-3-40-5.txt
+GA, average time , 0.128699994087,knapsack_ga_100-50-3-40-5.txt
+GA, average results , 5801.45076099,knapsack_ga_100-50-3-50-0.txt
+GA, average feval calls , 50051.0,knapsack_ga_100-50-3-50-0.txt
+GA, average time , 0.123100018501,knapsack_ga_100-50-3-50-0.txt
+GA, average results , 7034.23738168,knapsack_ga_100-50-3-50-5.txt
+GA, average feval calls , 50051.0,knapsack_ga_100-50-3-50-5.txt
+GA, average time , 0.211100006104,knapsack_ga_100-50-3-50-5.txt
+GA, average results , 8372.03850082,knapsack_ga_120-120-1-120-0.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-1-120-0.txt
+GA, average time , 0.392900013924,knapsack_ga_120-120-1-120-0.txt
+GA, average results , 7661.5234608,knapsack_ga_120-120-1-120-1.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-1-120-1.txt
+GA, average time , 0.438399982452,knapsack_ga_120-120-1-120-1.txt
+GA, average results , 9819.1979812,knapsack_ga_120-120-1-120-12.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-1-120-12.txt
+GA, average time , 0.423099994659,knapsack_ga_120-120-1-120-12.txt
+GA, average results , 8993.52569018,knapsack_ga_120-120-1-48-0.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-1-48-0.txt
+GA, average time , 0.163800001144,knapsack_ga_120-120-1-48-0.txt
+GA, average results , 8652.95024621,knapsack_ga_120-120-1-48-1.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-1-48-1.txt
+GA, average time , 0.276999998093,knapsack_ga_120-120-1-48-1.txt
+GA, average results , 9537.4555876,knapsack_ga_120-120-1-48-12.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-1-48-12.txt
+GA, average time , 0.152100014687,knapsack_ga_120-120-1-48-12.txt
+GA, average results , 8790.84746675,knapsack_ga_120-120-1-72-0.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-1-72-0.txt
+GA, average time , 0.238199996948,knapsack_ga_120-120-1-72-0.txt
+GA, average results , 8306.50757793,knapsack_ga_120-120-1-72-1.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-1-72-1.txt
+GA, average time , 0.248000001907,knapsack_ga_120-120-1-72-1.txt
+GA, average results , 9486.98054232,knapsack_ga_120-120-1-72-12.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-1-72-12.txt
+GA, average time , 0.287599992752,knapsack_ga_120-120-1-72-12.txt
+GA, average results , 8817.30401158,knapsack_ga_120-120-1-96-0.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-1-96-0.txt
+GA, average time , 0.339600014687,knapsack_ga_120-120-1-96-0.txt
+GA, average results , 9722.09805563,knapsack_ga_120-120-1-96-1.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-1-96-1.txt
+GA, average time , 0.296400022507,knapsack_ga_120-120-1-96-1.txt
+GA, average results , 9364.90197906,knapsack_ga_120-120-1-96-12.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-1-96-12.txt
+GA, average time , 0.282799983025,knapsack_ga_120-120-1-96-12.txt
+GA, average results , 8549.73961984,knapsack_ga_120-120-2-120-0.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-2-120-0.txt
+GA, average time , 0.400300002098,knapsack_ga_120-120-2-120-0.txt
+GA, average results , 9044.07048708,knapsack_ga_120-120-2-120-1.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-2-120-1.txt
+GA, average time , 0.403299999237,knapsack_ga_120-120-2-120-1.txt
+GA, average results , 9768.81405472,knapsack_ga_120-120-2-120-12.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-2-120-12.txt
+GA, average time , 0.401800012589,knapsack_ga_120-120-2-120-12.txt
+GA, average results , 8140.67087447,knapsack_ga_120-120-2-48-0.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-2-48-0.txt
+GA, average time , 0.15600001812,knapsack_ga_120-120-2-48-0.txt
+GA, average results , 8689.42028222,knapsack_ga_120-120-2-48-1.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-2-48-1.txt
+GA, average time , 0.183200001717,knapsack_ga_120-120-2-48-1.txt
+GA, average results , 9362.87074834,knapsack_ga_120-120-2-48-12.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-2-48-12.txt
+GA, average time , 0.170899987221,knapsack_ga_120-120-2-48-12.txt
+GA, average results , 8730.52662492,knapsack_ga_120-120-2-72-0.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-2-72-0.txt
+GA, average time , 0.298600006104,knapsack_ga_120-120-2-72-0.txt
+GA, average results , 8806.14690069,knapsack_ga_120-120-2-72-1.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-2-72-1.txt
+GA, average time , 0.226699995995,knapsack_ga_120-120-2-72-1.txt
+GA, average results , 9485.29210167,knapsack_ga_120-120-2-72-12.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-2-72-12.txt
+GA, average time , 0.260300016403,knapsack_ga_120-120-2-72-12.txt
+GA, average results , 9003.8390138,knapsack_ga_120-120-2-96-0.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-2-96-0.txt
+GA, average time , 0.35,knapsack_ga_120-120-2-96-0.txt
+GA, average results , 9293.61253442,knapsack_ga_120-120-2-96-1.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-2-96-1.txt
+GA, average time , 0.471700000763,knapsack_ga_120-120-2-96-1.txt
+GA, average results , 9758.92313601,knapsack_ga_120-120-2-96-12.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-2-96-12.txt
+GA, average time , 0.382499980927,knapsack_ga_120-120-2-96-12.txt
+GA, average results , 9264.60715527,knapsack_ga_120-120-3-120-0.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-3-120-0.txt
+GA, average time , 0.42009999752,knapsack_ga_120-120-3-120-0.txt
+GA, average results , 8550.66480956,knapsack_ga_120-120-3-120-1.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-3-120-1.txt
+GA, average time , 0.396399998665,knapsack_ga_120-120-3-120-1.txt
+GA, average results , 9002.9868704,knapsack_ga_120-120-3-120-12.txt
+GA, average feval calls , 120121.0,knapsack_ga_120-120-3-120-12.txt
+GA, average time , 0.327099990845,knapsack_ga_120-120-3-120-12.txt
+GA, average results , 8875.89114476,knapsack_ga_120-120-3-48-0.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-3-48-0.txt
+GA, average time , 0.151600003242,knapsack_ga_120-120-3-48-0.txt
+GA, average results , 8396.96582926,knapsack_ga_120-120-3-48-1.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-3-48-1.txt
+GA, average time , 0.169400000572,knapsack_ga_120-120-3-48-1.txt
+GA, average results , 9598.93174096,knapsack_ga_120-120-3-48-12.txt
+GA, average feval calls , 48121.0,knapsack_ga_120-120-3-48-12.txt
+GA, average time , 0.159999990463,knapsack_ga_120-120-3-48-12.txt
+GA, average results , 8453.93781282,knapsack_ga_120-120-3-72-0.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-3-72-0.txt
+GA, average time , 0.215199995041,knapsack_ga_120-120-3-72-0.txt
+GA, average results , 8780.31544392,knapsack_ga_120-120-3-72-1.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-3-72-1.txt
+GA, average time , 0.233099985123,knapsack_ga_120-120-3-72-1.txt
+GA, average results , 9375.35800132,knapsack_ga_120-120-3-72-12.txt
+GA, average feval calls , 72121.0,knapsack_ga_120-120-3-72-12.txt
+GA, average time , 0.274399995804,knapsack_ga_120-120-3-72-12.txt
+GA, average results , 8295.32624273,knapsack_ga_120-120-3-96-0.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-3-96-0.txt
+GA, average time , 0.315000009537,knapsack_ga_120-120-3-96-0.txt
+GA, average results , 9604.47978646,knapsack_ga_120-120-3-96-1.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-3-96-1.txt
+GA, average time , 0.294899988174,knapsack_ga_120-120-3-96-1.txt
+GA, average results , 9142.45462464,knapsack_ga_120-120-3-96-12.txt
+GA, average feval calls , 96121.0,knapsack_ga_120-120-3-96-12.txt
+GA, average time , 0.323199987411,knapsack_ga_120-120-3-96-12.txt
+GA, average results , 9673.12883781,knapsack_ga_120-240-1-144-0.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-1-144-0.txt
+GA, average time , 0.472499990463,knapsack_ga_120-240-1-144-0.txt
+GA, average results , 10599.1116874,knapsack_ga_120-240-1-144-2.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-1-144-2.txt
+GA, average time , 0.483000016212,knapsack_ga_120-240-1-144-2.txt
+GA, average results , 9564.72302686,knapsack_ga_120-240-1-144-24.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-1-144-24.txt
+GA, average time , 0.503299999237,knapsack_ga_120-240-1-144-24.txt
+GA, average results , 9438.71527348,knapsack_ga_120-240-1-192-0.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-1-192-0.txt
+GA, average time , 0.745499992371,knapsack_ga_120-240-1-192-0.txt
+GA, average results , 10159.2930236,knapsack_ga_120-240-1-192-2.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-1-192-2.txt
+GA, average time , 0.597200012207,knapsack_ga_120-240-1-192-2.txt
+GA, average results , 10542.5337524,knapsack_ga_120-240-1-192-24.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-1-192-24.txt
+GA, average time , 0.642999982834,knapsack_ga_120-240-1-192-24.txt
+GA, average results , 9938.73428781,knapsack_ga_120-240-1-240-0.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-1-240-0.txt
+GA, average time , 0.760700011253,knapsack_ga_120-240-1-240-0.txt
+GA, average results , 10285.3369547,knapsack_ga_120-240-1-240-2.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-1-240-2.txt
+GA, average time , 0.833899998665,knapsack_ga_120-240-1-240-2.txt
+GA, average results , 11009.3228973,knapsack_ga_120-240-1-240-24.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-1-240-24.txt
+GA, average time , 0.830999994278,knapsack_ga_120-240-1-240-24.txt
+GA, average results , 9647.57314836,knapsack_ga_120-240-1-96-0.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-1-96-0.txt
+GA, average time , 0.373399996758,knapsack_ga_120-240-1-96-0.txt
+GA, average results , 10283.3267536,knapsack_ga_120-240-1-96-2.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-1-96-2.txt
+GA, average time , 0.338499999046,knapsack_ga_120-240-1-96-2.txt
+GA, average results , 9774.61354962,knapsack_ga_120-240-1-96-24.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-1-96-24.txt
+GA, average time , 0.294900012016,knapsack_ga_120-240-1-96-24.txt
+GA, average results , 10395.260149,knapsack_ga_120-240-2-144-0.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-2-144-0.txt
+GA, average time , 0.54509999752,knapsack_ga_120-240-2-144-0.txt
+GA, average results , 11244.6095158,knapsack_ga_120-240-2-144-2.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-2-144-2.txt
+GA, average time , 0.477399992943,knapsack_ga_120-240-2-144-2.txt
+GA, average results , 10699.5259804,knapsack_ga_120-240-2-144-24.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-2-144-24.txt
+GA, average time , 0.519800019264,knapsack_ga_120-240-2-144-24.txt
+GA, average results , 10687.2780251,knapsack_ga_120-240-2-192-0.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-2-192-0.txt
+GA, average time , 0.592599987984,knapsack_ga_120-240-2-192-0.txt
+GA, average results , 10328.2226104,knapsack_ga_120-240-2-192-2.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-2-192-2.txt
+GA, average time , 0.586699986458,knapsack_ga_120-240-2-192-2.txt
+GA, average results , 10076.8418605,knapsack_ga_120-240-2-192-24.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-2-192-24.txt
+GA, average time , 0.680900001526,knapsack_ga_120-240-2-192-24.txt
+GA, average results , 10189.5189961,knapsack_ga_120-240-2-240-0.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-2-240-0.txt
+GA, average time , 0.833000016212,knapsack_ga_120-240-2-240-0.txt
+GA, average results , 9564.82094627,knapsack_ga_120-240-2-240-2.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-2-240-2.txt
+GA, average time , 0.795700001717,knapsack_ga_120-240-2-240-2.txt
+GA, average results , 9159.4380177,knapsack_ga_120-240-2-240-24.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-2-240-24.txt
+GA, average time , 0.716600012779,knapsack_ga_120-240-2-240-24.txt
+GA, average results , 9114.53654735,knapsack_ga_120-240-2-96-0.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-2-96-0.txt
+GA, average time , 0.35680000782,knapsack_ga_120-240-2-96-0.txt
+GA, average results , 10572.4104378,knapsack_ga_120-240-2-96-2.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-2-96-2.txt
+GA, average time , 0.39240000248,knapsack_ga_120-240-2-96-2.txt
+GA, average results , 9030.95902195,knapsack_ga_120-240-2-96-24.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-2-96-24.txt
+GA, average time , 0.380200004578,knapsack_ga_120-240-2-96-24.txt
+GA, average results , 10865.9930876,knapsack_ga_120-240-3-144-0.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-3-144-0.txt
+GA, average time , 0.508899998665,knapsack_ga_120-240-3-144-0.txt
+GA, average results , 9052.04116682,knapsack_ga_120-240-3-144-2.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-3-144-2.txt
+GA, average time , 0.471499991417,knapsack_ga_120-240-3-144-2.txt
+GA, average results , 9485.02806534,knapsack_ga_120-240-3-144-24.txt
+GA, average feval calls , 144241.0,knapsack_ga_120-240-3-144-24.txt
+GA, average time , 0.46970000267,knapsack_ga_120-240-3-144-24.txt
+GA, average results , 10008.0938879,knapsack_ga_120-240-3-192-0.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-3-192-0.txt
+GA, average time , 0.604999995232,knapsack_ga_120-240-3-192-0.txt
+GA, average results , 10307.113932,knapsack_ga_120-240-3-192-2.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-3-192-2.txt
+GA, average time , 0.544000005722,knapsack_ga_120-240-3-192-2.txt
+GA, average results , 9541.12644134,knapsack_ga_120-240-3-192-24.txt
+GA, average feval calls , 192241.0,knapsack_ga_120-240-3-192-24.txt
+GA, average time , 0.759999990463,knapsack_ga_120-240-3-192-24.txt
+GA, average results , 9616.27736255,knapsack_ga_120-240-3-240-0.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-3-240-0.txt
+GA, average time , 0.668000006676,knapsack_ga_120-240-3-240-0.txt
+GA, average results , 9760.29726304,knapsack_ga_120-240-3-240-2.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-3-240-2.txt
+GA, average time , 0.78599998951,knapsack_ga_120-240-3-240-2.txt
+GA, average results , 10464.1106631,knapsack_ga_120-240-3-240-24.txt
+GA, average feval calls , 240241.0,knapsack_ga_120-240-3-240-24.txt
+GA, average time , 0.676099991798,knapsack_ga_120-240-3-240-24.txt
+GA, average results , 8984.77460399,knapsack_ga_120-240-3-96-0.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-3-96-0.txt
+GA, average time , 0.334400010109,knapsack_ga_120-240-3-96-0.txt
+GA, average results , 10639.4209595,knapsack_ga_120-240-3-96-2.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-3-96-2.txt
+GA, average time , 0.368700003624,knapsack_ga_120-240-3-96-2.txt
+GA, average results , 9732.26186067,knapsack_ga_120-240-3-96-24.txt
+GA, average feval calls , 96241.0,knapsack_ga_120-240-3-96-24.txt
+GA, average time , 0.408100008965,knapsack_ga_120-240-3-96-24.txt
+GA, average results , 10527.8623706,knapsack_ga_120-480-1-192-0.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-1-192-0.txt
+GA, average time , 0.776899981499,knapsack_ga_120-480-1-192-0.txt
+GA, average results , 9662.35461253,knapsack_ga_120-480-1-192-4.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-1-192-4.txt
+GA, average time , 0.815499997139,knapsack_ga_120-480-1-192-4.txt
+GA, average results , 10665.2503654,knapsack_ga_120-480-1-192-48.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-1-192-48.txt
+GA, average time , 0.677399992943,knapsack_ga_120-480-1-192-48.txt
+GA, average results , 10453.9418553,knapsack_ga_120-480-1-288-0.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-1-288-0.txt
+GA, average time , 0.958899998665,knapsack_ga_120-480-1-288-0.txt
+GA, average results , 10107.0277159,knapsack_ga_120-480-1-288-4.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-1-288-4.txt
+GA, average time , 0.922399997711,knapsack_ga_120-480-1-288-4.txt
+GA, average results , 10851.8950112,knapsack_ga_120-480-1-288-48.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-1-288-48.txt
+GA, average time , 0.928399991989,knapsack_ga_120-480-1-288-48.txt
+GA, average results , 9985.2302604,knapsack_ga_120-480-1-384-0.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-1-384-0.txt
+GA, average time , 1.26150000095,knapsack_ga_120-480-1-384-0.txt
+GA, average results , 10993.1629943,knapsack_ga_120-480-1-384-4.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-1-384-4.txt
+GA, average time , 1.31839997768,knapsack_ga_120-480-1-384-4.txt
+GA, average results , 10569.3310742,knapsack_ga_120-480-1-384-48.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-1-384-48.txt
+GA, average time , 1.21600000858,knapsack_ga_120-480-1-384-48.txt
+GA, average results , 10338.9786008,knapsack_ga_120-480-1-480-0.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-1-480-0.txt
+GA, average time , 1.45,knapsack_ga_120-480-1-480-0.txt
+GA, average results , 11246.2915937,knapsack_ga_120-480-1-480-4.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-1-480-4.txt
+GA, average time , 1.48569998741,knapsack_ga_120-480-1-480-4.txt
+GA, average results , 10754.513942,knapsack_ga_120-480-1-480-48.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-1-480-48.txt
+GA, average time , 1.57060000896,knapsack_ga_120-480-1-480-48.txt
+GA, average results , 11149.6423427,knapsack_ga_120-480-2-192-0.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-2-192-0.txt
+GA, average time , 0.822599983215,knapsack_ga_120-480-2-192-0.txt
+GA, average results , 10768.1866955,knapsack_ga_120-480-2-192-4.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-2-192-4.txt
+GA, average time , 0.658999991417,knapsack_ga_120-480-2-192-4.txt
+GA, average results , 11081.8760016,knapsack_ga_120-480-2-192-48.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-2-192-48.txt
+GA, average time , 0.735699987411,knapsack_ga_120-480-2-192-48.txt
+GA, average results , 10777.8655889,knapsack_ga_120-480-2-288-0.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-2-288-0.txt
+GA, average time , 0.978199982643,knapsack_ga_120-480-2-288-0.txt
+GA, average results , 10665.5058054,knapsack_ga_120-480-2-288-4.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-2-288-4.txt
+GA, average time , 1.00539999008,knapsack_ga_120-480-2-288-4.txt
+GA, average results , 10911.4668843,knapsack_ga_120-480-2-288-48.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-2-288-48.txt
+GA, average time , 1.01160001755,knapsack_ga_120-480-2-288-48.txt
+GA, average results , 9998.15834058,knapsack_ga_120-480-2-384-0.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-2-384-0.txt
+GA, average time , 1.25669999123,knapsack_ga_120-480-2-384-0.txt
+GA, average results , 11158.9540161,knapsack_ga_120-480-2-384-4.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-2-384-4.txt
+GA, average time , 1.26610000134,knapsack_ga_120-480-2-384-4.txt
+GA, average results , 10474.9321303,knapsack_ga_120-480-2-384-48.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-2-384-48.txt
+GA, average time , 1.30270001888,knapsack_ga_120-480-2-384-48.txt
+GA, average results , 9491.34413421,knapsack_ga_120-480-2-480-0.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-2-480-0.txt
+GA, average time , 1.44230000973,knapsack_ga_120-480-2-480-0.txt
+GA, average results , 10142.0480951,knapsack_ga_120-480-2-480-4.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-2-480-4.txt
+GA, average time , 1.57369999886,knapsack_ga_120-480-2-480-4.txt
+GA, average results , 10525.0335871,knapsack_ga_120-480-2-480-48.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-2-480-48.txt
+GA, average time , 1.61510000229,knapsack_ga_120-480-2-480-48.txt
+GA, average results , 9609.28671422,knapsack_ga_120-480-3-192-0.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-3-192-0.txt
+GA, average time , 0.600599980354,knapsack_ga_120-480-3-192-0.txt
+GA, average results , 10652.888024,knapsack_ga_120-480-3-192-4.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-3-192-4.txt
+GA, average time , 0.592100000381,knapsack_ga_120-480-3-192-4.txt
+GA, average results , 11484.5488602,knapsack_ga_120-480-3-192-48.txt
+GA, average feval calls , 192481.0,knapsack_ga_120-480-3-192-48.txt
+GA, average time , 0.619600009918,knapsack_ga_120-480-3-192-48.txt
+GA, average results , 10135.3217221,knapsack_ga_120-480-3-288-0.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-3-288-0.txt
+GA, average time , 0.90110001564,knapsack_ga_120-480-3-288-0.txt
+GA, average results , 10174.4822958,knapsack_ga_120-480-3-288-4.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-3-288-4.txt
+GA, average time , 0.83710000515,knapsack_ga_120-480-3-288-4.txt
+GA, average results , 10558.9367673,knapsack_ga_120-480-3-288-48.txt
+GA, average feval calls , 288481.0,knapsack_ga_120-480-3-288-48.txt
+GA, average time , 0.973399996758,knapsack_ga_120-480-3-288-48.txt
+GA, average results , 11111.8941214,knapsack_ga_120-480-3-384-0.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-3-384-0.txt
+GA, average time , 1.14130001068,knapsack_ga_120-480-3-384-0.txt
+GA, average results , 10071.4879859,knapsack_ga_120-480-3-384-4.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-3-384-4.txt
+GA, average time , 1.1114000082,knapsack_ga_120-480-3-384-4.txt
+GA, average results , 9602.63590407,knapsack_ga_120-480-3-384-48.txt
+GA, average feval calls , 384481.0,knapsack_ga_120-480-3-384-48.txt
+GA, average time , 1.07569999695,knapsack_ga_120-480-3-384-48.txt
+GA, average results , 11089.7450108,knapsack_ga_120-480-3-480-0.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-3-480-0.txt
+GA, average time , 1.46119999886,knapsack_ga_120-480-3-480-0.txt
+GA, average results , 10302.8271646,knapsack_ga_120-480-3-480-4.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-3-480-4.txt
+GA, average time , 1.49219999313,knapsack_ga_120-480-3-480-4.txt
+GA, average results , 11512.7290523,knapsack_ga_120-480-3-480-48.txt
+GA, average feval calls , 480481.0,knapsack_ga_120-480-3-480-48.txt
+GA, average time , 1.57510001659,knapsack_ga_120-480-3-480-48.txt
+GA, average results , 7916.8846069,knapsack_ga_120-60-1-24-0.txt
+GA, average feval calls , 24061.0,knapsack_ga_120-60-1-24-0.txt
+GA, average time , 0.101799988747,knapsack_ga_120-60-1-24-0.txt
+GA, average results , 7533.33424233,knapsack_ga_120-60-1-24-6.txt
+GA, average feval calls , 24061.0,knapsack_ga_120-60-1-24-6.txt
+GA, average time , 0.0781000137329,knapsack_ga_120-60-1-24-6.txt
+GA, average results , 7285.69757022,knapsack_ga_120-60-1-36-0.txt
+GA, average feval calls , 36061.0,knapsack_ga_120-60-1-36-0.txt
+GA, average time , 0.1125,knapsack_ga_120-60-1-36-0.txt
+GA, average results , 8706.56430991,knapsack_ga_120-60-1-36-6.txt
+GA, average feval calls , 36061.0,knapsack_ga_120-60-1-36-6.txt
+GA, average time , 0.119099998474,knapsack_ga_120-60-1-36-6.txt
+GA, average results , 7449.18573528,knapsack_ga_120-60-1-48-0.txt
+GA, average feval calls , 48061.0,knapsack_ga_120-60-1-48-0.txt
+GA, average time , 0.274000000954,knapsack_ga_120-60-1-48-0.txt
+GA, average results , 8349.65289293,knapsack_ga_120-60-1-48-6.txt
+GA, average feval calls , 48061.0,knapsack_ga_120-60-1-48-6.txt
+GA, average time , 0.178099989891,knapsack_ga_120-60-1-48-6.txt
+GA, average results , 7583.06671805,knapsack_ga_120-60-1-60-0.txt
+GA, average feval calls , 60061.0,knapsack_ga_120-60-1-60-0.txt
+GA, average time , 0.199199986458,knapsack_ga_120-60-1-60-0.txt
+GA, average results , 8075.75641684,knapsack_ga_120-60-1-60-6.txt
+GA, average feval calls , 60061.0,knapsack_ga_120-60-1-60-6.txt
+GA, average time , 0.206500005722,knapsack_ga_120-60-1-60-6.txt
+GA, average results , 7006.25870901,knapsack_ga_120-60-2-24-0.txt
+GA, average feval calls , 24061.0,knapsack_ga_120-60-2-24-0.txt
+GA, average time , 0.08140001297,knapsack_ga_120-60-2-24-0.txt
+GA, average results , 7671.02856684,knapsack_ga_120-60-2-24-6.txt
+GA, average feval calls , 24061.0,knapsack_ga_120-60-2-24-6.txt
+GA, average time , 0.0826999902725,knapsack_ga_120-60-2-24-6.txt
+GA, average results , 7305.886264,knapsack_ga_120-60-2-36-0.txt
+GA, average feval calls , 36061.0,knapsack_ga_120-60-2-36-0.txt
+GA, average time , 0.117300009727,knapsack_ga_120-60-2-36-0.txt
+GA, average results , 8712.03445156,knapsack_ga_120-60-2-36-6.txt
+GA, average feval calls , 36061.0,knapsack_ga_120-60-2-36-6.txt
+GA, average time , 0.115499997139,knapsack_ga_120-60-2-36-6.txt
+GA, average results , 8035.85960377,knapsack_ga_120-60-2-48-0.txt
+GA, average feval calls , 48061.0,knapsack_ga_120-60-2-48-0.txt
+GA, average time , 0.179399991035,knapsack_ga_120-60-2-48-0.txt
+GA, average results , 8376.08930635,knapsack_ga_120-60-2-48-6.txt
+GA, average feval calls , 48061.0,knapsack_ga_120-60-2-48-6.txt
+GA, average time , 0.178999996185,knapsack_ga_120-60-2-48-6.txt
+GA, average results , 7459.24915718,knapsack_ga_120-60-2-60-0.txt
+GA, average feval calls , 60061.0,knapsack_ga_120-60-2-60-0.txt
+GA, average time , 0.172399997711,knapsack_ga_120-60-2-60-0.txt
+GA, average results , 7865.76723823,knapsack_ga_120-60-2-60-6.txt
+GA, average feval calls , 60061.0,knapsack_ga_120-60-2-60-6.txt
+GA, average time , 0.262700009346,knapsack_ga_120-60-2-60-6.txt
+GA, average results , 6771.09317681,knapsack_ga_120-60-3-24-0.txt
+GA, average feval calls , 24061.0,knapsack_ga_120-60-3-24-0.txt
+GA, average time , 0.0819999933243,knapsack_ga_120-60-3-24-0.txt
+GA, average results , 8923.9099542,knapsack_ga_120-60-3-24-6.txt
+GA, average feval calls , 24061.0,knapsack_ga_120-60-3-24-6.txt
+GA, average time , 0.0942000150681,knapsack_ga_120-60-3-24-6.txt
+GA, average results , 7896.97208992,knapsack_ga_120-60-3-36-0.txt
+GA, average feval calls , 36061.0,knapsack_ga_120-60-3-36-0.txt
+GA, average time , 0.159300017357,knapsack_ga_120-60-3-36-0.txt
+GA, average results , 8635.96924536,knapsack_ga_120-60-3-36-6.txt
+GA, average feval calls , 36061.0,knapsack_ga_120-60-3-36-6.txt
+GA, average time , 0.151699995995,knapsack_ga_120-60-3-36-6.txt
+GA, average results , 7146.5603074,knapsack_ga_120-60-3-48-0.txt
+GA, average feval calls , 48061.0,knapsack_ga_120-60-3-48-0.txt
+GA, average time , 0.168400001526,knapsack_ga_120-60-3-48-0.txt
+GA, average results , 8151.51177434,knapsack_ga_120-60-3-48-6.txt
+GA, average feval calls , 48061.0,knapsack_ga_120-60-3-48-6.txt
+GA, average time , 0.192499995232,knapsack_ga_120-60-3-48-6.txt
+GA, average results , 7271.05394398,knapsack_ga_120-60-3-60-0.txt
+GA, average feval calls , 60061.0,knapsack_ga_120-60-3-60-0.txt
+GA, average time , 0.220700001717,knapsack_ga_120-60-3-60-0.txt
+GA, average results , 9093.28354728,knapsack_ga_120-60-3-60-6.txt
+GA, average feval calls , 60061.0,knapsack_ga_120-60-3-60-6.txt
+GA, average time , 0.189899992943,knapsack_ga_120-60-3-60-6.txt
+GA, average results , 10158.6828001,knapsack_ga_140-140-1-112-0.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-1-112-0.txt
+GA, average time , 0.41740000248,knapsack_ga_140-140-1-112-0.txt
+GA, average results , 9771.96276649,knapsack_ga_140-140-1-112-1.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-1-112-1.txt
+GA, average time , 0.384300017357,knapsack_ga_140-140-1-112-1.txt
+GA, average results , 10846.5433582,knapsack_ga_140-140-1-112-14.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-1-112-14.txt
+GA, average time , 0.433699989319,knapsack_ga_140-140-1-112-14.txt
+GA, average results , 10590.7325419,knapsack_ga_140-140-1-140-0.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-1-140-0.txt
+GA, average time , 0.490799999237,knapsack_ga_140-140-1-140-0.txt
+GA, average results , 10546.4751997,knapsack_ga_140-140-1-140-1.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-1-140-1.txt
+GA, average time , 0.496900010109,knapsack_ga_140-140-1-140-1.txt
+GA, average results , 11314.5744118,knapsack_ga_140-140-1-140-14.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-1-140-14.txt
+GA, average time , 0.515299987793,knapsack_ga_140-140-1-140-14.txt
+GA, average results , 10496.211285,knapsack_ga_140-140-1-56-0.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-1-56-0.txt
+GA, average time , 0.222600007057,knapsack_ga_140-140-1-56-0.txt
+GA, average results , 10251.8917453,knapsack_ga_140-140-1-56-1.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-1-56-1.txt
+GA, average time , 0.282700014114,knapsack_ga_140-140-1-56-1.txt
+GA, average results , 11047.9865958,knapsack_ga_140-140-1-56-14.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-1-56-14.txt
+GA, average time , 0.234200000763,knapsack_ga_140-140-1-56-14.txt
+GA, average results , 9338.50362912,knapsack_ga_140-140-1-84-0.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-1-84-0.txt
+GA, average time , 0.376600003242,knapsack_ga_140-140-1-84-0.txt
+GA, average results , 9953.11766183,knapsack_ga_140-140-1-84-1.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-1-84-1.txt
+GA, average time , 0.372000002861,knapsack_ga_140-140-1-84-1.txt
+GA, average results , 11022.8770839,knapsack_ga_140-140-1-84-14.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-1-84-14.txt
+GA, average time , 0.377099990845,knapsack_ga_140-140-1-84-14.txt
+GA, average results , 10250.5560368,knapsack_ga_140-140-2-112-0.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-2-112-0.txt
+GA, average time , 0.4132999897,knapsack_ga_140-140-2-112-0.txt
+GA, average results , 10788.2947173,knapsack_ga_140-140-2-112-1.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-2-112-1.txt
+GA, average time , 0.441299986839,knapsack_ga_140-140-2-112-1.txt
+GA, average results , 10017.728953,knapsack_ga_140-140-2-112-14.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-2-112-14.txt
+GA, average time , 0.392100000381,knapsack_ga_140-140-2-112-14.txt
+GA, average results , 9902.04543568,knapsack_ga_140-140-2-140-0.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-2-140-0.txt
+GA, average time , 0.518899989128,knapsack_ga_140-140-2-140-0.txt
+GA, average results , 10960.1634491,knapsack_ga_140-140-2-140-1.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-2-140-1.txt
+GA, average time , 0.508100008965,knapsack_ga_140-140-2-140-1.txt
+GA, average results , 11272.969441,knapsack_ga_140-140-2-140-14.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-2-140-14.txt
+GA, average time , 0.497200012207,knapsack_ga_140-140-2-140-14.txt
+GA, average results , 10467.1048786,knapsack_ga_140-140-2-56-0.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-2-56-0.txt
+GA, average time , 0.2007999897,knapsack_ga_140-140-2-56-0.txt
+GA, average results , 9964.03312957,knapsack_ga_140-140-2-56-1.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-2-56-1.txt
+GA, average time , 0.21099998951,knapsack_ga_140-140-2-56-1.txt
+GA, average results , 9714.56098352,knapsack_ga_140-140-2-56-14.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-2-56-14.txt
+GA, average time , 0.210699987411,knapsack_ga_140-140-2-56-14.txt
+GA, average results , 10466.0410077,knapsack_ga_140-140-2-84-0.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-2-84-0.txt
+GA, average time , 0.33109998703,knapsack_ga_140-140-2-84-0.txt
+GA, average results , 10659.1258853,knapsack_ga_140-140-2-84-1.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-2-84-1.txt
+GA, average time , 0.365700006485,knapsack_ga_140-140-2-84-1.txt
+GA, average results , 11488.4634313,knapsack_ga_140-140-2-84-14.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-2-84-14.txt
+GA, average time , 0.33069999218,knapsack_ga_140-140-2-84-14.txt
+GA, average results , 10990.4873246,knapsack_ga_140-140-3-112-0.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-3-112-0.txt
+GA, average time , 0.422499990463,knapsack_ga_140-140-3-112-0.txt
+GA, average results , 9853.17440293,knapsack_ga_140-140-3-112-1.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-3-112-1.txt
+GA, average time , 0.42009999752,knapsack_ga_140-140-3-112-1.txt
+GA, average results , 11071.8464143,knapsack_ga_140-140-3-112-14.txt
+GA, average feval calls , 112141.0,knapsack_ga_140-140-3-112-14.txt
+GA, average time , 0.404500007629,knapsack_ga_140-140-3-112-14.txt
+GA, average results , 10024.5612165,knapsack_ga_140-140-3-140-0.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-3-140-0.txt
+GA, average time , 0.497799992561,knapsack_ga_140-140-3-140-0.txt
+GA, average results , 10013.7320413,knapsack_ga_140-140-3-140-1.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-3-140-1.txt
+GA, average time , 0.507500004768,knapsack_ga_140-140-3-140-1.txt
+GA, average results , 11565.529083,knapsack_ga_140-140-3-140-14.txt
+GA, average feval calls , 140141.0,knapsack_ga_140-140-3-140-14.txt
+GA, average time , 0.559399986267,knapsack_ga_140-140-3-140-14.txt
+GA, average results , 9980.10521446,knapsack_ga_140-140-3-56-0.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-3-56-0.txt
+GA, average time , 0.246799993515,knapsack_ga_140-140-3-56-0.txt
+GA, average results , 9298.78862637,knapsack_ga_140-140-3-56-1.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-3-56-1.txt
+GA, average time , 0.220300006866,knapsack_ga_140-140-3-56-1.txt
+GA, average results , 10692.9362359,knapsack_ga_140-140-3-56-14.txt
+GA, average feval calls , 56141.0,knapsack_ga_140-140-3-56-14.txt
+GA, average time , 0.220499992371,knapsack_ga_140-140-3-56-14.txt
+GA, average results , 10251.3008107,knapsack_ga_140-140-3-84-0.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-3-84-0.txt
+GA, average time , 0.308899998665,knapsack_ga_140-140-3-84-0.txt
+GA, average results , 10389.5615136,knapsack_ga_140-140-3-84-1.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-3-84-1.txt
+GA, average time , 0.335000014305,knapsack_ga_140-140-3-84-1.txt
+GA, average results , 12061.8169724,knapsack_ga_140-140-3-84-14.txt
+GA, average feval calls , 84141.0,knapsack_ga_140-140-3-84-14.txt
+GA, average time , 0.297399997711,knapsack_ga_140-140-3-84-14.txt
+GA, average results , 10728.4953214,knapsack_ga_140-280-1-112-0.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-1-112-0.txt
+GA, average time , 0.450100016594,knapsack_ga_140-280-1-112-0.txt
+GA, average results , 12030.522356,knapsack_ga_140-280-1-112-2.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-1-112-2.txt
+GA, average time , 0.443200016022,knapsack_ga_140-280-1-112-2.txt
+GA, average results , 11692.0366628,knapsack_ga_140-280-1-112-28.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-1-112-28.txt
+GA, average time , 0.46779999733,knapsack_ga_140-280-1-112-28.txt
+GA, average results , 11363.921968,knapsack_ga_140-280-1-168-0.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-1-168-0.txt
+GA, average time , 0.611500000954,knapsack_ga_140-280-1-168-0.txt
+GA, average results , 11980.7008401,knapsack_ga_140-280-1-168-2.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-1-168-2.txt
+GA, average time , 0.736599993706,knapsack_ga_140-280-1-168-2.txt
+GA, average results , 11545.8085978,knapsack_ga_140-280-1-168-28.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-1-168-28.txt
+GA, average time , 0.645000004768,knapsack_ga_140-280-1-168-28.txt
+GA, average results , 11479.5573424,knapsack_ga_140-280-1-224-0.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-1-224-0.txt
+GA, average time , 0.789800000191,knapsack_ga_140-280-1-224-0.txt
+GA, average results , 11591.8409985,knapsack_ga_140-280-1-224-2.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-1-224-2.txt
+GA, average time , 0.787199997902,knapsack_ga_140-280-1-224-2.txt
+GA, average results , 12218.0866231,knapsack_ga_140-280-1-224-28.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-1-224-28.txt
+GA, average time , 0.786400008202,knapsack_ga_140-280-1-224-28.txt
+GA, average results , 13253.4124876,knapsack_ga_140-280-1-280-0.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-1-280-0.txt
+GA, average time , 0.935899996758,knapsack_ga_140-280-1-280-0.txt
+GA, average results , 11864.8855032,knapsack_ga_140-280-1-280-2.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-1-280-2.txt
+GA, average time , 0.985600018501,knapsack_ga_140-280-1-280-2.txt
+GA, average results , 11526.8332133,knapsack_ga_140-280-1-280-28.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-1-280-28.txt
+GA, average time , 0.995900011063,knapsack_ga_140-280-1-280-28.txt
+GA, average results , 11687.9378465,knapsack_ga_140-280-2-112-0.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-2-112-0.txt
+GA, average time , 0.417000007629,knapsack_ga_140-280-2-112-0.txt
+GA, average results , 11463.516929,knapsack_ga_140-280-2-112-2.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-2-112-2.txt
+GA, average time , 0.426099991798,knapsack_ga_140-280-2-112-2.txt
+GA, average results , 11305.5131956,knapsack_ga_140-280-2-112-28.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-2-112-28.txt
+GA, average time , 0.397600007057,knapsack_ga_140-280-2-112-28.txt
+GA, average results , 11181.7170933,knapsack_ga_140-280-2-168-0.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-2-168-0.txt
+GA, average time , 0.566899991035,knapsack_ga_140-280-2-168-0.txt
+GA, average results , 11477.5490884,knapsack_ga_140-280-2-168-2.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-2-168-2.txt
+GA, average time , 0.620900011063,knapsack_ga_140-280-2-168-2.txt
+GA, average results , 11181.2889393,knapsack_ga_140-280-2-168-28.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-2-168-28.txt
+GA, average time , 0.663400006294,knapsack_ga_140-280-2-168-28.txt
+GA, average results , 11639.8112695,knapsack_ga_140-280-2-224-0.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-2-224-0.txt
+GA, average time , 0.723900008202,knapsack_ga_140-280-2-224-0.txt
+GA, average results , 11366.0341303,knapsack_ga_140-280-2-224-2.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-2-224-2.txt
+GA, average time , 0.718299984932,knapsack_ga_140-280-2-224-2.txt
+GA, average results , 11635.3332812,knapsack_ga_140-280-2-224-28.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-2-224-28.txt
+GA, average time , 0.789199995995,knapsack_ga_140-280-2-224-28.txt
+GA, average results , 11005.7603764,knapsack_ga_140-280-2-280-0.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-2-280-0.txt
+GA, average time , 0.941400003433,knapsack_ga_140-280-2-280-0.txt
+GA, average results , 10994.5375736,knapsack_ga_140-280-2-280-2.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-2-280-2.txt
+GA, average time , 0.938700008392,knapsack_ga_140-280-2-280-2.txt
+GA, average results , 12121.057101,knapsack_ga_140-280-2-280-28.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-2-280-28.txt
+GA, average time , 0.894299983978,knapsack_ga_140-280-2-280-28.txt
+GA, average results , 11648.0254234,knapsack_ga_140-280-3-112-0.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-3-112-0.txt
+GA, average time , 0.40529999733,knapsack_ga_140-280-3-112-0.txt
+GA, average results , 11142.9220367,knapsack_ga_140-280-3-112-2.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-3-112-2.txt
+GA, average time , 0.482099986076,knapsack_ga_140-280-3-112-2.txt
+GA, average results , 11793.9379029,knapsack_ga_140-280-3-112-28.txt
+GA, average feval calls , 112281.0,knapsack_ga_140-280-3-112-28.txt
+GA, average time , 0.389899992943,knapsack_ga_140-280-3-112-28.txt
+GA, average results , 10851.716991,knapsack_ga_140-280-3-168-0.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-3-168-0.txt
+GA, average time , 0.63710000515,knapsack_ga_140-280-3-168-0.txt
+GA, average results , 11983.6350411,knapsack_ga_140-280-3-168-2.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-3-168-2.txt
+GA, average time , 0.608500003815,knapsack_ga_140-280-3-168-2.txt
+GA, average results , 11881.0558037,knapsack_ga_140-280-3-168-28.txt
+GA, average feval calls , 168281.0,knapsack_ga_140-280-3-168-28.txt
+GA, average time , 0.629400014877,knapsack_ga_140-280-3-168-28.txt
+GA, average results , 11810.5182213,knapsack_ga_140-280-3-224-0.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-3-224-0.txt
+GA, average time , 0.772700023651,knapsack_ga_140-280-3-224-0.txt
+GA, average results , 11149.5342667,knapsack_ga_140-280-3-224-2.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-3-224-2.txt
+GA, average time , 0.777999997139,knapsack_ga_140-280-3-224-2.txt
+GA, average results , 11015.7805395,knapsack_ga_140-280-3-224-28.txt
+GA, average feval calls , 224281.0,knapsack_ga_140-280-3-224-28.txt
+GA, average time , 0.788499999046,knapsack_ga_140-280-3-224-28.txt
+GA, average results , 11762.0769718,knapsack_ga_140-280-3-280-0.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-3-280-0.txt
+GA, average time , 0.936500000954,knapsack_ga_140-280-3-280-0.txt
+GA, average results , 11656.74985,knapsack_ga_140-280-3-280-2.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-3-280-2.txt
+GA, average time , 0.953299999237,knapsack_ga_140-280-3-280-2.txt
+GA, average results , 11949.1557801,knapsack_ga_140-280-3-280-28.txt
+GA, average feval calls , 280281.0,knapsack_ga_140-280-3-280-28.txt
+GA, average time , 0.943499994278,knapsack_ga_140-280-3-280-28.txt
+GA, average results , 12280.3766944,knapsack_ga_140-560-1-224-0.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-1-224-0.txt
+GA, average time , 0.874000000954,knapsack_ga_140-560-1-224-0.txt
+GA, average results , 11801.8991269,knapsack_ga_140-560-1-224-5.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-1-224-5.txt
+GA, average time , 0.872000002861,knapsack_ga_140-560-1-224-5.txt
+GA, average results , 13044.3856804,knapsack_ga_140-560-1-224-56.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-1-224-56.txt
+GA, average time , 0.983399987221,knapsack_ga_140-560-1-224-56.txt
+GA, average results , 11590.9553732,knapsack_ga_140-560-1-336-0.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-1-336-0.txt
+GA, average time , 1.23010001183,knapsack_ga_140-560-1-336-0.txt
+GA, average results , 12585.7998469,knapsack_ga_140-560-1-336-5.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-1-336-5.txt
+GA, average time , 1.22780001163,knapsack_ga_140-560-1-336-5.txt
+GA, average results , 12204.4195613,knapsack_ga_140-560-1-336-56.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-1-336-56.txt
+GA, average time , 1.23350000381,knapsack_ga_140-560-1-336-56.txt
+GA, average results , 13105.2595972,knapsack_ga_140-560-1-448-0.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-1-448-0.txt
+GA, average time , 1.57590000629,knapsack_ga_140-560-1-448-0.txt
+GA, average results , 12880.103882,knapsack_ga_140-560-1-448-5.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-1-448-5.txt
+GA, average time , 1.63150000572,knapsack_ga_140-560-1-448-5.txt
+GA, average results , 12256.693783,knapsack_ga_140-560-1-448-56.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-1-448-56.txt
+GA, average time , 1.59210000038,knapsack_ga_140-560-1-448-56.txt
+GA, average results , 13562.0068904,knapsack_ga_140-560-1-560-0.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-1-560-0.txt
+GA, average time , 1.92320001125,knapsack_ga_140-560-1-560-0.txt
+GA, average results , 12822.5276292,knapsack_ga_140-560-1-560-5.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-1-560-5.txt
+GA, average time , 2.00669999123,knapsack_ga_140-560-1-560-5.txt
+GA, average results , 12375.7160365,knapsack_ga_140-560-1-560-56.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-1-560-56.txt
+GA, average time , 1.9253000021,knapsack_ga_140-560-1-560-56.txt
+GA, average results , 11614.0388165,knapsack_ga_140-560-2-224-0.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-2-224-0.txt
+GA, average time , 0.78100001812,knapsack_ga_140-560-2-224-0.txt
+GA, average results , 11924.7521627,knapsack_ga_140-560-2-224-5.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-2-224-5.txt
+GA, average time , 0.792700004578,knapsack_ga_140-560-2-224-5.txt
+GA, average results , 12792.3521968,knapsack_ga_140-560-2-224-56.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-2-224-56.txt
+GA, average time , 0.847799992561,knapsack_ga_140-560-2-224-56.txt
+GA, average results , 13250.8873476,knapsack_ga_140-560-2-336-0.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-2-336-0.txt
+GA, average time , 1.25829999447,knapsack_ga_140-560-2-336-0.txt
+GA, average results , 11183.1605998,knapsack_ga_140-560-2-336-5.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-2-336-5.txt
+GA, average time , 1.17200000286,knapsack_ga_140-560-2-336-5.txt
+GA, average results , 12272.8827254,knapsack_ga_140-560-2-336-56.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-2-336-56.txt
+GA, average time , 1.21470000744,knapsack_ga_140-560-2-336-56.txt
+GA, average results , 12923.72674,knapsack_ga_140-560-2-448-0.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-2-448-0.txt
+GA, average time , 1.54729998112,knapsack_ga_140-560-2-448-0.txt
+GA, average results , 13442.177575,knapsack_ga_140-560-2-448-5.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-2-448-5.txt
+GA, average time , 1.59079999924,knapsack_ga_140-560-2-448-5.txt
+GA, average results , 12067.9754,knapsack_ga_140-560-2-448-56.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-2-448-56.txt
+GA, average time , 1.43329999447,knapsack_ga_140-560-2-448-56.txt
+GA, average results , 12408.9540696,knapsack_ga_140-560-2-560-0.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-2-560-0.txt
+GA, average time , 1.8771999836,knapsack_ga_140-560-2-560-0.txt
+GA, average results , 11898.9316074,knapsack_ga_140-560-2-560-5.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-2-560-5.txt
+GA, average time , 1.87739999294,knapsack_ga_140-560-2-560-5.txt
+GA, average results , 12698.0525508,knapsack_ga_140-560-2-560-56.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-2-560-56.txt
+GA, average time , 1.99179999828,knapsack_ga_140-560-2-560-56.txt
+GA, average results , 13650.4838411,knapsack_ga_140-560-3-224-0.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-3-224-0.txt
+GA, average time , 0.790000009537,knapsack_ga_140-560-3-224-0.txt
+GA, average results , 11998.8675012,knapsack_ga_140-560-3-224-5.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-3-224-5.txt
+GA, average time , 0.797200012207,knapsack_ga_140-560-3-224-5.txt
+GA, average results , 12346.59436,knapsack_ga_140-560-3-224-56.txt
+GA, average feval calls , 224561.0,knapsack_ga_140-560-3-224-56.txt
+GA, average time , 0.802699995041,knapsack_ga_140-560-3-224-56.txt
+GA, average results , 12392.8353521,knapsack_ga_140-560-3-336-0.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-3-336-0.txt
+GA, average time , 1.04979999065,knapsack_ga_140-560-3-336-0.txt
+GA, average results , 11608.050526,knapsack_ga_140-560-3-336-5.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-3-336-5.txt
+GA, average time , 1.13960001469,knapsack_ga_140-560-3-336-5.txt
+GA, average results , 11118.4319255,knapsack_ga_140-560-3-336-56.txt
+GA, average feval calls , 336561.0,knapsack_ga_140-560-3-336-56.txt
+GA, average time , 1.06649999619,knapsack_ga_140-560-3-336-56.txt
+GA, average results , 12702.0057648,knapsack_ga_140-560-3-448-0.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-3-448-0.txt
+GA, average time , 1.3125,knapsack_ga_140-560-3-448-0.txt
+GA, average results , 13228.880899,knapsack_ga_140-560-3-448-5.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-3-448-5.txt
+GA, average time , 1.43699998856,knapsack_ga_140-560-3-448-5.txt
+GA, average results , 13332.0972679,knapsack_ga_140-560-3-448-56.txt
+GA, average feval calls , 448561.0,knapsack_ga_140-560-3-448-56.txt
+GA, average time , 1.2867000103,knapsack_ga_140-560-3-448-56.txt
+GA, average results , 11902.6721066,knapsack_ga_140-560-3-560-0.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-3-560-0.txt
+GA, average time , 1.55829999447,knapsack_ga_140-560-3-560-0.txt
+GA, average results , 12243.5225712,knapsack_ga_140-560-3-560-5.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-3-560-5.txt
+GA, average time , 1.56089999676,knapsack_ga_140-560-3-560-5.txt
+GA, average results , 12300.875117,knapsack_ga_140-560-3-560-56.txt
+GA, average feval calls , 560561.0,knapsack_ga_140-560-3-560-56.txt
+GA, average time , 1.56349999905,knapsack_ga_140-560-3-560-56.txt
+GA, average results , 8859.41974121,knapsack_ga_140-70-1-28-0.txt
+GA, average feval calls , 28071.0,knapsack_ga_140-70-1-28-0.txt
+GA, average time , 0.162800002098,knapsack_ga_140-70-1-28-0.txt
+GA, average results , 9796.24477104,knapsack_ga_140-70-1-28-7.txt
+GA, average feval calls , 28071.0,knapsack_ga_140-70-1-28-7.txt
+GA, average time , 0.159100008011,knapsack_ga_140-70-1-28-7.txt
+GA, average results , 9077.7549588,knapsack_ga_140-70-1-42-0.txt
+GA, average feval calls , 42071.0,knapsack_ga_140-70-1-42-0.txt
+GA, average time , 0.185300016403,knapsack_ga_140-70-1-42-0.txt
+GA, average results , 9713.41003,knapsack_ga_140-70-1-42-7.txt
+GA, average feval calls , 42071.0,knapsack_ga_140-70-1-42-7.txt
+GA, average time , 0.16890001297,knapsack_ga_140-70-1-42-7.txt
+GA, average results , 9206.50495707,knapsack_ga_140-70-1-56-0.txt
+GA, average feval calls , 56071.0,knapsack_ga_140-70-1-56-0.txt
+GA, average time , 0.184399986267,knapsack_ga_140-70-1-56-0.txt
+GA, average results , 10468.015962,knapsack_ga_140-70-1-56-7.txt
+GA, average feval calls , 56071.0,knapsack_ga_140-70-1-56-7.txt
+GA, average time , 0.185500001907,knapsack_ga_140-70-1-56-7.txt
+GA, average results , 8920.44423074,knapsack_ga_140-70-1-70-0.txt
+GA, average feval calls , 70071.0,knapsack_ga_140-70-1-70-0.txt
+GA, average time , 0.273999977112,knapsack_ga_140-70-1-70-0.txt
+GA, average results , 9575.11555872,knapsack_ga_140-70-1-70-7.txt
+GA, average feval calls , 70071.0,knapsack_ga_140-70-1-70-7.txt
+GA, average time , 0.225800013542,knapsack_ga_140-70-1-70-7.txt
+GA, average results , 7901.56676715,knapsack_ga_140-70-2-28-0.txt
+GA, average feval calls , 28071.0,knapsack_ga_140-70-2-28-0.txt
+GA, average time , 0.109599995613,knapsack_ga_140-70-2-28-0.txt
+GA, average results , 9849.68162661,knapsack_ga_140-70-2-28-7.txt
+GA, average feval calls , 28071.0,knapsack_ga_140-70-2-28-7.txt
+GA, average time , 0.167599987984,knapsack_ga_140-70-2-28-7.txt
+GA, average results , 9103.36085281,knapsack_ga_140-70-2-42-0.txt
+GA, average feval calls , 42071.0,knapsack_ga_140-70-2-42-0.txt
+GA, average time , 0.159300017357,knapsack_ga_140-70-2-42-0.txt
+GA, average results , 9597.26820836,knapsack_ga_140-70-2-42-7.txt
+GA, average feval calls , 42071.0,knapsack_ga_140-70-2-42-7.txt
+GA, average time , 0.221300005913,knapsack_ga_140-70-2-42-7.txt
+GA, average results , 9783.78228289,knapsack_ga_140-70-2-56-0.txt
+GA, average feval calls , 56071.0,knapsack_ga_140-70-2-56-0.txt
+GA, average time , 0.270899987221,knapsack_ga_140-70-2-56-0.txt
+GA, average results , 9337.16601685,knapsack_ga_140-70-2-56-7.txt
+GA, average feval calls , 56071.0,knapsack_ga_140-70-2-56-7.txt
+GA, average time , 0.195900011063,knapsack_ga_140-70-2-56-7.txt
+GA, average results , 8630.61751524,knapsack_ga_140-70-2-70-0.txt
+GA, average feval calls , 70071.0,knapsack_ga_140-70-2-70-0.txt
+GA, average time , 0.227399992943,knapsack_ga_140-70-2-70-0.txt
+GA, average results , 9089.21752765,knapsack_ga_140-70-2-70-7.txt
+GA, average feval calls , 70071.0,knapsack_ga_140-70-2-70-7.txt
+GA, average time , 0.229099988937,knapsack_ga_140-70-2-70-7.txt
+GA, average results , 9014.83657142,knapsack_ga_140-70-3-28-0.txt
+GA, average feval calls , 28071.0,knapsack_ga_140-70-3-28-0.txt
+GA, average time , 0.1257999897,knapsack_ga_140-70-3-28-0.txt
+GA, average results , 10004.0206347,knapsack_ga_140-70-3-28-7.txt
+GA, average feval calls , 28071.0,knapsack_ga_140-70-3-28-7.txt
+GA, average time , 0.105599999428,knapsack_ga_140-70-3-28-7.txt
+GA, average results , 9039.8867579,knapsack_ga_140-70-3-42-0.txt
+GA, average feval calls , 42071.0,knapsack_ga_140-70-3-42-0.txt
+GA, average time , 0.140899991989,knapsack_ga_140-70-3-42-0.txt
+GA, average results , 10332.3300601,knapsack_ga_140-70-3-42-7.txt
+GA, average feval calls , 42071.0,knapsack_ga_140-70-3-42-7.txt
+GA, average time , 0.168300008774,knapsack_ga_140-70-3-42-7.txt
+GA, average results , 9259.62417908,knapsack_ga_140-70-3-56-0.txt
+GA, average feval calls , 56071.0,knapsack_ga_140-70-3-56-0.txt
+GA, average time , 0.228299999237,knapsack_ga_140-70-3-56-0.txt
+GA, average results , 9389.39934105,knapsack_ga_140-70-3-56-7.txt
+GA, average feval calls , 56071.0,knapsack_ga_140-70-3-56-7.txt
+GA, average time , 0.252400016785,knapsack_ga_140-70-3-56-7.txt
+GA, average results , 9413.60882275,knapsack_ga_140-70-3-70-0.txt
+GA, average feval calls , 70071.0,knapsack_ga_140-70-3-70-0.txt
+GA, average time , 0.226799988747,knapsack_ga_140-70-3-70-0.txt
+GA, average results , 9903.46663325,knapsack_ga_140-70-3-70-7.txt
+GA, average feval calls , 70071.0,knapsack_ga_140-70-3-70-7.txt
+GA, average time , 0.266299986839,knapsack_ga_140-70-3-70-7.txt
+GA, average results , 3285.1114848,knapsack_ga_40-160-1-128-0.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-1-128-0.txt
+GA, average time , 0.227300000191,knapsack_ga_40-160-1-128-0.txt
+GA, average results , 3461.52081226,knapsack_ga_40-160-1-128-1.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-1-128-1.txt
+GA, average time , 0.170600008965,knapsack_ga_40-160-1-128-1.txt
+GA, average results , 3038.48766866,knapsack_ga_40-160-1-128-16.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-1-128-16.txt
+GA, average time , 0.258200001717,knapsack_ga_40-160-1-128-16.txt
+GA, average results , 2907.334362,knapsack_ga_40-160-1-160-0.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-1-160-0.txt
+GA, average time , 0.210299992561,knapsack_ga_40-160-1-160-0.txt
+GA, average results , 3316.91717324,knapsack_ga_40-160-1-160-1.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-1-160-1.txt
+GA, average time , 0.250300002098,knapsack_ga_40-160-1-160-1.txt
+GA, average results , 3177.7304035,knapsack_ga_40-160-1-160-16.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-1-160-16.txt
+GA, average time , 0.227800011635,knapsack_ga_40-160-1-160-16.txt
+GA, average results , 3748.84626745,knapsack_ga_40-160-1-64-0.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-1-64-0.txt
+GA, average time , 0.127600002289,knapsack_ga_40-160-1-64-0.txt
+GA, average results , 3556.46950618,knapsack_ga_40-160-1-64-1.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-1-64-1.txt
+GA, average time , 0.116600012779,knapsack_ga_40-160-1-64-1.txt
+GA, average results , 4036.27357601,knapsack_ga_40-160-1-64-16.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-1-64-16.txt
+GA, average time , 0.150099992752,knapsack_ga_40-160-1-64-16.txt
+GA, average results , 3940.80258103,knapsack_ga_40-160-1-96-0.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-1-96-0.txt
+GA, average time , 0.143800020218,knapsack_ga_40-160-1-96-0.txt
+GA, average results , 3031.97427401,knapsack_ga_40-160-1-96-1.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-1-96-1.txt
+GA, average time , 0.236899995804,knapsack_ga_40-160-1-96-1.txt
+GA, average results , 2904.78780587,knapsack_ga_40-160-1-96-16.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-1-96-16.txt
+GA, average time , 0.2125,knapsack_ga_40-160-1-96-16.txt
+GA, average results , 4117.36168445,knapsack_ga_40-160-2-128-0.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-2-128-0.txt
+GA, average time , 0.184299993515,knapsack_ga_40-160-2-128-0.txt
+GA, average results , 2583.86277787,knapsack_ga_40-160-2-128-1.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-2-128-1.txt
+GA, average time , 0.218200016022,knapsack_ga_40-160-2-128-1.txt
+GA, average results , 3366.19081463,knapsack_ga_40-160-2-128-16.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-2-128-16.txt
+GA, average time , 0.196200013161,knapsack_ga_40-160-2-128-16.txt
+GA, average results , 3643.21948341,knapsack_ga_40-160-2-160-0.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-2-160-0.txt
+GA, average time , 0.246099996567,knapsack_ga_40-160-2-160-0.txt
+GA, average results , 3737.02363951,knapsack_ga_40-160-2-160-1.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-2-160-1.txt
+GA, average time , 0.274000000954,knapsack_ga_40-160-2-160-1.txt
+GA, average results , 3142.82713813,knapsack_ga_40-160-2-160-16.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-2-160-16.txt
+GA, average time , 0.242700004578,knapsack_ga_40-160-2-160-16.txt
+GA, average results , 3244.50872805,knapsack_ga_40-160-2-64-0.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-2-64-0.txt
+GA, average time , 0.128199982643,knapsack_ga_40-160-2-64-0.txt
+GA, average results , 3562.48050165,knapsack_ga_40-160-2-64-1.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-2-64-1.txt
+GA, average time , 0.135100007057,knapsack_ga_40-160-2-64-1.txt
+GA, average results , 3540.78752233,knapsack_ga_40-160-2-64-16.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-2-64-16.txt
+GA, average time , 0.311099982262,knapsack_ga_40-160-2-64-16.txt
+GA, average results , 4059.90207419,knapsack_ga_40-160-2-96-0.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-2-96-0.txt
+GA, average time , 0.150200009346,knapsack_ga_40-160-2-96-0.txt
+GA, average results , 3142.71919035,knapsack_ga_40-160-2-96-1.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-2-96-1.txt
+GA, average time , 0.153900003433,knapsack_ga_40-160-2-96-1.txt
+GA, average results , 4234.25444867,knapsack_ga_40-160-2-96-16.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-2-96-16.txt
+GA, average time , 0.167000007629,knapsack_ga_40-160-2-96-16.txt
+GA, average results , 3262.81948933,knapsack_ga_40-160-3-128-0.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-3-128-0.txt
+GA, average time , 0.226699995995,knapsack_ga_40-160-3-128-0.txt
+GA, average results , 3430.50153983,knapsack_ga_40-160-3-128-1.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-3-128-1.txt
+GA, average time , 0.18599998951,knapsack_ga_40-160-3-128-1.txt
+GA, average results , 2996.00102337,knapsack_ga_40-160-3-128-16.txt
+GA, average feval calls , 128161.0,knapsack_ga_40-160-3-128-16.txt
+GA, average time , 0.192499995232,knapsack_ga_40-160-3-128-16.txt
+GA, average results , 3540.33787138,knapsack_ga_40-160-3-160-0.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-3-160-0.txt
+GA, average time , 0.284800004959,knapsack_ga_40-160-3-160-0.txt
+GA, average results , 3513.56470972,knapsack_ga_40-160-3-160-1.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-3-160-1.txt
+GA, average time , 0.319400000572,knapsack_ga_40-160-3-160-1.txt
+GA, average results , 3400.36007143,knapsack_ga_40-160-3-160-16.txt
+GA, average feval calls , 160161.0,knapsack_ga_40-160-3-160-16.txt
+GA, average time , 0.233999991417,knapsack_ga_40-160-3-160-16.txt
+GA, average results , 3497.25846043,knapsack_ga_40-160-3-64-0.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-3-64-0.txt
+GA, average time , 0.119499993324,knapsack_ga_40-160-3-64-0.txt
+GA, average results , 3517.91087276,knapsack_ga_40-160-3-64-1.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-3-64-1.txt
+GA, average time , 0.125999999046,knapsack_ga_40-160-3-64-1.txt
+GA, average results , 3517.78679337,knapsack_ga_40-160-3-64-16.txt
+GA, average feval calls , 64161.0,knapsack_ga_40-160-3-64-16.txt
+GA, average time , 0.124099993706,knapsack_ga_40-160-3-64-16.txt
+GA, average results , 3742.35361639,knapsack_ga_40-160-3-96-0.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-3-96-0.txt
+GA, average time , 0.20490000248,knapsack_ga_40-160-3-96-0.txt
+GA, average results , 3334.25647055,knapsack_ga_40-160-3-96-1.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-3-96-1.txt
+GA, average time , 0.161800003052,knapsack_ga_40-160-3-96-1.txt
+GA, average results , 3833.3373606,knapsack_ga_40-160-3-96-16.txt
+GA, average feval calls , 96161.0,knapsack_ga_40-160-3-96-16.txt
+GA, average time , 0.212600016594,knapsack_ga_40-160-3-96-16.txt
+GA, average results , 2166.02995913,knapsack_ga_40-20-1-12-0.txt
+GA, average feval calls , 12021.0,knapsack_ga_40-20-1-12-0.txt
+GA, average time , 0.0305000066757,knapsack_ga_40-20-1-12-0.txt
+GA, average results , 2388.69096517,knapsack_ga_40-20-1-12-2.txt
+GA, average feval calls , 12021.0,knapsack_ga_40-20-1-12-2.txt
+GA, average time , 0.027799987793,knapsack_ga_40-20-1-12-2.txt
+GA, average results , 2847.28233031,knapsack_ga_40-20-1-16-0.txt
+GA, average feval calls , 16021.0,knapsack_ga_40-20-1-16-0.txt
+GA, average time , 0.0361000061035,knapsack_ga_40-20-1-16-0.txt
+GA, average results , 3050.82468471,knapsack_ga_40-20-1-16-2.txt
+GA, average feval calls , 16021.0,knapsack_ga_40-20-1-16-2.txt
+GA, average time , 0.0393999814987,knapsack_ga_40-20-1-16-2.txt
+GA, average results , 2923.32192292,knapsack_ga_40-20-1-20-0.txt
+GA, average feval calls , 20021.0,knapsack_ga_40-20-1-20-0.txt
+GA, average time , 0.0325000047684,knapsack_ga_40-20-1-20-0.txt
+GA, average results , 3099.08518822,knapsack_ga_40-20-1-20-2.txt
+GA, average feval calls , 20021.0,knapsack_ga_40-20-1-20-2.txt
+GA, average time , 0.0433000087738,knapsack_ga_40-20-1-20-2.txt
+GA, average results , 2626.71843001,knapsack_ga_40-20-1-8-0.txt
+GA, average feval calls , 8021.0,knapsack_ga_40-20-1-8-0.txt
+GA, average time , 0.0258000135422,knapsack_ga_40-20-1-8-0.txt
+GA, average results , 2608.66760398,knapsack_ga_40-20-1-8-2.txt
+GA, average feval calls , 8021.0,knapsack_ga_40-20-1-8-2.txt
+GA, average time , 0.0243999958038,knapsack_ga_40-20-1-8-2.txt
+GA, average results , 2488.06516029,knapsack_ga_40-20-2-12-0.txt
+GA, average feval calls , 12021.0,knapsack_ga_40-20-2-12-0.txt
+GA, average time , 0.0327000141144,knapsack_ga_40-20-2-12-0.txt
+GA, average results , 3004.03616882,knapsack_ga_40-20-2-12-2.txt
+GA, average feval calls , 12021.0,knapsack_ga_40-20-2-12-2.txt
+GA, average time , 0.0300999879837,knapsack_ga_40-20-2-12-2.txt
+GA, average results , 2396.46909528,knapsack_ga_40-20-2-16-0.txt
+GA, average feval calls , 16021.0,knapsack_ga_40-20-2-16-0.txt
+GA, average time , 0.0390999794006,knapsack_ga_40-20-2-16-0.txt
+GA, average results , 2888.67290615,knapsack_ga_40-20-2-16-2.txt
+GA, average feval calls , 16021.0,knapsack_ga_40-20-2-16-2.txt
+GA, average time , 0.0394999980927,knapsack_ga_40-20-2-16-2.txt
+GA, average results , 2537.62124314,knapsack_ga_40-20-2-20-0.txt
+GA, average feval calls , 20021.0,knapsack_ga_40-20-2-20-0.txt
+GA, average time , 0.0444000005722,knapsack_ga_40-20-2-20-0.txt
+GA, average results , 2864.07382306,knapsack_ga_40-20-2-20-2.txt
+GA, average feval calls , 20021.0,knapsack_ga_40-20-2-20-2.txt
+GA, average time , 0.0441999912262,knapsack_ga_40-20-2-20-2.txt
+GA, average results , 2320.37009,knapsack_ga_40-20-2-8-0.txt
+GA, average feval calls , 8021.0,knapsack_ga_40-20-2-8-0.txt
+GA, average time , 0.0213000059128,knapsack_ga_40-20-2-8-0.txt
+GA, average results , 2791.95071281,knapsack_ga_40-20-2-8-2.txt
+GA, average feval calls , 8021.0,knapsack_ga_40-20-2-8-2.txt
+GA, average time , 0.0216000080109,knapsack_ga_40-20-2-8-2.txt
+GA, average results , 2379.43310812,knapsack_ga_40-20-3-12-0.txt
+GA, average feval calls , 12021.0,knapsack_ga_40-20-3-12-0.txt
+GA, average time , 0.0313999891281,knapsack_ga_40-20-3-12-0.txt
+GA, average results , 3015.48357771,knapsack_ga_40-20-3-12-2.txt
+GA, average feval calls , 12021.0,knapsack_ga_40-20-3-12-2.txt
+GA, average time , 0.0411999940872,knapsack_ga_40-20-3-12-2.txt
+GA, average results , 2558.45226201,knapsack_ga_40-20-3-16-0.txt
+GA, average feval calls , 16021.0,knapsack_ga_40-20-3-16-0.txt
+GA, average time , 0.04359998703,knapsack_ga_40-20-3-16-0.txt
+GA, average results , 2946.11829522,knapsack_ga_40-20-3-16-2.txt
+GA, average feval calls , 16021.0,knapsack_ga_40-20-3-16-2.txt
+GA, average time , 0.0401999950409,knapsack_ga_40-20-3-16-2.txt
+GA, average results , 2420.66296262,knapsack_ga_40-20-3-20-0.txt
+GA, average feval calls , 20021.0,knapsack_ga_40-20-3-20-0.txt
+GA, average time , 0.0841000080109,knapsack_ga_40-20-3-20-0.txt
+GA, average results , 3206.18800319,knapsack_ga_40-20-3-20-2.txt
+GA, average feval calls , 20021.0,knapsack_ga_40-20-3-20-2.txt
+GA, average time , 0.0512000083923,knapsack_ga_40-20-3-20-2.txt
+GA, average results , 2270.72165512,knapsack_ga_40-20-3-8-0.txt
+GA, average feval calls , 8021.0,knapsack_ga_40-20-3-8-0.txt
+GA, average time , 0.0195999860764,knapsack_ga_40-20-3-8-0.txt
+GA, average results , 2294.18313524,knapsack_ga_40-20-3-8-2.txt
+GA, average feval calls , 8021.0,knapsack_ga_40-20-3-8-2.txt
+GA, average time , 0.0516000032425,knapsack_ga_40-20-3-8-2.txt
+GA, average results , 2623.45999753,knapsack_ga_40-40-1-16-0.txt
+GA, average feval calls , 16041.0,knapsack_ga_40-40-1-16-0.txt
+GA, average time , 0.0446000099182,knapsack_ga_40-40-1-16-0.txt
+GA, average results , 3002.70895812,knapsack_ga_40-40-1-16-4.txt
+GA, average feval calls , 16041.0,knapsack_ga_40-40-1-16-4.txt
+GA, average time , 0.0526999950409,knapsack_ga_40-40-1-16-4.txt
+GA, average results , 2672.61216632,knapsack_ga_40-40-1-24-0.txt
+GA, average feval calls , 24041.0,knapsack_ga_40-40-1-24-0.txt
+GA, average time , 0.0667999982834,knapsack_ga_40-40-1-24-0.txt
+GA, average results , 2955.71290803,knapsack_ga_40-40-1-24-4.txt
+GA, average feval calls , 24041.0,knapsack_ga_40-40-1-24-4.txt
+GA, average time , 0.0546999931335,knapsack_ga_40-40-1-24-4.txt
+GA, average results , 2464.76189616,knapsack_ga_40-40-1-32-0.txt
+GA, average feval calls , 32041.0,knapsack_ga_40-40-1-32-0.txt
+GA, average time , 0.131299996376,knapsack_ga_40-40-1-32-0.txt
+GA, average results , 3149.691055,knapsack_ga_40-40-1-32-4.txt
+GA, average feval calls , 32041.0,knapsack_ga_40-40-1-32-4.txt
+GA, average time , 0.0833999872208,knapsack_ga_40-40-1-32-4.txt
+GA, average results , 2386.08810395,knapsack_ga_40-40-1-40-0.txt
+GA, average feval calls , 40041.0,knapsack_ga_40-40-1-40-0.txt
+GA, average time , 0.115399980545,knapsack_ga_40-40-1-40-0.txt
+GA, average results , 3585.91184257,knapsack_ga_40-40-1-40-4.txt
+GA, average feval calls , 40041.0,knapsack_ga_40-40-1-40-4.txt
+GA, average time , 0.0884999990463,knapsack_ga_40-40-1-40-4.txt
+GA, average results , 2752.44240349,knapsack_ga_40-40-2-16-0.txt
+GA, average feval calls , 16041.0,knapsack_ga_40-40-2-16-0.txt
+GA, average time , 0.0331000089645,knapsack_ga_40-40-2-16-0.txt
+GA, average results , 2981.83223076,knapsack_ga_40-40-2-16-4.txt
+GA, average feval calls , 16041.0,knapsack_ga_40-40-2-16-4.txt
+GA, average time , 0.0546999931335,knapsack_ga_40-40-2-16-4.txt
+GA, average results , 2804.47918555,knapsack_ga_40-40-2-24-0.txt
+GA, average feval calls , 24041.0,knapsack_ga_40-40-2-24-0.txt
+GA, average time , 0.1,knapsack_ga_40-40-2-24-0.txt
+GA, average results , 3145.59761338,knapsack_ga_40-40-2-24-4.txt
+GA, average feval calls , 24041.0,knapsack_ga_40-40-2-24-4.txt
+GA, average time , 0.0843000173569,knapsack_ga_40-40-2-24-4.txt
+GA, average results , 2901.61338224,knapsack_ga_40-40-2-32-0.txt
+GA, average feval calls , 32041.0,knapsack_ga_40-40-2-32-0.txt
+GA, average time , 0.0650000095367,knapsack_ga_40-40-2-32-0.txt
+GA, average results , 3050.7204788,knapsack_ga_40-40-2-32-4.txt
+GA, average feval calls , 32041.0,knapsack_ga_40-40-2-32-4.txt
+GA, average time , 0.0733000040054,knapsack_ga_40-40-2-32-4.txt
+GA, average results , 2933.75219342,knapsack_ga_40-40-2-40-0.txt
+GA, average feval calls , 40041.0,knapsack_ga_40-40-2-40-0.txt
+GA, average time , 0.0631000041962,knapsack_ga_40-40-2-40-0.txt
+GA, average results , 3187.9381772,knapsack_ga_40-40-2-40-4.txt
+GA, average feval calls , 40041.0,knapsack_ga_40-40-2-40-4.txt
+GA, average time , 0.0661999940872,knapsack_ga_40-40-2-40-4.txt
+GA, average results , 2184.55163381,knapsack_ga_40-40-3-16-0.txt
+GA, average feval calls , 16041.0,knapsack_ga_40-40-3-16-0.txt
+GA, average time , 0.0344000101089,knapsack_ga_40-40-3-16-0.txt
+GA, average results , 3086.03380802,knapsack_ga_40-40-3-16-4.txt
+GA, average feval calls , 16041.0,knapsack_ga_40-40-3-16-4.txt
+GA, average time , 0.0618000030518,knapsack_ga_40-40-3-16-4.txt
+GA, average results , 3323.57447185,knapsack_ga_40-40-3-24-0.txt
+GA, average feval calls , 24041.0,knapsack_ga_40-40-3-24-0.txt
+GA, average time , 0.050200009346,knapsack_ga_40-40-3-24-0.txt
+GA, average results , 3130.64869676,knapsack_ga_40-40-3-24-4.txt
+GA, average feval calls , 24041.0,knapsack_ga_40-40-3-24-4.txt
+GA, average time , 0.0901999950409,knapsack_ga_40-40-3-24-4.txt
+GA, average results , 2811.68987585,knapsack_ga_40-40-3-32-0.txt
+GA, average feval calls , 32041.0,knapsack_ga_40-40-3-32-0.txt
+GA, average time , 0.0667000055313,knapsack_ga_40-40-3-32-0.txt
+GA, average results , 2810.98721401,knapsack_ga_40-40-3-32-4.txt
+GA, average feval calls , 32041.0,knapsack_ga_40-40-3-32-4.txt
+GA, average time , 0.0849999904633,knapsack_ga_40-40-3-32-4.txt
+GA, average results , 3289.88209945,knapsack_ga_40-40-3-40-0.txt
+GA, average feval calls , 40041.0,knapsack_ga_40-40-3-40-0.txt
+GA, average time , 0.116999983788,knapsack_ga_40-40-3-40-0.txt
+GA, average results , 3684.66528034,knapsack_ga_40-40-3-40-4.txt
+GA, average feval calls , 40041.0,knapsack_ga_40-40-3-40-4.txt
+GA, average time , 0.0738999843597,knapsack_ga_40-40-3-40-4.txt
+GA, average results , 2859.28194589,knapsack_ga_40-80-1-32-0.txt
+GA, average feval calls , 32081.0,knapsack_ga_40-80-1-32-0.txt
+GA, average time , 0.125900006294,knapsack_ga_40-80-1-32-0.txt
+GA, average results , 2997.14730628,knapsack_ga_40-80-1-32-8.txt
+GA, average feval calls , 32081.0,knapsack_ga_40-80-1-32-8.txt
+GA, average time , 0.0568000078201,knapsack_ga_40-80-1-32-8.txt
+GA, average results , 3031.38476098,knapsack_ga_40-80-1-48-0.txt
+GA, average feval calls , 48081.0,knapsack_ga_40-80-1-48-0.txt
+GA, average time , 0.106299996376,knapsack_ga_40-80-1-48-0.txt
+GA, average results , 2715.82224158,knapsack_ga_40-80-1-48-8.txt
+GA, average feval calls , 48081.0,knapsack_ga_40-80-1-48-8.txt
+GA, average time , 0.107499980927,knapsack_ga_40-80-1-48-8.txt
+GA, average results , 2629.65706784,knapsack_ga_40-80-1-64-0.txt
+GA, average feval calls , 64081.0,knapsack_ga_40-80-1-64-0.txt
+GA, average time , 0.101999998093,knapsack_ga_40-80-1-64-0.txt
+GA, average results , 3394.65590243,knapsack_ga_40-80-1-64-8.txt
+GA, average feval calls , 64081.0,knapsack_ga_40-80-1-64-8.txt
+GA, average time , 0.112199997902,knapsack_ga_40-80-1-64-8.txt
+GA, average results , 3009.24635614,knapsack_ga_40-80-1-80-0.txt
+GA, average feval calls , 80081.0,knapsack_ga_40-80-1-80-0.txt
+GA, average time , 0.139300012589,knapsack_ga_40-80-1-80-0.txt
+GA, average results , 3431.04318822,knapsack_ga_40-80-1-80-8.txt
+GA, average feval calls , 80081.0,knapsack_ga_40-80-1-80-8.txt
+GA, average time , 0.117000007629,knapsack_ga_40-80-1-80-8.txt
+GA, average results , 3375.59106792,knapsack_ga_40-80-2-32-0.txt
+GA, average feval calls , 32081.0,knapsack_ga_40-80-2-32-0.txt
+GA, average time , 0.0886000156403,knapsack_ga_40-80-2-32-0.txt
+GA, average results , 3247.52987543,knapsack_ga_40-80-2-32-8.txt
+GA, average feval calls , 32081.0,knapsack_ga_40-80-2-32-8.txt
+GA, average time , 0.117999982834,knapsack_ga_40-80-2-32-8.txt
+GA, average results , 2947.27077952,knapsack_ga_40-80-2-48-0.txt
+GA, average feval calls , 48081.0,knapsack_ga_40-80-2-48-0.txt
+GA, average time , 0.0870000123978,knapsack_ga_40-80-2-48-0.txt
+GA, average results , 3769.9582568,knapsack_ga_40-80-2-48-8.txt
+GA, average feval calls , 48081.0,knapsack_ga_40-80-2-48-8.txt
+GA, average time , 0.105800008774,knapsack_ga_40-80-2-48-8.txt
+GA, average results , 2986.5171367,knapsack_ga_40-80-2-64-0.txt
+GA, average feval calls , 64081.0,knapsack_ga_40-80-2-64-0.txt
+GA, average time , 0.119000005722,knapsack_ga_40-80-2-64-0.txt
+GA, average results , 3792.05307675,knapsack_ga_40-80-2-64-8.txt
+GA, average feval calls , 64081.0,knapsack_ga_40-80-2-64-8.txt
+GA, average time , 0.131500005722,knapsack_ga_40-80-2-64-8.txt
+GA, average results , 3278.40756363,knapsack_ga_40-80-2-80-0.txt
+GA, average feval calls , 80081.0,knapsack_ga_40-80-2-80-0.txt
+GA, average time , 0.134699988365,knapsack_ga_40-80-2-80-0.txt
+GA, average results , 3234.93560135,knapsack_ga_40-80-2-80-8.txt
+GA, average feval calls , 80081.0,knapsack_ga_40-80-2-80-8.txt
+GA, average time , 0.129999995232,knapsack_ga_40-80-2-80-8.txt
+GA, average results , 3069.5248855,knapsack_ga_40-80-3-32-0.txt
+GA, average feval calls , 32081.0,knapsack_ga_40-80-3-32-0.txt
+GA, average time , 0.0772000074387,knapsack_ga_40-80-3-32-0.txt
+GA, average results , 3396.57183364,knapsack_ga_40-80-3-32-8.txt
+GA, average feval calls , 32081.0,knapsack_ga_40-80-3-32-8.txt
+GA, average time , 0.0667999982834,knapsack_ga_40-80-3-32-8.txt
+GA, average results , 3180.0560358,knapsack_ga_40-80-3-48-0.txt
+GA, average feval calls , 48081.0,knapsack_ga_40-80-3-48-0.txt
+GA, average time , 0.182699990273,knapsack_ga_40-80-3-48-0.txt
+GA, average results , 3265.38962544,knapsack_ga_40-80-3-48-8.txt
+GA, average feval calls , 48081.0,knapsack_ga_40-80-3-48-8.txt
+GA, average time , 0.0728999853134,knapsack_ga_40-80-3-48-8.txt
+GA, average results , 2850.05370565,knapsack_ga_40-80-3-64-0.txt
+GA, average feval calls , 64081.0,knapsack_ga_40-80-3-64-0.txt
+GA, average time , 0.10529999733,knapsack_ga_40-80-3-64-0.txt
+GA, average results , 3696.22095316,knapsack_ga_40-80-3-64-8.txt
+GA, average feval calls , 64081.0,knapsack_ga_40-80-3-64-8.txt
+GA, average time , 0.107899999619,knapsack_ga_40-80-3-64-8.txt
+GA, average results , 3408.7962599,knapsack_ga_40-80-3-80-0.txt
+GA, average feval calls , 80081.0,knapsack_ga_40-80-3-80-0.txt
+GA, average time , 0.121199989319,knapsack_ga_40-80-3-80-0.txt
+GA, average results , 3246.3031978,knapsack_ga_40-80-3-80-8.txt
+GA, average feval calls , 80081.0,knapsack_ga_40-80-3-80-8.txt
+GA, average time , 0.124399995804,knapsack_ga_40-80-3-80-8.txt
+GA, average results , 5205.32184336,knapsack_ga_60-120-1-120-0.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-1-120-0.txt
+GA, average time , 0.230999994278,knapsack_ga_60-120-1-120-0.txt
+GA, average results , 4609.43903724,knapsack_ga_60-120-1-120-1.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-1-120-1.txt
+GA, average time , 0.222799992561,knapsack_ga_60-120-1-120-1.txt
+GA, average results , 4838.65365036,knapsack_ga_60-120-1-120-12.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-1-120-12.txt
+GA, average time , 0.225999999046,knapsack_ga_60-120-1-120-12.txt
+GA, average results , 4750.9424695,knapsack_ga_60-120-1-48-0.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-1-48-0.txt
+GA, average time , 0.138599991798,knapsack_ga_60-120-1-48-0.txt
+GA, average results , 4826.5039396,knapsack_ga_60-120-1-48-1.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-1-48-1.txt
+GA, average time , 0.118899989128,knapsack_ga_60-120-1-48-1.txt
+GA, average results , 5295.36048209,knapsack_ga_60-120-1-48-12.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-1-48-12.txt
+GA, average time , 0.137699985504,knapsack_ga_60-120-1-48-12.txt
+GA, average results , 5442.56261694,knapsack_ga_60-120-1-72-0.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-1-72-0.txt
+GA, average time , 0.158999991417,knapsack_ga_60-120-1-72-0.txt
+GA, average results , 5208.05277518,knapsack_ga_60-120-1-72-1.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-1-72-1.txt
+GA, average time , 0.17539999485,knapsack_ga_60-120-1-72-1.txt
+GA, average results , 4905.11928216,knapsack_ga_60-120-1-72-12.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-1-72-12.txt
+GA, average time , 0.188700008392,knapsack_ga_60-120-1-72-12.txt
+GA, average results , 4476.83823734,knapsack_ga_60-120-1-96-0.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-1-96-0.txt
+GA, average time , 0.195200014114,knapsack_ga_60-120-1-96-0.txt
+GA, average results , 5608.90840954,knapsack_ga_60-120-1-96-1.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-1-96-1.txt
+GA, average time , 0.179699993134,knapsack_ga_60-120-1-96-1.txt
+GA, average results , 5483.04220634,knapsack_ga_60-120-1-96-12.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-1-96-12.txt
+GA, average time , 0.232699990273,knapsack_ga_60-120-1-96-12.txt
+GA, average results , 5090.53606186,knapsack_ga_60-120-2-120-0.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-2-120-0.txt
+GA, average time , 0.221199989319,knapsack_ga_60-120-2-120-0.txt
+GA, average results , 5536.7151199,knapsack_ga_60-120-2-120-1.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-2-120-1.txt
+GA, average time , 0.236199998856,knapsack_ga_60-120-2-120-1.txt
+GA, average results , 5787.12827618,knapsack_ga_60-120-2-120-12.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-2-120-12.txt
+GA, average time , 0.221200013161,knapsack_ga_60-120-2-120-12.txt
+GA, average results , 4867.46729828,knapsack_ga_60-120-2-48-0.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-2-48-0.txt
+GA, average time , 0.177199983597,knapsack_ga_60-120-2-48-0.txt
+GA, average results , 4427.06297463,knapsack_ga_60-120-2-48-1.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-2-48-1.txt
+GA, average time , 0.20490000248,knapsack_ga_60-120-2-48-1.txt
+GA, average results , 5695.40450311,knapsack_ga_60-120-2-48-12.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-2-48-12.txt
+GA, average time , 0.117700004578,knapsack_ga_60-120-2-48-12.txt
+GA, average results , 4668.12934859,knapsack_ga_60-120-2-72-0.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-2-72-0.txt
+GA, average time , 0.171900010109,knapsack_ga_60-120-2-72-0.txt
+GA, average results , 5383.19116084,knapsack_ga_60-120-2-72-1.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-2-72-1.txt
+GA, average time , 0.294199991226,knapsack_ga_60-120-2-72-1.txt
+GA, average results , 5637.8088062,knapsack_ga_60-120-2-72-12.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-2-72-12.txt
+GA, average time , 0.195600008965,knapsack_ga_60-120-2-72-12.txt
+GA, average results , 5323.86196374,knapsack_ga_60-120-2-96-0.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-2-96-0.txt
+GA, average time , 0.198200011253,knapsack_ga_60-120-2-96-0.txt
+GA, average results , 4645.89847291,knapsack_ga_60-120-2-96-1.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-2-96-1.txt
+GA, average time , 0.281200003624,knapsack_ga_60-120-2-96-1.txt
+GA, average results , 5001.2536101,knapsack_ga_60-120-2-96-12.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-2-96-12.txt
+GA, average time , 0.201799988747,knapsack_ga_60-120-2-96-12.txt
+GA, average results , 4756.23689652,knapsack_ga_60-120-3-120-0.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-3-120-0.txt
+GA, average time , 0.223399996758,knapsack_ga_60-120-3-120-0.txt
+GA, average results , 5151.36474536,knapsack_ga_60-120-3-120-1.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-3-120-1.txt
+GA, average time , 0.206699991226,knapsack_ga_60-120-3-120-1.txt
+GA, average results , 5540.34394964,knapsack_ga_60-120-3-120-12.txt
+GA, average feval calls , 120121.0,knapsack_ga_60-120-3-120-12.txt
+GA, average time , 0.216000008583,knapsack_ga_60-120-3-120-12.txt
+GA, average results , 5377.48829943,knapsack_ga_60-120-3-48-0.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-3-48-0.txt
+GA, average time , 0.122399997711,knapsack_ga_60-120-3-48-0.txt
+GA, average results , 4836.09130703,knapsack_ga_60-120-3-48-1.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-3-48-1.txt
+GA, average time , 0.112799978256,knapsack_ga_60-120-3-48-1.txt
+GA, average results , 5141.58081518,knapsack_ga_60-120-3-48-12.txt
+GA, average feval calls , 48121.0,knapsack_ga_60-120-3-48-12.txt
+GA, average time , 0.227999997139,knapsack_ga_60-120-3-48-12.txt
+GA, average results , 4784.26066649,knapsack_ga_60-120-3-72-0.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-3-72-0.txt
+GA, average time , 0.145199990273,knapsack_ga_60-120-3-72-0.txt
+GA, average results , 5256.10263314,knapsack_ga_60-120-3-72-1.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-3-72-1.txt
+GA, average time , 0.249399995804,knapsack_ga_60-120-3-72-1.txt
+GA, average results , 5401.97289842,knapsack_ga_60-120-3-72-12.txt
+GA, average feval calls , 72121.0,knapsack_ga_60-120-3-72-12.txt
+GA, average time , 0.146799993515,knapsack_ga_60-120-3-72-12.txt
+GA, average results , 5288.55462801,knapsack_ga_60-120-3-96-0.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-3-96-0.txt
+GA, average time , 0.179200005531,knapsack_ga_60-120-3-96-0.txt
+GA, average results , 5099.66824875,knapsack_ga_60-120-3-96-1.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-3-96-1.txt
+GA, average time , 0.177899980545,knapsack_ga_60-120-3-96-1.txt
+GA, average results , 5018.66607173,knapsack_ga_60-120-3-96-12.txt
+GA, average feval calls , 96121.0,knapsack_ga_60-120-3-96-12.txt
+GA, average time , 0.203700017929,knapsack_ga_60-120-3-96-12.txt
+GA, average results , 5623.29181648,knapsack_ga_60-240-1-144-0.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-1-144-0.txt
+GA, average time , 0.313899993896,knapsack_ga_60-240-1-144-0.txt
+GA, average results , 5488.81603393,knapsack_ga_60-240-1-144-2.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-1-144-2.txt
+GA, average time , 0.321900010109,knapsack_ga_60-240-1-144-2.txt
+GA, average results , 5534.33433532,knapsack_ga_60-240-1-144-24.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-1-144-24.txt
+GA, average time , 0.327999997139,knapsack_ga_60-240-1-144-24.txt
+GA, average results , 5367.23138197,knapsack_ga_60-240-1-192-0.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-1-192-0.txt
+GA, average time , 0.435299992561,knapsack_ga_60-240-1-192-0.txt
+GA, average results , 5077.9397624,knapsack_ga_60-240-1-192-2.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-1-192-2.txt
+GA, average time , 0.441100001335,knapsack_ga_60-240-1-192-2.txt
+GA, average results , 5894.65012916,knapsack_ga_60-240-1-192-24.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-1-192-24.txt
+GA, average time , 0.417699980736,knapsack_ga_60-240-1-192-24.txt
+GA, average results , 5639.1322506,knapsack_ga_60-240-1-240-0.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-1-240-0.txt
+GA, average time , 0.467000007629,knapsack_ga_60-240-1-240-0.txt
+GA, average results , 5339.15687216,knapsack_ga_60-240-1-240-2.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-1-240-2.txt
+GA, average time , 0.457699990273,knapsack_ga_60-240-1-240-2.txt
+GA, average results , 4924.87605786,knapsack_ga_60-240-1-240-24.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-1-240-24.txt
+GA, average time , 0.498699998856,knapsack_ga_60-240-1-240-24.txt
+GA, average results , 5108.37758041,knapsack_ga_60-240-1-96-0.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-1-96-0.txt
+GA, average time , 0.205200004578,knapsack_ga_60-240-1-96-0.txt
+GA, average results , 5359.96889939,knapsack_ga_60-240-1-96-2.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-1-96-2.txt
+GA, average time , 0.195600008965,knapsack_ga_60-240-1-96-2.txt
+GA, average results , 5200.4858464,knapsack_ga_60-240-1-96-24.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-1-96-24.txt
+GA, average time , 0.207300019264,knapsack_ga_60-240-1-96-24.txt
+GA, average results , 5443.76097936,knapsack_ga_60-240-2-144-0.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-2-144-0.txt
+GA, average time , 0.279600000381,knapsack_ga_60-240-2-144-0.txt
+GA, average results , 5558.43165052,knapsack_ga_60-240-2-144-2.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-2-144-2.txt
+GA, average time , 0.277300000191,knapsack_ga_60-240-2-144-2.txt
+GA, average results , 6082.41016725,knapsack_ga_60-240-2-144-24.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-2-144-24.txt
+GA, average time , 0.285100007057,knapsack_ga_60-240-2-144-24.txt
+GA, average results , 5037.42293799,knapsack_ga_60-240-2-192-0.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-2-192-0.txt
+GA, average time , 0.370700001717,knapsack_ga_60-240-2-192-0.txt
+GA, average results , 5380.40055284,knapsack_ga_60-240-2-192-2.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-2-192-2.txt
+GA, average time , 0.39399998188,knapsack_ga_60-240-2-192-2.txt
+GA, average results , 5210.30300373,knapsack_ga_60-240-2-192-24.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-2-192-24.txt
+GA, average time , 0.420000004768,knapsack_ga_60-240-2-192-24.txt
+GA, average results , 5426.14778236,knapsack_ga_60-240-2-240-0.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-2-240-0.txt
+GA, average time , 0.411999988556,knapsack_ga_60-240-2-240-0.txt
+GA, average results , 5554.96466935,knapsack_ga_60-240-2-240-2.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-2-240-2.txt
+GA, average time , 0.469900012016,knapsack_ga_60-240-2-240-2.txt
+GA, average results , 4929.84133399,knapsack_ga_60-240-2-240-24.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-2-240-24.txt
+GA, average time , 0.4875,knapsack_ga_60-240-2-240-24.txt
+GA, average results , 5264.18040225,knapsack_ga_60-240-2-96-0.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-2-96-0.txt
+GA, average time , 0.18639998436,knapsack_ga_60-240-2-96-0.txt
+GA, average results , 5087.74552633,knapsack_ga_60-240-2-96-2.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-2-96-2.txt
+GA, average time , 0.259300017357,knapsack_ga_60-240-2-96-2.txt
+GA, average results , 5156.93191472,knapsack_ga_60-240-2-96-24.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-2-96-24.txt
+GA, average time , 0.253099989891,knapsack_ga_60-240-2-96-24.txt
+GA, average results , 5162.29121726,knapsack_ga_60-240-3-144-0.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-3-144-0.txt
+GA, average time , 0.325999999046,knapsack_ga_60-240-3-144-0.txt
+GA, average results , 4837.74215231,knapsack_ga_60-240-3-144-2.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-3-144-2.txt
+GA, average time , 0.38180000782,knapsack_ga_60-240-3-144-2.txt
+GA, average results , 5448.1821296,knapsack_ga_60-240-3-144-24.txt
+GA, average feval calls , 144241.0,knapsack_ga_60-240-3-144-24.txt
+GA, average time , 0.290700006485,knapsack_ga_60-240-3-144-24.txt
+GA, average results , 5503.00866932,knapsack_ga_60-240-3-192-0.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-3-192-0.txt
+GA, average time , 0.427699995041,knapsack_ga_60-240-3-192-0.txt
+GA, average results , 4965.78510735,knapsack_ga_60-240-3-192-2.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-3-192-2.txt
+GA, average time , 0.387799978256,knapsack_ga_60-240-3-192-2.txt
+GA, average results , 5341.26385656,knapsack_ga_60-240-3-192-24.txt
+GA, average feval calls , 192241.0,knapsack_ga_60-240-3-192-24.txt
+GA, average time , 0.405199980736,knapsack_ga_60-240-3-192-24.txt
+GA, average results , 4951.62765521,knapsack_ga_60-240-3-240-0.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-3-240-0.txt
+GA, average time , 0.483800005913,knapsack_ga_60-240-3-240-0.txt
+GA, average results , 5180.67057312,knapsack_ga_60-240-3-240-2.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-3-240-2.txt
+GA, average time , 0.512399983406,knapsack_ga_60-240-3-240-2.txt
+GA, average results , 5350.99207741,knapsack_ga_60-240-3-240-24.txt
+GA, average feval calls , 240241.0,knapsack_ga_60-240-3-240-24.txt
+GA, average time , 0.475100016594,knapsack_ga_60-240-3-240-24.txt
+GA, average results , 5510.52899954,knapsack_ga_60-240-3-96-0.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-3-96-0.txt
+GA, average time , 0.194500017166,knapsack_ga_60-240-3-96-0.txt
+GA, average results , 6129.63512851,knapsack_ga_60-240-3-96-2.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-3-96-2.txt
+GA, average time , 0.234400010109,knapsack_ga_60-240-3-96-2.txt
+GA, average results , 5311.23038869,knapsack_ga_60-240-3-96-24.txt
+GA, average feval calls , 96241.0,knapsack_ga_60-240-3-96-24.txt
+GA, average time , 0.200500011444,knapsack_ga_60-240-3-96-24.txt
+GA, average results , 4023.59675783,knapsack_ga_60-30-1-12-0.txt
+GA, average feval calls , 12031.0,knapsack_ga_60-30-1-12-0.txt
+GA, average time , 0.0378000020981,knapsack_ga_60-30-1-12-0.txt
+GA, average results , 4095.02335032,knapsack_ga_60-30-1-12-3.txt
+GA, average feval calls , 12031.0,knapsack_ga_60-30-1-12-3.txt
+GA, average time , 0.0374000072479,knapsack_ga_60-30-1-12-3.txt
+GA, average results , 3559.14825654,knapsack_ga_60-30-1-18-0.txt
+GA, average feval calls , 18031.0,knapsack_ga_60-30-1-18-0.txt
+GA, average time , 0.0599999904633,knapsack_ga_60-30-1-18-0.txt
+GA, average results , 3836.44325165,knapsack_ga_60-30-1-18-3.txt
+GA, average feval calls , 18031.0,knapsack_ga_60-30-1-18-3.txt
+GA, average time , 0.0631999969482,knapsack_ga_60-30-1-18-3.txt
+GA, average results , 3786.98228723,knapsack_ga_60-30-1-24-0.txt
+GA, average feval calls , 24031.0,knapsack_ga_60-30-1-24-0.txt
+GA, average time , 0.0730999946594,knapsack_ga_60-30-1-24-0.txt
+GA, average results , 3991.37536646,knapsack_ga_60-30-1-24-3.txt
+GA, average feval calls , 24031.0,knapsack_ga_60-30-1-24-3.txt
+GA, average time , 0.0978000164032,knapsack_ga_60-30-1-24-3.txt
+GA, average results , 3613.14659562,knapsack_ga_60-30-1-30-0.txt
+GA, average feval calls , 30031.0,knapsack_ga_60-30-1-30-0.txt
+GA, average time , 0.0566999912262,knapsack_ga_60-30-1-30-0.txt
+GA, average results , 4359.84986987,knapsack_ga_60-30-1-30-3.txt
+GA, average feval calls , 30031.0,knapsack_ga_60-30-1-30-3.txt
+GA, average time , 0.0710000038147,knapsack_ga_60-30-1-30-3.txt
+GA, average results , 3685.56426317,knapsack_ga_60-30-2-12-0.txt
+GA, average feval calls , 12031.0,knapsack_ga_60-30-2-12-0.txt
+GA, average time , 0.0881999969482,knapsack_ga_60-30-2-12-0.txt
+GA, average results , 4183.70764105,knapsack_ga_60-30-2-12-3.txt
+GA, average feval calls , 12031.0,knapsack_ga_60-30-2-12-3.txt
+GA, average time , 0.0519999980927,knapsack_ga_60-30-2-12-3.txt
+GA, average results , 3861.59837252,knapsack_ga_60-30-2-18-0.txt
+GA, average feval calls , 18031.0,knapsack_ga_60-30-2-18-0.txt
+GA, average time , 0.0870000123978,knapsack_ga_60-30-2-18-0.txt
+GA, average results , 4422.1262453,knapsack_ga_60-30-2-18-3.txt
+GA, average feval calls , 18031.0,knapsack_ga_60-30-2-18-3.txt
+GA, average time , 0.0539999961853,knapsack_ga_60-30-2-18-3.txt
+GA, average results , 3741.30960881,knapsack_ga_60-30-2-24-0.txt
+GA, average feval calls , 24031.0,knapsack_ga_60-30-2-24-0.txt
+GA, average time , 0.0604000091553,knapsack_ga_60-30-2-24-0.txt
+GA, average results , 4502.51250994,knapsack_ga_60-30-2-24-3.txt
+GA, average feval calls , 24031.0,knapsack_ga_60-30-2-24-3.txt
+GA, average time , 0.0672000169754,knapsack_ga_60-30-2-24-3.txt
+GA, average results , 3515.77057862,knapsack_ga_60-30-2-30-0.txt
+GA, average feval calls , 30031.0,knapsack_ga_60-30-2-30-0.txt
+GA, average time , 0.0732000112534,knapsack_ga_60-30-2-30-0.txt
+GA, average results , 3744.49756413,knapsack_ga_60-30-2-30-3.txt
+GA, average feval calls , 30031.0,knapsack_ga_60-30-2-30-3.txt
+GA, average time , 0.0750999927521,knapsack_ga_60-30-2-30-3.txt
+GA, average results , 4065.36995412,knapsack_ga_60-30-3-12-0.txt
+GA, average feval calls , 12031.0,knapsack_ga_60-30-3-12-0.txt
+GA, average time , 0.0368999958038,knapsack_ga_60-30-3-12-0.txt
+GA, average results , 4390.94045127,knapsack_ga_60-30-3-12-3.txt
+GA, average feval calls , 12031.0,knapsack_ga_60-30-3-12-3.txt
+GA, average time , 0.0404000043869,knapsack_ga_60-30-3-12-3.txt
+GA, average results , 3588.57653163,knapsack_ga_60-30-3-18-0.txt
+GA, average feval calls , 18031.0,knapsack_ga_60-30-3-18-0.txt
+GA, average time , 0.0554999828339,knapsack_ga_60-30-3-18-0.txt
+GA, average results , 4579.63455328,knapsack_ga_60-30-3-18-3.txt
+GA, average feval calls , 18031.0,knapsack_ga_60-30-3-18-3.txt
+GA, average time , 0.0591000080109,knapsack_ga_60-30-3-18-3.txt
+GA, average results , 3837.45736444,knapsack_ga_60-30-3-24-0.txt
+GA, average feval calls , 24031.0,knapsack_ga_60-30-3-24-0.txt
+GA, average time , 0.0871999979019,knapsack_ga_60-30-3-24-0.txt
+GA, average results , 4490.62916495,knapsack_ga_60-30-3-24-3.txt
+GA, average feval calls , 24031.0,knapsack_ga_60-30-3-24-3.txt
+GA, average time , 0.0802999973297,knapsack_ga_60-30-3-24-3.txt
+GA, average results , 4190.07891592,knapsack_ga_60-30-3-30-0.txt
+GA, average feval calls , 30031.0,knapsack_ga_60-30-3-30-0.txt
+GA, average time , 0.0938999891281,knapsack_ga_60-30-3-30-0.txt
+GA, average results , 4243.00057066,knapsack_ga_60-30-3-30-3.txt
+GA, average feval calls , 30031.0,knapsack_ga_60-30-3-30-3.txt
+GA, average time , 0.0700999975204,knapsack_ga_60-30-3-30-3.txt
+GA, average results , 4510.98291255,knapsack_ga_60-60-1-24-0.txt
+GA, average feval calls , 24061.0,knapsack_ga_60-60-1-24-0.txt
+GA, average time , 0.0779000043869,knapsack_ga_60-60-1-24-0.txt
+GA, average results , 4975.94083371,knapsack_ga_60-60-1-24-6.txt
+GA, average feval calls , 24061.0,knapsack_ga_60-60-1-24-6.txt
+GA, average time , 0.0885999917984,knapsack_ga_60-60-1-24-6.txt
+GA, average results , 4541.11891442,knapsack_ga_60-60-1-36-0.txt
+GA, average feval calls , 36061.0,knapsack_ga_60-60-1-36-0.txt
+GA, average time , 0.0976999998093,knapsack_ga_60-60-1-36-0.txt
+GA, average results , 4141.80342616,knapsack_ga_60-60-1-36-6.txt
+GA, average feval calls , 36061.0,knapsack_ga_60-60-1-36-6.txt
+GA, average time , 0.102199983597,knapsack_ga_60-60-1-36-6.txt
+GA, average results , 4274.14108186,knapsack_ga_60-60-1-48-0.txt
+GA, average feval calls , 48061.0,knapsack_ga_60-60-1-48-0.txt
+GA, average time , 0.136599993706,knapsack_ga_60-60-1-48-0.txt
+GA, average results , 4883.18323619,knapsack_ga_60-60-1-48-6.txt
+GA, average feval calls , 48061.0,knapsack_ga_60-60-1-48-6.txt
+GA, average time , 0.147900009155,knapsack_ga_60-60-1-48-6.txt
+GA, average results , 4648.75899668,knapsack_ga_60-60-1-60-0.txt
+GA, average feval calls , 60061.0,knapsack_ga_60-60-1-60-0.txt
+GA, average time , 0.10039999485,knapsack_ga_60-60-1-60-0.txt
+GA, average results , 4550.45687752,knapsack_ga_60-60-1-60-6.txt
+GA, average feval calls , 60061.0,knapsack_ga_60-60-1-60-6.txt
+GA, average time , 0.115699982643,knapsack_ga_60-60-1-60-6.txt
+GA, average results , 4892.29419543,knapsack_ga_60-60-2-24-0.txt
+GA, average feval calls , 24061.0,knapsack_ga_60-60-2-24-0.txt
+GA, average time , 0.0605999946594,knapsack_ga_60-60-2-24-0.txt
+GA, average results , 4215.54400894,knapsack_ga_60-60-2-24-6.txt
+GA, average feval calls , 24061.0,knapsack_ga_60-60-2-24-6.txt
+GA, average time , 0.069000005722,knapsack_ga_60-60-2-24-6.txt
+GA, average results , 4005.02956867,knapsack_ga_60-60-2-36-0.txt
+GA, average feval calls , 36061.0,knapsack_ga_60-60-2-36-0.txt
+GA, average time , 0.087299990654,knapsack_ga_60-60-2-36-0.txt
+GA, average results , 4651.70243605,knapsack_ga_60-60-2-36-6.txt
+GA, average feval calls , 36061.0,knapsack_ga_60-60-2-36-6.txt
+GA, average time , 0.0928999900818,knapsack_ga_60-60-2-36-6.txt
+GA, average results , 3884.04330099,knapsack_ga_60-60-2-48-0.txt
+GA, average feval calls , 48061.0,knapsack_ga_60-60-2-48-0.txt
+GA, average time , 0.1125,knapsack_ga_60-60-2-48-0.txt
+GA, average results , 4673.48711676,knapsack_ga_60-60-2-48-6.txt
+GA, average feval calls , 48061.0,knapsack_ga_60-60-2-48-6.txt
+GA, average time , 0.203900003433,knapsack_ga_60-60-2-48-6.txt
+GA, average results , 4380.22010461,knapsack_ga_60-60-2-60-0.txt
+GA, average feval calls , 60061.0,knapsack_ga_60-60-2-60-0.txt
+GA, average time , 0.152099990845,knapsack_ga_60-60-2-60-0.txt
+GA, average results , 4380.1187665,knapsack_ga_60-60-2-60-6.txt
+GA, average feval calls , 60061.0,knapsack_ga_60-60-2-60-6.txt
+GA, average time , 0.136899995804,knapsack_ga_60-60-2-60-6.txt
+GA, average results , 3908.74049054,knapsack_ga_60-60-3-24-0.txt
+GA, average feval calls , 24061.0,knapsack_ga_60-60-3-24-0.txt
+GA, average time , 0.0914000034332,knapsack_ga_60-60-3-24-0.txt
+GA, average results , 4900.97257271,knapsack_ga_60-60-3-24-6.txt
+GA, average feval calls , 24061.0,knapsack_ga_60-60-3-24-6.txt
+GA, average time , 0.121099996567,knapsack_ga_60-60-3-24-6.txt
+GA, average results , 4884.89896208,knapsack_ga_60-60-3-36-0.txt
+GA, average feval calls , 36061.0,knapsack_ga_60-60-3-36-0.txt
+GA, average time , 0.0953000068665,knapsack_ga_60-60-3-36-0.txt
+GA, average results , 4882.54198704,knapsack_ga_60-60-3-36-6.txt
+GA, average feval calls , 36061.0,knapsack_ga_60-60-3-36-6.txt
+GA, average time , 0.0953000068665,knapsack_ga_60-60-3-36-6.txt
+GA, average results , 4253.80849189,knapsack_ga_60-60-3-48-0.txt
+GA, average feval calls , 48061.0,knapsack_ga_60-60-3-48-0.txt
+GA, average time , 0.109899997711,knapsack_ga_60-60-3-48-0.txt
+GA, average results , 5154.39053722,knapsack_ga_60-60-3-48-6.txt
+GA, average feval calls , 48061.0,knapsack_ga_60-60-3-48-6.txt
+GA, average time , 0.109500002861,knapsack_ga_60-60-3-48-6.txt
+GA, average results , 4042.7175837,knapsack_ga_60-60-3-60-0.txt
+GA, average feval calls , 60061.0,knapsack_ga_60-60-3-60-0.txt
+GA, average time , 0.121000003815,knapsack_ga_60-60-3-60-0.txt
+GA, average results , 4722.32609639,knapsack_ga_60-60-3-60-6.txt
+GA, average feval calls , 60061.0,knapsack_ga_60-60-3-60-6.txt
+GA, average time , 0.127900004387,knapsack_ga_60-60-3-60-6.txt
+GA, average results , 6240.22359206,knapsack_ga_80-160-1-128-0.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-1-128-0.txt
+GA, average time , 0.315200018883,knapsack_ga_80-160-1-128-0.txt
+GA, average results , 7467.99551948,knapsack_ga_80-160-1-128-1.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-1-128-1.txt
+GA, average time , 0.271399998665,knapsack_ga_80-160-1-128-1.txt
+GA, average results , 6206.40060185,knapsack_ga_80-160-1-128-16.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-1-128-16.txt
+GA, average time , 0.278800010681,knapsack_ga_80-160-1-128-16.txt
+GA, average results , 6439.52358007,knapsack_ga_80-160-1-160-0.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-1-160-0.txt
+GA, average time , 0.315500020981,knapsack_ga_80-160-1-160-0.txt
+GA, average results , 6572.84137756,knapsack_ga_80-160-1-160-1.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-1-160-1.txt
+GA, average time , 0.37389998436,knapsack_ga_80-160-1-160-1.txt
+GA, average results , 5959.96596507,knapsack_ga_80-160-1-160-16.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-1-160-16.txt
+GA, average time , 0.385899996758,knapsack_ga_80-160-1-160-16.txt
+GA, average results , 6085.25459,knapsack_ga_80-160-1-64-0.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-1-64-0.txt
+GA, average time , 0.210899996758,knapsack_ga_80-160-1-64-0.txt
+GA, average results , 6213.78196858,knapsack_ga_80-160-1-64-1.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-1-64-1.txt
+GA, average time , 0.292899990082,knapsack_ga_80-160-1-64-1.txt
+GA, average results , 7336.07189982,knapsack_ga_80-160-1-64-16.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-1-64-16.txt
+GA, average time , 0.218700003624,knapsack_ga_80-160-1-64-16.txt
+GA, average results , 6821.43366139,knapsack_ga_80-160-1-96-0.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-1-96-0.txt
+GA, average time , 0.295900011063,knapsack_ga_80-160-1-96-0.txt
+GA, average results , 6884.46088502,knapsack_ga_80-160-1-96-1.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-1-96-1.txt
+GA, average time , 0.20640001297,knapsack_ga_80-160-1-96-1.txt
+GA, average results , 6187.64235925,knapsack_ga_80-160-1-96-16.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-1-96-16.txt
+GA, average time , 0.277200007439,knapsack_ga_80-160-1-96-16.txt
+GA, average results , 6306.12281699,knapsack_ga_80-160-2-128-0.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-2-128-0.txt
+GA, average time , 0.298900008202,knapsack_ga_80-160-2-128-0.txt
+GA, average results , 6340.32107097,knapsack_ga_80-160-2-128-1.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-2-128-1.txt
+GA, average time , 0.362400007248,knapsack_ga_80-160-2-128-1.txt
+GA, average results , 6702.21649006,knapsack_ga_80-160-2-128-16.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-2-128-16.txt
+GA, average time , 0.34399998188,knapsack_ga_80-160-2-128-16.txt
+GA, average results , 6130.7219732,knapsack_ga_80-160-2-160-0.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-2-160-0.txt
+GA, average time , 0.373400020599,knapsack_ga_80-160-2-160-0.txt
+GA, average results , 6827.06448265,knapsack_ga_80-160-2-160-1.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-2-160-1.txt
+GA, average time , 0.377799987793,knapsack_ga_80-160-2-160-1.txt
+GA, average results , 6848.19853875,knapsack_ga_80-160-2-160-16.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-2-160-16.txt
+GA, average time , 0.347899985313,knapsack_ga_80-160-2-160-16.txt
+GA, average results , 6758.01653025,knapsack_ga_80-160-2-64-0.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-2-64-0.txt
+GA, average time , 0.322800016403,knapsack_ga_80-160-2-64-0.txt
+GA, average results , 6550.81569984,knapsack_ga_80-160-2-64-1.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-2-64-1.txt
+GA, average time , 0.167300009727,knapsack_ga_80-160-2-64-1.txt
+GA, average results , 6595.82729282,knapsack_ga_80-160-2-64-16.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-2-64-16.txt
+GA, average time , 0.208400011063,knapsack_ga_80-160-2-64-16.txt
+GA, average results , 6101.02706865,knapsack_ga_80-160-2-96-0.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-2-96-0.txt
+GA, average time , 0.28820002079,knapsack_ga_80-160-2-96-0.txt
+GA, average results , 6751.32374016,knapsack_ga_80-160-2-96-1.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-2-96-1.txt
+GA, average time , 0.274099993706,knapsack_ga_80-160-2-96-1.txt
+GA, average results , 6877.0387763,knapsack_ga_80-160-2-96-16.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-2-96-16.txt
+GA, average time , 0.210800004005,knapsack_ga_80-160-2-96-16.txt
+GA, average results , 6231.52455627,knapsack_ga_80-160-3-128-0.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-3-128-0.txt
+GA, average time , 0.307299995422,knapsack_ga_80-160-3-128-0.txt
+GA, average results , 6579.81907098,knapsack_ga_80-160-3-128-1.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-3-128-1.txt
+GA, average time , 0.2992000103,knapsack_ga_80-160-3-128-1.txt
+GA, average results , 6992.73484166,knapsack_ga_80-160-3-128-16.txt
+GA, average feval calls , 128161.0,knapsack_ga_80-160-3-128-16.txt
+GA, average time , 0.297000002861,knapsack_ga_80-160-3-128-16.txt
+GA, average results , 6003.041197,knapsack_ga_80-160-3-160-0.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-3-160-0.txt
+GA, average time , 0.352400016785,knapsack_ga_80-160-3-160-0.txt
+GA, average results , 6680.10899543,knapsack_ga_80-160-3-160-1.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-3-160-1.txt
+GA, average time , 0.352200007439,knapsack_ga_80-160-3-160-1.txt
+GA, average results , 6638.39668331,knapsack_ga_80-160-3-160-16.txt
+GA, average feval calls , 160161.0,knapsack_ga_80-160-3-160-16.txt
+GA, average time , 0.353699994087,knapsack_ga_80-160-3-160-16.txt
+GA, average results , 7409.43140251,knapsack_ga_80-160-3-64-0.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-3-64-0.txt
+GA, average time , 0.159299993515,knapsack_ga_80-160-3-64-0.txt
+GA, average results , 7447.97945467,knapsack_ga_80-160-3-64-1.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-3-64-1.txt
+GA, average time , 0.186800003052,knapsack_ga_80-160-3-64-1.txt
+GA, average results , 6927.25233657,knapsack_ga_80-160-3-64-16.txt
+GA, average feval calls , 64161.0,knapsack_ga_80-160-3-64-16.txt
+GA, average time , 0.232800006866,knapsack_ga_80-160-3-64-16.txt
+GA, average results , 6605.51208448,knapsack_ga_80-160-3-96-0.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-3-96-0.txt
+GA, average time , 0.288300013542,knapsack_ga_80-160-3-96-0.txt
+GA, average results , 7118.47622807,knapsack_ga_80-160-3-96-1.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-3-96-1.txt
+GA, average time , 0.239800000191,knapsack_ga_80-160-3-96-1.txt
+GA, average results , 6384.20097441,knapsack_ga_80-160-3-96-16.txt
+GA, average feval calls , 96161.0,knapsack_ga_80-160-3-96-16.txt
+GA, average time , 0.222300004959,knapsack_ga_80-160-3-96-16.txt
+GA, average results , 7036.34010846,knapsack_ga_80-320-1-128-0.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-1-128-0.txt
+GA, average time , 0.363499999046,knapsack_ga_80-320-1-128-0.txt
+GA, average results , 7461.88641381,knapsack_ga_80-320-1-128-3.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-1-128-3.txt
+GA, average time , 0.359999990463,knapsack_ga_80-320-1-128-3.txt
+GA, average results , 7190.10790377,knapsack_ga_80-320-1-128-32.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-1-128-32.txt
+GA, average time , 0.337000012398,knapsack_ga_80-320-1-128-32.txt
+GA, average results , 6500.07826614,knapsack_ga_80-320-1-192-0.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-1-192-0.txt
+GA, average time , 0.506100010872,knapsack_ga_80-320-1-192-0.txt
+GA, average results , 7060.06416503,knapsack_ga_80-320-1-192-3.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-1-192-3.txt
+GA, average time , 0.531299996376,knapsack_ga_80-320-1-192-3.txt
+GA, average results , 7048.64628409,knapsack_ga_80-320-1-192-32.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-1-192-32.txt
+GA, average time , 0.460300016403,knapsack_ga_80-320-1-192-32.txt
+GA, average results , 7478.65043477,knapsack_ga_80-320-1-256-0.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-1-256-0.txt
+GA, average time , 0.649699997902,knapsack_ga_80-320-1-256-0.txt
+GA, average results , 6042.35090087,knapsack_ga_80-320-1-256-3.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-1-256-3.txt
+GA, average time , 0.556500005722,knapsack_ga_80-320-1-256-3.txt
+GA, average results , 6657.079676,knapsack_ga_80-320-1-256-32.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-1-256-32.txt
+GA, average time , 0.706200003624,knapsack_ga_80-320-1-256-32.txt
+GA, average results , 6882.24964783,knapsack_ga_80-320-1-320-0.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-1-320-0.txt
+GA, average time , 0.640599989891,knapsack_ga_80-320-1-320-0.txt
+GA, average results , 6774.43880929,knapsack_ga_80-320-1-320-3.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-1-320-3.txt
+GA, average time , 0.684800004959,knapsack_ga_80-320-1-320-3.txt
+GA, average results , 6311.25058033,knapsack_ga_80-320-1-320-32.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-1-320-32.txt
+GA, average time , 0.800199985504,knapsack_ga_80-320-1-320-32.txt
+GA, average results , 7835.74801475,knapsack_ga_80-320-2-128-0.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-2-128-0.txt
+GA, average time , 0.336000013351,knapsack_ga_80-320-2-128-0.txt
+GA, average results , 7513.66633925,knapsack_ga_80-320-2-128-3.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-2-128-3.txt
+GA, average time , 0.398600006104,knapsack_ga_80-320-2-128-3.txt
+GA, average results , 6175.79004211,knapsack_ga_80-320-2-128-32.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-2-128-32.txt
+GA, average time , 0.501600003242,knapsack_ga_80-320-2-128-32.txt
+GA, average results , 7847.36747933,knapsack_ga_80-320-2-192-0.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-2-192-0.txt
+GA, average time , 0.445899987221,knapsack_ga_80-320-2-192-0.txt
+GA, average results , 7047.16298518,knapsack_ga_80-320-2-192-3.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-2-192-3.txt
+GA, average time , 0.429000020027,knapsack_ga_80-320-2-192-3.txt
+GA, average results , 7255.65877403,knapsack_ga_80-320-2-192-32.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-2-192-32.txt
+GA, average time , 0.429600000381,knapsack_ga_80-320-2-192-32.txt
+GA, average results , 7475.96572956,knapsack_ga_80-320-2-256-0.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-2-256-0.txt
+GA, average time , 0.715000009537,knapsack_ga_80-320-2-256-0.txt
+GA, average results , 6788.31328891,knapsack_ga_80-320-2-256-3.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-2-256-3.txt
+GA, average time , 0.70759999752,knapsack_ga_80-320-2-256-3.txt
+GA, average results , 7107.79828749,knapsack_ga_80-320-2-256-32.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-2-256-32.txt
+GA, average time , 0.616299986839,knapsack_ga_80-320-2-256-32.txt
+GA, average results , 6303.51411345,knapsack_ga_80-320-2-320-0.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-2-320-0.txt
+GA, average time , 0.7617000103,knapsack_ga_80-320-2-320-0.txt
+GA, average results , 6666.16965069,knapsack_ga_80-320-2-320-3.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-2-320-3.txt
+GA, average time , 0.722300004959,knapsack_ga_80-320-2-320-3.txt
+GA, average results , 6902.65876248,knapsack_ga_80-320-2-320-32.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-2-320-32.txt
+GA, average time , 0.697500014305,knapsack_ga_80-320-2-320-32.txt
+GA, average results , 7440.65767406,knapsack_ga_80-320-3-128-0.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-3-128-0.txt
+GA, average time , 0.30150001049,knapsack_ga_80-320-3-128-0.txt
+GA, average results , 6765.5816282,knapsack_ga_80-320-3-128-3.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-3-128-3.txt
+GA, average time , 0.322399997711,knapsack_ga_80-320-3-128-3.txt
+GA, average results , 6968.33904226,knapsack_ga_80-320-3-128-32.txt
+GA, average feval calls , 128321.0,knapsack_ga_80-320-3-128-32.txt
+GA, average time , 0.341899991035,knapsack_ga_80-320-3-128-32.txt
+GA, average results , 6989.13048552,knapsack_ga_80-320-3-192-0.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-3-192-0.txt
+GA, average time , 0.407100009918,knapsack_ga_80-320-3-192-0.txt
+GA, average results , 7405.93474242,knapsack_ga_80-320-3-192-3.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-3-192-3.txt
+GA, average time , 0.41970000267,knapsack_ga_80-320-3-192-3.txt
+GA, average results , 6987.88229189,knapsack_ga_80-320-3-192-32.txt
+GA, average feval calls , 192321.0,knapsack_ga_80-320-3-192-32.txt
+GA, average time , 0.458499979973,knapsack_ga_80-320-3-192-32.txt
+GA, average results , 7148.53580905,knapsack_ga_80-320-3-256-0.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-3-256-0.txt
+GA, average time , 0.54889998436,knapsack_ga_80-320-3-256-0.txt
+GA, average results , 6519.17276421,knapsack_ga_80-320-3-256-3.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-3-256-3.txt
+GA, average time , 0.583300018311,knapsack_ga_80-320-3-256-3.txt
+GA, average results , 6898.66258795,knapsack_ga_80-320-3-256-32.txt
+GA, average feval calls , 256321.0,knapsack_ga_80-320-3-256-32.txt
+GA, average time , 0.603200006485,knapsack_ga_80-320-3-256-32.txt
+GA, average results , 8179.92623613,knapsack_ga_80-320-3-320-0.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-3-320-0.txt
+GA, average time , 0.765499997139,knapsack_ga_80-320-3-320-0.txt
+GA, average results , 7137.5243166,knapsack_ga_80-320-3-320-3.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-3-320-3.txt
+GA, average time , 0.708700013161,knapsack_ga_80-320-3-320-3.txt
+GA, average results , 7323.42582938,knapsack_ga_80-320-3-320-32.txt
+GA, average feval calls , 320321.0,knapsack_ga_80-320-3-320-32.txt
+GA, average time , 0.775599980354,knapsack_ga_80-320-3-320-32.txt
+GA, average results , 4937.41729774,knapsack_ga_80-40-1-16-0.txt
+GA, average feval calls , 16041.0,knapsack_ga_80-40-1-16-0.txt
+GA, average time , 0.0721999883652,knapsack_ga_80-40-1-16-0.txt
+GA, average results , 5101.86299341,knapsack_ga_80-40-1-16-4.txt
+GA, average feval calls , 16041.0,knapsack_ga_80-40-1-16-4.txt
+GA, average time , 0.0553000211716,knapsack_ga_80-40-1-16-4.txt
+GA, average results , 5495.09029257,knapsack_ga_80-40-1-24-0.txt
+GA, average feval calls , 24041.0,knapsack_ga_80-40-1-24-0.txt
+GA, average time , 0.121499991417,knapsack_ga_80-40-1-24-0.txt
+GA, average results , 6384.11141745,knapsack_ga_80-40-1-24-4.txt
+GA, average feval calls , 24041.0,knapsack_ga_80-40-1-24-4.txt
+GA, average time , 0.0794000148773,knapsack_ga_80-40-1-24-4.txt
+GA, average results , 5233.29500404,knapsack_ga_80-40-1-32-0.txt
+GA, average feval calls , 32041.0,knapsack_ga_80-40-1-32-0.txt
+GA, average time , 0.105599999428,knapsack_ga_80-40-1-32-0.txt
+GA, average results , 5809.64169062,knapsack_ga_80-40-1-32-4.txt
+GA, average feval calls , 32041.0,knapsack_ga_80-40-1-32-4.txt
+GA, average time , 0.128800010681,knapsack_ga_80-40-1-32-4.txt
+GA, average results , 5177.22212207,knapsack_ga_80-40-1-40-0.txt
+GA, average feval calls , 40041.0,knapsack_ga_80-40-1-40-0.txt
+GA, average time , 0.112800002098,knapsack_ga_80-40-1-40-0.txt
+GA, average results , 5496.56870119,knapsack_ga_80-40-1-40-4.txt
+GA, average feval calls , 40041.0,knapsack_ga_80-40-1-40-4.txt
+GA, average time , 0.109500002861,knapsack_ga_80-40-1-40-4.txt
+GA, average results , 4971.27790359,knapsack_ga_80-40-2-16-0.txt
+GA, average feval calls , 16041.0,knapsack_ga_80-40-2-16-0.txt
+GA, average time , 0.0480000019073,knapsack_ga_80-40-2-16-0.txt
+GA, average results , 5886.84875931,knapsack_ga_80-40-2-16-4.txt
+GA, average feval calls , 16041.0,knapsack_ga_80-40-2-16-4.txt
+GA, average time , 0.0503000020981,knapsack_ga_80-40-2-16-4.txt
+GA, average results , 5101.06103497,knapsack_ga_80-40-2-24-0.txt
+GA, average feval calls , 24041.0,knapsack_ga_80-40-2-24-0.txt
+GA, average time , 0.111999988556,knapsack_ga_80-40-2-24-0.txt
+GA, average results , 5134.9698427,knapsack_ga_80-40-2-24-4.txt
+GA, average feval calls , 24041.0,knapsack_ga_80-40-2-24-4.txt
+GA, average time , 0.104299998283,knapsack_ga_80-40-2-24-4.txt
+GA, average results , 5022.93542429,knapsack_ga_80-40-2-32-0.txt
+GA, average feval calls , 32041.0,knapsack_ga_80-40-2-32-0.txt
+GA, average time , 0.0750999927521,knapsack_ga_80-40-2-32-0.txt
+GA, average results , 5959.75581622,knapsack_ga_80-40-2-32-4.txt
+GA, average feval calls , 32041.0,knapsack_ga_80-40-2-32-4.txt
+GA, average time , 0.0819000005722,knapsack_ga_80-40-2-32-4.txt
+GA, average results , 5250.01144527,knapsack_ga_80-40-2-40-0.txt
+GA, average feval calls , 40041.0,knapsack_ga_80-40-2-40-0.txt
+GA, average time , 0.119299983978,knapsack_ga_80-40-2-40-0.txt
+GA, average results , 5355.65231065,knapsack_ga_80-40-2-40-4.txt
+GA, average feval calls , 40041.0,knapsack_ga_80-40-2-40-4.txt
+GA, average time , 0.125999999046,knapsack_ga_80-40-2-40-4.txt
+GA, average results , 4770.01721951,knapsack_ga_80-40-3-16-0.txt
+GA, average feval calls , 16041.0,knapsack_ga_80-40-3-16-0.txt
+GA, average time , 0.0516999959946,knapsack_ga_80-40-3-16-0.txt
+GA, average results , 5864.18122194,knapsack_ga_80-40-3-16-4.txt
+GA, average feval calls , 16041.0,knapsack_ga_80-40-3-16-4.txt
+GA, average time , 0.0555000066757,knapsack_ga_80-40-3-16-4.txt
+GA, average results , 5037.73388185,knapsack_ga_80-40-3-24-0.txt
+GA, average feval calls , 24041.0,knapsack_ga_80-40-3-24-0.txt
+GA, average time , 0.0940999984741,knapsack_ga_80-40-3-24-0.txt
+GA, average results , 5881.5875608,knapsack_ga_80-40-3-24-4.txt
+GA, average feval calls , 24041.0,knapsack_ga_80-40-3-24-4.txt
+GA, average time , 0.0679999828339,knapsack_ga_80-40-3-24-4.txt
+GA, average results , 5111.23294486,knapsack_ga_80-40-3-32-0.txt
+GA, average feval calls , 32041.0,knapsack_ga_80-40-3-32-0.txt
+GA, average time , 0.121600008011,knapsack_ga_80-40-3-32-0.txt
+GA, average results , 5528.0900984,knapsack_ga_80-40-3-32-4.txt
+GA, average feval calls , 32041.0,knapsack_ga_80-40-3-32-4.txt
+GA, average time , 0.120399999619,knapsack_ga_80-40-3-32-4.txt
+GA, average results , 4833.09864112,knapsack_ga_80-40-3-40-0.txt
+GA, average feval calls , 40041.0,knapsack_ga_80-40-3-40-0.txt
+GA, average time , 0.0943000078201,knapsack_ga_80-40-3-40-0.txt
+GA, average results , 5188.19508637,knapsack_ga_80-40-3-40-4.txt
+GA, average feval calls , 40041.0,knapsack_ga_80-40-3-40-4.txt
+GA, average time , 0.111100006104,knapsack_ga_80-40-3-40-4.txt
+GA, average results , 5638.29930373,knapsack_ga_80-80-1-32-0.txt
+GA, average feval calls , 32081.0,knapsack_ga_80-80-1-32-0.txt
+GA, average time , 0.0878000020981,knapsack_ga_80-80-1-32-0.txt
+GA, average results , 6308.48605496,knapsack_ga_80-80-1-32-8.txt
+GA, average feval calls , 32081.0,knapsack_ga_80-80-1-32-8.txt
+GA, average time , 0.115899991989,knapsack_ga_80-80-1-32-8.txt
+GA, average results , 5719.3408452,knapsack_ga_80-80-1-48-0.txt
+GA, average feval calls , 48081.0,knapsack_ga_80-80-1-48-0.txt
+GA, average time , 0.202100014687,knapsack_ga_80-80-1-48-0.txt
+GA, average results , 6192.81484895,knapsack_ga_80-80-1-48-8.txt
+GA, average feval calls , 48081.0,knapsack_ga_80-80-1-48-8.txt
+GA, average time , 0.127100014687,knapsack_ga_80-80-1-48-8.txt
+GA, average results , 5615.82856108,knapsack_ga_80-80-1-64-0.txt
+GA, average feval calls , 64081.0,knapsack_ga_80-80-1-64-0.txt
+GA, average time , 0.175899982452,knapsack_ga_80-80-1-64-0.txt
+GA, average results , 6429.37141203,knapsack_ga_80-80-1-64-8.txt
+GA, average feval calls , 64081.0,knapsack_ga_80-80-1-64-8.txt
+GA, average time , 0.15,knapsack_ga_80-80-1-64-8.txt
+GA, average results , 6175.05537181,knapsack_ga_80-80-1-80-0.txt
+GA, average feval calls , 80081.0,knapsack_ga_80-80-1-80-0.txt
+GA, average time , 0.208100008965,knapsack_ga_80-80-1-80-0.txt
+GA, average results , 6475.94951468,knapsack_ga_80-80-1-80-8.txt
+GA, average feval calls , 80081.0,knapsack_ga_80-80-1-80-8.txt
+GA, average time , 0.202999997139,knapsack_ga_80-80-1-80-8.txt
+GA, average results , 5345.09915319,knapsack_ga_80-80-2-32-0.txt
+GA, average feval calls , 32081.0,knapsack_ga_80-80-2-32-0.txt
+GA, average time , 0.110700011253,knapsack_ga_80-80-2-32-0.txt
+GA, average results , 5762.94566401,knapsack_ga_80-80-2-32-8.txt
+GA, average feval calls , 32081.0,knapsack_ga_80-80-2-32-8.txt
+GA, average time , 0.0875999927521,knapsack_ga_80-80-2-32-8.txt
+GA, average results , 5476.42867137,knapsack_ga_80-80-2-48-0.txt
+GA, average feval calls , 48081.0,knapsack_ga_80-80-2-48-0.txt
+GA, average time , 0.128999996185,knapsack_ga_80-80-2-48-0.txt
+GA, average results , 6769.79175783,knapsack_ga_80-80-2-48-8.txt
+GA, average feval calls , 48081.0,knapsack_ga_80-80-2-48-8.txt
+GA, average time , 0.114199995995,knapsack_ga_80-80-2-48-8.txt
+GA, average results , 5583.90583574,knapsack_ga_80-80-2-64-0.txt
+GA, average feval calls , 64081.0,knapsack_ga_80-80-2-64-0.txt
+GA, average time , 0.157399988174,knapsack_ga_80-80-2-64-0.txt
+GA, average results , 6624.86134933,knapsack_ga_80-80-2-64-8.txt
+GA, average feval calls , 64081.0,knapsack_ga_80-80-2-64-8.txt
+GA, average time , 0.187699985504,knapsack_ga_80-80-2-64-8.txt
+GA, average results , 5899.67143957,knapsack_ga_80-80-2-80-0.txt
+GA, average feval calls , 80081.0,knapsack_ga_80-80-2-80-0.txt
+GA, average time , 0.173399996758,knapsack_ga_80-80-2-80-0.txt
+GA, average results , 6597.317522,knapsack_ga_80-80-2-80-8.txt
+GA, average feval calls , 80081.0,knapsack_ga_80-80-2-80-8.txt
+GA, average time , 0.191100001335,knapsack_ga_80-80-2-80-8.txt
+GA, average results , 5841.5163797,knapsack_ga_80-80-3-32-0.txt
+GA, average feval calls , 32081.0,knapsack_ga_80-80-3-32-0.txt
+GA, average time , 0.150999999046,knapsack_ga_80-80-3-32-0.txt
+GA, average results , 6509.38184603,knapsack_ga_80-80-3-32-8.txt
+GA, average feval calls , 32081.0,knapsack_ga_80-80-3-32-8.txt
+GA, average time , 0.0842000007629,knapsack_ga_80-80-3-32-8.txt
+GA, average results , 5716.92273256,knapsack_ga_80-80-3-48-0.txt
+GA, average feval calls , 48081.0,knapsack_ga_80-80-3-48-0.txt
+GA, average time , 0.158999991417,knapsack_ga_80-80-3-48-0.txt
+GA, average results , 6673.45838611,knapsack_ga_80-80-3-48-8.txt
+GA, average feval calls , 48081.0,knapsack_ga_80-80-3-48-8.txt
+GA, average time , 0.11289999485,knapsack_ga_80-80-3-48-8.txt
+GA, average results , 6126.91411054,knapsack_ga_80-80-3-64-0.txt
+GA, average feval calls , 64081.0,knapsack_ga_80-80-3-64-0.txt
+GA, average time , 0.157100009918,knapsack_ga_80-80-3-64-0.txt
+GA, average results , 6150.17245626,knapsack_ga_80-80-3-64-8.txt
+GA, average feval calls , 64081.0,knapsack_ga_80-80-3-64-8.txt
+GA, average time , 0.198000001907,knapsack_ga_80-80-3-64-8.txt
+GA, average results , 5989.12326352,knapsack_ga_80-80-3-80-0.txt
+GA, average feval calls , 80081.0,knapsack_ga_80-80-3-80-0.txt
+GA, average time , 0.177200007439,knapsack_ga_80-80-3-80-0.txt
+GA, average results , 6014.55811959,knapsack_ga_80-80-3-80-8.txt
+GA, average feval calls , 80081.0,knapsack_ga_80-80-3-80-8.txt
+GA, average time , 0.211199998856,knapsack_ga_80-80-3-80-8.txt
+MIMIC, average results, 9145.26022245,knapsack_MIMIC-100-100-20.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-100-100-20.txt
+MIMIC, average time , 11.0026000023,knapsack_MIMIC-100-100-20.txt
+MIMIC, average results, 8057.84725518,knapsack_MIMIC-100-100-50.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-100-100-50.txt
+MIMIC, average time , 16.6674999952,knapsack_MIMIC-100-100-50.txt
+MIMIC, average results, 9786.26667033,knapsack_MIMIC-100-100-70.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-100-100-70.txt
+MIMIC, average time , 19.4191999912,knapsack_MIMIC-100-100-70.txt
+MIMIC, average results, 7934.0436423,knapsack_MIMIC-100-100-90.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-100-100-90.txt
+MIMIC, average time , 24.8887000084,knapsack_MIMIC-100-100-90.txt
+MIMIC, average results, 8509.89772165,knapsack_MIMIC-100-120-108.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-100-120-108.txt
+MIMIC, average time , 27.0205999851,knapsack_MIMIC-100-120-108.txt
+MIMIC, average results, 9876.19548525,knapsack_MIMIC-100-120-24.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-100-120-24.txt
+MIMIC, average time , 12.1864000082,knapsack_MIMIC-100-120-24.txt
+MIMIC, average results, 7942.8002386,knapsack_MIMIC-100-120-60.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-100-120-60.txt
+MIMIC, average time , 18.3717999935,knapsack_MIMIC-100-120-60.txt
+MIMIC, average results, 7871.65965168,knapsack_MIMIC-100-120-84.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-100-120-84.txt
+MIMIC, average time , 22.304399991,knapsack_MIMIC-100-120-84.txt
+MIMIC, average results, 8748.58090626,knapsack_MIMIC-100-140-126.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-100-140-126.txt
+MIMIC, average time , 19.1503000021,knapsack_MIMIC-100-140-126.txt
+MIMIC, average results, 9420.62562137,knapsack_MIMIC-100-140-28.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-100-140-28.txt
+MIMIC, average time , 12.0231999874,knapsack_MIMIC-100-140-28.txt
+MIMIC, average results, 9046.73737798,knapsack_MIMIC-100-140-70.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-100-140-70.txt
+MIMIC, average time , 18.9101999998,knapsack_MIMIC-100-140-70.txt
+MIMIC, average results, 9662.25128449,knapsack_MIMIC-100-140-98.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-100-140-98.txt
+MIMIC, average time , 18.4003000021,knapsack_MIMIC-100-140-98.txt
+MIMIC, average results, 9819.11385196,knapsack_MIMIC-100-40-20.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-100-40-20.txt
+MIMIC, average time , 10.6414999962,knapsack_MIMIC-100-40-20.txt
+MIMIC, average results, 9269.82655101,knapsack_MIMIC-100-40-28.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-100-40-28.txt
+MIMIC, average time , 12.2162000179,knapsack_MIMIC-100-40-28.txt
+MIMIC, average results, 8080.65921836,knapsack_MIMIC-100-40-36.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-100-40-36.txt
+MIMIC, average time , 13.8443000078,knapsack_MIMIC-100-40-36.txt
+MIMIC, average results, 9939.02513815,knapsack_MIMIC-100-40-8.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-100-40-8.txt
+MIMIC, average time , 8.62079999447,knapsack_MIMIC-100-40-8.txt
+MIMIC, average results, 8851.02930715,knapsack_MIMIC-100-60-12.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-100-60-12.txt
+MIMIC, average time , 9.06640000343,knapsack_MIMIC-100-60-12.txt
+MIMIC, average results, 8635.20591407,knapsack_MIMIC-100-60-30.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-100-60-30.txt
+MIMIC, average time , 12.8532000065,knapsack_MIMIC-100-60-30.txt
+MIMIC, average results, 9293.22190794,knapsack_MIMIC-100-60-42.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-100-60-42.txt
+MIMIC, average time , 16.0840999842,knapsack_MIMIC-100-60-42.txt
+MIMIC, average results, 7930.49829396,knapsack_MIMIC-100-60-54.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-100-60-54.txt
+MIMIC, average time , 18.0016000032,knapsack_MIMIC-100-60-54.txt
+MIMIC, average results, 9066.2780846,knapsack_MIMIC-100-80-16.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-100-80-16.txt
+MIMIC, average time , 10.534800005,knapsack_MIMIC-100-80-16.txt
+MIMIC, average results, 8688.23327473,knapsack_MIMIC-100-80-40.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-100-80-40.txt
+MIMIC, average time , 14.7600000143,knapsack_MIMIC-100-80-40.txt
+MIMIC, average results, 8626.97683386,knapsack_MIMIC-100-80-56.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-100-80-56.txt
+MIMIC, average time , 18.0332000017,knapsack_MIMIC-100-80-56.txt
+MIMIC, average results, 7840.64819088,knapsack_MIMIC-100-80-72.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-100-80-72.txt
+MIMIC, average time , 22.6702000141,knapsack_MIMIC-100-80-72.txt
+MIMIC, average results, 11178.2877452,knapsack_MIMIC-120-100-20.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-120-100-20.txt
+MIMIC, average time , 9.04720001221,knapsack_MIMIC-120-100-20.txt
+MIMIC, average results, 10615.3602363,knapsack_MIMIC-120-100-50.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-120-100-50.txt
+MIMIC, average time , 13.2617999792,knapsack_MIMIC-120-100-50.txt
+MIMIC, average results, 9663.67439563,knapsack_MIMIC-120-100-70.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-120-100-70.txt
+MIMIC, average time , 16.3617000103,knapsack_MIMIC-120-100-70.txt
+MIMIC, average results, 9213.57388904,knapsack_MIMIC-120-100-90.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-120-100-90.txt
+MIMIC, average time , 19.5897000074,knapsack_MIMIC-120-100-90.txt
+MIMIC, average results, 9322.19180838,knapsack_MIMIC-120-120-108.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-120-120-108.txt
+MIMIC, average time , 22.7041999817,knapsack_MIMIC-120-120-108.txt
+MIMIC, average results, 10596.8062749,knapsack_MIMIC-120-120-24.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-120-120-24.txt
+MIMIC, average time , 9.6496999979,knapsack_MIMIC-120-120-24.txt
+MIMIC, average results, 11304.2969177,knapsack_MIMIC-120-120-60.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-120-120-60.txt
+MIMIC, average time , 14.7934000015,knapsack_MIMIC-120-120-60.txt
+MIMIC, average results, 10660.3543503,knapsack_MIMIC-120-120-84.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-120-120-84.txt
+MIMIC, average time , 18.569299984,knapsack_MIMIC-120-120-84.txt
+MIMIC, average results, 11077.5907891,knapsack_MIMIC-120-140-126.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-120-140-126.txt
+MIMIC, average time , 26.9417999983,knapsack_MIMIC-120-140-126.txt
+MIMIC, average results, 11203.0694901,knapsack_MIMIC-120-140-28.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-120-140-28.txt
+MIMIC, average time , 10.7605000019,knapsack_MIMIC-120-140-28.txt
+MIMIC, average results, 10655.8493917,knapsack_MIMIC-120-140-70.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-120-140-70.txt
+MIMIC, average time , 16.5592000008,knapsack_MIMIC-120-140-70.txt
+MIMIC, average results, 10299.7284033,knapsack_MIMIC-120-140-98.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-120-140-98.txt
+MIMIC, average time , 21.1423000097,knapsack_MIMIC-120-140-98.txt
+MIMIC, average results, 10886.5735435,knapsack_MIMIC-120-40-20.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-120-40-20.txt
+MIMIC, average time , 8.28919999599,knapsack_MIMIC-120-40-20.txt
+MIMIC, average results, 10141.8864765,knapsack_MIMIC-120-40-28.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-120-40-28.txt
+MIMIC, average time , 9.64739999771,knapsack_MIMIC-120-40-28.txt
+MIMIC, average results, 9542.53915723,knapsack_MIMIC-120-40-36.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-120-40-36.txt
+MIMIC, average time , 11.5236999989,knapsack_MIMIC-120-40-36.txt
+MIMIC, average results, 11690.02966,knapsack_MIMIC-120-40-8.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-120-40-8.txt
+MIMIC, average time , 6.84070000648,knapsack_MIMIC-120-40-8.txt
+MIMIC, average results, 10594.971729,knapsack_MIMIC-120-60-12.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-120-60-12.txt
+MIMIC, average time , 7.45439999104,knapsack_MIMIC-120-60-12.txt
+MIMIC, average results, 10931.8918815,knapsack_MIMIC-120-60-30.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-120-60-30.txt
+MIMIC, average time , 9.9361000061,knapsack_MIMIC-120-60-30.txt
+MIMIC, average results, 10370.7383016,knapsack_MIMIC-120-60-42.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-120-60-42.txt
+MIMIC, average time , 11.8415999889,knapsack_MIMIC-120-60-42.txt
+MIMIC, average results, 9108.13944716,knapsack_MIMIC-120-60-54.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-120-60-54.txt
+MIMIC, average time , 14.1026000023,knapsack_MIMIC-120-60-54.txt
+MIMIC, average results, 11091.5377903,knapsack_MIMIC-120-80-16.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-120-80-16.txt
+MIMIC, average time , 8.48040001392,knapsack_MIMIC-120-80-16.txt
+MIMIC, average results, 10674.0827573,knapsack_MIMIC-120-80-40.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-120-80-40.txt
+MIMIC, average time , 11.4071000099,knapsack_MIMIC-120-80-40.txt
+MIMIC, average results, 11491.2899439,knapsack_MIMIC-120-80-56.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-120-80-56.txt
+MIMIC, average time , 14.1375,knapsack_MIMIC-120-80-56.txt
+MIMIC, average results, 10239.3347741,knapsack_MIMIC-120-80-72.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-120-80-72.txt
+MIMIC, average time , 17.1028000116,knapsack_MIMIC-120-80-72.txt
+MIMIC, average results, 13237.110496,knapsack_MIMIC-140-100-20.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-140-100-20.txt
+MIMIC, average time , 12.7123999834,knapsack_MIMIC-140-100-20.txt
+MIMIC, average results, 12240.079896,knapsack_MIMIC-140-100-50.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-140-100-50.txt
+MIMIC, average time , 19.5894000053,knapsack_MIMIC-140-100-50.txt
+MIMIC, average results, 11661.8120013,knapsack_MIMIC-140-100-70.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-140-100-70.txt
+MIMIC, average time , 24.4396999836,knapsack_MIMIC-140-100-70.txt
+MIMIC, average results, 11265.8114062,knapsack_MIMIC-140-100-90.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-140-100-90.txt
+MIMIC, average time , 30.1986000061,knapsack_MIMIC-140-100-90.txt
+MIMIC, average results, 11984.9361123,knapsack_MIMIC-140-120-108.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-140-120-108.txt
+MIMIC, average time , 30.2189999819,knapsack_MIMIC-140-120-108.txt
+MIMIC, average results, 13251.8965927,knapsack_MIMIC-140-120-24.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-140-120-24.txt
+MIMIC, average time , 13.8440000057,knapsack_MIMIC-140-120-24.txt
+MIMIC, average results, 12363.0564868,knapsack_MIMIC-140-120-60.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-140-120-60.txt
+MIMIC, average time , 21.9120000124,knapsack_MIMIC-140-120-60.txt
+MIMIC, average results, 11965.808338,knapsack_MIMIC-140-120-84.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-140-120-84.txt
+MIMIC, average time , 24.6049999952,knapsack_MIMIC-140-120-84.txt
+MIMIC, average results, 11196.7299538,knapsack_MIMIC-140-140-126.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-140-140-126.txt
+MIMIC, average time , 34.409100008,knapsack_MIMIC-140-140-126.txt
+MIMIC, average results, 12459.9314945,knapsack_MIMIC-140-140-28.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-140-140-28.txt
+MIMIC, average time , 12.8411999941,knapsack_MIMIC-140-140-28.txt
+MIMIC, average results, 12094.5462593,knapsack_MIMIC-140-140-70.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-140-140-70.txt
+MIMIC, average time , 21.5420000076,knapsack_MIMIC-140-140-70.txt
+MIMIC, average results, 13825.9198842,knapsack_MIMIC-140-140-98.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-140-140-98.txt
+MIMIC, average time , 27.8174999952,knapsack_MIMIC-140-140-98.txt
+MIMIC, average results, 12659.9447792,knapsack_MIMIC-140-40-20.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-140-40-20.txt
+MIMIC, average time , 12.2631999969,knapsack_MIMIC-140-40-20.txt
+MIMIC, average results, 11826.6115626,knapsack_MIMIC-140-40-28.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-140-40-28.txt
+MIMIC, average time , 14.5020000219,knapsack_MIMIC-140-40-28.txt
+MIMIC, average results, 9749.99345677,knapsack_MIMIC-140-40-36.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-140-40-36.txt
+MIMIC, average time , 17.5131000042,knapsack_MIMIC-140-40-36.txt
+MIMIC, average results, 12868.1098082,knapsack_MIMIC-140-40-8.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-140-40-8.txt
+MIMIC, average time , 9.39849998951,knapsack_MIMIC-140-40-8.txt
+MIMIC, average results, 11693.8772834,knapsack_MIMIC-140-60-12.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-140-60-12.txt
+MIMIC, average time , 9.98369998932,knapsack_MIMIC-140-60-12.txt
+MIMIC, average results, 12311.8038596,knapsack_MIMIC-140-60-30.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-140-60-30.txt
+MIMIC, average time , 14.4535000086,knapsack_MIMIC-140-60-30.txt
+MIMIC, average results, 11364.2469652,knapsack_MIMIC-140-60-42.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-140-60-42.txt
+MIMIC, average time , 17.6463999987,knapsack_MIMIC-140-60-42.txt
+MIMIC, average results, 10407.1964242,knapsack_MIMIC-140-60-54.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-140-60-54.txt
+MIMIC, average time , 21.0148999929,knapsack_MIMIC-140-60-54.txt
+MIMIC, average results, 12967.6592295,knapsack_MIMIC-140-80-16.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-140-80-16.txt
+MIMIC, average time , 11.4219000101,knapsack_MIMIC-140-80-16.txt
+MIMIC, average results, 12116.4012484,knapsack_MIMIC-140-80-40.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-140-80-40.txt
+MIMIC, average time , 16.9320999861,knapsack_MIMIC-140-80-40.txt
+MIMIC, average results, 12174.6308118,knapsack_MIMIC-140-80-56.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-140-80-56.txt
+MIMIC, average time , 20.8731999874,knapsack_MIMIC-140-80-56.txt
+MIMIC, average results, 11122.5950884,knapsack_MIMIC-140-80-72.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-140-80-72.txt
+MIMIC, average time , 26.116899991,knapsack_MIMIC-140-80-72.txt
+MIMIC, average results, 4077.58203043,knapsack_MIMIC-40-100-20.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-40-100-20.txt
+MIMIC, average time , 2.57899999619,knapsack_MIMIC-40-100-20.txt
+MIMIC, average results, 3692.03103729,knapsack_MIMIC-40-100-50.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-40-100-50.txt
+MIMIC, average time , 3.46459999084,knapsack_MIMIC-40-100-50.txt
+MIMIC, average results, 3425.33586271,knapsack_MIMIC-40-100-70.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-40-100-70.txt
+MIMIC, average time , 4.30759999752,knapsack_MIMIC-40-100-70.txt
+MIMIC, average results, 3133.24633303,knapsack_MIMIC-40-100-90.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-40-100-90.txt
+MIMIC, average time , 5.16849999428,knapsack_MIMIC-40-100-90.txt
+MIMIC, average results, 3755.75961115,knapsack_MIMIC-40-120-108.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-40-120-108.txt
+MIMIC, average time , 6.30320000648,knapsack_MIMIC-40-120-108.txt
+MIMIC, average results, 4189.59456119,knapsack_MIMIC-40-120-24.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-40-120-24.txt
+MIMIC, average time , 2.81849999428,knapsack_MIMIC-40-120-24.txt
+MIMIC, average results, 3294.04230331,knapsack_MIMIC-40-120-60.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-40-120-60.txt
+MIMIC, average time , 4.20969998837,knapsack_MIMIC-40-120-60.txt
+MIMIC, average results, 3644.64864886,knapsack_MIMIC-40-120-84.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-40-120-84.txt
+MIMIC, average time , 4.95389997959,knapsack_MIMIC-40-120-84.txt
+MIMIC, average results, 2863.75011872,knapsack_MIMIC-40-140-126.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-40-140-126.txt
+MIMIC, average time , 6.47140002251,knapsack_MIMIC-40-140-126.txt
+MIMIC, average results, 4041.60671455,knapsack_MIMIC-40-140-28.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-40-140-28.txt
+MIMIC, average time , 2.98890001774,knapsack_MIMIC-40-140-28.txt
+MIMIC, average results, 2957.89251456,knapsack_MIMIC-40-140-70.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-40-140-70.txt
+MIMIC, average time , 4.46430001259,knapsack_MIMIC-40-140-70.txt
+MIMIC, average results, 4019.67938253,knapsack_MIMIC-40-140-98.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-40-140-98.txt
+MIMIC, average time , 5.68380000591,knapsack_MIMIC-40-140-98.txt
+MIMIC, average results, 3877.40524958,knapsack_MIMIC-40-40-20.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-40-40-20.txt
+MIMIC, average time , 2.20889999866,knapsack_MIMIC-40-40-20.txt
+MIMIC, average results, 3441.49865146,knapsack_MIMIC-40-40-28.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-40-40-28.txt
+MIMIC, average time , 2.21540000439,knapsack_MIMIC-40-40-28.txt
+MIMIC, average results, 3596.04466003,knapsack_MIMIC-40-40-36.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-40-40-36.txt
+MIMIC, average time , 2.65979998112,knapsack_MIMIC-40-40-36.txt
+MIMIC, average results, 3456.47809885,knapsack_MIMIC-40-40-8.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-40-40-8.txt
+MIMIC, average time , 1.87389998436,knapsack_MIMIC-40-40-8.txt
+MIMIC, average results, 3841.28957604,knapsack_MIMIC-40-60-12.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-40-60-12.txt
+MIMIC, average time , 1.99670000076,knapsack_MIMIC-40-60-12.txt
+MIMIC, average results, 3427.49056605,knapsack_MIMIC-40-60-30.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-40-60-30.txt
+MIMIC, average time , 2.31540000439,knapsack_MIMIC-40-60-30.txt
+MIMIC, average results, 3216.41708617,knapsack_MIMIC-40-60-42.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-40-60-42.txt
+MIMIC, average time , 2.80769999027,knapsack_MIMIC-40-60-42.txt
+MIMIC, average results, 3532.94017059,knapsack_MIMIC-40-60-54.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-40-60-54.txt
+MIMIC, average time , 3.0268999815,knapsack_MIMIC-40-60-54.txt
+MIMIC, average results, 3740.34540723,knapsack_MIMIC-40-80-16.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-40-80-16.txt
+MIMIC, average time , 2.05460000038,knapsack_MIMIC-40-80-16.txt
+MIMIC, average results, 3578.59427295,knapsack_MIMIC-40-80-40.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-40-80-40.txt
+MIMIC, average time , 2.84100000858,knapsack_MIMIC-40-80-40.txt
+MIMIC, average results, 3392.86062327,knapsack_MIMIC-40-80-56.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-40-80-56.txt
+MIMIC, average time , 3.24649999142,knapsack_MIMIC-40-80-56.txt
+MIMIC, average results, 3747.4643042,knapsack_MIMIC-40-80-72.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-40-80-72.txt
+MIMIC, average time , 3.90639998913,knapsack_MIMIC-40-80-72.txt
+MIMIC, average results, 5102.77696496,knapsack_MIMIC-60-100-20.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-60-100-20.txt
+MIMIC, average time , 5.00409998894,knapsack_MIMIC-60-100-20.txt
+MIMIC, average results, 5002.20681704,knapsack_MIMIC-60-100-50.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-60-100-50.txt
+MIMIC, average time , 8.27619998455,knapsack_MIMIC-60-100-50.txt
+MIMIC, average results, 5555.91788736,knapsack_MIMIC-60-100-70.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-60-100-70.txt
+MIMIC, average time , 9.49129998684,knapsack_MIMIC-60-100-70.txt
+MIMIC, average results, 4678.51005285,knapsack_MIMIC-60-100-90.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-60-100-90.txt
+MIMIC, average time , 10.2195999861,knapsack_MIMIC-60-100-90.txt
+MIMIC, average results, 5094.63495362,knapsack_MIMIC-60-120-108.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-60-120-108.txt
+MIMIC, average time , 9.86510000229,knapsack_MIMIC-60-120-108.txt
+MIMIC, average results, 5663.86112524,knapsack_MIMIC-60-120-24.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-60-120-24.txt
+MIMIC, average time , 5.13040001392,knapsack_MIMIC-60-120-24.txt
+MIMIC, average results, 5441.46325594,knapsack_MIMIC-60-120-60.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-60-120-60.txt
+MIMIC, average time , 7.2617000103,knapsack_MIMIC-60-120-60.txt
+MIMIC, average results, 5370.56026742,knapsack_MIMIC-60-120-84.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-60-120-84.txt
+MIMIC, average time , 9.8385999918,knapsack_MIMIC-60-120-84.txt
+MIMIC, average results, 4600.86560635,knapsack_MIMIC-60-140-126.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-60-140-126.txt
+MIMIC, average time , 13.3578000069,knapsack_MIMIC-60-140-126.txt
+MIMIC, average results, 5888.54357802,knapsack_MIMIC-60-140-28.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-60-140-28.txt
+MIMIC, average time , 5.4875,knapsack_MIMIC-60-140-28.txt
+MIMIC, average results, 5144.67963869,knapsack_MIMIC-60-140-70.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-60-140-70.txt
+MIMIC, average time , 8.85709998608,knapsack_MIMIC-60-140-70.txt
+MIMIC, average results, 5420.77562719,knapsack_MIMIC-60-140-98.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-60-140-98.txt
+MIMIC, average time , 11.4719000101,knapsack_MIMIC-60-140-98.txt
+MIMIC, average results, 5425.77910182,knapsack_MIMIC-60-40-20.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-60-40-20.txt
+MIMIC, average time , 4.28989999294,knapsack_MIMIC-60-40-20.txt
+MIMIC, average results, 5892.764902,knapsack_MIMIC-60-40-28.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-60-40-28.txt
+MIMIC, average time , 4.83579998016,knapsack_MIMIC-60-40-28.txt
+MIMIC, average results, 4588.17079503,knapsack_MIMIC-60-40-36.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-60-40-36.txt
+MIMIC, average time , 5.92660000324,knapsack_MIMIC-60-40-36.txt
+MIMIC, average results, 4946.04533804,knapsack_MIMIC-60-40-8.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-60-40-8.txt
+MIMIC, average time , 3.40639998913,knapsack_MIMIC-60-40-8.txt
+MIMIC, average results, 6122.38638729,knapsack_MIMIC-60-60-12.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-60-60-12.txt
+MIMIC, average time , 3.73540000916,knapsack_MIMIC-60-60-12.txt
+MIMIC, average results, 4896.54272616,knapsack_MIMIC-60-60-30.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-60-60-30.txt
+MIMIC, average time , 5.13020000458,knapsack_MIMIC-60-60-30.txt
+MIMIC, average results, 5451.5184419,knapsack_MIMIC-60-60-42.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-60-60-42.txt
+MIMIC, average time , 5.96630001068,knapsack_MIMIC-60-60-42.txt
+MIMIC, average results, 5414.07341812,knapsack_MIMIC-60-60-54.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-60-60-54.txt
+MIMIC, average time , 7.18020000458,knapsack_MIMIC-60-60-54.txt
+MIMIC, average results, 5439.55016317,knapsack_MIMIC-60-80-16.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-60-80-16.txt
+MIMIC, average time , 4.37349998951,knapsack_MIMIC-60-80-16.txt
+MIMIC, average results, 5817.83563191,knapsack_MIMIC-60-80-40.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-60-80-40.txt
+MIMIC, average time , 6.23489999771,knapsack_MIMIC-60-80-40.txt
+MIMIC, average results, 4971.49616523,knapsack_MIMIC-60-80-56.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-60-80-56.txt
+MIMIC, average time , 7.54330000877,knapsack_MIMIC-60-80-56.txt
+MIMIC, average results, 4396.51092877,knapsack_MIMIC-60-80-72.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-60-80-72.txt
+MIMIC, average time , 9.21460001469,knapsack_MIMIC-60-80-72.txt
+MIMIC, average results, 8052.76850537,knapsack_MIMIC-80-100-20.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-80-100-20.txt
+MIMIC, average time , 8.22330000401,knapsack_MIMIC-80-100-20.txt
+MIMIC, average results, 7231.32229734,knapsack_MIMIC-80-100-50.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-80-100-50.txt
+MIMIC, average time , 11.4102000237,knapsack_MIMIC-80-100-50.txt
+MIMIC, average results, 7227.9037363,knapsack_MIMIC-80-100-70.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-80-100-70.txt
+MIMIC, average time , 13.6155999899,knapsack_MIMIC-80-100-70.txt
+MIMIC, average results, 6969.98752862,knapsack_MIMIC-80-100-90.txt
+MIMIC, average feval calls , 100101.0,knapsack_MIMIC-80-100-90.txt
+MIMIC, average time , 16.3004000187,knapsack_MIMIC-80-100-90.txt
+MIMIC, average results, 6283.83440152,knapsack_MIMIC-80-120-108.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-80-120-108.txt
+MIMIC, average time , 19.5374000072,knapsack_MIMIC-80-120-108.txt
+MIMIC, average results, 7052.3785728,knapsack_MIMIC-80-120-24.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-80-120-24.txt
+MIMIC, average time , 8.57209999561,knapsack_MIMIC-80-120-24.txt
+MIMIC, average results, 7175.57723964,knapsack_MIMIC-80-120-60.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-80-120-60.txt
+MIMIC, average time , 12.4100000143,knapsack_MIMIC-80-120-60.txt
+MIMIC, average results, 7300.11701473,knapsack_MIMIC-80-120-84.txt
+MIMIC, average feval calls , 120121.0,knapsack_MIMIC-80-120-84.txt
+MIMIC, average time , 15.6106999874,knapsack_MIMIC-80-120-84.txt
+MIMIC, average results, 6838.85022704,knapsack_MIMIC-80-140-126.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-80-140-126.txt
+MIMIC, average time , 21.546999979,knapsack_MIMIC-80-140-126.txt
+MIMIC, average results, 7261.35554533,knapsack_MIMIC-80-140-28.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-80-140-28.txt
+MIMIC, average time , 10.051699996,knapsack_MIMIC-80-140-28.txt
+MIMIC, average results, 7663.92797494,knapsack_MIMIC-80-140-70.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-80-140-70.txt
+MIMIC, average time , 15.1653000116,knapsack_MIMIC-80-140-70.txt
+MIMIC, average results, 7238.73893843,knapsack_MIMIC-80-140-98.txt
+MIMIC, average feval calls , 140141.0,knapsack_MIMIC-80-140-98.txt
+MIMIC, average time , 17.9436000109,knapsack_MIMIC-80-140-98.txt
+MIMIC, average results, 6707.31209878,knapsack_MIMIC-80-40-20.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-80-40-20.txt
+MIMIC, average time , 7.47109999657,knapsack_MIMIC-80-40-20.txt
+MIMIC, average results, 6841.27123791,knapsack_MIMIC-80-40-28.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-80-40-28.txt
+MIMIC, average time , 7.93550000191,knapsack_MIMIC-80-40-28.txt
+MIMIC, average results, 6611.43864181,knapsack_MIMIC-80-40-36.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-80-40-36.txt
+MIMIC, average time , 8.88739998341,knapsack_MIMIC-80-40-36.txt
+MIMIC, average results, 7944.59015776,knapsack_MIMIC-80-40-8.txt
+MIMIC, average feval calls , 40041.0,knapsack_MIMIC-80-40-8.txt
+MIMIC, average time , 5.99470000267,knapsack_MIMIC-80-40-8.txt
+MIMIC, average results, 7455.36053295,knapsack_MIMIC-80-60-12.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-80-60-12.txt
+MIMIC, average time , 6.55409998894,knapsack_MIMIC-80-60-12.txt
+MIMIC, average results, 7605.40772376,knapsack_MIMIC-80-60-30.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-80-60-30.txt
+MIMIC, average time , 8.67940001488,knapsack_MIMIC-80-60-30.txt
+MIMIC, average results, 6753.03557645,knapsack_MIMIC-80-60-42.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-80-60-42.txt
+MIMIC, average time , 9.94440000057,knapsack_MIMIC-80-60-42.txt
+MIMIC, average results, 6247.71786043,knapsack_MIMIC-80-60-54.txt
+MIMIC, average feval calls , 60061.0,knapsack_MIMIC-80-60-54.txt
+MIMIC, average time , 12.0699999809,knapsack_MIMIC-80-60-54.txt
+MIMIC, average results, 7882.47053084,knapsack_MIMIC-80-80-16.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-80-80-16.txt
+MIMIC, average time , 8.47430000305,knapsack_MIMIC-80-80-16.txt
+MIMIC, average results, 7540.9969806,knapsack_MIMIC-80-80-40.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-80-80-40.txt
+MIMIC, average time , 10.1852999926,knapsack_MIMIC-80-80-40.txt
+MIMIC, average results, 7505.47597463,knapsack_MIMIC-80-80-56.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-80-80-56.txt
+MIMIC, average time , 12.5703999996,knapsack_MIMIC-80-80-56.txt
+MIMIC, average results, 6429.18947597,knapsack_MIMIC-80-80-72.txt
+MIMIC, average feval calls , 80081.0,knapsack_MIMIC-80-80-72.txt
+MIMIC, average time , 14.2958999872,knapsack_MIMIC-80-80-72.txt

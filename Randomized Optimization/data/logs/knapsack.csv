@@ -1,0 +1,2772 @@
+GA, average feval calls ,100101,knapsack_ga_100-100-1-100-0.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-1-100-1.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-1-100-10.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-1-40-0.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-1-40-1.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-1-40-10.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-1-60-0.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-1-60-1.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-1-60-10.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-1-80-0.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-1-80-1.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-1-80-10.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-2-100-0.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-2-100-1.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-2-100-10.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-2-40-0.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-2-40-1.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-2-40-10.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-2-60-0.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-2-60-1.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-2-60-10.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-2-80-0.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-2-80-1.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-2-80-10.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-3-100-0.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-3-100-1.txt
+GA, average feval calls ,100101,knapsack_ga_100-100-3-100-10.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-3-40-0.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-3-40-1.txt
+GA, average feval calls ,40101,knapsack_ga_100-100-3-40-10.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-3-60-0.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-3-60-1.txt
+GA, average feval calls ,60101,knapsack_ga_100-100-3-60-10.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-3-80-0.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-3-80-1.txt
+GA, average feval calls ,80101,knapsack_ga_100-100-3-80-10.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-1-120-0.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-1-120-2.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-1-120-20.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-1-160-0.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-1-160-2.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-1-160-20.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-1-200-0.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-1-200-2.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-1-200-20.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-1-80-0.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-1-80-2.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-1-80-20.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-2-120-0.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-2-120-2.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-2-120-20.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-2-160-0.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-2-160-2.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-2-160-20.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-2-200-0.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-2-200-2.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-2-200-20.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-2-80-0.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-2-80-2.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-2-80-20.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-3-120-0.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-3-120-2.txt
+GA, average feval calls ,120201,knapsack_ga_100-200-3-120-20.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-3-160-0.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-3-160-2.txt
+GA, average feval calls ,160201,knapsack_ga_100-200-3-160-20.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-3-200-0.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-3-200-2.txt
+GA, average feval calls ,200201,knapsack_ga_100-200-3-200-20.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-3-80-0.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-3-80-2.txt
+GA, average feval calls ,80201,knapsack_ga_100-200-3-80-20.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-1-160-0.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-1-160-4.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-1-160-40.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-1-240-0.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-1-240-4.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-1-240-40.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-1-320-0.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-1-320-4.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-1-320-40.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-1-400-0.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-1-400-4.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-1-400-40.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-2-160-0.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-2-160-4.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-2-160-40.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-2-240-0.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-2-240-4.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-2-240-40.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-2-320-0.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-2-320-4.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-2-320-40.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-2-400-0.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-2-400-4.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-2-400-40.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-3-160-0.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-3-160-4.txt
+GA, average feval calls ,160401,knapsack_ga_100-400-3-160-40.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-3-240-0.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-3-240-4.txt
+GA, average feval calls ,240401,knapsack_ga_100-400-3-240-40.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-3-320-0.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-3-320-4.txt
+GA, average feval calls ,320401,knapsack_ga_100-400-3-320-40.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-3-400-0.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-3-400-4.txt
+GA, average feval calls ,400401,knapsack_ga_100-400-3-400-40.txt
+GA, average feval calls ,20051,knapsack_ga_100-50-1-20-0.txt
+GA, average feval calls ,20051,knapsack_ga_100-50-1-20-5.txt
+GA, average feval calls ,30051,knapsack_ga_100-50-1-30-0.txt
+GA, average feval calls ,30051,knapsack_ga_100-50-1-30-5.txt
+GA, average feval calls ,40051,knapsack_ga_100-50-1-40-0.txt
+GA, average feval calls ,40051,knapsack_ga_100-50-1-40-5.txt
+GA, average feval calls ,50051,knapsack_ga_100-50-1-50-0.txt
+GA, average feval calls ,50051,knapsack_ga_100-50-1-50-5.txt
+GA, average feval calls ,20051,knapsack_ga_100-50-2-20-0.txt
+GA, average feval calls ,20051,knapsack_ga_100-50-2-20-5.txt
+GA, average feval calls ,30051,knapsack_ga_100-50-2-30-0.txt
+GA, average feval calls ,30051,knapsack_ga_100-50-2-30-5.txt
+GA, average feval calls ,40051,knapsack_ga_100-50-2-40-0.txt
+GA, average feval calls ,40051,knapsack_ga_100-50-2-40-5.txt
+GA, average feval calls ,50051,knapsack_ga_100-50-2-50-0.txt
+GA, average feval calls ,50051,knapsack_ga_100-50-2-50-5.txt
+GA, average feval calls ,20051,knapsack_ga_100-50-3-20-0.txt
+GA, average feval calls ,20051,knapsack_ga_100-50-3-20-5.txt
+GA, average feval calls ,30051,knapsack_ga_100-50-3-30-0.txt
+GA, average feval calls ,30051,knapsack_ga_100-50-3-30-5.txt
+GA, average feval calls ,40051,knapsack_ga_100-50-3-40-0.txt
+GA, average feval calls ,40051,knapsack_ga_100-50-3-40-5.txt
+GA, average feval calls ,50051,knapsack_ga_100-50-3-50-0.txt
+GA, average feval calls ,50051,knapsack_ga_100-50-3-50-5.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-1-120-0.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-1-120-1.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-1-120-12.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-1-48-0.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-1-48-1.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-1-48-12.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-1-72-0.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-1-72-1.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-1-72-12.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-1-96-0.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-1-96-1.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-1-96-12.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-2-120-0.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-2-120-1.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-2-120-12.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-2-48-0.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-2-48-1.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-2-48-12.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-2-72-0.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-2-72-1.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-2-72-12.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-2-96-0.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-2-96-1.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-2-96-12.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-3-120-0.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-3-120-1.txt
+GA, average feval calls ,120121,knapsack_ga_120-120-3-120-12.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-3-48-0.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-3-48-1.txt
+GA, average feval calls ,48121,knapsack_ga_120-120-3-48-12.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-3-72-0.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-3-72-1.txt
+GA, average feval calls ,72121,knapsack_ga_120-120-3-72-12.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-3-96-0.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-3-96-1.txt
+GA, average feval calls ,96121,knapsack_ga_120-120-3-96-12.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-1-144-0.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-1-144-2.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-1-144-24.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-1-192-0.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-1-192-2.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-1-192-24.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-1-240-0.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-1-240-2.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-1-240-24.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-1-96-0.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-1-96-2.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-1-96-24.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-2-144-0.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-2-144-2.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-2-144-24.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-2-192-0.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-2-192-2.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-2-192-24.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-2-240-0.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-2-240-2.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-2-240-24.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-2-96-0.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-2-96-2.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-2-96-24.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-3-144-0.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-3-144-2.txt
+GA, average feval calls ,144241,knapsack_ga_120-240-3-144-24.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-3-192-0.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-3-192-2.txt
+GA, average feval calls ,192241,knapsack_ga_120-240-3-192-24.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-3-240-0.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-3-240-2.txt
+GA, average feval calls ,240241,knapsack_ga_120-240-3-240-24.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-3-96-0.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-3-96-2.txt
+GA, average feval calls ,96241,knapsack_ga_120-240-3-96-24.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-1-192-0.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-1-192-4.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-1-192-48.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-1-288-0.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-1-288-4.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-1-288-48.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-1-384-0.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-1-384-4.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-1-384-48.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-1-480-0.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-1-480-4.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-1-480-48.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-2-192-0.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-2-192-4.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-2-192-48.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-2-288-0.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-2-288-4.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-2-288-48.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-2-384-0.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-2-384-4.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-2-384-48.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-2-480-0.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-2-480-4.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-2-480-48.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-3-192-0.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-3-192-4.txt
+GA, average feval calls ,192481,knapsack_ga_120-480-3-192-48.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-3-288-0.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-3-288-4.txt
+GA, average feval calls ,288481,knapsack_ga_120-480-3-288-48.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-3-384-0.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-3-384-4.txt
+GA, average feval calls ,384481,knapsack_ga_120-480-3-384-48.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-3-480-0.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-3-480-4.txt
+GA, average feval calls ,480481,knapsack_ga_120-480-3-480-48.txt
+GA, average feval calls ,24061,knapsack_ga_120-60-1-24-0.txt
+GA, average feval calls ,24061,knapsack_ga_120-60-1-24-6.txt
+GA, average feval calls ,36061,knapsack_ga_120-60-1-36-0.txt
+GA, average feval calls ,36061,knapsack_ga_120-60-1-36-6.txt
+GA, average feval calls ,48061,knapsack_ga_120-60-1-48-0.txt
+GA, average feval calls ,48061,knapsack_ga_120-60-1-48-6.txt
+GA, average feval calls ,60061,knapsack_ga_120-60-1-60-0.txt
+GA, average feval calls ,60061,knapsack_ga_120-60-1-60-6.txt
+GA, average feval calls ,24061,knapsack_ga_120-60-2-24-0.txt
+GA, average feval calls ,24061,knapsack_ga_120-60-2-24-6.txt
+GA, average feval calls ,36061,knapsack_ga_120-60-2-36-0.txt
+GA, average feval calls ,36061,knapsack_ga_120-60-2-36-6.txt
+GA, average feval calls ,48061,knapsack_ga_120-60-2-48-0.txt
+GA, average feval calls ,48061,knapsack_ga_120-60-2-48-6.txt
+GA, average feval calls ,60061,knapsack_ga_120-60-2-60-0.txt
+GA, average feval calls ,60061,knapsack_ga_120-60-2-60-6.txt
+GA, average feval calls ,24061,knapsack_ga_120-60-3-24-0.txt
+GA, average feval calls ,24061,knapsack_ga_120-60-3-24-6.txt
+GA, average feval calls ,36061,knapsack_ga_120-60-3-36-0.txt
+GA, average feval calls ,36061,knapsack_ga_120-60-3-36-6.txt
+GA, average feval calls ,48061,knapsack_ga_120-60-3-48-0.txt
+GA, average feval calls ,48061,knapsack_ga_120-60-3-48-6.txt
+GA, average feval calls ,60061,knapsack_ga_120-60-3-60-0.txt
+GA, average feval calls ,60061,knapsack_ga_120-60-3-60-6.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-1-112-0.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-1-112-1.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-1-112-14.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-1-140-0.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-1-140-1.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-1-140-14.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-1-56-0.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-1-56-1.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-1-56-14.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-1-84-0.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-1-84-1.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-1-84-14.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-2-112-0.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-2-112-1.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-2-112-14.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-2-140-0.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-2-140-1.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-2-140-14.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-2-56-0.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-2-56-1.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-2-56-14.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-2-84-0.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-2-84-1.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-2-84-14.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-3-112-0.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-3-112-1.txt
+GA, average feval calls ,112141,knapsack_ga_140-140-3-112-14.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-3-140-0.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-3-140-1.txt
+GA, average feval calls ,140141,knapsack_ga_140-140-3-140-14.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-3-56-0.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-3-56-1.txt
+GA, average feval calls ,56141,knapsack_ga_140-140-3-56-14.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-3-84-0.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-3-84-1.txt
+GA, average feval calls ,84141,knapsack_ga_140-140-3-84-14.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-1-112-0.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-1-112-2.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-1-112-28.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-1-168-0.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-1-168-2.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-1-168-28.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-1-224-0.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-1-224-2.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-1-224-28.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-1-280-0.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-1-280-2.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-1-280-28.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-2-112-0.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-2-112-2.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-2-112-28.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-2-168-0.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-2-168-2.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-2-168-28.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-2-224-0.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-2-224-2.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-2-224-28.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-2-280-0.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-2-280-2.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-2-280-28.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-3-112-0.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-3-112-2.txt
+GA, average feval calls ,112281,knapsack_ga_140-280-3-112-28.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-3-168-0.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-3-168-2.txt
+GA, average feval calls ,168281,knapsack_ga_140-280-3-168-28.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-3-224-0.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-3-224-2.txt
+GA, average feval calls ,224281,knapsack_ga_140-280-3-224-28.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-3-280-0.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-3-280-2.txt
+GA, average feval calls ,280281,knapsack_ga_140-280-3-280-28.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-1-224-0.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-1-224-5.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-1-224-56.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-1-336-0.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-1-336-5.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-1-336-56.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-1-448-0.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-1-448-5.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-1-448-56.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-1-560-0.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-1-560-5.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-1-560-56.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-2-224-0.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-2-224-5.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-2-224-56.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-2-336-0.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-2-336-5.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-2-336-56.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-2-448-0.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-2-448-5.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-2-448-56.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-2-560-0.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-2-560-5.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-2-560-56.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-3-224-0.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-3-224-5.txt
+GA, average feval calls ,224561,knapsack_ga_140-560-3-224-56.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-3-336-0.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-3-336-5.txt
+GA, average feval calls ,336561,knapsack_ga_140-560-3-336-56.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-3-448-0.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-3-448-5.txt
+GA, average feval calls ,448561,knapsack_ga_140-560-3-448-56.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-3-560-0.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-3-560-5.txt
+GA, average feval calls ,560561,knapsack_ga_140-560-3-560-56.txt
+GA, average feval calls ,28071,knapsack_ga_140-70-1-28-0.txt
+GA, average feval calls ,28071,knapsack_ga_140-70-1-28-7.txt
+GA, average feval calls ,42071,knapsack_ga_140-70-1-42-0.txt
+GA, average feval calls ,42071,knapsack_ga_140-70-1-42-7.txt
+GA, average feval calls ,56071,knapsack_ga_140-70-1-56-0.txt
+GA, average feval calls ,56071,knapsack_ga_140-70-1-56-7.txt
+GA, average feval calls ,70071,knapsack_ga_140-70-1-70-0.txt
+GA, average feval calls ,70071,knapsack_ga_140-70-1-70-7.txt
+GA, average feval calls ,28071,knapsack_ga_140-70-2-28-0.txt
+GA, average feval calls ,28071,knapsack_ga_140-70-2-28-7.txt
+GA, average feval calls ,42071,knapsack_ga_140-70-2-42-0.txt
+GA, average feval calls ,42071,knapsack_ga_140-70-2-42-7.txt
+GA, average feval calls ,56071,knapsack_ga_140-70-2-56-0.txt
+GA, average feval calls ,56071,knapsack_ga_140-70-2-56-7.txt
+GA, average feval calls ,70071,knapsack_ga_140-70-2-70-0.txt
+GA, average feval calls ,70071,knapsack_ga_140-70-2-70-7.txt
+GA, average feval calls ,28071,knapsack_ga_140-70-3-28-0.txt
+GA, average feval calls ,28071,knapsack_ga_140-70-3-28-7.txt
+GA, average feval calls ,42071,knapsack_ga_140-70-3-42-0.txt
+GA, average feval calls ,42071,knapsack_ga_140-70-3-42-7.txt
+GA, average feval calls ,56071,knapsack_ga_140-70-3-56-0.txt
+GA, average feval calls ,56071,knapsack_ga_140-70-3-56-7.txt
+GA, average feval calls ,70071,knapsack_ga_140-70-3-70-0.txt
+GA, average feval calls ,70071,knapsack_ga_140-70-3-70-7.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-1-128-0.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-1-128-1.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-1-128-16.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-1-160-0.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-1-160-1.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-1-160-16.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-1-64-0.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-1-64-1.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-1-64-16.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-1-96-0.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-1-96-1.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-1-96-16.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-2-128-0.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-2-128-1.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-2-128-16.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-2-160-0.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-2-160-1.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-2-160-16.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-2-64-0.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-2-64-1.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-2-64-16.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-2-96-0.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-2-96-1.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-2-96-16.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-3-128-0.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-3-128-1.txt
+GA, average feval calls ,128161,knapsack_ga_40-160-3-128-16.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-3-160-0.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-3-160-1.txt
+GA, average feval calls ,160161,knapsack_ga_40-160-3-160-16.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-3-64-0.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-3-64-1.txt
+GA, average feval calls ,64161,knapsack_ga_40-160-3-64-16.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-3-96-0.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-3-96-1.txt
+GA, average feval calls ,96161,knapsack_ga_40-160-3-96-16.txt
+GA, average feval calls ,12021,knapsack_ga_40-20-1-12-0.txt
+GA, average feval calls ,12021,knapsack_ga_40-20-1-12-2.txt
+GA, average feval calls ,16021,knapsack_ga_40-20-1-16-0.txt
+GA, average feval calls ,16021,knapsack_ga_40-20-1-16-2.txt
+GA, average feval calls ,20021,knapsack_ga_40-20-1-20-0.txt
+GA, average feval calls ,20021,knapsack_ga_40-20-1-20-2.txt
+GA, average feval calls ,8021,knapsack_ga_40-20-1-8-0.txt
+GA, average feval calls ,8021,knapsack_ga_40-20-1-8-2.txt
+GA, average feval calls ,12021,knapsack_ga_40-20-2-12-0.txt
+GA, average feval calls ,12021,knapsack_ga_40-20-2-12-2.txt
+GA, average feval calls ,16021,knapsack_ga_40-20-2-16-0.txt
+GA, average feval calls ,16021,knapsack_ga_40-20-2-16-2.txt
+GA, average feval calls ,20021,knapsack_ga_40-20-2-20-0.txt
+GA, average feval calls ,20021,knapsack_ga_40-20-2-20-2.txt
+GA, average feval calls ,8021,knapsack_ga_40-20-2-8-0.txt
+GA, average feval calls ,8021,knapsack_ga_40-20-2-8-2.txt
+GA, average feval calls ,12021,knapsack_ga_40-20-3-12-0.txt
+GA, average feval calls ,12021,knapsack_ga_40-20-3-12-2.txt
+GA, average feval calls ,16021,knapsack_ga_40-20-3-16-0.txt
+GA, average feval calls ,16021,knapsack_ga_40-20-3-16-2.txt
+GA, average feval calls ,20021,knapsack_ga_40-20-3-20-0.txt
+GA, average feval calls ,20021,knapsack_ga_40-20-3-20-2.txt
+GA, average feval calls ,8021,knapsack_ga_40-20-3-8-0.txt
+GA, average feval calls ,8021,knapsack_ga_40-20-3-8-2.txt
+GA, average feval calls ,16041,knapsack_ga_40-40-1-16-0.txt
+GA, average feval calls ,16041,knapsack_ga_40-40-1-16-4.txt
+GA, average feval calls ,24041,knapsack_ga_40-40-1-24-0.txt
+GA, average feval calls ,24041,knapsack_ga_40-40-1-24-4.txt
+GA, average feval calls ,32041,knapsack_ga_40-40-1-32-0.txt
+GA, average feval calls ,32041,knapsack_ga_40-40-1-32-4.txt
+GA, average feval calls ,40041,knapsack_ga_40-40-1-40-0.txt
+GA, average feval calls ,40041,knapsack_ga_40-40-1-40-4.txt
+GA, average feval calls ,16041,knapsack_ga_40-40-2-16-0.txt
+GA, average feval calls ,16041,knapsack_ga_40-40-2-16-4.txt
+GA, average feval calls ,24041,knapsack_ga_40-40-2-24-0.txt
+GA, average feval calls ,24041,knapsack_ga_40-40-2-24-4.txt
+GA, average feval calls ,32041,knapsack_ga_40-40-2-32-0.txt
+GA, average feval calls ,32041,knapsack_ga_40-40-2-32-4.txt
+GA, average feval calls ,40041,knapsack_ga_40-40-2-40-0.txt
+GA, average feval calls ,40041,knapsack_ga_40-40-2-40-4.txt
+GA, average feval calls ,16041,knapsack_ga_40-40-3-16-0.txt
+GA, average feval calls ,16041,knapsack_ga_40-40-3-16-4.txt
+GA, average feval calls ,24041,knapsack_ga_40-40-3-24-0.txt
+GA, average feval calls ,24041,knapsack_ga_40-40-3-24-4.txt
+GA, average feval calls ,32041,knapsack_ga_40-40-3-32-0.txt
+GA, average feval calls ,32041,knapsack_ga_40-40-3-32-4.txt
+GA, average feval calls ,40041,knapsack_ga_40-40-3-40-0.txt
+GA, average feval calls ,40041,knapsack_ga_40-40-3-40-4.txt
+GA, average feval calls ,32081,knapsack_ga_40-80-1-32-0.txt
+GA, average feval calls ,32081,knapsack_ga_40-80-1-32-8.txt
+GA, average feval calls ,48081,knapsack_ga_40-80-1-48-0.txt
+GA, average feval calls ,48081,knapsack_ga_40-80-1-48-8.txt
+GA, average feval calls ,64081,knapsack_ga_40-80-1-64-0.txt
+GA, average feval calls ,64081,knapsack_ga_40-80-1-64-8.txt
+GA, average feval calls ,80081,knapsack_ga_40-80-1-80-0.txt
+GA, average feval calls ,80081,knapsack_ga_40-80-1-80-8.txt
+GA, average feval calls ,32081,knapsack_ga_40-80-2-32-0.txt
+GA, average feval calls ,32081,knapsack_ga_40-80-2-32-8.txt
+GA, average feval calls ,48081,knapsack_ga_40-80-2-48-0.txt
+GA, average feval calls ,48081,knapsack_ga_40-80-2-48-8.txt
+GA, average feval calls ,64081,knapsack_ga_40-80-2-64-0.txt
+GA, average feval calls ,64081,knapsack_ga_40-80-2-64-8.txt
+GA, average feval calls ,80081,knapsack_ga_40-80-2-80-0.txt
+GA, average feval calls ,80081,knapsack_ga_40-80-2-80-8.txt
+GA, average feval calls ,32081,knapsack_ga_40-80-3-32-0.txt
+GA, average feval calls ,32081,knapsack_ga_40-80-3-32-8.txt
+GA, average feval calls ,48081,knapsack_ga_40-80-3-48-0.txt
+GA, average feval calls ,48081,knapsack_ga_40-80-3-48-8.txt
+GA, average feval calls ,64081,knapsack_ga_40-80-3-64-0.txt
+GA, average feval calls ,64081,knapsack_ga_40-80-3-64-8.txt
+GA, average feval calls ,80081,knapsack_ga_40-80-3-80-0.txt
+GA, average feval calls ,80081,knapsack_ga_40-80-3-80-8.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-1-120-0.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-1-120-1.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-1-120-12.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-1-48-0.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-1-48-1.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-1-48-12.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-1-72-0.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-1-72-1.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-1-72-12.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-1-96-0.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-1-96-1.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-1-96-12.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-2-120-0.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-2-120-1.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-2-120-12.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-2-48-0.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-2-48-1.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-2-48-12.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-2-72-0.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-2-72-1.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-2-72-12.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-2-96-0.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-2-96-1.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-2-96-12.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-3-120-0.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-3-120-1.txt
+GA, average feval calls ,120121,knapsack_ga_60-120-3-120-12.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-3-48-0.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-3-48-1.txt
+GA, average feval calls ,48121,knapsack_ga_60-120-3-48-12.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-3-72-0.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-3-72-1.txt
+GA, average feval calls ,72121,knapsack_ga_60-120-3-72-12.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-3-96-0.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-3-96-1.txt
+GA, average feval calls ,96121,knapsack_ga_60-120-3-96-12.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-1-144-0.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-1-144-2.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-1-144-24.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-1-192-0.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-1-192-2.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-1-192-24.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-1-240-0.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-1-240-2.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-1-240-24.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-1-96-0.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-1-96-2.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-1-96-24.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-2-144-0.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-2-144-2.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-2-144-24.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-2-192-0.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-2-192-2.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-2-192-24.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-2-240-0.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-2-240-2.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-2-240-24.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-2-96-0.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-2-96-2.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-2-96-24.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-3-144-0.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-3-144-2.txt
+GA, average feval calls ,144241,knapsack_ga_60-240-3-144-24.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-3-192-0.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-3-192-2.txt
+GA, average feval calls ,192241,knapsack_ga_60-240-3-192-24.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-3-240-0.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-3-240-2.txt
+GA, average feval calls ,240241,knapsack_ga_60-240-3-240-24.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-3-96-0.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-3-96-2.txt
+GA, average feval calls ,96241,knapsack_ga_60-240-3-96-24.txt
+GA, average feval calls ,12031,knapsack_ga_60-30-1-12-0.txt
+GA, average feval calls ,12031,knapsack_ga_60-30-1-12-3.txt
+GA, average feval calls ,18031,knapsack_ga_60-30-1-18-0.txt
+GA, average feval calls ,18031,knapsack_ga_60-30-1-18-3.txt
+GA, average feval calls ,24031,knapsack_ga_60-30-1-24-0.txt
+GA, average feval calls ,24031,knapsack_ga_60-30-1-24-3.txt
+GA, average feval calls ,30031,knapsack_ga_60-30-1-30-0.txt
+GA, average feval calls ,30031,knapsack_ga_60-30-1-30-3.txt
+GA, average feval calls ,12031,knapsack_ga_60-30-2-12-0.txt
+GA, average feval calls ,12031,knapsack_ga_60-30-2-12-3.txt
+GA, average feval calls ,18031,knapsack_ga_60-30-2-18-0.txt
+GA, average feval calls ,18031,knapsack_ga_60-30-2-18-3.txt
+GA, average feval calls ,24031,knapsack_ga_60-30-2-24-0.txt
+GA, average feval calls ,24031,knapsack_ga_60-30-2-24-3.txt
+GA, average feval calls ,30031,knapsack_ga_60-30-2-30-0.txt
+GA, average feval calls ,30031,knapsack_ga_60-30-2-30-3.txt
+GA, average feval calls ,12031,knapsack_ga_60-30-3-12-0.txt
+GA, average feval calls ,12031,knapsack_ga_60-30-3-12-3.txt
+GA, average feval calls ,18031,knapsack_ga_60-30-3-18-0.txt
+GA, average feval calls ,18031,knapsack_ga_60-30-3-18-3.txt
+GA, average feval calls ,24031,knapsack_ga_60-30-3-24-0.txt
+GA, average feval calls ,24031,knapsack_ga_60-30-3-24-3.txt
+GA, average feval calls ,30031,knapsack_ga_60-30-3-30-0.txt
+GA, average feval calls ,30031,knapsack_ga_60-30-3-30-3.txt
+GA, average feval calls ,24061,knapsack_ga_60-60-1-24-0.txt
+GA, average feval calls ,24061,knapsack_ga_60-60-1-24-6.txt
+GA, average feval calls ,36061,knapsack_ga_60-60-1-36-0.txt
+GA, average feval calls ,36061,knapsack_ga_60-60-1-36-6.txt
+GA, average feval calls ,48061,knapsack_ga_60-60-1-48-0.txt
+GA, average feval calls ,48061,knapsack_ga_60-60-1-48-6.txt
+GA, average feval calls ,60061,knapsack_ga_60-60-1-60-0.txt
+GA, average feval calls ,60061,knapsack_ga_60-60-1-60-6.txt
+GA, average feval calls ,24061,knapsack_ga_60-60-2-24-0.txt
+GA, average feval calls ,24061,knapsack_ga_60-60-2-24-6.txt
+GA, average feval calls ,36061,knapsack_ga_60-60-2-36-0.txt
+GA, average feval calls ,36061,knapsack_ga_60-60-2-36-6.txt
+GA, average feval calls ,48061,knapsack_ga_60-60-2-48-0.txt
+GA, average feval calls ,48061,knapsack_ga_60-60-2-48-6.txt
+GA, average feval calls ,60061,knapsack_ga_60-60-2-60-0.txt
+GA, average feval calls ,60061,knapsack_ga_60-60-2-60-6.txt
+GA, average feval calls ,24061,knapsack_ga_60-60-3-24-0.txt
+GA, average feval calls ,24061,knapsack_ga_60-60-3-24-6.txt
+GA, average feval calls ,36061,knapsack_ga_60-60-3-36-0.txt
+GA, average feval calls ,36061,knapsack_ga_60-60-3-36-6.txt
+GA, average feval calls ,48061,knapsack_ga_60-60-3-48-0.txt
+GA, average feval calls ,48061,knapsack_ga_60-60-3-48-6.txt
+GA, average feval calls ,60061,knapsack_ga_60-60-3-60-0.txt
+GA, average feval calls ,60061,knapsack_ga_60-60-3-60-6.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-1-128-0.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-1-128-1.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-1-128-16.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-1-160-0.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-1-160-1.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-1-160-16.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-1-64-0.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-1-64-1.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-1-64-16.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-1-96-0.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-1-96-1.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-1-96-16.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-2-128-0.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-2-128-1.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-2-128-16.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-2-160-0.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-2-160-1.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-2-160-16.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-2-64-0.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-2-64-1.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-2-64-16.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-2-96-0.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-2-96-1.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-2-96-16.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-3-128-0.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-3-128-1.txt
+GA, average feval calls ,128161,knapsack_ga_80-160-3-128-16.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-3-160-0.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-3-160-1.txt
+GA, average feval calls ,160161,knapsack_ga_80-160-3-160-16.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-3-64-0.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-3-64-1.txt
+GA, average feval calls ,64161,knapsack_ga_80-160-3-64-16.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-3-96-0.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-3-96-1.txt
+GA, average feval calls ,96161,knapsack_ga_80-160-3-96-16.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-1-128-0.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-1-128-3.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-1-128-32.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-1-192-0.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-1-192-3.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-1-192-32.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-1-256-0.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-1-256-3.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-1-256-32.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-1-320-0.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-1-320-3.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-1-320-32.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-2-128-0.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-2-128-3.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-2-128-32.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-2-192-0.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-2-192-3.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-2-192-32.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-2-256-0.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-2-256-3.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-2-256-32.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-2-320-0.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-2-320-3.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-2-320-32.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-3-128-0.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-3-128-3.txt
+GA, average feval calls ,128321,knapsack_ga_80-320-3-128-32.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-3-192-0.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-3-192-3.txt
+GA, average feval calls ,192321,knapsack_ga_80-320-3-192-32.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-3-256-0.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-3-256-3.txt
+GA, average feval calls ,256321,knapsack_ga_80-320-3-256-32.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-3-320-0.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-3-320-3.txt
+GA, average feval calls ,320321,knapsack_ga_80-320-3-320-32.txt
+GA, average feval calls ,16041,knapsack_ga_80-40-1-16-0.txt
+GA, average feval calls ,16041,knapsack_ga_80-40-1-16-4.txt
+GA, average feval calls ,24041,knapsack_ga_80-40-1-24-0.txt
+GA, average feval calls ,24041,knapsack_ga_80-40-1-24-4.txt
+GA, average feval calls ,32041,knapsack_ga_80-40-1-32-0.txt
+GA, average feval calls ,32041,knapsack_ga_80-40-1-32-4.txt
+GA, average feval calls ,40041,knapsack_ga_80-40-1-40-0.txt
+GA, average feval calls ,40041,knapsack_ga_80-40-1-40-4.txt
+GA, average feval calls ,16041,knapsack_ga_80-40-2-16-0.txt
+GA, average feval calls ,16041,knapsack_ga_80-40-2-16-4.txt
+GA, average feval calls ,24041,knapsack_ga_80-40-2-24-0.txt
+GA, average feval calls ,24041,knapsack_ga_80-40-2-24-4.txt
+GA, average feval calls ,32041,knapsack_ga_80-40-2-32-0.txt
+GA, average feval calls ,32041,knapsack_ga_80-40-2-32-4.txt
+GA, average feval calls ,40041,knapsack_ga_80-40-2-40-0.txt
+GA, average feval calls ,40041,knapsack_ga_80-40-2-40-4.txt
+GA, average feval calls ,16041,knapsack_ga_80-40-3-16-0.txt
+GA, average feval calls ,16041,knapsack_ga_80-40-3-16-4.txt
+GA, average feval calls ,24041,knapsack_ga_80-40-3-24-0.txt
+GA, average feval calls ,24041,knapsack_ga_80-40-3-24-4.txt
+GA, average feval calls ,32041,knapsack_ga_80-40-3-32-0.txt
+GA, average feval calls ,32041,knapsack_ga_80-40-3-32-4.txt
+GA, average feval calls ,40041,knapsack_ga_80-40-3-40-0.txt
+GA, average feval calls ,40041,knapsack_ga_80-40-3-40-4.txt
+GA, average feval calls ,32081,knapsack_ga_80-80-1-32-0.txt
+GA, average feval calls ,32081,knapsack_ga_80-80-1-32-8.txt
+GA, average feval calls ,48081,knapsack_ga_80-80-1-48-0.txt
+GA, average feval calls ,48081,knapsack_ga_80-80-1-48-8.txt
+GA, average feval calls ,64081,knapsack_ga_80-80-1-64-0.txt
+GA, average feval calls ,64081,knapsack_ga_80-80-1-64-8.txt
+GA, average feval calls ,80081,knapsack_ga_80-80-1-80-0.txt
+GA, average feval calls ,80081,knapsack_ga_80-80-1-80-8.txt
+GA, average feval calls ,32081,knapsack_ga_80-80-2-32-0.txt
+GA, average feval calls ,32081,knapsack_ga_80-80-2-32-8.txt
+GA, average feval calls ,48081,knapsack_ga_80-80-2-48-0.txt
+GA, average feval calls ,48081,knapsack_ga_80-80-2-48-8.txt
+GA, average feval calls ,64081,knapsack_ga_80-80-2-64-0.txt
+GA, average feval calls ,64081,knapsack_ga_80-80-2-64-8.txt
+GA, average feval calls ,80081,knapsack_ga_80-80-2-80-0.txt
+GA, average feval calls ,80081,knapsack_ga_80-80-2-80-8.txt
+GA, average feval calls ,32081,knapsack_ga_80-80-3-32-0.txt
+GA, average feval calls ,32081,knapsack_ga_80-80-3-32-8.txt
+GA, average feval calls ,48081,knapsack_ga_80-80-3-48-0.txt
+GA, average feval calls ,48081,knapsack_ga_80-80-3-48-8.txt
+GA, average feval calls ,64081,knapsack_ga_80-80-3-64-0.txt
+GA, average feval calls ,64081,knapsack_ga_80-80-3-64-8.txt
+GA, average feval calls ,80081,knapsack_ga_80-80-3-80-0.txt
+GA, average feval calls ,80081,knapsack_ga_80-80-3-80-8.txt
+GA, average results ,6952.05506,knapsack_ga_100-100-1-100-0.txt
+GA, average results ,7270.453342,knapsack_ga_100-100-1-100-1.txt
+GA, average results ,7911.886841,knapsack_ga_100-100-1-100-10.txt
+GA, average results ,7240.517733,knapsack_ga_100-100-1-40-0.txt
+GA, average results ,7497.765263,knapsack_ga_100-100-1-40-1.txt
+GA, average results ,6901.599532,knapsack_ga_100-100-1-40-10.txt
+GA, average results ,6643.156241,knapsack_ga_100-100-1-60-0.txt
+GA, average results ,7669.043329,knapsack_ga_100-100-1-60-1.txt
+GA, average results ,6637.586551,knapsack_ga_100-100-1-60-10.txt
+GA, average results ,6362.580788,knapsack_ga_100-100-1-80-0.txt
+GA, average results ,7202.891165,knapsack_ga_100-100-1-80-1.txt
+GA, average results ,7624.216874,knapsack_ga_100-100-1-80-10.txt
+GA, average results ,7033.062954,knapsack_ga_100-100-2-100-0.txt
+GA, average results ,7634.98912,knapsack_ga_100-100-2-100-1.txt
+GA, average results ,7801.709099,knapsack_ga_100-100-2-100-10.txt
+GA, average results ,6741.319978,knapsack_ga_100-100-2-40-0.txt
+GA, average results ,6841.37275,knapsack_ga_100-100-2-40-1.txt
+GA, average results ,7488.119612,knapsack_ga_100-100-2-40-10.txt
+GA, average results ,6833.284189,knapsack_ga_100-100-2-60-0.txt
+GA, average results ,7853.703479,knapsack_ga_100-100-2-60-1.txt
+GA, average results ,7247.799554,knapsack_ga_100-100-2-60-10.txt
+GA, average results ,6472.893246,knapsack_ga_100-100-2-80-0.txt
+GA, average results ,7214.269717,knapsack_ga_100-100-2-80-1.txt
+GA, average results ,7902.190326,knapsack_ga_100-100-2-80-10.txt
+GA, average results ,6222.983035,knapsack_ga_100-100-3-100-0.txt
+GA, average results ,7578.9904,knapsack_ga_100-100-3-100-1.txt
+GA, average results ,7930.609868,knapsack_ga_100-100-3-100-10.txt
+GA, average results ,6685.862725,knapsack_ga_100-100-3-40-0.txt
+GA, average results ,7337.544079,knapsack_ga_100-100-3-40-1.txt
+GA, average results ,7615.822792,knapsack_ga_100-100-3-40-10.txt
+GA, average results ,7319.403646,knapsack_ga_100-100-3-60-0.txt
+GA, average results ,7702.782684,knapsack_ga_100-100-3-60-1.txt
+GA, average results ,7473.33106,knapsack_ga_100-100-3-60-10.txt
+GA, average results ,6777.181762,knapsack_ga_100-100-3-80-0.txt
+GA, average results ,6880.54246,knapsack_ga_100-100-3-80-1.txt
+GA, average results ,8154.427974,knapsack_ga_100-100-3-80-10.txt
+GA, average results ,8561.639933,knapsack_ga_100-200-1-120-0.txt
+GA, average results ,8065.451194,knapsack_ga_100-200-1-120-2.txt
+GA, average results ,8202.109719,knapsack_ga_100-200-1-120-20.txt
+GA, average results ,8321.055575,knapsack_ga_100-200-1-160-0.txt
+GA, average results ,8107.142673,knapsack_ga_100-200-1-160-2.txt
+GA, average results ,8969.988389,knapsack_ga_100-200-1-160-20.txt
+GA, average results ,7946.924218,knapsack_ga_100-200-1-200-0.txt
+GA, average results ,7846.627362,knapsack_ga_100-200-1-200-2.txt
+GA, average results ,8792.618342,knapsack_ga_100-200-1-200-20.txt
+GA, average results ,7390.945273,knapsack_ga_100-200-1-80-0.txt
+GA, average results ,7714.225605,knapsack_ga_100-200-1-80-2.txt
+GA, average results ,8198.703336,knapsack_ga_100-200-1-80-20.txt
+GA, average results ,8127.367165,knapsack_ga_100-200-2-120-0.txt
+GA, average results ,8633.80675,knapsack_ga_100-200-2-120-2.txt
+GA, average results ,8022.203469,knapsack_ga_100-200-2-120-20.txt
+GA, average results ,8064.432513,knapsack_ga_100-200-2-160-0.txt
+GA, average results ,8025.367921,knapsack_ga_100-200-2-160-2.txt
+GA, average results ,8476.620213,knapsack_ga_100-200-2-160-20.txt
+GA, average results ,7924.562186,knapsack_ga_100-200-2-200-0.txt
+GA, average results ,7883.280743,knapsack_ga_100-200-2-200-2.txt
+GA, average results ,8375.328021,knapsack_ga_100-200-2-200-20.txt
+GA, average results ,7749.700724,knapsack_ga_100-200-2-80-0.txt
+GA, average results ,7215.350173,knapsack_ga_100-200-2-80-2.txt
+GA, average results ,7456.036723,knapsack_ga_100-200-2-80-20.txt
+GA, average results ,8389.812184,knapsack_ga_100-200-3-120-0.txt
+GA, average results ,8104.068246,knapsack_ga_100-200-3-120-2.txt
+GA, average results ,8058.814023,knapsack_ga_100-200-3-120-20.txt
+GA, average results ,7470.646808,knapsack_ga_100-200-3-160-0.txt
+GA, average results ,8034.473565,knapsack_ga_100-200-3-160-2.txt
+GA, average results ,7989.026223,knapsack_ga_100-200-3-160-20.txt
+GA, average results ,8034.44165,knapsack_ga_100-200-3-200-0.txt
+GA, average results ,8738.420006,knapsack_ga_100-200-3-200-2.txt
+GA, average results ,7777.181485,knapsack_ga_100-200-3-200-20.txt
+GA, average results ,7451.499062,knapsack_ga_100-200-3-80-0.txt
+GA, average results ,7990.583884,knapsack_ga_100-200-3-80-2.txt
+GA, average results ,8252.488102,knapsack_ga_100-200-3-80-20.txt
+GA, average results ,8907.663069,knapsack_ga_100-400-1-160-0.txt
+GA, average results ,8556.187389,knapsack_ga_100-400-1-160-4.txt
+GA, average results ,9387.686575,knapsack_ga_100-400-1-160-40.txt
+GA, average results ,8225.920649,knapsack_ga_100-400-1-240-0.txt
+GA, average results ,8202.531882,knapsack_ga_100-400-1-240-4.txt
+GA, average results ,9520.26395,knapsack_ga_100-400-1-240-40.txt
+GA, average results ,9058.442618,knapsack_ga_100-400-1-320-0.txt
+GA, average results ,8521.562669,knapsack_ga_100-400-1-320-4.txt
+GA, average results ,9036.874319,knapsack_ga_100-400-1-320-40.txt
+GA, average results ,7405.051245,knapsack_ga_100-400-1-400-0.txt
+GA, average results ,8785.167906,knapsack_ga_100-400-1-400-4.txt
+GA, average results ,7835.738763,knapsack_ga_100-400-1-400-40.txt
+GA, average results ,9101.390925,knapsack_ga_100-400-2-160-0.txt
+GA, average results ,8640.355912,knapsack_ga_100-400-2-160-4.txt
+GA, average results ,7187.474737,knapsack_ga_100-400-2-160-40.txt
+GA, average results ,8437.688229,knapsack_ga_100-400-2-240-0.txt
+GA, average results ,8490.253676,knapsack_ga_100-400-2-240-4.txt
+GA, average results ,8637.342251,knapsack_ga_100-400-2-240-40.txt
+GA, average results ,9246.4646,knapsack_ga_100-400-2-320-0.txt
+GA, average results ,8611.543317,knapsack_ga_100-400-2-320-4.txt
+GA, average results ,8798.286403,knapsack_ga_100-400-2-320-40.txt
+GA, average results ,8782.889379,knapsack_ga_100-400-2-400-0.txt
+GA, average results ,8212.128459,knapsack_ga_100-400-2-400-4.txt
+GA, average results ,7952.600463,knapsack_ga_100-400-2-400-40.txt
+GA, average results ,8484.164815,knapsack_ga_100-400-3-160-0.txt
+GA, average results ,8182.338571,knapsack_ga_100-400-3-160-4.txt
+GA, average results ,8413.331306,knapsack_ga_100-400-3-160-40.txt
+GA, average results ,9237.819858,knapsack_ga_100-400-3-240-0.txt
+GA, average results ,9070.29808,knapsack_ga_100-400-3-240-4.txt
+GA, average results ,8921.026481,knapsack_ga_100-400-3-240-40.txt
+GA, average results ,8890.724176,knapsack_ga_100-400-3-320-0.txt
+GA, average results ,8315.097514,knapsack_ga_100-400-3-320-4.txt
+GA, average results ,8546.01245,knapsack_ga_100-400-3-320-40.txt
+GA, average results ,8613.516627,knapsack_ga_100-400-3-400-0.txt
+GA, average results ,8729.730629,knapsack_ga_100-400-3-400-4.txt
+GA, average results ,9036.226651,knapsack_ga_100-400-3-400-40.txt
+GA, average results ,6168.581319,knapsack_ga_100-50-1-20-0.txt
+GA, average results ,7085.599722,knapsack_ga_100-50-1-20-5.txt
+GA, average results ,6480.926528,knapsack_ga_100-50-1-30-0.txt
+GA, average results ,6561.285714,knapsack_ga_100-50-1-30-5.txt
+GA, average results ,6048.93739,knapsack_ga_100-50-1-40-0.txt
+GA, average results ,6787.470749,knapsack_ga_100-50-1-40-5.txt
+GA, average results ,6218.968369,knapsack_ga_100-50-1-50-0.txt
+GA, average results ,6532.935557,knapsack_ga_100-50-1-50-5.txt
+GA, average results ,6259.005654,knapsack_ga_100-50-2-20-0.txt
+GA, average results ,6426.140459,knapsack_ga_100-50-2-20-5.txt
+GA, average results ,5810.957002,knapsack_ga_100-50-2-30-0.txt
+GA, average results ,7209.384168,knapsack_ga_100-50-2-30-5.txt
+GA, average results ,6212.493538,knapsack_ga_100-50-2-40-0.txt
+GA, average results ,6539.303379,knapsack_ga_100-50-2-40-5.txt
+GA, average results ,6019.383481,knapsack_ga_100-50-2-50-0.txt
+GA, average results ,7336.485081,knapsack_ga_100-50-2-50-5.txt
+GA, average results ,6204.432995,knapsack_ga_100-50-3-20-0.txt
+GA, average results ,6070.117122,knapsack_ga_100-50-3-20-5.txt
+GA, average results ,6423.696907,knapsack_ga_100-50-3-30-0.txt
+GA, average results ,6006.327334,knapsack_ga_100-50-3-30-5.txt
+GA, average results ,5898.802467,knapsack_ga_100-50-3-40-0.txt
+GA, average results ,6940.571292,knapsack_ga_100-50-3-40-5.txt
+GA, average results ,5656.414492,knapsack_ga_100-50-3-50-0.txt
+GA, average results ,6858.381447,knapsack_ga_100-50-3-50-5.txt
+GA, average results ,8162.737538,knapsack_ga_120-120-1-120-0.txt
+GA, average results ,7469.985374,knapsack_ga_120-120-1-120-1.txt
+GA, average results ,9573.718032,knapsack_ga_120-120-1-120-12.txt
+GA, average results ,8768.687548,knapsack_ga_120-120-1-48-0.txt
+GA, average results ,8436.62649,knapsack_ga_120-120-1-48-1.txt
+GA, average results ,9299.019198,knapsack_ga_120-120-1-48-12.txt
+GA, average results ,8571.07628,knapsack_ga_120-120-1-72-0.txt
+GA, average results ,8098.844888,knapsack_ga_120-120-1-72-1.txt
+GA, average results ,9249.806029,knapsack_ga_120-120-1-72-12.txt
+GA, average results ,8596.871411,knapsack_ga_120-120-1-96-0.txt
+GA, average results ,9479.045604,knapsack_ga_120-120-1-96-1.txt
+GA, average results ,9130.77943,knapsack_ga_120-120-1-96-12.txt
+GA, average results ,8335.996129,knapsack_ga_120-120-2-120-0.txt
+GA, average results ,8817.968725,knapsack_ga_120-120-2-120-1.txt
+GA, average results ,9524.593703,knapsack_ga_120-120-2-120-12.txt
+GA, average results ,7937.154103,knapsack_ga_120-120-2-48-0.txt
+GA, average results ,8472.184775,knapsack_ga_120-120-2-48-1.txt
+GA, average results ,9128.79898,knapsack_ga_120-120-2-48-12.txt
+GA, average results ,8512.263459,knapsack_ga_120-120-2-72-0.txt
+GA, average results ,8585.993228,knapsack_ga_120-120-2-72-1.txt
+GA, average results ,9248.159799,knapsack_ga_120-120-2-72-12.txt
+GA, average results ,8778.743038,knapsack_ga_120-120-2-96-0.txt
+GA, average results ,9061.272221,knapsack_ga_120-120-2-96-1.txt
+GA, average results ,9514.950058,knapsack_ga_120-120-2-96-12.txt
+GA, average results ,9032.991976,knapsack_ga_120-120-3-120-0.txt
+GA, average results ,8336.898189,knapsack_ga_120-120-3-120-1.txt
+GA, average results ,8777.912199,knapsack_ga_120-120-3-120-12.txt
+GA, average results ,8653.993866,knapsack_ga_120-120-3-48-0.txt
+GA, average results ,8187.041684,knapsack_ga_120-120-3-48-1.txt
+GA, average results ,9358.958447,knapsack_ga_120-120-3-48-12.txt
+GA, average results ,8242.589367,knapsack_ga_120-120-3-72-0.txt
+GA, average results ,8560.807558,knapsack_ga_120-120-3-72-1.txt
+GA, average results ,9140.974051,knapsack_ga_120-120-3-72-12.txt
+GA, average results ,8087.943087,knapsack_ga_120-120-3-96-0.txt
+GA, average results ,9364.367792,knapsack_ga_120-120-3-96-1.txt
+GA, average results ,8913.893259,knapsack_ga_120-120-3-96-12.txt
+GA, average results ,9431.300617,knapsack_ga_120-240-1-144-0.txt
+GA, average results ,10334.1339,knapsack_ga_120-240-1-144-2.txt
+GA, average results ,9325.604951,knapsack_ga_120-240-1-144-24.txt
+GA, average results ,9202.747392,knapsack_ga_120-240-1-192-0.txt
+GA, average results ,9905.310698,knapsack_ga_120-240-1-192-2.txt
+GA, average results ,10278.97041,knapsack_ga_120-240-1-192-24.txt
+GA, average results ,9690.265931,knapsack_ga_120-240-1-240-0.txt
+GA, average results ,10028.20353,knapsack_ga_120-240-1-240-2.txt
+GA, average results ,10734.08982,knapsack_ga_120-240-1-240-24.txt
+GA, average results ,9406.38382,knapsack_ga_120-240-1-96-0.txt
+GA, average results ,10026.24358,knapsack_ga_120-240-1-96-2.txt
+GA, average results ,9530.248211,knapsack_ga_120-240-1-96-24.txt
+GA, average results ,10135.37865,knapsack_ga_120-240-2-144-0.txt
+GA, average results ,10963.49428,knapsack_ga_120-240-2-144-2.txt
+GA, average results ,10432.03783,knapsack_ga_120-240-2-144-24.txt
+GA, average results ,10420.09607,knapsack_ga_120-240-2-192-0.txt
+GA, average results ,10070.01705,knapsack_ga_120-240-2-192-2.txt
+GA, average results ,9824.920814,knapsack_ga_120-240-2-192-24.txt
+GA, average results ,9934.781021,knapsack_ga_120-240-2-240-0.txt
+GA, average results ,9325.700423,knapsack_ga_120-240-2-240-2.txt
+GA, average results ,8930.452067,knapsack_ga_120-240-2-240-24.txt
+GA, average results ,8886.673134,knapsack_ga_120-240-2-96-0.txt
+GA, average results ,10308.10018,knapsack_ga_120-240-2-96-2.txt
+GA, average results ,8805.185046,knapsack_ga_120-240-2-96-24.txt
+GA, average results ,10594.34326,knapsack_ga_120-240-3-144-0.txt
+GA, average results ,8825.740138,knapsack_ga_120-240-3-144-2.txt
+GA, average results ,9247.902364,knapsack_ga_120-240-3-144-24.txt
+GA, average results ,9757.891541,knapsack_ga_120-240-3-192-0.txt
+GA, average results ,10049.43608,knapsack_ga_120-240-3-192-2.txt
+GA, average results ,9302.59828,knapsack_ga_120-240-3-192-24.txt
+GA, average results ,9375.870428,knapsack_ga_120-240-3-240-0.txt
+GA, average results ,9516.289831,knapsack_ga_120-240-3-240-2.txt
+GA, average results ,10202.5079,knapsack_ga_120-240-3-240-24.txt
+GA, average results ,8760.155239,knapsack_ga_120-240-3-96-0.txt
+GA, average results ,10373.43544,knapsack_ga_120-240-3-96-2.txt
+GA, average results ,9488.955314,knapsack_ga_120-240-3-96-24.txt
+GA, average results ,10264.66581,knapsack_ga_120-480-1-192-0.txt
+GA, average results ,9420.795747,knapsack_ga_120-480-1-192-4.txt
+GA, average results ,10398.61911,knapsack_ga_120-480-1-192-48.txt
+GA, average results ,10192.59331,knapsack_ga_120-480-1-288-0.txt
+GA, average results ,9854.352023,knapsack_ga_120-480-1-288-4.txt
+GA, average results ,10580.59764,knapsack_ga_120-480-1-288-48.txt
+GA, average results ,9735.599504,knapsack_ga_120-480-1-384-0.txt
+GA, average results ,10718.33392,knapsack_ga_120-480-1-384-4.txt
+GA, average results ,10305.0978,knapsack_ga_120-480-1-384-48.txt
+GA, average results ,10080.50414,knapsack_ga_120-480-1-480-0.txt
+GA, average results ,10965.1343,knapsack_ga_120-480-1-480-4.txt
+GA, average results ,10485.65109,knapsack_ga_120-480-1-480-48.txt
+GA, average results ,10870.90128,knapsack_ga_120-480-2-192-0.txt
+GA, average results ,10498.98203,knapsack_ga_120-480-2-192-4.txt
+GA, average results ,10804.8291,knapsack_ga_120-480-2-192-48.txt
+GA, average results ,10508.41895,knapsack_ga_120-480-2-288-0.txt
+GA, average results ,10398.86816,knapsack_ga_120-480-2-288-4.txt
+GA, average results ,10638.68021,knapsack_ga_120-480-2-288-48.txt
+GA, average results ,9748.204382,knapsack_ga_120-480-2-384-0.txt
+GA, average results ,10879.98017,knapsack_ga_120-480-2-384-4.txt
+GA, average results ,10213.05883,knapsack_ga_120-480-2-384-48.txt
+GA, average results ,9254.060531,knapsack_ga_120-480-2-480-0.txt
+GA, average results ,9888.496893,knapsack_ga_120-480-2-480-4.txt
+GA, average results ,10261.90775,knapsack_ga_120-480-2-480-48.txt
+GA, average results ,9369.054546,knapsack_ga_120-480-3-192-0.txt
+GA, average results ,10386.56582,knapsack_ga_120-480-3-192-4.txt
+GA, average results ,11197.43514,knapsack_ga_120-480-3-192-48.txt
+GA, average results ,9881.938679,knapsack_ga_120-480-3-288-0.txt
+GA, average results ,9920.120238,knapsack_ga_120-480-3-288-4.txt
+GA, average results ,10294.96335,knapsack_ga_120-480-3-288-48.txt
+GA, average results ,10834.09677,knapsack_ga_120-480-3-384-0.txt
+GA, average results ,9819.700786,knapsack_ga_120-480-3-384-4.txt
+GA, average results ,9362.570006,knapsack_ga_120-480-3-384-48.txt
+GA, average results ,10812.50139,knapsack_ga_120-480-3-480-0.txt
+GA, average results ,10045.25649,knapsack_ga_120-480-3-480-4.txt
+GA, average results ,11224.91083,knapsack_ga_120-480-3-480-48.txt
+GA, average results ,7718.962492,knapsack_ga_120-60-1-24-0.txt
+GA, average results ,7345.000886,knapsack_ga_120-60-1-24-6.txt
+GA, average results ,7103.555131,knapsack_ga_120-60-1-36-0.txt
+GA, average results ,8488.900202,knapsack_ga_120-60-1-36-6.txt
+GA, average results ,7262.956092,knapsack_ga_120-60-1-48-0.txt
+GA, average results ,8140.911571,knapsack_ga_120-60-1-48-6.txt
+GA, average results ,7393.49005,knapsack_ga_120-60-1-60-0.txt
+GA, average results ,7873.862506,knapsack_ga_120-60-1-60-6.txt
+GA, average results ,6831.102241,knapsack_ga_120-60-2-24-0.txt
+GA, average results ,7479.252853,knapsack_ga_120-60-2-24-6.txt
+GA, average results ,7123.239107,knapsack_ga_120-60-2-36-0.txt
+GA, average results ,8494.23359,knapsack_ga_120-60-2-36-6.txt
+GA, average results ,7834.963114,knapsack_ga_120-60-2-48-0.txt
+GA, average results ,8166.687074,knapsack_ga_120-60-2-48-6.txt
+GA, average results ,7272.767928,knapsack_ga_120-60-2-60-0.txt
+GA, average results ,7669.123057,knapsack_ga_120-60-2-60-6.txt
+GA, average results ,6601.815847,knapsack_ga_120-60-3-24-0.txt
+GA, average results ,8700.812205,knapsack_ga_120-60-3-24-6.txt
+GA, average results ,7699.547788,knapsack_ga_120-60-3-36-0.txt
+GA, average results ,8420.070014,knapsack_ga_120-60-3-36-6.txt
+GA, average results ,6967.8963,knapsack_ga_120-60-3-48-0.txt
+GA, average results ,7947.72398,knapsack_ga_120-60-3-48-6.txt
+GA, average results ,7089.277595,knapsack_ga_120-60-3-60-0.txt
+GA, average results ,8865.951459,knapsack_ga_120-60-3-60-6.txt
+GA, average results ,9904.71573,knapsack_ga_140-140-1-112-0.txt
+GA, average results ,9527.663697,knapsack_ga_140-140-1-112-1.txt
+GA, average results ,10575.37977,knapsack_ga_140-140-1-112-14.txt
+GA, average results ,10325.96423,knapsack_ga_140-140-1-140-0.txt
+GA, average results ,10282.81332,knapsack_ga_140-140-1-140-1.txt
+GA, average results ,11031.71005,knapsack_ga_140-140-1-140-14.txt
+GA, average results ,10233.806,knapsack_ga_140-140-1-56-0.txt
+GA, average results ,9995.594452,knapsack_ga_140-140-1-56-1.txt
+GA, average results ,10771.78693,knapsack_ga_140-140-1-56-14.txt
+GA, average results ,9105.041038,knapsack_ga_140-140-1-84-0.txt
+GA, average results ,9704.28972,knapsack_ga_140-140-1-84-1.txt
+GA, average results ,10747.30516,knapsack_ga_140-140-1-84-14.txt
+GA, average results ,9994.292136,knapsack_ga_140-140-2-112-0.txt
+GA, average results ,10518.58735,knapsack_ga_140-140-2-112-1.txt
+GA, average results ,9767.285729,knapsack_ga_140-140-2-112-14.txt
+GA, average results ,9654.4943,knapsack_ga_140-140-2-140-0.txt
+GA, average results ,10686.15936,knapsack_ga_140-140-2-140-1.txt
+GA, average results ,10991.1452,knapsack_ga_140-140-2-140-14.txt
+GA, average results ,10205.42726,knapsack_ga_140-140-2-56-0.txt
+GA, average results ,9714.932301,knapsack_ga_140-140-2-56-1.txt
+GA, average results ,9471.696959,knapsack_ga_140-140-2-56-14.txt
+GA, average results ,10204.38998,knapsack_ga_140-140-2-84-0.txt
+GA, average results ,10392.64774,knapsack_ga_140-140-2-84-1.txt
+GA, average results ,11201.25185,knapsack_ga_140-140-2-84-14.txt
+GA, average results ,10715.72514,knapsack_ga_140-140-3-112-0.txt
+GA, average results ,9606.845043,knapsack_ga_140-140-3-112-1.txt
+GA, average results ,10795.05025,knapsack_ga_140-140-3-112-14.txt
+GA, average results ,9773.947186,knapsack_ga_140-140-3-140-0.txt
+GA, average results ,9763.38874,knapsack_ga_140-140-3-140-1.txt
+GA, average results ,11276.39086,knapsack_ga_140-140-3-140-14.txt
+GA, average results ,9730.602584,knapsack_ga_140-140-3-56-0.txt
+GA, average results ,9066.318911,knapsack_ga_140-140-3-56-1.txt
+GA, average results ,10425.61283,knapsack_ga_140-140-3-56-14.txt
+GA, average results ,9995.01829,knapsack_ga_140-140-3-84-0.txt
+GA, average results ,10129.82248,knapsack_ga_140-140-3-84-1.txt
+GA, average results ,11760.27155,knapsack_ga_140-140-3-84-14.txt
+GA, average results ,10460.28294,knapsack_ga_140-280-1-112-0.txt
+GA, average results ,11729.7593,knapsack_ga_140-280-1-112-2.txt
+GA, average results ,11399.73575,knapsack_ga_140-280-1-112-28.txt
+GA, average results ,11079.82392,knapsack_ga_140-280-1-168-0.txt
+GA, average results ,11681.18332,knapsack_ga_140-280-1-168-2.txt
+GA, average results ,11257.16338,knapsack_ga_140-280-1-168-28.txt
+GA, average results ,11192.56841,knapsack_ga_140-280-1-224-0.txt
+GA, average results ,11302.04497,knapsack_ga_140-280-1-224-2.txt
+GA, average results ,11912.63446,knapsack_ga_140-280-1-224-28.txt
+GA, average results ,12922.07718,knapsack_ga_140-280-1-280-0.txt
+GA, average results ,11568.26337,knapsack_ga_140-280-1-280-2.txt
+GA, average results ,11238.66238,knapsack_ga_140-280-1-280-28.txt
+GA, average results ,11395.7394,knapsack_ga_140-280-2-112-0.txt
+GA, average results ,11176.92901,knapsack_ga_140-280-2-112-2.txt
+GA, average results ,11022.87537,knapsack_ga_140-280-2-112-28.txt
+GA, average results ,10902.17417,knapsack_ga_140-280-2-168-0.txt
+GA, average results ,11190.61036,knapsack_ga_140-280-2-168-2.txt
+GA, average results ,10901.75672,knapsack_ga_140-280-2-168-28.txt
+GA, average results ,11348.81599,knapsack_ga_140-280-2-224-0.txt
+GA, average results ,11081.88328,knapsack_ga_140-280-2-224-2.txt
+GA, average results ,11344.44995,knapsack_ga_140-280-2-224-28.txt
+GA, average results ,10730.61637,knapsack_ga_140-280-2-280-0.txt
+GA, average results ,10719.67413,knapsack_ga_140-280-2-280-2.txt
+GA, average results ,11818.03067,knapsack_ga_140-280-2-280-28.txt
+GA, average results ,11356.82479,knapsack_ga_140-280-3-112-0.txt
+GA, average results ,10864.34899,knapsack_ga_140-280-3-112-2.txt
+GA, average results ,11499.08946,knapsack_ga_140-280-3-112-28.txt
+GA, average results ,10580.42407,knapsack_ga_140-280-3-168-0.txt
+GA, average results ,11684.04417,knapsack_ga_140-280-3-168-2.txt
+GA, average results ,11584.02941,knapsack_ga_140-280-3-168-28.txt
+GA, average results ,11515.25527,knapsack_ga_140-280-3-224-0.txt
+GA, average results ,10870.79591,knapsack_ga_140-280-3-224-2.txt
+GA, average results ,10740.38603,knapsack_ga_140-280-3-224-28.txt
+GA, average results ,11468.02505,knapsack_ga_140-280-3-280-0.txt
+GA, average results ,11365.3311,knapsack_ga_140-280-3-280-2.txt
+GA, average results ,11650.42689,knapsack_ga_140-280-3-280-28.txt
+GA, average results ,11973.36728,knapsack_ga_140-560-1-224-0.txt
+GA, average results ,11506.85165,knapsack_ga_140-560-1-224-5.txt
+GA, average results ,12718.27604,knapsack_ga_140-560-1-224-56.txt
+GA, average results ,11301.18149,knapsack_ga_140-560-1-336-0.txt
+GA, average results ,12271.15485,knapsack_ga_140-560-1-336-5.txt
+GA, average results ,11899.30907,knapsack_ga_140-560-1-336-56.txt
+GA, average results ,12777.62811,knapsack_ga_140-560-1-448-0.txt
+GA, average results ,12558.10128,knapsack_ga_140-560-1-448-5.txt
+GA, average results ,11950.27644,knapsack_ga_140-560-1-448-56.txt
+GA, average results ,13222.95672,knapsack_ga_140-560-1-560-0.txt
+GA, average results ,12501.96444,knapsack_ga_140-560-1-560-5.txt
+GA, average results ,12066.32314,knapsack_ga_140-560-1-560-56.txt
+GA, average results ,11323.68785,knapsack_ga_140-560-2-224-0.txt
+GA, average results ,11626.63336,knapsack_ga_140-560-2-224-5.txt
+GA, average results ,12472.54339,knapsack_ga_140-560-2-224-56.txt
+GA, average results ,12919.61516,knapsack_ga_140-560-2-336-0.txt
+GA, average results ,10903.58158,knapsack_ga_140-560-2-336-5.txt
+GA, average results ,11966.06066,knapsack_ga_140-560-2-336-56.txt
+GA, average results ,12600.63357,knapsack_ga_140-560-2-448-0.txt
+GA, average results ,13106.12314,knapsack_ga_140-560-2-448-5.txt
+GA, average results ,11766.27602,knapsack_ga_140-560-2-448-56.txt
+GA, average results ,12098.73022,knapsack_ga_140-560-2-560-0.txt
+GA, average results ,11601.45832,knapsack_ga_140-560-2-560-5.txt
+GA, average results ,12380.60124,knapsack_ga_140-560-2-560-56.txt
+GA, average results ,13309.22175,knapsack_ga_140-560-3-224-0.txt
+GA, average results ,11698.89581,knapsack_ga_140-560-3-224-5.txt
+GA, average results ,12037.9295,knapsack_ga_140-560-3-224-56.txt
+GA, average results ,12083.01447,knapsack_ga_140-560-3-336-0.txt
+GA, average results ,11317.84926,knapsack_ga_140-560-3-336-5.txt
+GA, average results ,10840.47113,knapsack_ga_140-560-3-336-56.txt
+GA, average results ,12384.45562,knapsack_ga_140-560-3-448-0.txt
+GA, average results ,12898.15888,knapsack_ga_140-560-3-448-5.txt
+GA, average results ,12998.79484,knapsack_ga_140-560-3-448-56.txt
+GA, average results ,11605.1053,knapsack_ga_140-560-3-560-0.txt
+GA, average results ,11937.43451,knapsack_ga_140-560-3-560-5.txt
+GA, average results ,11993.35324,knapsack_ga_140-560-3-560-56.txt
+GA, average results ,8637.934248,knapsack_ga_140-70-1-28-0.txt
+GA, average results ,9551.338652,knapsack_ga_140-70-1-28-7.txt
+GA, average results ,8850.811085,knapsack_ga_140-70-1-42-0.txt
+GA, average results ,9470.574779,knapsack_ga_140-70-1-42-7.txt
+GA, average results ,8976.342333,knapsack_ga_140-70-1-56-0.txt
+GA, average results ,10206.31556,knapsack_ga_140-70-1-56-7.txt
+GA, average results ,8697.433125,knapsack_ga_140-70-1-70-0.txt
+GA, average results ,9335.73767,knapsack_ga_140-70-1-70-7.txt
+GA, average results ,7704.027598,knapsack_ga_140-70-2-28-0.txt
+GA, average results ,9603.439586,knapsack_ga_140-70-2-28-7.txt
+GA, average results ,8875.776831,knapsack_ga_140-70-2-42-0.txt
+GA, average results ,9357.336503,knapsack_ga_140-70-2-42-7.txt
+GA, average results ,9539.187726,knapsack_ga_140-70-2-56-0.txt
+GA, average results ,9103.736866,knapsack_ga_140-70-2-56-7.txt
+GA, average results ,8414.852077,knapsack_ga_140-70-2-70-0.txt
+GA, average results ,8861.987089,knapsack_ga_140-70-2-70-7.txt
+GA, average results ,8789.465657,knapsack_ga_140-70-3-28-0.txt
+GA, average results ,9753.920119,knapsack_ga_140-70-3-28-7.txt
+GA, average results ,8813.889589,knapsack_ga_140-70-3-42-0.txt
+GA, average results ,10074.02181,knapsack_ga_140-70-3-42-7.txt
+GA, average results ,9028.133575,knapsack_ga_140-70-3-56-0.txt
+GA, average results ,9154.664358,knapsack_ga_140-70-3-56-7.txt
+GA, average results ,9178.268602,knapsack_ga_140-70-3-70-0.txt
+GA, average results ,9655.879967,knapsack_ga_140-70-3-70-7.txt
+GA, average results ,3202.983698,knapsack_ga_40-160-1-128-0.txt
+GA, average results ,3374.982792,knapsack_ga_40-160-1-128-1.txt
+GA, average results ,2962.525477,knapsack_ga_40-160-1-128-16.txt
+GA, average results ,2834.651003,knapsack_ga_40-160-1-160-0.txt
+GA, average results ,3233.994244,knapsack_ga_40-160-1-160-1.txt
+GA, average results ,3098.287143,knapsack_ga_40-160-1-160-16.txt
+GA, average results ,3655.125111,knapsack_ga_40-160-1-64-0.txt
+GA, average results ,3467.557769,knapsack_ga_40-160-1-64-1.txt
+GA, average results ,3935.366737,knapsack_ga_40-160-1-64-16.txt
+GA, average results ,3842.282517,knapsack_ga_40-160-1-96-0.txt
+GA, average results ,2956.174917,knapsack_ga_40-160-1-96-1.txt
+GA, average results ,2832.168111,knapsack_ga_40-160-1-96-16.txt
+GA, average results ,4014.427642,knapsack_ga_40-160-2-128-0.txt
+GA, average results ,2519.266208,knapsack_ga_40-160-2-128-1.txt
+GA, average results ,3282.036044,knapsack_ga_40-160-2-128-16.txt
+GA, average results ,3552.138996,knapsack_ga_40-160-2-160-0.txt
+GA, average results ,3643.598049,knapsack_ga_40-160-2-160-1.txt
+GA, average results ,3064.25646,knapsack_ga_40-160-2-160-16.txt
+GA, average results ,3163.39601,knapsack_ga_40-160-2-64-0.txt
+GA, average results ,3473.418489,knapsack_ga_40-160-2-64-1.txt
+GA, average results ,3452.267834,knapsack_ga_40-160-2-64-16.txt
+GA, average results ,3958.404522,knapsack_ga_40-160-2-96-0.txt
+GA, average results ,3064.151211,knapsack_ga_40-160-2-96-1.txt
+GA, average results ,4128.398087,knapsack_ga_40-160-2-96-16.txt
+GA, average results ,3181.249002,knapsack_ga_40-160-3-128-0.txt
+GA, average results ,3344.739001,knapsack_ga_40-160-3-128-1.txt
+GA, average results ,2921.100998,knapsack_ga_40-160-3-128-16.txt
+GA, average results ,3451.829425,knapsack_ga_40-160-3-160-0.txt
+GA, average results ,3425.725592,knapsack_ga_40-160-3-160-1.txt
+GA, average results ,3315.35107,knapsack_ga_40-160-3-160-16.txt
+GA, average results ,3409.826999,knapsack_ga_40-160-3-64-0.txt
+GA, average results ,3429.963101,knapsack_ga_40-160-3-64-1.txt
+GA, average results ,3429.842124,knapsack_ga_40-160-3-64-16.txt
+GA, average results ,3648.794776,knapsack_ga_40-160-3-96-0.txt
+GA, average results ,3250.900059,knapsack_ga_40-160-3-96-1.txt
+GA, average results ,3737.503927,knapsack_ga_40-160-3-96-16.txt
+GA, average results ,2111.87921,knapsack_ga_40-20-1-12-0.txt
+GA, average results ,2328.973691,knapsack_ga_40-20-1-12-2.txt
+GA, average results ,2776.100272,knapsack_ga_40-20-1-16-0.txt
+GA, average results ,2974.554068,knapsack_ga_40-20-1-16-2.txt
+GA, average results ,2850.238875,knapsack_ga_40-20-1-20-0.txt
+GA, average results ,3021.608059,knapsack_ga_40-20-1-20-2.txt
+GA, average results ,2561.050469,knapsack_ga_40-20-1-8-0.txt
+GA, average results ,2543.450914,knapsack_ga_40-20-1-8-2.txt
+GA, average results ,2425.863531,knapsack_ga_40-20-2-12-0.txt
+GA, average results ,2928.935265,knapsack_ga_40-20-2-12-2.txt
+GA, average results ,2336.557368,knapsack_ga_40-20-2-16-0.txt
+GA, average results ,2816.456083,knapsack_ga_40-20-2-16-2.txt
+GA, average results ,2474.180712,knapsack_ga_40-20-2-20-0.txt
+GA, average results ,2792.471977,knapsack_ga_40-20-2-20-2.txt
+GA, average results ,2262.360838,knapsack_ga_40-20-2-8-0.txt
+GA, average results ,2722.151945,knapsack_ga_40-20-2-8-2.txt
+GA, average results ,2319.94728,knapsack_ga_40-20-3-12-0.txt
+GA, average results ,2940.096488,knapsack_ga_40-20-3-12-2.txt
+GA, average results ,2494.490955,knapsack_ga_40-20-3-16-0.txt
+GA, average results ,2872.465338,knapsack_ga_40-20-3-16-2.txt
+GA, average results ,2360.146389,knapsack_ga_40-20-3-20-0.txt
+GA, average results ,3126.033303,knapsack_ga_40-20-3-20-2.txt
+GA, average results ,2213.953614,knapsack_ga_40-20-3-8-0.txt
+GA, average results ,2236.828557,knapsack_ga_40-20-3-8-2.txt
+GA, average results ,2557.873498,knapsack_ga_40-40-1-16-0.txt
+GA, average results ,2927.641234,knapsack_ga_40-40-1-16-4.txt
+GA, average results ,2605.796862,knapsack_ga_40-40-1-24-0.txt
+GA, average results ,2881.820085,knapsack_ga_40-40-1-24-4.txt
+GA, average results ,2403.142849,knapsack_ga_40-40-1-32-0.txt
+GA, average results ,3070.948779,knapsack_ga_40-40-1-32-4.txt
+GA, average results ,2326.435901,knapsack_ga_40-40-1-40-0.txt
+GA, average results ,3496.264047,knapsack_ga_40-40-1-40-4.txt
+GA, average results ,2683.631343,knapsack_ga_40-40-2-16-0.txt
+GA, average results ,2907.286425,knapsack_ga_40-40-2-16-4.txt
+GA, average results ,2734.367206,knapsack_ga_40-40-2-24-0.txt
+GA, average results ,3066.957673,knapsack_ga_40-40-2-24-4.txt
+GA, average results ,2829.073048,knapsack_ga_40-40-2-32-0.txt
+GA, average results ,2974.452467,knapsack_ga_40-40-2-32-4.txt
+GA, average results ,2860.408389,knapsack_ga_40-40-2-40-0.txt
+GA, average results ,3108.239723,knapsack_ga_40-40-2-40-4.txt
+GA, average results ,2129.937843,knapsack_ga_40-40-3-16-0.txt
+GA, average results ,3008.882963,knapsack_ga_40-40-3-16-4.txt
+GA, average results ,3240.48511,knapsack_ga_40-40-3-24-0.txt
+GA, average results ,3052.382479,knapsack_ga_40-40-3-24-4.txt
+GA, average results ,2741.397629,knapsack_ga_40-40-3-32-0.txt
+GA, average results ,2740.712534,knapsack_ga_40-40-3-32-4.txt
+GA, average results ,3207.635047,knapsack_ga_40-40-3-40-0.txt
+GA, average results ,3592.548648,knapsack_ga_40-40-3-40-4.txt
+GA, average results ,2787.799897,knapsack_ga_40-80-1-32-0.txt
+GA, average results ,2922.218624,knapsack_ga_40-80-1-32-8.txt
+GA, average results ,2955.600142,knapsack_ga_40-80-1-48-0.txt
+GA, average results ,2647.926686,knapsack_ga_40-80-1-48-8.txt
+GA, average results ,2563.915641,knapsack_ga_40-80-1-64-0.txt
+GA, average results ,3309.789505,knapsack_ga_40-80-1-64-8.txt
+GA, average results ,2934.015197,knapsack_ga_40-80-1-80-0.txt
+GA, average results ,3345.267109,knapsack_ga_40-80-1-80-8.txt
+GA, average results ,3291.201291,knapsack_ga_40-80-2-32-0.txt
+GA, average results ,3166.341629,knapsack_ga_40-80-2-32-8.txt
+GA, average results ,2873.58901,knapsack_ga_40-80-2-48-0.txt
+GA, average results ,3675.7093,knapsack_ga_40-80-2-48-8.txt
+GA, average results ,2911.854208,knapsack_ga_40-80-2-64-0.txt
+GA, average results ,3697.25175,knapsack_ga_40-80-2-64-8.txt
+GA, average results ,3196.447375,knapsack_ga_40-80-2-80-0.txt
+GA, average results ,3154.062211,knapsack_ga_40-80-2-80-8.txt
+GA, average results ,2992.786763,knapsack_ga_40-80-3-32-0.txt
+GA, average results ,3311.657538,knapsack_ga_40-80-3-32-8.txt
+GA, average results ,3100.554635,knapsack_ga_40-80-3-48-0.txt
+GA, average results ,3183.754885,knapsack_ga_40-80-3-48-8.txt
+GA, average results ,2778.802363,knapsack_ga_40-80-3-64-0.txt
+GA, average results ,3603.815429,knapsack_ga_40-80-3-64-8.txt
+GA, average results ,3323.576353,knapsack_ga_40-80-3-80-0.txt
+GA, average results ,3165.145618,knapsack_ga_40-80-3-80-8.txt
+GA, average results ,5075.188797,knapsack_ga_60-120-1-120-0.txt
+GA, average results ,4494.203061,knapsack_ga_60-120-1-120-1.txt
+GA, average results ,4717.687309,knapsack_ga_60-120-1-120-12.txt
+GA, average results ,4632.168908,knapsack_ga_60-120-1-48-0.txt
+GA, average results ,4705.841341,knapsack_ga_60-120-1-48-1.txt
+GA, average results ,5162.97647,knapsack_ga_60-120-1-48-12.txt
+GA, average results ,5306.498552,knapsack_ga_60-120-1-72-0.txt
+GA, average results ,5077.851456,knapsack_ga_60-120-1-72-1.txt
+GA, average results ,4782.4913,knapsack_ga_60-120-1-72-12.txt
+GA, average results ,4364.917281,knapsack_ga_60-120-1-96-0.txt
+GA, average results ,5468.685699,knapsack_ga_60-120-1-96-1.txt
+GA, average results ,5345.966151,knapsack_ga_60-120-1-96-12.txt
+GA, average results ,4963.27266,knapsack_ga_60-120-2-120-0.txt
+GA, average results ,5398.297242,knapsack_ga_60-120-2-120-1.txt
+GA, average results ,5642.450069,knapsack_ga_60-120-2-120-12.txt
+GA, average results ,4745.780616,knapsack_ga_60-120-2-48-0.txt
+GA, average results ,4316.3864,knapsack_ga_60-120-2-48-1.txt
+GA, average results ,5553.019391,knapsack_ga_60-120-2-48-12.txt
+GA, average results ,4551.426115,knapsack_ga_60-120-2-72-0.txt
+GA, average results ,5248.611382,knapsack_ga_60-120-2-72-1.txt
+GA, average results ,5496.863586,knapsack_ga_60-120-2-72-12.txt
+GA, average results ,5190.765415,knapsack_ga_60-120-2-96-0.txt
+GA, average results ,4529.751011,knapsack_ga_60-120-2-96-1.txt
+GA, average results ,4876.22227,knapsack_ga_60-120-2-96-12.txt
+GA, average results ,4637.330974,knapsack_ga_60-120-3-120-0.txt
+GA, average results ,5022.580627,knapsack_ga_60-120-3-120-1.txt
+GA, average results ,5401.835351,knapsack_ga_60-120-3-120-12.txt
+GA, average results ,5243.051092,knapsack_ga_60-120-3-48-0.txt
+GA, average results ,4715.189024,knapsack_ga_60-120-3-48-1.txt
+GA, average results ,5013.041295,knapsack_ga_60-120-3-48-12.txt
+GA, average results ,4664.65415,knapsack_ga_60-120-3-72-0.txt
+GA, average results ,5124.700067,knapsack_ga_60-120-3-72-1.txt
+GA, average results ,5266.923576,knapsack_ga_60-120-3-72-12.txt
+GA, average results ,5156.340762,knapsack_ga_60-120-3-96-0.txt
+GA, average results ,4972.176543,knapsack_ga_60-120-3-96-1.txt
+GA, average results ,4893.19942,knapsack_ga_60-120-3-96-12.txt
+GA, average results ,5482.709521,knapsack_ga_60-240-1-144-0.txt
+GA, average results ,5351.595633,knapsack_ga_60-240-1-144-2.txt
+GA, average results ,5395.975977,knapsack_ga_60-240-1-144-24.txt
+GA, average results ,5233.050597,knapsack_ga_60-240-1-192-0.txt
+GA, average results ,4950.991268,knapsack_ga_60-240-1-192-2.txt
+GA, average results ,5747.283876,knapsack_ga_60-240-1-192-24.txt
+GA, average results ,5498.153944,knapsack_ga_60-240-1-240-0.txt
+GA, average results ,5205.67795,knapsack_ga_60-240-1-240-2.txt
+GA, average results ,4801.754156,knapsack_ga_60-240-1-240-24.txt
+GA, average results ,4980.668141,knapsack_ga_60-240-1-96-0.txt
+GA, average results ,5225.969677,knapsack_ga_60-240-1-96-2.txt
+GA, average results ,5070.4737,knapsack_ga_60-240-1-96-24.txt
+GA, average results ,5307.666955,knapsack_ga_60-240-2-144-0.txt
+GA, average results ,5419.470859,knapsack_ga_60-240-2-144-2.txt
+GA, average results ,5930.349913,knapsack_ga_60-240-2-144-24.txt
+GA, average results ,4911.487365,knapsack_ga_60-240-2-192-0.txt
+GA, average results ,5245.890539,knapsack_ga_60-240-2-192-2.txt
+GA, average results ,5080.045429,knapsack_ga_60-240-2-192-24.txt
+GA, average results ,5290.494088,knapsack_ga_60-240-2-240-0.txt
+GA, average results ,5416.090553,knapsack_ga_60-240-2-240-2.txt
+GA, average results ,4806.595301,knapsack_ga_60-240-2-240-24.txt
+GA, average results ,5132.575892,knapsack_ga_60-240-2-96-0.txt
+GA, average results ,4960.551888,knapsack_ga_60-240-2-96-2.txt
+GA, average results ,5028.008617,knapsack_ga_60-240-2-96-24.txt
+GA, average results ,5033.233937,knapsack_ga_60-240-3-144-0.txt
+GA, average results ,4716.798599,knapsack_ga_60-240-3-144-2.txt
+GA, average results ,5311.977576,knapsack_ga_60-240-3-144-24.txt
+GA, average results ,5365.433453,knapsack_ga_60-240-3-192-0.txt
+GA, average results ,4841.64048,knapsack_ga_60-240-3-192-2.txt
+GA, average results ,5207.73226,knapsack_ga_60-240-3-192-24.txt
+GA, average results ,4827.836964,knapsack_ga_60-240-3-240-0.txt
+GA, average results ,5051.153809,knapsack_ga_60-240-3-240-2.txt
+GA, average results ,5217.217275,knapsack_ga_60-240-3-240-24.txt
+GA, average results ,5372.765775,knapsack_ga_60-240-3-96-0.txt
+GA, average results ,5976.39425,knapsack_ga_60-240-3-96-2.txt
+GA, average results ,5178.449629,knapsack_ga_60-240-3-96-24.txt
+GA, average results ,3923.006839,knapsack_ga_60-30-1-12-0.txt
+GA, average results ,3992.647767,knapsack_ga_60-30-1-12-3.txt
+GA, average results ,3470.16955,knapsack_ga_60-30-1-18-0.txt
+GA, average results ,3740.53217,knapsack_ga_60-30-1-18-3.txt
+GA, average results ,3692.30773,knapsack_ga_60-30-1-24-0.txt
+GA, average results ,3891.590982,knapsack_ga_60-30-1-24-3.txt
+GA, average results ,3522.817931,knapsack_ga_60-30-1-30-0.txt
+GA, average results ,4250.853623,knapsack_ga_60-30-1-30-3.txt
+GA, average results ,3593.425157,knapsack_ga_60-30-2-12-0.txt
+GA, average results ,4079.11495,knapsack_ga_60-30-2-12-3.txt
+GA, average results ,3765.058413,knapsack_ga_60-30-2-18-0.txt
+GA, average results ,4311.573089,knapsack_ga_60-30-2-18-3.txt
+GA, average results ,3647.776869,knapsack_ga_60-30-2-24-0.txt
+GA, average results ,4389.949697,knapsack_ga_60-30-2-24-3.txt
+GA, average results ,3427.876314,knapsack_ga_60-30-2-30-0.txt
+GA, average results ,3650.885125,knapsack_ga_60-30-2-30-3.txt
+GA, average results ,3963.735705,knapsack_ga_60-30-3-12-0.txt
+GA, average results ,4281.16694,knapsack_ga_60-30-3-12-3.txt
+GA, average results ,3498.862118,knapsack_ga_60-30-3-18-0.txt
+GA, average results ,4465.143689,knapsack_ga_60-30-3-18-3.txt
+GA, average results ,3741.52093,knapsack_ga_60-30-3-24-0.txt
+GA, average results ,4378.363436,knapsack_ga_60-30-3-24-3.txt
+GA, average results ,4085.326943,knapsack_ga_60-30-3-30-0.txt
+GA, average results ,4136.925556,knapsack_ga_60-30-3-30-3.txt
+GA, average results ,4398.20834,knapsack_ga_60-60-1-24-0.txt
+GA, average results ,4851.542313,knapsack_ga_60-60-1-24-6.txt
+GA, average results ,4427.590942,knapsack_ga_60-60-1-36-0.txt
+GA, average results ,4038.258341,knapsack_ga_60-60-1-36-6.txt
+GA, average results ,4167.287555,knapsack_ga_60-60-1-48-0.txt
+GA, average results ,4761.103655,knapsack_ga_60-60-1-48-6.txt
+GA, average results ,4532.540022,knapsack_ga_60-60-1-60-0.txt
+GA, average results ,4436.695456,knapsack_ga_60-60-1-60-6.txt
+GA, average results ,4769.986841,knapsack_ga_60-60-2-24-0.txt
+GA, average results ,4110.155409,knapsack_ga_60-60-2-24-6.txt
+GA, average results ,3904.903829,knapsack_ga_60-60-2-36-0.txt
+GA, average results ,4535.409875,knapsack_ga_60-60-2-36-6.txt
+GA, average results ,3786.942218,knapsack_ga_60-60-2-48-0.txt
+GA, average results ,4556.649939,knapsack_ga_60-60-2-48-6.txt
+GA, average results ,4270.714602,knapsack_ga_60-60-2-60-0.txt
+GA, average results ,4270.615797,knapsack_ga_60-60-2-60-6.txt
+GA, average results ,3811.021978,knapsack_ga_60-60-3-24-0.txt
+GA, average results ,4778.448258,knapsack_ga_60-60-3-24-6.txt
+GA, average results ,4762.776488,knapsack_ga_60-60-3-36-0.txt
+GA, average results ,4760.478437,knapsack_ga_60-60-3-36-6.txt
+GA, average results ,4147.46328,knapsack_ga_60-60-3-48-0.txt
+GA, average results ,5025.530774,knapsack_ga_60-60-3-48-6.txt
+GA, average results ,3941.649644,knapsack_ga_60-60-3-60-0.txt
+GA, average results ,4604.267944,knapsack_ga_60-60-3-60-6.txt
+GA, average results ,6084.218002,knapsack_ga_80-160-1-128-0.txt
+GA, average results ,7281.295631,knapsack_ga_80-160-1-128-1.txt
+GA, average results ,6051.240587,knapsack_ga_80-160-1-128-16.txt
+GA, average results ,6278.535491,knapsack_ga_80-160-1-160-0.txt
+GA, average results ,6408.520343,knapsack_ga_80-160-1-160-1.txt
+GA, average results ,5810.966816,knapsack_ga_80-160-1-160-16.txt
+GA, average results ,5933.123225,knapsack_ga_80-160-1-64-0.txt
+GA, average results ,6058.437419,knapsack_ga_80-160-1-64-1.txt
+GA, average results ,7152.670102,knapsack_ga_80-160-1-64-16.txt
+GA, average results ,6650.89782,knapsack_ga_80-160-1-96-0.txt
+GA, average results ,6712.349363,knapsack_ga_80-160-1-96-1.txt
+GA, average results ,6032.9513,knapsack_ga_80-160-1-96-16.txt
+GA, average results ,6148.469747,knapsack_ga_80-160-2-128-0.txt
+GA, average results ,6181.813044,knapsack_ga_80-160-2-128-1.txt
+GA, average results ,6534.661078,knapsack_ga_80-160-2-128-16.txt
+GA, average results ,5977.453924,knapsack_ga_80-160-2-160-0.txt
+GA, average results ,6656.387871,knapsack_ga_80-160-2-160-1.txt
+GA, average results ,6676.993575,knapsack_ga_80-160-2-160-16.txt
+GA, average results ,6589.066117,knapsack_ga_80-160-2-64-0.txt
+GA, average results ,6387.045307,knapsack_ga_80-160-2-64-1.txt
+GA, average results ,6430.93161,knapsack_ga_80-160-2-64-16.txt
+GA, average results ,5948.501392,knapsack_ga_80-160-2-96-0.txt
+GA, average results ,6582.540647,knapsack_ga_80-160-2-96-1.txt
+GA, average results ,6705.112807,knapsack_ga_80-160-2-96-16.txt
+GA, average results ,6075.736442,knapsack_ga_80-160-3-128-0.txt
+GA, average results ,6415.323594,knapsack_ga_80-160-3-128-1.txt
+GA, average results ,6817.916471,knapsack_ga_80-160-3-128-16.txt
+GA, average results ,5852.965167,knapsack_ga_80-160-3-160-0.txt
+GA, average results ,6513.106271,knapsack_ga_80-160-3-160-1.txt
+GA, average results ,6472.436766,knapsack_ga_80-160-3-160-16.txt
+GA, average results ,7224.195617,knapsack_ga_80-160-3-64-0.txt
+GA, average results ,7261.779968,knapsack_ga_80-160-3-64-1.txt
+GA, average results ,6754.071028,knapsack_ga_80-160-3-64-16.txt
+GA, average results ,6440.374282,knapsack_ga_80-160-3-96-0.txt
+GA, average results ,6940.514322,knapsack_ga_80-160-3-96-1.txt
+GA, average results ,6224.59595,knapsack_ga_80-160-3-96-16.txt
+GA, average results ,6860.431606,knapsack_ga_80-320-1-128-0.txt
+GA, average results ,7275.339253,knapsack_ga_80-320-1-128-3.txt
+GA, average results ,7010.355206,knapsack_ga_80-320-1-128-32.txt
+GA, average results ,6337.576309,knapsack_ga_80-320-1-192-0.txt
+GA, average results ,6883.562561,knapsack_ga_80-320-1-192-3.txt
+GA, average results ,6872.430127,knapsack_ga_80-320-1-192-32.txt
+GA, average results ,7291.684174,knapsack_ga_80-320-1-256-0.txt
+GA, average results ,5891.292128,knapsack_ga_80-320-1-256-3.txt
+GA, average results ,6490.652684,knapsack_ga_80-320-1-256-32.txt
+GA, average results ,6710.193407,knapsack_ga_80-320-1-320-0.txt
+GA, average results ,6605.077839,knapsack_ga_80-320-1-320-3.txt
+GA, average results ,6153.469316,knapsack_ga_80-320-1-320-32.txt
+GA, average results ,7639.854314,knapsack_ga_80-320-2-128-0.txt
+GA, average results ,7325.824681,knapsack_ga_80-320-2-128-3.txt
+GA, average results ,6021.395291,knapsack_ga_80-320-2-128-32.txt
+GA, average results ,7651.183292,knapsack_ga_80-320-2-192-0.txt
+GA, average results ,6870.983911,knapsack_ga_80-320-2-192-3.txt
+GA, average results ,7074.267305,knapsack_ga_80-320-2-192-32.txt
+GA, average results ,7289.066586,knapsack_ga_80-320-2-256-0.txt
+GA, average results ,6618.605457,knapsack_ga_80-320-2-256-3.txt
+GA, average results ,6930.10333,knapsack_ga_80-320-2-256-32.txt
+GA, average results ,6145.926261,knapsack_ga_80-320-2-320-0.txt
+GA, average results ,6499.515409,knapsack_ga_80-320-2-320-3.txt
+GA, average results ,6730.092293,knapsack_ga_80-320-2-320-32.txt
+GA, average results ,7254.641232,knapsack_ga_80-320-3-128-0.txt
+GA, average results ,6596.442087,knapsack_ga_80-320-3-128-3.txt
+GA, average results ,6794.130566,knapsack_ga_80-320-3-128-32.txt
+GA, average results ,6814.402223,knapsack_ga_80-320-3-192-0.txt
+GA, average results ,7220.786374,knapsack_ga_80-320-3-192-3.txt
+GA, average results ,6813.185235,knapsack_ga_80-320-3-192-32.txt
+GA, average results ,6969.822414,knapsack_ga_80-320-3-256-0.txt
+GA, average results ,6356.193445,knapsack_ga_80-320-3-256-3.txt
+GA, average results ,6726.196023,knapsack_ga_80-320-3-256-32.txt
+GA, average results ,7975.42808,knapsack_ga_80-320-3-320-0.txt
+GA, average results ,6959.086209,knapsack_ga_80-320-3-320-3.txt
+GA, average results ,7140.340184,knapsack_ga_80-320-3-320-32.txt
+GA, average results ,4813.981865,knapsack_ga_80-40-1-16-0.txt
+GA, average results ,4974.316419,knapsack_ga_80-40-1-16-4.txt
+GA, average results ,5357.713035,knapsack_ga_80-40-1-24-0.txt
+GA, average results ,6224.508632,knapsack_ga_80-40-1-24-4.txt
+GA, average results ,5102.462629,knapsack_ga_80-40-1-32-0.txt
+GA, average results ,5664.400648,knapsack_ga_80-40-1-32-4.txt
+GA, average results ,5047.791569,knapsack_ga_80-40-1-40-0.txt
+GA, average results ,5359.154484,knapsack_ga_80-40-1-40-4.txt
+GA, average results ,4846.995956,knapsack_ga_80-40-2-16-0.txt
+GA, average results ,5739.67754,knapsack_ga_80-40-2-16-4.txt
+GA, average results ,4973.534509,knapsack_ga_80-40-2-24-0.txt
+GA, average results ,5006.595597,knapsack_ga_80-40-2-24-4.txt
+GA, average results ,4897.362039,knapsack_ga_80-40-2-32-0.txt
+GA, average results ,5810.761921,knapsack_ga_80-40-2-32-4.txt
+GA, average results ,5118.761159,knapsack_ga_80-40-2-40-0.txt
+GA, average results ,5221.761003,knapsack_ga_80-40-2-40-4.txt
+GA, average results ,4650.766789,knapsack_ga_80-40-3-16-0.txt
+GA, average results ,5717.576691,knapsack_ga_80-40-3-16-4.txt
+GA, average results ,4911.790535,knapsack_ga_80-40-3-24-0.txt
+GA, average results ,5734.547872,knapsack_ga_80-40-3-24-4.txt
+GA, average results ,4983.452121,knapsack_ga_80-40-3-32-0.txt
+GA, average results ,5389.887846,knapsack_ga_80-40-3-32-4.txt
+GA, average results ,4712.271175,knapsack_ga_80-40-3-40-0.txt
+GA, average results ,5058.490209,knapsack_ga_80-40-3-40-4.txt
+GA, average results ,5497.341821,knapsack_ga_80-80-1-32-0.txt
+GA, average results ,6150.773904,knapsack_ga_80-80-1-32-8.txt
+GA, average results ,5576.357324,knapsack_ga_80-80-1-48-0.txt
+GA, average results ,6037.994478,knapsack_ga_80-80-1-48-8.txt
+GA, average results ,5475.432847,knapsack_ga_80-80-1-64-0.txt
+GA, average results ,6268.637127,knapsack_ga_80-80-1-64-8.txt
+GA, average results ,6020.678988,knapsack_ga_80-80-1-80-0.txt
+GA, average results ,6314.050777,knapsack_ga_80-80-1-80-8.txt
+GA, average results ,5211.471674,knapsack_ga_80-80-2-32-0.txt
+GA, average results ,5618.872022,knapsack_ga_80-80-2-32-8.txt
+GA, average results ,5339.517955,knapsack_ga_80-80-2-48-0.txt
+GA, average results ,6600.546964,knapsack_ga_80-80-2-48-8.txt
+GA, average results ,5444.30819,knapsack_ga_80-80-2-64-0.txt
+GA, average results ,6459.239816,knapsack_ga_80-80-2-64-8.txt
+GA, average results ,5752.179654,knapsack_ga_80-80-2-80-0.txt
+GA, average results ,6432.384584,knapsack_ga_80-80-2-80-8.txt
+GA, average results ,5695.47847,knapsack_ga_80-80-3-32-0.txt
+GA, average results ,6346.6473,knapsack_ga_80-80-3-32-8.txt
+GA, average results ,5573.999664,knapsack_ga_80-80-3-48-0.txt
+GA, average results ,6506.621926,knapsack_ga_80-80-3-48-8.txt
+GA, average results ,5973.741258,knapsack_ga_80-80-3-64-0.txt
+GA, average results ,5996.418145,knapsack_ga_80-80-3-64-8.txt
+GA, average results ,5839.395182,knapsack_ga_80-80-3-80-0.txt
+GA, average results ,5864.194167,knapsack_ga_80-80-3-80-8.txt
+GA, average time ,0.302800012,knapsack_ga_100-100-1-100-0.txt
+GA, average time ,0.3352,knapsack_ga_100-100-1-100-1.txt
+GA, average time ,0.288499999,knapsack_ga_100-100-1-100-10.txt
+GA, average time ,0.20250001,knapsack_ga_100-100-1-40-0.txt
+GA, average time ,0.170099998,knapsack_ga_100-100-1-40-1.txt
+GA, average time ,0.146199989,knapsack_ga_100-100-1-40-10.txt
+GA, average time ,0.211400008,knapsack_ga_100-100-1-60-0.txt
+GA, average time ,0.161500001,knapsack_ga_100-100-1-60-1.txt
+GA, average time ,0.197399998,knapsack_ga_100-100-1-60-10.txt
+GA, average time ,0.256800008,knapsack_ga_100-100-1-80-0.txt
+GA, average time ,0.243900013,knapsack_ga_100-100-1-80-1.txt
+GA, average time ,0.221899986,knapsack_ga_100-100-1-80-10.txt
+GA, average time ,0.31329999,knapsack_ga_100-100-2-100-0.txt
+GA, average time ,0.290899992,knapsack_ga_100-100-2-100-1.txt
+GA, average time ,0.429200006,knapsack_ga_100-100-2-100-10.txt
+GA, average time ,0.161199999,knapsack_ga_100-100-2-40-0.txt
+GA, average time ,0.153900003,knapsack_ga_100-100-2-40-1.txt
+GA, average time ,0.158400011,knapsack_ga_100-100-2-40-10.txt
+GA, average time ,0.186599994,knapsack_ga_100-100-2-60-0.txt
+GA, average time ,0.170699978,knapsack_ga_100-100-2-60-1.txt
+GA, average time ,0.212899995,knapsack_ga_100-100-2-60-10.txt
+GA, average time ,0.269700003,knapsack_ga_100-100-2-80-0.txt
+GA, average time ,0.264400005,knapsack_ga_100-100-2-80-1.txt
+GA, average time ,0.233599997,knapsack_ga_100-100-2-80-10.txt
+GA, average time ,0.288300014,knapsack_ga_100-100-3-100-0.txt
+GA, average time ,0.283699989,knapsack_ga_100-100-3-100-1.txt
+GA, average time ,0.248600006,knapsack_ga_100-100-3-100-10.txt
+GA, average time ,0.117200017,knapsack_ga_100-100-3-40-0.txt
+GA, average time ,0.13210001,knapsack_ga_100-100-3-40-1.txt
+GA, average time ,0.139499998,knapsack_ga_100-100-3-40-10.txt
+GA, average time ,0.261000013,knapsack_ga_100-100-3-60-0.txt
+GA, average time ,0.219499993,knapsack_ga_100-100-3-60-1.txt
+GA, average time ,0.158299994,knapsack_ga_100-100-3-60-10.txt
+GA, average time ,0.215999985,knapsack_ga_100-100-3-80-0.txt
+GA, average time ,0.193700004,knapsack_ga_100-100-3-80-1.txt
+GA, average time ,0.225699997,knapsack_ga_100-100-3-80-10.txt
+GA, average time ,0.325900006,knapsack_ga_100-200-1-120-0.txt
+GA, average time ,0.337400007,knapsack_ga_100-200-1-120-2.txt
+GA, average time ,0.350099993,knapsack_ga_100-200-1-120-20.txt
+GA, average time ,0.455300021,knapsack_ga_100-200-1-160-0.txt
+GA, average time ,0.454200006,knapsack_ga_100-200-1-160-2.txt
+GA, average time ,0.469400001,knapsack_ga_100-200-1-160-20.txt
+GA, average time ,0.666799998,knapsack_ga_100-200-1-200-0.txt
+GA, average time ,0.602600002,knapsack_ga_100-200-1-200-2.txt
+GA, average time ,0.600300002,knapsack_ga_100-200-1-200-20.txt
+GA, average time ,0.271700001,knapsack_ga_100-200-1-80-0.txt
+GA, average time ,0.272000003,knapsack_ga_100-200-1-80-2.txt
+GA, average time ,0.272899985,knapsack_ga_100-200-1-80-20.txt
+GA, average time ,0.388899994,knapsack_ga_100-200-2-120-0.txt
+GA, average time ,0.324099994,knapsack_ga_100-200-2-120-2.txt
+GA, average time ,0.408299994,knapsack_ga_100-200-2-120-20.txt
+GA, average time ,0.434899998,knapsack_ga_100-200-2-160-0.txt
+GA, average time ,0.414499998,knapsack_ga_100-200-2-160-2.txt
+GA, average time ,0.418799996,knapsack_ga_100-200-2-160-20.txt
+GA, average time ,0.517700005,knapsack_ga_100-200-2-200-0.txt
+GA, average time ,0.542400002,knapsack_ga_100-200-2-200-2.txt
+GA, average time ,0.602400017,knapsack_ga_100-200-2-200-20.txt
+GA, average time ,0.254799986,knapsack_ga_100-200-2-80-0.txt
+GA, average time ,0.2523,knapsack_ga_100-200-2-80-2.txt
+GA, average time ,0.262700009,knapsack_ga_100-200-2-80-20.txt
+GA, average time ,0.316400003,knapsack_ga_100-200-3-120-0.txt
+GA, average time ,0.3171,knapsack_ga_100-200-3-120-2.txt
+GA, average time ,0.322100019,knapsack_ga_100-200-3-120-20.txt
+GA, average time ,0.446000004,knapsack_ga_100-200-3-160-0.txt
+GA, average time ,0.461500001,knapsack_ga_100-200-3-160-2.txt
+GA, average time ,0.430900002,knapsack_ga_100-200-3-160-20.txt
+GA, average time ,0.4602,knapsack_ga_100-200-3-200-0.txt
+GA, average time ,0.522600007,knapsack_ga_100-200-3-200-2.txt
+GA, average time ,0.593499994,knapsack_ga_100-200-3-200-20.txt
+GA, average time ,0.361300015,knapsack_ga_100-200-3-80-0.txt
+GA, average time ,0.23039999,knapsack_ga_100-200-3-80-2.txt
+GA, average time ,0.238700008,knapsack_ga_100-200-3-80-20.txt
+GA, average time ,0.525500011,knapsack_ga_100-400-1-160-0.txt
+GA, average time ,0.477200007,knapsack_ga_100-400-1-160-4.txt
+GA, average time ,0.502999997,knapsack_ga_100-400-1-160-40.txt
+GA, average time ,0.678299999,knapsack_ga_100-400-1-240-0.txt
+GA, average time ,0.66329999,knapsack_ga_100-400-1-240-4.txt
+GA, average time ,0.754900002,knapsack_ga_100-400-1-240-40.txt
+GA, average time ,0.964299989,knapsack_ga_100-400-1-320-0.txt
+GA, average time ,0.918599987,knapsack_ga_100-400-1-320-4.txt
+GA, average time ,0.985400009,knapsack_ga_100-400-1-320-40.txt
+GA, average time ,1.092400002,knapsack_ga_100-400-1-400-0.txt
+GA, average time ,1.064600015,knapsack_ga_100-400-1-400-4.txt
+GA, average time ,1.096700001,knapsack_ga_100-400-1-400-40.txt
+GA, average time ,0.5329,knapsack_ga_100-400-2-160-0.txt
+GA, average time ,0.600500011,knapsack_ga_100-400-2-160-4.txt
+GA, average time ,0.48360002,knapsack_ga_100-400-2-160-40.txt
+GA, average time ,0.857099986,knapsack_ga_100-400-2-240-0.txt
+GA, average time ,0.753699994,knapsack_ga_100-400-2-240-4.txt
+GA, average time ,0.832700014,knapsack_ga_100-400-2-240-40.txt
+GA, average time ,0.940199995,knapsack_ga_100-400-2-320-0.txt
+GA, average time ,0.854700017,knapsack_ga_100-400-2-320-4.txt
+GA, average time ,0.967199993,knapsack_ga_100-400-2-320-40.txt
+GA, average time ,0.968799996,knapsack_ga_100-400-2-400-0.txt
+GA, average time ,1.075699997,knapsack_ga_100-400-2-400-4.txt
+GA, average time ,1.036400008,knapsack_ga_100-400-2-400-40.txt
+GA, average time ,0.48829999,knapsack_ga_100-400-3-160-0.txt
+GA, average time ,0.563499999,knapsack_ga_100-400-3-160-4.txt
+GA, average time ,0.441199994,knapsack_ga_100-400-3-160-40.txt
+GA, average time ,0.729200006,knapsack_ga_100-400-3-240-0.txt
+GA, average time ,0.680400014,knapsack_ga_100-400-3-240-4.txt
+GA, average time ,0.776900005,knapsack_ga_100-400-3-240-40.txt
+GA, average time ,0.85630002,knapsack_ga_100-400-3-320-0.txt
+GA, average time ,0.929099989,knapsack_ga_100-400-3-320-4.txt
+GA, average time ,0.837299991,knapsack_ga_100-400-3-320-40.txt
+GA, average time ,0.964300013,knapsack_ga_100-400-3-400-0.txt
+GA, average time ,1.080400014,knapsack_ga_100-400-3-400-4.txt
+GA, average time ,1.262199998,knapsack_ga_100-400-3-400-40.txt
+GA, average time ,0.111800003,knapsack_ga_100-50-1-20-0.txt
+GA, average time ,0.094400001,knapsack_ga_100-50-1-20-5.txt
+GA, average time ,0.093799996,knapsack_ga_100-50-1-30-0.txt
+GA, average time ,0.083999991,knapsack_ga_100-50-1-30-5.txt
+GA, average time ,0.134800005,knapsack_ga_100-50-1-40-0.txt
+GA, average time ,0.112799978,knapsack_ga_100-50-1-40-5.txt
+GA, average time ,0.171300006,knapsack_ga_100-50-1-50-0.txt
+GA, average time ,0.161000013,knapsack_ga_100-50-1-50-5.txt
+GA, average time ,0.085800004,knapsack_ga_100-50-2-20-0.txt
+GA, average time ,0.088400006,knapsack_ga_100-50-2-20-5.txt
+GA, average time ,0.080900002,knapsack_ga_100-50-2-30-0.txt
+GA, average time ,0.086899996,knapsack_ga_100-50-2-30-5.txt
+GA, average time ,0.124600005,knapsack_ga_100-50-2-40-0.txt
+GA, average time ,0.136300015,knapsack_ga_100-50-2-40-5.txt
+GA, average time ,0.122099996,knapsack_ga_100-50-2-50-0.txt
+GA, average time ,0.166700006,knapsack_ga_100-50-2-50-5.txt
+GA, average time ,0.06400001,knapsack_ga_100-50-3-20-0.txt
+GA, average time ,0.130100012,knapsack_ga_100-50-3-20-5.txt
+GA, average time ,0.082500005,knapsack_ga_100-50-3-30-0.txt
+GA, average time ,0.117299986,knapsack_ga_100-50-3-30-5.txt
+GA, average time ,0.112599993,knapsack_ga_100-50-3-40-0.txt
+GA, average time ,0.128699994,knapsack_ga_100-50-3-40-5.txt
+GA, average time ,0.123100019,knapsack_ga_100-50-3-50-0.txt
+GA, average time ,0.211100006,knapsack_ga_100-50-3-50-5.txt
+GA, average time ,0.392900014,knapsack_ga_120-120-1-120-0.txt
+GA, average time ,0.438399982,knapsack_ga_120-120-1-120-1.txt
+GA, average time ,0.423099995,knapsack_ga_120-120-1-120-12.txt
+GA, average time ,0.163800001,knapsack_ga_120-120-1-48-0.txt
+GA, average time ,0.276999998,knapsack_ga_120-120-1-48-1.txt
+GA, average time ,0.152100015,knapsack_ga_120-120-1-48-12.txt
+GA, average time ,0.238199997,knapsack_ga_120-120-1-72-0.txt
+GA, average time ,0.248000002,knapsack_ga_120-120-1-72-1.txt
+GA, average time ,0.287599993,knapsack_ga_120-120-1-72-12.txt
+GA, average time ,0.339600015,knapsack_ga_120-120-1-96-0.txt
+GA, average time ,0.296400023,knapsack_ga_120-120-1-96-1.txt
+GA, average time ,0.282799983,knapsack_ga_120-120-1-96-12.txt
+GA, average time ,0.400300002,knapsack_ga_120-120-2-120-0.txt
+GA, average time ,0.403299999,knapsack_ga_120-120-2-120-1.txt
+GA, average time ,0.401800013,knapsack_ga_120-120-2-120-12.txt
+GA, average time ,0.156000018,knapsack_ga_120-120-2-48-0.txt
+GA, average time ,0.183200002,knapsack_ga_120-120-2-48-1.txt
+GA, average time ,0.170899987,knapsack_ga_120-120-2-48-12.txt
+GA, average time ,0.298600006,knapsack_ga_120-120-2-72-0.txt
+GA, average time ,0.226699996,knapsack_ga_120-120-2-72-1.txt
+GA, average time ,0.260300016,knapsack_ga_120-120-2-72-12.txt
+GA, average time ,0.35,knapsack_ga_120-120-2-96-0.txt
+GA, average time ,0.471700001,knapsack_ga_120-120-2-96-1.txt
+GA, average time ,0.382499981,knapsack_ga_120-120-2-96-12.txt
+GA, average time ,0.420099998,knapsack_ga_120-120-3-120-0.txt
+GA, average time ,0.396399999,knapsack_ga_120-120-3-120-1.txt
+GA, average time ,0.327099991,knapsack_ga_120-120-3-120-12.txt
+GA, average time ,0.151600003,knapsack_ga_120-120-3-48-0.txt
+GA, average time ,0.169400001,knapsack_ga_120-120-3-48-1.txt
+GA, average time ,0.15999999,knapsack_ga_120-120-3-48-12.txt
+GA, average time ,0.215199995,knapsack_ga_120-120-3-72-0.txt
+GA, average time ,0.233099985,knapsack_ga_120-120-3-72-1.txt
+GA, average time ,0.274399996,knapsack_ga_120-120-3-72-12.txt
+GA, average time ,0.31500001,knapsack_ga_120-120-3-96-0.txt
+GA, average time ,0.294899988,knapsack_ga_120-120-3-96-1.txt
+GA, average time ,0.323199987,knapsack_ga_120-120-3-96-12.txt
+GA, average time ,0.47249999,knapsack_ga_120-240-1-144-0.txt
+GA, average time ,0.483000016,knapsack_ga_120-240-1-144-2.txt
+GA, average time ,0.503299999,knapsack_ga_120-240-1-144-24.txt
+GA, average time ,0.745499992,knapsack_ga_120-240-1-192-0.txt
+GA, average time ,0.597200012,knapsack_ga_120-240-1-192-2.txt
+GA, average time ,0.642999983,knapsack_ga_120-240-1-192-24.txt
+GA, average time ,0.760700011,knapsack_ga_120-240-1-240-0.txt
+GA, average time ,0.833899999,knapsack_ga_120-240-1-240-2.txt
+GA, average time ,0.830999994,knapsack_ga_120-240-1-240-24.txt
+GA, average time ,0.373399997,knapsack_ga_120-240-1-96-0.txt
+GA, average time ,0.338499999,knapsack_ga_120-240-1-96-2.txt
+GA, average time ,0.294900012,knapsack_ga_120-240-1-96-24.txt
+GA, average time ,0.545099998,knapsack_ga_120-240-2-144-0.txt
+GA, average time ,0.477399993,knapsack_ga_120-240-2-144-2.txt
+GA, average time ,0.519800019,knapsack_ga_120-240-2-144-24.txt
+GA, average time ,0.592599988,knapsack_ga_120-240-2-192-0.txt
+GA, average time ,0.586699986,knapsack_ga_120-240-2-192-2.txt
+GA, average time ,0.680900002,knapsack_ga_120-240-2-192-24.txt
+GA, average time ,0.833000016,knapsack_ga_120-240-2-240-0.txt
+GA, average time ,0.795700002,knapsack_ga_120-240-2-240-2.txt
+GA, average time ,0.716600013,knapsack_ga_120-240-2-240-24.txt
+GA, average time ,0.356800008,knapsack_ga_120-240-2-96-0.txt
+GA, average time ,0.392400002,knapsack_ga_120-240-2-96-2.txt
+GA, average time ,0.380200005,knapsack_ga_120-240-2-96-24.txt
+GA, average time ,0.508899999,knapsack_ga_120-240-3-144-0.txt
+GA, average time ,0.471499991,knapsack_ga_120-240-3-144-2.txt
+GA, average time ,0.469700003,knapsack_ga_120-240-3-144-24.txt
+GA, average time ,0.604999995,knapsack_ga_120-240-3-192-0.txt
+GA, average time ,0.544000006,knapsack_ga_120-240-3-192-2.txt
+GA, average time ,0.75999999,knapsack_ga_120-240-3-192-24.txt
+GA, average time ,0.668000007,knapsack_ga_120-240-3-240-0.txt
+GA, average time ,0.78599999,knapsack_ga_120-240-3-240-2.txt
+GA, average time ,0.676099992,knapsack_ga_120-240-3-240-24.txt
+GA, average time ,0.33440001,knapsack_ga_120-240-3-96-0.txt
+GA, average time ,0.368700004,knapsack_ga_120-240-3-96-2.txt
+GA, average time ,0.408100009,knapsack_ga_120-240-3-96-24.txt
+GA, average time ,0.776899981,knapsack_ga_120-480-1-192-0.txt
+GA, average time ,0.815499997,knapsack_ga_120-480-1-192-4.txt
+GA, average time ,0.677399993,knapsack_ga_120-480-1-192-48.txt
+GA, average time ,0.958899999,knapsack_ga_120-480-1-288-0.txt
+GA, average time ,0.922399998,knapsack_ga_120-480-1-288-4.txt
+GA, average time ,0.928399992,knapsack_ga_120-480-1-288-48.txt
+GA, average time ,1.261500001,knapsack_ga_120-480-1-384-0.txt
+GA, average time ,1.318399978,knapsack_ga_120-480-1-384-4.txt
+GA, average time ,1.216000009,knapsack_ga_120-480-1-384-48.txt
+GA, average time ,1.45,knapsack_ga_120-480-1-480-0.txt
+GA, average time ,1.485699987,knapsack_ga_120-480-1-480-4.txt
+GA, average time ,1.570600009,knapsack_ga_120-480-1-480-48.txt
+GA, average time ,0.822599983,knapsack_ga_120-480-2-192-0.txt
+GA, average time ,0.658999991,knapsack_ga_120-480-2-192-4.txt
+GA, average time ,0.735699987,knapsack_ga_120-480-2-192-48.txt
+GA, average time ,0.978199983,knapsack_ga_120-480-2-288-0.txt
+GA, average time ,1.00539999,knapsack_ga_120-480-2-288-4.txt
+GA, average time ,1.011600018,knapsack_ga_120-480-2-288-48.txt
+GA, average time ,1.256699991,knapsack_ga_120-480-2-384-0.txt
+GA, average time ,1.266100001,knapsack_ga_120-480-2-384-4.txt
+GA, average time ,1.302700019,knapsack_ga_120-480-2-384-48.txt
+GA, average time ,1.44230001,knapsack_ga_120-480-2-480-0.txt
+GA, average time ,1.573699999,knapsack_ga_120-480-2-480-4.txt
+GA, average time ,1.615100002,knapsack_ga_120-480-2-480-48.txt
+GA, average time ,0.60059998,knapsack_ga_120-480-3-192-0.txt
+GA, average time ,0.5921,knapsack_ga_120-480-3-192-4.txt
+GA, average time ,0.61960001,knapsack_ga_120-480-3-192-48.txt
+GA, average time ,0.901100016,knapsack_ga_120-480-3-288-0.txt
+GA, average time ,0.837100005,knapsack_ga_120-480-3-288-4.txt
+GA, average time ,0.973399997,knapsack_ga_120-480-3-288-48.txt
+GA, average time ,1.141300011,knapsack_ga_120-480-3-384-0.txt
+GA, average time ,1.111400008,knapsack_ga_120-480-3-384-4.txt
+GA, average time ,1.075699997,knapsack_ga_120-480-3-384-48.txt
+GA, average time ,1.461199999,knapsack_ga_120-480-3-480-0.txt
+GA, average time ,1.492199993,knapsack_ga_120-480-3-480-4.txt
+GA, average time ,1.575100017,knapsack_ga_120-480-3-480-48.txt
+GA, average time ,0.101799989,knapsack_ga_120-60-1-24-0.txt
+GA, average time ,0.078100014,knapsack_ga_120-60-1-24-6.txt
+GA, average time ,0.1125,knapsack_ga_120-60-1-36-0.txt
+GA, average time ,0.119099998,knapsack_ga_120-60-1-36-6.txt
+GA, average time ,0.274000001,knapsack_ga_120-60-1-48-0.txt
+GA, average time ,0.17809999,knapsack_ga_120-60-1-48-6.txt
+GA, average time ,0.199199986,knapsack_ga_120-60-1-60-0.txt
+GA, average time ,0.206500006,knapsack_ga_120-60-1-60-6.txt
+GA, average time ,0.081400013,knapsack_ga_120-60-2-24-0.txt
+GA, average time ,0.08269999,knapsack_ga_120-60-2-24-6.txt
+GA, average time ,0.11730001,knapsack_ga_120-60-2-36-0.txt
+GA, average time ,0.115499997,knapsack_ga_120-60-2-36-6.txt
+GA, average time ,0.179399991,knapsack_ga_120-60-2-48-0.txt
+GA, average time ,0.178999996,knapsack_ga_120-60-2-48-6.txt
+GA, average time ,0.172399998,knapsack_ga_120-60-2-60-0.txt
+GA, average time ,0.262700009,knapsack_ga_120-60-2-60-6.txt
+GA, average time ,0.081999993,knapsack_ga_120-60-3-24-0.txt
+GA, average time ,0.094200015,knapsack_ga_120-60-3-24-6.txt
+GA, average time ,0.159300017,knapsack_ga_120-60-3-36-0.txt
+GA, average time ,0.151699996,knapsack_ga_120-60-3-36-6.txt
+GA, average time ,0.168400002,knapsack_ga_120-60-3-48-0.txt
+GA, average time ,0.192499995,knapsack_ga_120-60-3-48-6.txt
+GA, average time ,0.220700002,knapsack_ga_120-60-3-60-0.txt
+GA, average time ,0.189899993,knapsack_ga_120-60-3-60-6.txt
+GA, average time ,0.417400002,knapsack_ga_140-140-1-112-0.txt
+GA, average time ,0.384300017,knapsack_ga_140-140-1-112-1.txt
+GA, average time ,0.433699989,knapsack_ga_140-140-1-112-14.txt
+GA, average time ,0.490799999,knapsack_ga_140-140-1-140-0.txt
+GA, average time ,0.49690001,knapsack_ga_140-140-1-140-1.txt
+GA, average time ,0.515299988,knapsack_ga_140-140-1-140-14.txt
+GA, average time ,0.222600007,knapsack_ga_140-140-1-56-0.txt
+GA, average time ,0.282700014,knapsack_ga_140-140-1-56-1.txt
+GA, average time ,0.234200001,knapsack_ga_140-140-1-56-14.txt
+GA, average time ,0.376600003,knapsack_ga_140-140-1-84-0.txt
+GA, average time ,0.372000003,knapsack_ga_140-140-1-84-1.txt
+GA, average time ,0.377099991,knapsack_ga_140-140-1-84-14.txt
+GA, average time ,0.41329999,knapsack_ga_140-140-2-112-0.txt
+GA, average time ,0.441299987,knapsack_ga_140-140-2-112-1.txt
+GA, average time ,0.3921,knapsack_ga_140-140-2-112-14.txt
+GA, average time ,0.518899989,knapsack_ga_140-140-2-140-0.txt
+GA, average time ,0.508100009,knapsack_ga_140-140-2-140-1.txt
+GA, average time ,0.497200012,knapsack_ga_140-140-2-140-14.txt
+GA, average time ,0.20079999,knapsack_ga_140-140-2-56-0.txt
+GA, average time ,0.21099999,knapsack_ga_140-140-2-56-1.txt
+GA, average time ,0.210699987,knapsack_ga_140-140-2-56-14.txt
+GA, average time ,0.331099987,knapsack_ga_140-140-2-84-0.txt
+GA, average time ,0.365700006,knapsack_ga_140-140-2-84-1.txt
+GA, average time ,0.330699992,knapsack_ga_140-140-2-84-14.txt
+GA, average time ,0.42249999,knapsack_ga_140-140-3-112-0.txt
+GA, average time ,0.420099998,knapsack_ga_140-140-3-112-1.txt
+GA, average time ,0.404500008,knapsack_ga_140-140-3-112-14.txt
+GA, average time ,0.497799993,knapsack_ga_140-140-3-140-0.txt
+GA, average time ,0.507500005,knapsack_ga_140-140-3-140-1.txt
+GA, average time ,0.559399986,knapsack_ga_140-140-3-140-14.txt
+GA, average time ,0.246799994,knapsack_ga_140-140-3-56-0.txt
+GA, average time ,0.220300007,knapsack_ga_140-140-3-56-1.txt
+GA, average time ,0.220499992,knapsack_ga_140-140-3-56-14.txt
+GA, average time ,0.308899999,knapsack_ga_140-140-3-84-0.txt
+GA, average time ,0.335000014,knapsack_ga_140-140-3-84-1.txt
+GA, average time ,0.297399998,knapsack_ga_140-140-3-84-14.txt
+GA, average time ,0.450100017,knapsack_ga_140-280-1-112-0.txt
+GA, average time ,0.443200016,knapsack_ga_140-280-1-112-2.txt
+GA, average time ,0.467799997,knapsack_ga_140-280-1-112-28.txt
+GA, average time ,0.611500001,knapsack_ga_140-280-1-168-0.txt
+GA, average time ,0.736599994,knapsack_ga_140-280-1-168-2.txt
+GA, average time ,0.645000005,knapsack_ga_140-280-1-168-28.txt
+GA, average time ,0.7898,knapsack_ga_140-280-1-224-0.txt
+GA, average time ,0.787199998,knapsack_ga_140-280-1-224-2.txt
+GA, average time ,0.786400008,knapsack_ga_140-280-1-224-28.txt
+GA, average time ,0.935899997,knapsack_ga_140-280-1-280-0.txt
+GA, average time ,0.985600019,knapsack_ga_140-280-1-280-2.txt
+GA, average time ,0.995900011,knapsack_ga_140-280-1-280-28.txt
+GA, average time ,0.417000008,knapsack_ga_140-280-2-112-0.txt
+GA, average time ,0.426099992,knapsack_ga_140-280-2-112-2.txt
+GA, average time ,0.397600007,knapsack_ga_140-280-2-112-28.txt
+GA, average time ,0.566899991,knapsack_ga_140-280-2-168-0.txt
+GA, average time ,0.620900011,knapsack_ga_140-280-2-168-2.txt
+GA, average time ,0.663400006,knapsack_ga_140-280-2-168-28.txt
+GA, average time ,0.723900008,knapsack_ga_140-280-2-224-0.txt
+GA, average time ,0.718299985,knapsack_ga_140-280-2-224-2.txt
+GA, average time ,0.789199996,knapsack_ga_140-280-2-224-28.txt
+GA, average time ,0.941400003,knapsack_ga_140-280-2-280-0.txt
+GA, average time ,0.938700008,knapsack_ga_140-280-2-280-2.txt
+GA, average time ,0.894299984,knapsack_ga_140-280-2-280-28.txt
+GA, average time ,0.405299997,knapsack_ga_140-280-3-112-0.txt
+GA, average time ,0.482099986,knapsack_ga_140-280-3-112-2.txt
+GA, average time ,0.389899993,knapsack_ga_140-280-3-112-28.txt
+GA, average time ,0.637100005,knapsack_ga_140-280-3-168-0.txt
+GA, average time ,0.608500004,knapsack_ga_140-280-3-168-2.txt
+GA, average time ,0.629400015,knapsack_ga_140-280-3-168-28.txt
+GA, average time ,0.772700024,knapsack_ga_140-280-3-224-0.txt
+GA, average time ,0.777999997,knapsack_ga_140-280-3-224-2.txt
+GA, average time ,0.788499999,knapsack_ga_140-280-3-224-28.txt
+GA, average time ,0.936500001,knapsack_ga_140-280-3-280-0.txt
+GA, average time ,0.953299999,knapsack_ga_140-280-3-280-2.txt
+GA, average time ,0.943499994,knapsack_ga_140-280-3-280-28.txt
+GA, average time ,0.874000001,knapsack_ga_140-560-1-224-0.txt
+GA, average time ,0.872000003,knapsack_ga_140-560-1-224-5.txt
+GA, average time ,0.983399987,knapsack_ga_140-560-1-224-56.txt
+GA, average time ,1.230100012,knapsack_ga_140-560-1-336-0.txt
+GA, average time ,1.227800012,knapsack_ga_140-560-1-336-5.txt
+GA, average time ,1.233500004,knapsack_ga_140-560-1-336-56.txt
+GA, average time ,1.575900006,knapsack_ga_140-560-1-448-0.txt
+GA, average time ,1.631500006,knapsack_ga_140-560-1-448-5.txt
+GA, average time ,1.5921,knapsack_ga_140-560-1-448-56.txt
+GA, average time ,1.923200011,knapsack_ga_140-560-1-560-0.txt
+GA, average time ,2.006699991,knapsack_ga_140-560-1-560-5.txt
+GA, average time ,1.925300002,knapsack_ga_140-560-1-560-56.txt
+GA, average time ,0.781000018,knapsack_ga_140-560-2-224-0.txt
+GA, average time ,0.792700005,knapsack_ga_140-560-2-224-5.txt
+GA, average time ,0.847799993,knapsack_ga_140-560-2-224-56.txt
+GA, average time ,1.258299994,knapsack_ga_140-560-2-336-0.txt
+GA, average time ,1.172000003,knapsack_ga_140-560-2-336-5.txt
+GA, average time ,1.214700007,knapsack_ga_140-560-2-336-56.txt
+GA, average time ,1.547299981,knapsack_ga_140-560-2-448-0.txt
+GA, average time ,1.590799999,knapsack_ga_140-560-2-448-5.txt
+GA, average time ,1.433299994,knapsack_ga_140-560-2-448-56.txt
+GA, average time ,1.877199984,knapsack_ga_140-560-2-560-0.txt
+GA, average time ,1.877399993,knapsack_ga_140-560-2-560-5.txt
+GA, average time ,1.991799998,knapsack_ga_140-560-2-560-56.txt
+GA, average time ,0.79000001,knapsack_ga_140-560-3-224-0.txt
+GA, average time ,0.797200012,knapsack_ga_140-560-3-224-5.txt
+GA, average time ,0.802699995,knapsack_ga_140-560-3-224-56.txt
+GA, average time ,1.049799991,knapsack_ga_140-560-3-336-0.txt
+GA, average time ,1.139600015,knapsack_ga_140-560-3-336-5.txt
+GA, average time ,1.066499996,knapsack_ga_140-560-3-336-56.txt
+GA, average time ,1.3125,knapsack_ga_140-560-3-448-0.txt
+GA, average time ,1.436999989,knapsack_ga_140-560-3-448-5.txt
+GA, average time ,1.28670001,knapsack_ga_140-560-3-448-56.txt
+GA, average time ,1.558299994,knapsack_ga_140-560-3-560-0.txt
+GA, average time ,1.560899997,knapsack_ga_140-560-3-560-5.txt
+GA, average time ,1.563499999,knapsack_ga_140-560-3-560-56.txt
+GA, average time ,0.162800002,knapsack_ga_140-70-1-28-0.txt
+GA, average time ,0.159100008,knapsack_ga_140-70-1-28-7.txt
+GA, average time ,0.185300016,knapsack_ga_140-70-1-42-0.txt
+GA, average time ,0.168900013,knapsack_ga_140-70-1-42-7.txt
+GA, average time ,0.184399986,knapsack_ga_140-70-1-56-0.txt
+GA, average time ,0.185500002,knapsack_ga_140-70-1-56-7.txt
+GA, average time ,0.273999977,knapsack_ga_140-70-1-70-0.txt
+GA, average time ,0.225800014,knapsack_ga_140-70-1-70-7.txt
+GA, average time ,0.109599996,knapsack_ga_140-70-2-28-0.txt
+GA, average time ,0.167599988,knapsack_ga_140-70-2-28-7.txt
+GA, average time ,0.159300017,knapsack_ga_140-70-2-42-0.txt
+GA, average time ,0.221300006,knapsack_ga_140-70-2-42-7.txt
+GA, average time ,0.270899987,knapsack_ga_140-70-2-56-0.txt
+GA, average time ,0.195900011,knapsack_ga_140-70-2-56-7.txt
+GA, average time ,0.227399993,knapsack_ga_140-70-2-70-0.txt
+GA, average time ,0.229099989,knapsack_ga_140-70-2-70-7.txt
+GA, average time ,0.12579999,knapsack_ga_140-70-3-28-0.txt
+GA, average time ,0.105599999,knapsack_ga_140-70-3-28-7.txt
+GA, average time ,0.140899992,knapsack_ga_140-70-3-42-0.txt
+GA, average time ,0.168300009,knapsack_ga_140-70-3-42-7.txt
+GA, average time ,0.228299999,knapsack_ga_140-70-3-56-0.txt
+GA, average time ,0.252400017,knapsack_ga_140-70-3-56-7.txt
+GA, average time ,0.226799989,knapsack_ga_140-70-3-70-0.txt
+GA, average time ,0.266299987,knapsack_ga_140-70-3-70-7.txt
+GA, average time ,0.2273,knapsack_ga_40-160-1-128-0.txt
+GA, average time ,0.170600009,knapsack_ga_40-160-1-128-1.txt
+GA, average time ,0.258200002,knapsack_ga_40-160-1-128-16.txt
+GA, average time ,0.210299993,knapsack_ga_40-160-1-160-0.txt
+GA, average time ,0.250300002,knapsack_ga_40-160-1-160-1.txt
+GA, average time ,0.227800012,knapsack_ga_40-160-1-160-16.txt
+GA, average time ,0.127600002,knapsack_ga_40-160-1-64-0.txt
+GA, average time ,0.116600013,knapsack_ga_40-160-1-64-1.txt
+GA, average time ,0.150099993,knapsack_ga_40-160-1-64-16.txt
+GA, average time ,0.14380002,knapsack_ga_40-160-1-96-0.txt
+GA, average time ,0.236899996,knapsack_ga_40-160-1-96-1.txt
+GA, average time ,0.2125,knapsack_ga_40-160-1-96-16.txt
+GA, average time ,0.184299994,knapsack_ga_40-160-2-128-0.txt
+GA, average time ,0.218200016,knapsack_ga_40-160-2-128-1.txt
+GA, average time ,0.196200013,knapsack_ga_40-160-2-128-16.txt
+GA, average time ,0.246099997,knapsack_ga_40-160-2-160-0.txt
+GA, average time ,0.274000001,knapsack_ga_40-160-2-160-1.txt
+GA, average time ,0.242700005,knapsack_ga_40-160-2-160-16.txt
+GA, average time ,0.128199983,knapsack_ga_40-160-2-64-0.txt
+GA, average time ,0.135100007,knapsack_ga_40-160-2-64-1.txt
+GA, average time ,0.311099982,knapsack_ga_40-160-2-64-16.txt
+GA, average time ,0.150200009,knapsack_ga_40-160-2-96-0.txt
+GA, average time ,0.153900003,knapsack_ga_40-160-2-96-1.txt
+GA, average time ,0.167000008,knapsack_ga_40-160-2-96-16.txt
+GA, average time ,0.226699996,knapsack_ga_40-160-3-128-0.txt
+GA, average time ,0.18599999,knapsack_ga_40-160-3-128-1.txt
+GA, average time ,0.192499995,knapsack_ga_40-160-3-128-16.txt
+GA, average time ,0.284800005,knapsack_ga_40-160-3-160-0.txt
+GA, average time ,0.319400001,knapsack_ga_40-160-3-160-1.txt
+GA, average time ,0.233999991,knapsack_ga_40-160-3-160-16.txt
+GA, average time ,0.119499993,knapsack_ga_40-160-3-64-0.txt
+GA, average time ,0.125999999,knapsack_ga_40-160-3-64-1.txt
+GA, average time ,0.124099994,knapsack_ga_40-160-3-64-16.txt
+GA, average time ,0.204900002,knapsack_ga_40-160-3-96-0.txt
+GA, average time ,0.161800003,knapsack_ga_40-160-3-96-1.txt
+GA, average time ,0.212600017,knapsack_ga_40-160-3-96-16.txt
+GA, average time ,0.030500007,knapsack_ga_40-20-1-12-0.txt
+GA, average time ,0.027799988,knapsack_ga_40-20-1-12-2.txt
+GA, average time ,0.036100006,knapsack_ga_40-20-1-16-0.txt
+GA, average time ,0.039399981,knapsack_ga_40-20-1-16-2.txt
+GA, average time ,0.032500005,knapsack_ga_40-20-1-20-0.txt
+GA, average time ,0.043300009,knapsack_ga_40-20-1-20-2.txt
+GA, average time ,0.025800014,knapsack_ga_40-20-1-8-0.txt
+GA, average time ,0.024399996,knapsack_ga_40-20-1-8-2.txt
+GA, average time ,0.032700014,knapsack_ga_40-20-2-12-0.txt
+GA, average time ,0.030099988,knapsack_ga_40-20-2-12-2.txt
+GA, average time ,0.039099979,knapsack_ga_40-20-2-16-0.txt
+GA, average time ,0.039499998,knapsack_ga_40-20-2-16-2.txt
+GA, average time ,0.044400001,knapsack_ga_40-20-2-20-0.txt
+GA, average time ,0.044199991,knapsack_ga_40-20-2-20-2.txt
+GA, average time ,0.021300006,knapsack_ga_40-20-2-8-0.txt
+GA, average time ,0.021600008,knapsack_ga_40-20-2-8-2.txt
+GA, average time ,0.031399989,knapsack_ga_40-20-3-12-0.txt
+GA, average time ,0.041199994,knapsack_ga_40-20-3-12-2.txt
+GA, average time ,0.043599987,knapsack_ga_40-20-3-16-0.txt
+GA, average time ,0.040199995,knapsack_ga_40-20-3-16-2.txt
+GA, average time ,0.084100008,knapsack_ga_40-20-3-20-0.txt
+GA, average time ,0.051200008,knapsack_ga_40-20-3-20-2.txt
+GA, average time ,0.019599986,knapsack_ga_40-20-3-8-0.txt
+GA, average time ,0.051600003,knapsack_ga_40-20-3-8-2.txt
+GA, average time ,0.04460001,knapsack_ga_40-40-1-16-0.txt
+GA, average time ,0.052699995,knapsack_ga_40-40-1-16-4.txt
+GA, average time ,0.066799998,knapsack_ga_40-40-1-24-0.txt
+GA, average time ,0.054699993,knapsack_ga_40-40-1-24-4.txt
+GA, average time ,0.131299996,knapsack_ga_40-40-1-32-0.txt
+GA, average time ,0.083399987,knapsack_ga_40-40-1-32-4.txt
+GA, average time ,0.115399981,knapsack_ga_40-40-1-40-0.txt
+GA, average time ,0.088499999,knapsack_ga_40-40-1-40-4.txt
+GA, average time ,0.033100009,knapsack_ga_40-40-2-16-0.txt
+GA, average time ,0.054699993,knapsack_ga_40-40-2-16-4.txt
+GA, average time ,0.1,knapsack_ga_40-40-2-24-0.txt
+GA, average time ,0.084300017,knapsack_ga_40-40-2-24-4.txt
+GA, average time ,0.06500001,knapsack_ga_40-40-2-32-0.txt
+GA, average time ,0.073300004,knapsack_ga_40-40-2-32-4.txt
+GA, average time ,0.063100004,knapsack_ga_40-40-2-40-0.txt
+GA, average time ,0.066199994,knapsack_ga_40-40-2-40-4.txt
+GA, average time ,0.03440001,knapsack_ga_40-40-3-16-0.txt
+GA, average time ,0.061800003,knapsack_ga_40-40-3-16-4.txt
+GA, average time ,0.050200009,knapsack_ga_40-40-3-24-0.txt
+GA, average time ,0.090199995,knapsack_ga_40-40-3-24-4.txt
+GA, average time ,0.066700006,knapsack_ga_40-40-3-32-0.txt
+GA, average time ,0.08499999,knapsack_ga_40-40-3-32-4.txt
+GA, average time ,0.116999984,knapsack_ga_40-40-3-40-0.txt
+GA, average time ,0.073899984,knapsack_ga_40-40-3-40-4.txt
+GA, average time ,0.125900006,knapsack_ga_40-80-1-32-0.txt
+GA, average time ,0.056800008,knapsack_ga_40-80-1-32-8.txt
+GA, average time ,0.106299996,knapsack_ga_40-80-1-48-0.txt
+GA, average time ,0.107499981,knapsack_ga_40-80-1-48-8.txt
+GA, average time ,0.101999998,knapsack_ga_40-80-1-64-0.txt
+GA, average time ,0.112199998,knapsack_ga_40-80-1-64-8.txt
+GA, average time ,0.139300013,knapsack_ga_40-80-1-80-0.txt
+GA, average time ,0.117000008,knapsack_ga_40-80-1-80-8.txt
+GA, average time ,0.088600016,knapsack_ga_40-80-2-32-0.txt
+GA, average time ,0.117999983,knapsack_ga_40-80-2-32-8.txt
+GA, average time ,0.087000012,knapsack_ga_40-80-2-48-0.txt
+GA, average time ,0.105800009,knapsack_ga_40-80-2-48-8.txt
+GA, average time ,0.119000006,knapsack_ga_40-80-2-64-0.txt
+GA, average time ,0.131500006,knapsack_ga_40-80-2-64-8.txt
+GA, average time ,0.134699988,knapsack_ga_40-80-2-80-0.txt
+GA, average time ,0.129999995,knapsack_ga_40-80-2-80-8.txt
+GA, average time ,0.077200007,knapsack_ga_40-80-3-32-0.txt
+GA, average time ,0.066799998,knapsack_ga_40-80-3-32-8.txt
+GA, average time ,0.18269999,knapsack_ga_40-80-3-48-0.txt
+GA, average time ,0.072899985,knapsack_ga_40-80-3-48-8.txt
+GA, average time ,0.105299997,knapsack_ga_40-80-3-64-0.txt
+GA, average time ,0.1079,knapsack_ga_40-80-3-64-8.txt
+GA, average time ,0.121199989,knapsack_ga_40-80-3-80-0.txt
+GA, average time ,0.124399996,knapsack_ga_40-80-3-80-8.txt
+GA, average time ,0.230999994,knapsack_ga_60-120-1-120-0.txt
+GA, average time ,0.222799993,knapsack_ga_60-120-1-120-1.txt
+GA, average time ,0.225999999,knapsack_ga_60-120-1-120-12.txt
+GA, average time ,0.138599992,knapsack_ga_60-120-1-48-0.txt
+GA, average time ,0.118899989,knapsack_ga_60-120-1-48-1.txt
+GA, average time ,0.137699986,knapsack_ga_60-120-1-48-12.txt
+GA, average time ,0.158999991,knapsack_ga_60-120-1-72-0.txt
+GA, average time ,0.175399995,knapsack_ga_60-120-1-72-1.txt
+GA, average time ,0.188700008,knapsack_ga_60-120-1-72-12.txt
+GA, average time ,0.195200014,knapsack_ga_60-120-1-96-0.txt
+GA, average time ,0.179699993,knapsack_ga_60-120-1-96-1.txt
+GA, average time ,0.23269999,knapsack_ga_60-120-1-96-12.txt
+GA, average time ,0.221199989,knapsack_ga_60-120-2-120-0.txt
+GA, average time ,0.236199999,knapsack_ga_60-120-2-120-1.txt
+GA, average time ,0.221200013,knapsack_ga_60-120-2-120-12.txt
+GA, average time ,0.177199984,knapsack_ga_60-120-2-48-0.txt
+GA, average time ,0.204900002,knapsack_ga_60-120-2-48-1.txt
+GA, average time ,0.117700005,knapsack_ga_60-120-2-48-12.txt
+GA, average time ,0.17190001,knapsack_ga_60-120-2-72-0.txt
+GA, average time ,0.294199991,knapsack_ga_60-120-2-72-1.txt
+GA, average time ,0.195600009,knapsack_ga_60-120-2-72-12.txt
+GA, average time ,0.198200011,knapsack_ga_60-120-2-96-0.txt
+GA, average time ,0.281200004,knapsack_ga_60-120-2-96-1.txt
+GA, average time ,0.201799989,knapsack_ga_60-120-2-96-12.txt
+GA, average time ,0.223399997,knapsack_ga_60-120-3-120-0.txt
+GA, average time ,0.206699991,knapsack_ga_60-120-3-120-1.txt
+GA, average time ,0.216000009,knapsack_ga_60-120-3-120-12.txt
+GA, average time ,0.122399998,knapsack_ga_60-120-3-48-0.txt
+GA, average time ,0.112799978,knapsack_ga_60-120-3-48-1.txt
+GA, average time ,0.227999997,knapsack_ga_60-120-3-48-12.txt
+GA, average time ,0.14519999,knapsack_ga_60-120-3-72-0.txt
+GA, average time ,0.249399996,knapsack_ga_60-120-3-72-1.txt
+GA, average time ,0.146799994,knapsack_ga_60-120-3-72-12.txt
+GA, average time ,0.179200006,knapsack_ga_60-120-3-96-0.txt
+GA, average time ,0.177899981,knapsack_ga_60-120-3-96-1.txt
+GA, average time ,0.203700018,knapsack_ga_60-120-3-96-12.txt
+GA, average time ,0.313899994,knapsack_ga_60-240-1-144-0.txt
+GA, average time ,0.32190001,knapsack_ga_60-240-1-144-2.txt
+GA, average time ,0.327999997,knapsack_ga_60-240-1-144-24.txt
+GA, average time ,0.435299993,knapsack_ga_60-240-1-192-0.txt
+GA, average time ,0.441100001,knapsack_ga_60-240-1-192-2.txt
+GA, average time ,0.417699981,knapsack_ga_60-240-1-192-24.txt
+GA, average time ,0.467000008,knapsack_ga_60-240-1-240-0.txt
+GA, average time ,0.45769999,knapsack_ga_60-240-1-240-2.txt
+GA, average time ,0.498699999,knapsack_ga_60-240-1-240-24.txt
+GA, average time ,0.205200005,knapsack_ga_60-240-1-96-0.txt
+GA, average time ,0.195600009,knapsack_ga_60-240-1-96-2.txt
+GA, average time ,0.207300019,knapsack_ga_60-240-1-96-24.txt
+GA, average time ,0.2796,knapsack_ga_60-240-2-144-0.txt
+GA, average time ,0.2773,knapsack_ga_60-240-2-144-2.txt
+GA, average time ,0.285100007,knapsack_ga_60-240-2-144-24.txt
+GA, average time ,0.370700002,knapsack_ga_60-240-2-192-0.txt
+GA, average time ,0.393999982,knapsack_ga_60-240-2-192-2.txt
+GA, average time ,0.420000005,knapsack_ga_60-240-2-192-24.txt
+GA, average time ,0.411999989,knapsack_ga_60-240-2-240-0.txt
+GA, average time ,0.469900012,knapsack_ga_60-240-2-240-2.txt
+GA, average time ,0.4875,knapsack_ga_60-240-2-240-24.txt
+GA, average time ,0.186399984,knapsack_ga_60-240-2-96-0.txt
+GA, average time ,0.259300017,knapsack_ga_60-240-2-96-2.txt
+GA, average time ,0.25309999,knapsack_ga_60-240-2-96-24.txt
+GA, average time ,0.325999999,knapsack_ga_60-240-3-144-0.txt
+GA, average time ,0.381800008,knapsack_ga_60-240-3-144-2.txt
+GA, average time ,0.290700006,knapsack_ga_60-240-3-144-24.txt
+GA, average time ,0.427699995,knapsack_ga_60-240-3-192-0.txt
+GA, average time ,0.387799978,knapsack_ga_60-240-3-192-2.txt
+GA, average time ,0.405199981,knapsack_ga_60-240-3-192-24.txt
+GA, average time ,0.483800006,knapsack_ga_60-240-3-240-0.txt
+GA, average time ,0.512399983,knapsack_ga_60-240-3-240-2.txt
+GA, average time ,0.475100017,knapsack_ga_60-240-3-240-24.txt
+GA, average time ,0.194500017,knapsack_ga_60-240-3-96-0.txt
+GA, average time ,0.23440001,knapsack_ga_60-240-3-96-2.txt
+GA, average time ,0.200500011,knapsack_ga_60-240-3-96-24.txt
+GA, average time ,0.037800002,knapsack_ga_60-30-1-12-0.txt
+GA, average time ,0.037400007,knapsack_ga_60-30-1-12-3.txt
+GA, average time ,0.05999999,knapsack_ga_60-30-1-18-0.txt
+GA, average time ,0.063199997,knapsack_ga_60-30-1-18-3.txt
+GA, average time ,0.073099995,knapsack_ga_60-30-1-24-0.txt
+GA, average time ,0.097800016,knapsack_ga_60-30-1-24-3.txt
+GA, average time ,0.056699991,knapsack_ga_60-30-1-30-0.txt
+GA, average time ,0.071000004,knapsack_ga_60-30-1-30-3.txt
+GA, average time ,0.088199997,knapsack_ga_60-30-2-12-0.txt
+GA, average time ,0.051999998,knapsack_ga_60-30-2-12-3.txt
+GA, average time ,0.087000012,knapsack_ga_60-30-2-18-0.txt
+GA, average time ,0.053999996,knapsack_ga_60-30-2-18-3.txt
+GA, average time ,0.060400009,knapsack_ga_60-30-2-24-0.txt
+GA, average time ,0.067200017,knapsack_ga_60-30-2-24-3.txt
+GA, average time ,0.073200011,knapsack_ga_60-30-2-30-0.txt
+GA, average time ,0.075099993,knapsack_ga_60-30-2-30-3.txt
+GA, average time ,0.036899996,knapsack_ga_60-30-3-12-0.txt
+GA, average time ,0.040400004,knapsack_ga_60-30-3-12-3.txt
+GA, average time ,0.055499983,knapsack_ga_60-30-3-18-0.txt
+GA, average time ,0.059100008,knapsack_ga_60-30-3-18-3.txt
+GA, average time ,0.087199998,knapsack_ga_60-30-3-24-0.txt
+GA, average time ,0.080299997,knapsack_ga_60-30-3-24-3.txt
+GA, average time ,0.093899989,knapsack_ga_60-30-3-30-0.txt
+GA, average time ,0.070099998,knapsack_ga_60-30-3-30-3.txt
+GA, average time ,0.077900004,knapsack_ga_60-60-1-24-0.txt
+GA, average time ,0.088599992,knapsack_ga_60-60-1-24-6.txt
+GA, average time ,0.0977,knapsack_ga_60-60-1-36-0.txt
+GA, average time ,0.102199984,knapsack_ga_60-60-1-36-6.txt
+GA, average time ,0.136599994,knapsack_ga_60-60-1-48-0.txt
+GA, average time ,0.147900009,knapsack_ga_60-60-1-48-6.txt
+GA, average time ,0.100399995,knapsack_ga_60-60-1-60-0.txt
+GA, average time ,0.115699983,knapsack_ga_60-60-1-60-6.txt
+GA, average time ,0.060599995,knapsack_ga_60-60-2-24-0.txt
+GA, average time ,0.069000006,knapsack_ga_60-60-2-24-6.txt
+GA, average time ,0.087299991,knapsack_ga_60-60-2-36-0.txt
+GA, average time ,0.09289999,knapsack_ga_60-60-2-36-6.txt
+GA, average time ,0.1125,knapsack_ga_60-60-2-48-0.txt
+GA, average time ,0.203900003,knapsack_ga_60-60-2-48-6.txt
+GA, average time ,0.152099991,knapsack_ga_60-60-2-60-0.txt
+GA, average time ,0.136899996,knapsack_ga_60-60-2-60-6.txt
+GA, average time ,0.091400003,knapsack_ga_60-60-3-24-0.txt
+GA, average time ,0.121099997,knapsack_ga_60-60-3-24-6.txt
+GA, average time ,0.095300007,knapsack_ga_60-60-3-36-0.txt
+GA, average time ,0.095300007,knapsack_ga_60-60-3-36-6.txt
+GA, average time ,0.109899998,knapsack_ga_60-60-3-48-0.txt
+GA, average time ,0.109500003,knapsack_ga_60-60-3-48-6.txt
+GA, average time ,0.121000004,knapsack_ga_60-60-3-60-0.txt
+GA, average time ,0.127900004,knapsack_ga_60-60-3-60-6.txt
+GA, average time ,0.315200019,knapsack_ga_80-160-1-128-0.txt
+GA, average time ,0.271399999,knapsack_ga_80-160-1-128-1.txt
+GA, average time ,0.278800011,knapsack_ga_80-160-1-128-16.txt
+GA, average time ,0.315500021,knapsack_ga_80-160-1-160-0.txt
+GA, average time ,0.373899984,knapsack_ga_80-160-1-160-1.txt
+GA, average time ,0.385899997,knapsack_ga_80-160-1-160-16.txt
+GA, average time ,0.210899997,knapsack_ga_80-160-1-64-0.txt
+GA, average time ,0.29289999,knapsack_ga_80-160-1-64-1.txt
+GA, average time ,0.218700004,knapsack_ga_80-160-1-64-16.txt
+GA, average time ,0.295900011,knapsack_ga_80-160-1-96-0.txt
+GA, average time ,0.206400013,knapsack_ga_80-160-1-96-1.txt
+GA, average time ,0.277200007,knapsack_ga_80-160-1-96-16.txt
+GA, average time ,0.298900008,knapsack_ga_80-160-2-128-0.txt
+GA, average time ,0.362400007,knapsack_ga_80-160-2-128-1.txt
+GA, average time ,0.343999982,knapsack_ga_80-160-2-128-16.txt
+GA, average time ,0.373400021,knapsack_ga_80-160-2-160-0.txt
+GA, average time ,0.377799988,knapsack_ga_80-160-2-160-1.txt
+GA, average time ,0.347899985,knapsack_ga_80-160-2-160-16.txt
+GA, average time ,0.322800016,knapsack_ga_80-160-2-64-0.txt
+GA, average time ,0.16730001,knapsack_ga_80-160-2-64-1.txt
+GA, average time ,0.208400011,knapsack_ga_80-160-2-64-16.txt
+GA, average time ,0.288200021,knapsack_ga_80-160-2-96-0.txt
+GA, average time ,0.274099994,knapsack_ga_80-160-2-96-1.txt
+GA, average time ,0.210800004,knapsack_ga_80-160-2-96-16.txt
+GA, average time ,0.307299995,knapsack_ga_80-160-3-128-0.txt
+GA, average time ,0.29920001,knapsack_ga_80-160-3-128-1.txt
+GA, average time ,0.297000003,knapsack_ga_80-160-3-128-16.txt
+GA, average time ,0.352400017,knapsack_ga_80-160-3-160-0.txt
+GA, average time ,0.352200007,knapsack_ga_80-160-3-160-1.txt
+GA, average time ,0.353699994,knapsack_ga_80-160-3-160-16.txt
+GA, average time ,0.159299994,knapsack_ga_80-160-3-64-0.txt
+GA, average time ,0.186800003,knapsack_ga_80-160-3-64-1.txt
+GA, average time ,0.232800007,knapsack_ga_80-160-3-64-16.txt
+GA, average time ,0.288300014,knapsack_ga_80-160-3-96-0.txt
+GA, average time ,0.2398,knapsack_ga_80-160-3-96-1.txt
+GA, average time ,0.222300005,knapsack_ga_80-160-3-96-16.txt
+GA, average time ,0.363499999,knapsack_ga_80-320-1-128-0.txt
+GA, average time ,0.35999999,knapsack_ga_80-320-1-128-3.txt
+GA, average time ,0.337000012,knapsack_ga_80-320-1-128-32.txt
+GA, average time ,0.506100011,knapsack_ga_80-320-1-192-0.txt
+GA, average time ,0.531299996,knapsack_ga_80-320-1-192-3.txt
+GA, average time ,0.460300016,knapsack_ga_80-320-1-192-32.txt
+GA, average time ,0.649699998,knapsack_ga_80-320-1-256-0.txt
+GA, average time ,0.556500006,knapsack_ga_80-320-1-256-3.txt
+GA, average time ,0.706200004,knapsack_ga_80-320-1-256-32.txt
+GA, average time ,0.64059999,knapsack_ga_80-320-1-320-0.txt
+GA, average time ,0.684800005,knapsack_ga_80-320-1-320-3.txt
+GA, average time ,0.800199986,knapsack_ga_80-320-1-320-32.txt
+GA, average time ,0.336000013,knapsack_ga_80-320-2-128-0.txt
+GA, average time ,0.398600006,knapsack_ga_80-320-2-128-3.txt
+GA, average time ,0.501600003,knapsack_ga_80-320-2-128-32.txt
+GA, average time ,0.445899987,knapsack_ga_80-320-2-192-0.txt
+GA, average time ,0.42900002,knapsack_ga_80-320-2-192-3.txt
+GA, average time ,0.4296,knapsack_ga_80-320-2-192-32.txt
+GA, average time ,0.71500001,knapsack_ga_80-320-2-256-0.txt
+GA, average time ,0.707599998,knapsack_ga_80-320-2-256-3.txt
+GA, average time ,0.616299987,knapsack_ga_80-320-2-256-32.txt
+GA, average time ,0.76170001,knapsack_ga_80-320-2-320-0.txt
+GA, average time ,0.722300005,knapsack_ga_80-320-2-320-3.txt
+GA, average time ,0.697500014,knapsack_ga_80-320-2-320-32.txt
+GA, average time ,0.30150001,knapsack_ga_80-320-3-128-0.txt
+GA, average time ,0.322399998,knapsack_ga_80-320-3-128-3.txt
+GA, average time ,0.341899991,knapsack_ga_80-320-3-128-32.txt
+GA, average time ,0.40710001,knapsack_ga_80-320-3-192-0.txt
+GA, average time ,0.419700003,knapsack_ga_80-320-3-192-3.txt
+GA, average time ,0.45849998,knapsack_ga_80-320-3-192-32.txt
+GA, average time ,0.548899984,knapsack_ga_80-320-3-256-0.txt
+GA, average time ,0.583300018,knapsack_ga_80-320-3-256-3.txt
+GA, average time ,0.603200006,knapsack_ga_80-320-3-256-32.txt
+GA, average time ,0.765499997,knapsack_ga_80-320-3-320-0.txt
+GA, average time ,0.708700013,knapsack_ga_80-320-3-320-3.txt
+GA, average time ,0.77559998,knapsack_ga_80-320-3-320-32.txt
+GA, average time ,0.072199988,knapsack_ga_80-40-1-16-0.txt
+GA, average time ,0.055300021,knapsack_ga_80-40-1-16-4.txt
+GA, average time ,0.121499991,knapsack_ga_80-40-1-24-0.txt
+GA, average time ,0.079400015,knapsack_ga_80-40-1-24-4.txt
+GA, average time ,0.105599999,knapsack_ga_80-40-1-32-0.txt
+GA, average time ,0.128800011,knapsack_ga_80-40-1-32-4.txt
+GA, average time ,0.112800002,knapsack_ga_80-40-1-40-0.txt
+GA, average time ,0.109500003,knapsack_ga_80-40-1-40-4.txt
+GA, average time ,0.048000002,knapsack_ga_80-40-2-16-0.txt
+GA, average time ,0.050300002,knapsack_ga_80-40-2-16-4.txt
+GA, average time ,0.111999989,knapsack_ga_80-40-2-24-0.txt
+GA, average time ,0.104299998,knapsack_ga_80-40-2-24-4.txt
+GA, average time ,0.075099993,knapsack_ga_80-40-2-32-0.txt
+GA, average time ,0.081900001,knapsack_ga_80-40-2-32-4.txt
+GA, average time ,0.119299984,knapsack_ga_80-40-2-40-0.txt
+GA, average time ,0.125999999,knapsack_ga_80-40-2-40-4.txt
+GA, average time ,0.051699996,knapsack_ga_80-40-3-16-0.txt
+GA, average time ,0.055500007,knapsack_ga_80-40-3-16-4.txt
+GA, average time ,0.094099998,knapsack_ga_80-40-3-24-0.txt
+GA, average time ,0.067999983,knapsack_ga_80-40-3-24-4.txt
+GA, average time ,0.121600008,knapsack_ga_80-40-3-32-0.txt
+GA, average time ,0.1204,knapsack_ga_80-40-3-32-4.txt
+GA, average time ,0.094300008,knapsack_ga_80-40-3-40-0.txt
+GA, average time ,0.111100006,knapsack_ga_80-40-3-40-4.txt
+GA, average time ,0.087800002,knapsack_ga_80-80-1-32-0.txt
+GA, average time ,0.115899992,knapsack_ga_80-80-1-32-8.txt
+GA, average time ,0.202100015,knapsack_ga_80-80-1-48-0.txt
+GA, average time ,0.127100015,knapsack_ga_80-80-1-48-8.txt
+GA, average time ,0.175899982,knapsack_ga_80-80-1-64-0.txt
+GA, average time ,0.15,knapsack_ga_80-80-1-64-8.txt
+GA, average time ,0.208100009,knapsack_ga_80-80-1-80-0.txt
+GA, average time ,0.202999997,knapsack_ga_80-80-1-80-8.txt
+GA, average time ,0.110700011,knapsack_ga_80-80-2-32-0.txt
+GA, average time ,0.087599993,knapsack_ga_80-80-2-32-8.txt
+GA, average time ,0.128999996,knapsack_ga_80-80-2-48-0.txt
+GA, average time ,0.114199996,knapsack_ga_80-80-2-48-8.txt
+GA, average time ,0.157399988,knapsack_ga_80-80-2-64-0.txt
+GA, average time ,0.187699986,knapsack_ga_80-80-2-64-8.txt
+GA, average time ,0.173399997,knapsack_ga_80-80-2-80-0.txt
+GA, average time ,0.191100001,knapsack_ga_80-80-2-80-8.txt
+GA, average time ,0.150999999,knapsack_ga_80-80-3-32-0.txt
+GA, average time ,0.084200001,knapsack_ga_80-80-3-32-8.txt
+GA, average time ,0.158999991,knapsack_ga_80-80-3-48-0.txt
+GA, average time ,0.112899995,knapsack_ga_80-80-3-48-8.txt
+GA, average time ,0.15710001,knapsack_ga_80-80-3-64-0.txt
+GA, average time ,0.198000002,knapsack_ga_80-80-3-64-8.txt
+GA, average time ,0.177200007,knapsack_ga_80-80-3-80-0.txt
+GA, average time ,0.211199999,knapsack_ga_80-80-3-80-8.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-100-100-20.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-100-100-50.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-100-100-70.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-100-100-90.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-100-120-108.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-100-120-24.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-100-120-60.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-100-120-84.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-100-140-126.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-100-140-28.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-100-140-70.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-100-140-98.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-100-40-20.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-100-40-28.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-100-40-36.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-100-40-8.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-100-60-12.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-100-60-30.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-100-60-42.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-100-60-54.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-100-80-16.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-100-80-40.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-100-80-56.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-100-80-72.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-120-100-20.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-120-100-50.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-120-100-70.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-120-100-90.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-120-120-108.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-120-120-24.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-120-120-60.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-120-120-84.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-120-140-126.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-120-140-28.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-120-140-70.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-120-140-98.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-120-40-20.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-120-40-28.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-120-40-36.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-120-40-8.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-120-60-12.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-120-60-30.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-120-60-42.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-120-60-54.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-120-80-16.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-120-80-40.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-120-80-56.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-120-80-72.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-140-100-20.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-140-100-50.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-140-100-70.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-140-100-90.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-140-120-108.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-140-120-24.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-140-120-60.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-140-120-84.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-140-140-126.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-140-140-28.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-140-140-70.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-140-140-98.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-140-40-20.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-140-40-28.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-140-40-36.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-140-40-8.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-140-60-12.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-140-60-30.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-140-60-42.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-140-60-54.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-140-80-16.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-140-80-40.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-140-80-56.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-140-80-72.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-40-100-20.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-40-100-50.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-40-100-70.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-40-100-90.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-40-120-108.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-40-120-24.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-40-120-60.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-40-120-84.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-40-140-126.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-40-140-28.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-40-140-70.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-40-140-98.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-40-40-20.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-40-40-28.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-40-40-36.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-40-40-8.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-40-60-12.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-40-60-30.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-40-60-42.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-40-60-54.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-40-80-16.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-40-80-40.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-40-80-56.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-40-80-72.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-60-100-20.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-60-100-50.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-60-100-70.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-60-100-90.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-60-120-108.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-60-120-24.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-60-120-60.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-60-120-84.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-60-140-126.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-60-140-28.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-60-140-70.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-60-140-98.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-60-40-20.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-60-40-28.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-60-40-36.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-60-40-8.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-60-60-12.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-60-60-30.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-60-60-42.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-60-60-54.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-60-80-16.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-60-80-40.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-60-80-56.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-60-80-72.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-80-100-20.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-80-100-50.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-80-100-70.txt
+MIMIC, average feval calls ,100101,knapsack_MIMIC-80-100-90.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-80-120-108.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-80-120-24.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-80-120-60.txt
+MIMIC, average feval calls ,120121,knapsack_MIMIC-80-120-84.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-80-140-126.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-80-140-28.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-80-140-70.txt
+MIMIC, average feval calls ,140141,knapsack_MIMIC-80-140-98.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-80-40-20.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-80-40-28.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-80-40-36.txt
+MIMIC, average feval calls ,40041,knapsack_MIMIC-80-40-8.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-80-60-12.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-80-60-30.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-80-60-42.txt
+MIMIC, average feval calls ,60061,knapsack_MIMIC-80-60-54.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-80-80-16.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-80-80-40.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-80-80-56.txt
+MIMIC, average feval calls ,80081,knapsack_MIMIC-80-80-72.txt
+MIMIC, average results,9145.260222,knapsack_MIMIC-100-100-20.txt
+MIMIC, average results,8057.847255,knapsack_MIMIC-100-100-50.txt
+MIMIC, average results,9786.26667,knapsack_MIMIC-100-100-70.txt
+MIMIC, average results,7934.043642,knapsack_MIMIC-100-100-90.txt
+MIMIC, average results,8509.897722,knapsack_MIMIC-100-120-108.txt
+MIMIC, average results,9876.195485,knapsack_MIMIC-100-120-24.txt
+MIMIC, average results,7942.800239,knapsack_MIMIC-100-120-60.txt
+MIMIC, average results,7871.659652,knapsack_MIMIC-100-120-84.txt
+MIMIC, average results,8748.580906,knapsack_MIMIC-100-140-126.txt
+MIMIC, average results,9420.625621,knapsack_MIMIC-100-140-28.txt
+MIMIC, average results,9046.737378,knapsack_MIMIC-100-140-70.txt
+MIMIC, average results,9662.251284,knapsack_MIMIC-100-140-98.txt
+MIMIC, average results,9819.113852,knapsack_MIMIC-100-40-20.txt
+MIMIC, average results,9269.826551,knapsack_MIMIC-100-40-28.txt
+MIMIC, average results,8080.659218,knapsack_MIMIC-100-40-36.txt
+MIMIC, average results,9939.025138,knapsack_MIMIC-100-40-8.txt
+MIMIC, average results,8851.029307,knapsack_MIMIC-100-60-12.txt
+MIMIC, average results,8635.205914,knapsack_MIMIC-100-60-30.txt
+MIMIC, average results,9293.221908,knapsack_MIMIC-100-60-42.txt
+MIMIC, average results,7930.498294,knapsack_MIMIC-100-60-54.txt
+MIMIC, average results,9066.278085,knapsack_MIMIC-100-80-16.txt
+MIMIC, average results,8688.233275,knapsack_MIMIC-100-80-40.txt
+MIMIC, average results,8626.976834,knapsack_MIMIC-100-80-56.txt
+MIMIC, average results,7840.648191,knapsack_MIMIC-100-80-72.txt
+MIMIC, average results,11178.28775,knapsack_MIMIC-120-100-20.txt
+MIMIC, average results,10615.36024,knapsack_MIMIC-120-100-50.txt
+MIMIC, average results,9663.674396,knapsack_MIMIC-120-100-70.txt
+MIMIC, average results,9213.573889,knapsack_MIMIC-120-100-90.txt
+MIMIC, average results,9322.191808,knapsack_MIMIC-120-120-108.txt
+MIMIC, average results,10596.80627,knapsack_MIMIC-120-120-24.txt
+MIMIC, average results,11304.29692,knapsack_MIMIC-120-120-60.txt
+MIMIC, average results,10660.35435,knapsack_MIMIC-120-120-84.txt
+MIMIC, average results,11077.59079,knapsack_MIMIC-120-140-126.txt
+MIMIC, average results,11203.06949,knapsack_MIMIC-120-140-28.txt
+MIMIC, average results,10655.84939,knapsack_MIMIC-120-140-70.txt
+MIMIC, average results,10299.7284,knapsack_MIMIC-120-140-98.txt
+MIMIC, average results,10886.57354,knapsack_MIMIC-120-40-20.txt
+MIMIC, average results,10141.88648,knapsack_MIMIC-120-40-28.txt
+MIMIC, average results,9542.539157,knapsack_MIMIC-120-40-36.txt
+MIMIC, average results,11690.02966,knapsack_MIMIC-120-40-8.txt
+MIMIC, average results,10594.97173,knapsack_MIMIC-120-60-12.txt
+MIMIC, average results,10931.89188,knapsack_MIMIC-120-60-30.txt
+MIMIC, average results,10370.7383,knapsack_MIMIC-120-60-42.txt
+MIMIC, average results,9108.139447,knapsack_MIMIC-120-60-54.txt
+MIMIC, average results,11091.53779,knapsack_MIMIC-120-80-16.txt
+MIMIC, average results,10674.08276,knapsack_MIMIC-120-80-40.txt
+MIMIC, average results,11491.28994,knapsack_MIMIC-120-80-56.txt
+MIMIC, average results,10239.33477,knapsack_MIMIC-120-80-72.txt
+MIMIC, average results,13237.1105,knapsack_MIMIC-140-100-20.txt
+MIMIC, average results,12240.0799,knapsack_MIMIC-140-100-50.txt
+MIMIC, average results,11661.812,knapsack_MIMIC-140-100-70.txt
+MIMIC, average results,11265.81141,knapsack_MIMIC-140-100-90.txt
+MIMIC, average results,11984.93611,knapsack_MIMIC-140-120-108.txt
+MIMIC, average results,13251.89659,knapsack_MIMIC-140-120-24.txt
+MIMIC, average results,12363.05649,knapsack_MIMIC-140-120-60.txt
+MIMIC, average results,11965.80834,knapsack_MIMIC-140-120-84.txt
+MIMIC, average results,11196.72995,knapsack_MIMIC-140-140-126.txt
+MIMIC, average results,12459.93149,knapsack_MIMIC-140-140-28.txt
+MIMIC, average results,12094.54626,knapsack_MIMIC-140-140-70.txt
+MIMIC, average results,13825.91988,knapsack_MIMIC-140-140-98.txt
+MIMIC, average results,12659.94478,knapsack_MIMIC-140-40-20.txt
+MIMIC, average results,11826.61156,knapsack_MIMIC-140-40-28.txt
+MIMIC, average results,9749.993457,knapsack_MIMIC-140-40-36.txt
+MIMIC, average results,12868.10981,knapsack_MIMIC-140-40-8.txt
+MIMIC, average results,11693.87728,knapsack_MIMIC-140-60-12.txt
+MIMIC, average results,12311.80386,knapsack_MIMIC-140-60-30.txt
+MIMIC, average results,11364.24697,knapsack_MIMIC-140-60-42.txt
+MIMIC, average results,10407.19642,knapsack_MIMIC-140-60-54.txt
+MIMIC, average results,12967.65923,knapsack_MIMIC-140-80-16.txt
+MIMIC, average results,12116.40125,knapsack_MIMIC-140-80-40.txt
+MIMIC, average results,12174.63081,knapsack_MIMIC-140-80-56.txt
+MIMIC, average results,11122.59509,knapsack_MIMIC-140-80-72.txt
+MIMIC, average results,4077.58203,knapsack_MIMIC-40-100-20.txt
+MIMIC, average results,3692.031037,knapsack_MIMIC-40-100-50.txt
+MIMIC, average results,3425.335863,knapsack_MIMIC-40-100-70.txt
+MIMIC, average results,3133.246333,knapsack_MIMIC-40-100-90.txt
+MIMIC, average results,3755.759611,knapsack_MIMIC-40-120-108.txt
+MIMIC, average results,4189.594561,knapsack_MIMIC-40-120-24.txt
+MIMIC, average results,3294.042303,knapsack_MIMIC-40-120-60.txt
+MIMIC, average results,3644.648649,knapsack_MIMIC-40-120-84.txt
+MIMIC, average results,2863.750119,knapsack_MIMIC-40-140-126.txt
+MIMIC, average results,4041.606715,knapsack_MIMIC-40-140-28.txt
+MIMIC, average results,2957.892515,knapsack_MIMIC-40-140-70.txt
+MIMIC, average results,4019.679383,knapsack_MIMIC-40-140-98.txt
+MIMIC, average results,3877.40525,knapsack_MIMIC-40-40-20.txt
+MIMIC, average results,3441.498651,knapsack_MIMIC-40-40-28.txt
+MIMIC, average results,3596.04466,knapsack_MIMIC-40-40-36.txt
+MIMIC, average results,3456.478099,knapsack_MIMIC-40-40-8.txt
+MIMIC, average results,3841.289576,knapsack_MIMIC-40-60-12.txt
+MIMIC, average results,3427.490566,knapsack_MIMIC-40-60-30.txt
+MIMIC, average results,3216.417086,knapsack_MIMIC-40-60-42.txt
+MIMIC, average results,3532.940171,knapsack_MIMIC-40-60-54.txt
+MIMIC, average results,3740.345407,knapsack_MIMIC-40-80-16.txt
+MIMIC, average results,3578.594273,knapsack_MIMIC-40-80-40.txt
+MIMIC, average results,3392.860623,knapsack_MIMIC-40-80-56.txt
+MIMIC, average results,3747.464304,knapsack_MIMIC-40-80-72.txt
+MIMIC, average results,5102.776965,knapsack_MIMIC-60-100-20.txt
+MIMIC, average results,5002.206817,knapsack_MIMIC-60-100-50.txt
+MIMIC, average results,5555.917887,knapsack_MIMIC-60-100-70.txt
+MIMIC, average results,4678.510053,knapsack_MIMIC-60-100-90.txt
+MIMIC, average results,5094.634954,knapsack_MIMIC-60-120-108.txt
+MIMIC, average results,5663.861125,knapsack_MIMIC-60-120-24.txt
+MIMIC, average results,5441.463256,knapsack_MIMIC-60-120-60.txt
+MIMIC, average results,5370.560267,knapsack_MIMIC-60-120-84.txt
+MIMIC, average results,4600.865606,knapsack_MIMIC-60-140-126.txt
+MIMIC, average results,5888.543578,knapsack_MIMIC-60-140-28.txt
+MIMIC, average results,5144.679639,knapsack_MIMIC-60-140-70.txt
+MIMIC, average results,5420.775627,knapsack_MIMIC-60-140-98.txt
+MIMIC, average results,5425.779102,knapsack_MIMIC-60-40-20.txt
+MIMIC, average results,5892.764902,knapsack_MIMIC-60-40-28.txt
+MIMIC, average results,4588.170795,knapsack_MIMIC-60-40-36.txt
+MIMIC, average results,4946.045338,knapsack_MIMIC-60-40-8.txt
+MIMIC, average results,6122.386387,knapsack_MIMIC-60-60-12.txt
+MIMIC, average results,4896.542726,knapsack_MIMIC-60-60-30.txt
+MIMIC, average results,5451.518442,knapsack_MIMIC-60-60-42.txt
+MIMIC, average results,5414.073418,knapsack_MIMIC-60-60-54.txt
+MIMIC, average results,5439.550163,knapsack_MIMIC-60-80-16.txt
+MIMIC, average results,5817.835632,knapsack_MIMIC-60-80-40.txt
+MIMIC, average results,4971.496165,knapsack_MIMIC-60-80-56.txt
+MIMIC, average results,4396.510929,knapsack_MIMIC-60-80-72.txt
+MIMIC, average results,8052.768505,knapsack_MIMIC-80-100-20.txt
+MIMIC, average results,7231.322297,knapsack_MIMIC-80-100-50.txt
+MIMIC, average results,7227.903736,knapsack_MIMIC-80-100-70.txt
+MIMIC, average results,6969.987529,knapsack_MIMIC-80-100-90.txt
+MIMIC, average results,6283.834402,knapsack_MIMIC-80-120-108.txt
+MIMIC, average results,7052.378573,knapsack_MIMIC-80-120-24.txt
+MIMIC, average results,7175.57724,knapsack_MIMIC-80-120-60.txt
+MIMIC, average results,7300.117015,knapsack_MIMIC-80-120-84.txt
+MIMIC, average results,6838.850227,knapsack_MIMIC-80-140-126.txt
+MIMIC, average results,7261.355545,knapsack_MIMIC-80-140-28.txt
+MIMIC, average results,7663.927975,knapsack_MIMIC-80-140-70.txt
+MIMIC, average results,7238.738938,knapsack_MIMIC-80-140-98.txt
+MIMIC, average results,6707.312099,knapsack_MIMIC-80-40-20.txt
+MIMIC, average results,6841.271238,knapsack_MIMIC-80-40-28.txt
+MIMIC, average results,6611.438642,knapsack_MIMIC-80-40-36.txt
+MIMIC, average results,7944.590158,knapsack_MIMIC-80-40-8.txt
+MIMIC, average results,7455.360533,knapsack_MIMIC-80-60-12.txt
+MIMIC, average results,7605.407724,knapsack_MIMIC-80-60-30.txt
+MIMIC, average results,6753.035576,knapsack_MIMIC-80-60-42.txt
+MIMIC, average results,6247.71786,knapsack_MIMIC-80-60-54.txt
+MIMIC, average results,7882.470531,knapsack_MIMIC-80-80-16.txt
+MIMIC, average results,7540.996981,knapsack_MIMIC-80-80-40.txt
+MIMIC, average results,7505.475975,knapsack_MIMIC-80-80-56.txt
+MIMIC, average results,6429.189476,knapsack_MIMIC-80-80-72.txt
+MIMIC, average time ,11.0026,knapsack_MIMIC-100-100-20.txt
+MIMIC, average time ,16.6675,knapsack_MIMIC-100-100-50.txt
+MIMIC, average time ,19.41919999,knapsack_MIMIC-100-100-70.txt
+MIMIC, average time ,24.88870001,knapsack_MIMIC-100-100-90.txt
+MIMIC, average time ,27.02059999,knapsack_MIMIC-100-120-108.txt
+MIMIC, average time ,12.18640001,knapsack_MIMIC-100-120-24.txt
+MIMIC, average time ,18.37179999,knapsack_MIMIC-100-120-60.txt
+MIMIC, average time ,22.30439999,knapsack_MIMIC-100-120-84.txt
+MIMIC, average time ,19.1503,knapsack_MIMIC-100-140-126.txt
+MIMIC, average time ,12.02319999,knapsack_MIMIC-100-140-28.txt
+MIMIC, average time ,18.9102,knapsack_MIMIC-100-140-70.txt
+MIMIC, average time ,18.4003,knapsack_MIMIC-100-140-98.txt
+MIMIC, average time ,10.6415,knapsack_MIMIC-100-40-20.txt
+MIMIC, average time ,12.21620002,knapsack_MIMIC-100-40-28.txt
+MIMIC, average time ,13.84430001,knapsack_MIMIC-100-40-36.txt
+MIMIC, average time ,8.620799994,knapsack_MIMIC-100-40-8.txt
+MIMIC, average time ,9.066400003,knapsack_MIMIC-100-60-12.txt
+MIMIC, average time ,12.85320001,knapsack_MIMIC-100-60-30.txt
+MIMIC, average time ,16.08409998,knapsack_MIMIC-100-60-42.txt
+MIMIC, average time ,18.0016,knapsack_MIMIC-100-60-54.txt
+MIMIC, average time ,10.53480001,knapsack_MIMIC-100-80-16.txt
+MIMIC, average time ,14.76000001,knapsack_MIMIC-100-80-40.txt
+MIMIC, average time ,18.0332,knapsack_MIMIC-100-80-56.txt
+MIMIC, average time ,22.67020001,knapsack_MIMIC-100-80-72.txt
+MIMIC, average time ,9.047200012,knapsack_MIMIC-120-100-20.txt
+MIMIC, average time ,13.26179998,knapsack_MIMIC-120-100-50.txt
+MIMIC, average time ,16.36170001,knapsack_MIMIC-120-100-70.txt
+MIMIC, average time ,19.58970001,knapsack_MIMIC-120-100-90.txt
+MIMIC, average time ,22.70419998,knapsack_MIMIC-120-120-108.txt
+MIMIC, average time ,9.649699998,knapsack_MIMIC-120-120-24.txt
+MIMIC, average time ,14.7934,knapsack_MIMIC-120-120-60.txt
+MIMIC, average time ,18.56929998,knapsack_MIMIC-120-120-84.txt
+MIMIC, average time ,26.9418,knapsack_MIMIC-120-140-126.txt
+MIMIC, average time ,10.7605,knapsack_MIMIC-120-140-28.txt
+MIMIC, average time ,16.5592,knapsack_MIMIC-120-140-70.txt
+MIMIC, average time ,21.14230001,knapsack_MIMIC-120-140-98.txt
+MIMIC, average time ,8.289199996,knapsack_MIMIC-120-40-20.txt
+MIMIC, average time ,9.647399998,knapsack_MIMIC-120-40-28.txt
+MIMIC, average time ,11.5237,knapsack_MIMIC-120-40-36.txt
+MIMIC, average time ,6.840700006,knapsack_MIMIC-120-40-8.txt
+MIMIC, average time ,7.454399991,knapsack_MIMIC-120-60-12.txt
+MIMIC, average time ,9.936100006,knapsack_MIMIC-120-60-30.txt
+MIMIC, average time ,11.84159999,knapsack_MIMIC-120-60-42.txt
+MIMIC, average time ,14.1026,knapsack_MIMIC-120-60-54.txt
+MIMIC, average time ,8.480400014,knapsack_MIMIC-120-80-16.txt
+MIMIC, average time ,11.40710001,knapsack_MIMIC-120-80-40.txt
+MIMIC, average time ,14.1375,knapsack_MIMIC-120-80-56.txt
+MIMIC, average time ,17.10280001,knapsack_MIMIC-120-80-72.txt
+MIMIC, average time ,12.71239998,knapsack_MIMIC-140-100-20.txt
+MIMIC, average time ,19.58940001,knapsack_MIMIC-140-100-50.txt
+MIMIC, average time ,24.43969998,knapsack_MIMIC-140-100-70.txt
+MIMIC, average time ,30.19860001,knapsack_MIMIC-140-100-90.txt
+MIMIC, average time ,30.21899998,knapsack_MIMIC-140-120-108.txt
+MIMIC, average time ,13.84400001,knapsack_MIMIC-140-120-24.txt
+MIMIC, average time ,21.91200001,knapsack_MIMIC-140-120-60.txt
+MIMIC, average time ,24.605,knapsack_MIMIC-140-120-84.txt
+MIMIC, average time ,34.40910001,knapsack_MIMIC-140-140-126.txt
+MIMIC, average time ,12.84119999,knapsack_MIMIC-140-140-28.txt
+MIMIC, average time ,21.54200001,knapsack_MIMIC-140-140-70.txt
+MIMIC, average time ,27.8175,knapsack_MIMIC-140-140-98.txt
+MIMIC, average time ,12.2632,knapsack_MIMIC-140-40-20.txt
+MIMIC, average time ,14.50200002,knapsack_MIMIC-140-40-28.txt
+MIMIC, average time ,17.5131,knapsack_MIMIC-140-40-36.txt
+MIMIC, average time ,9.39849999,knapsack_MIMIC-140-40-8.txt
+MIMIC, average time ,9.983699989,knapsack_MIMIC-140-60-12.txt
+MIMIC, average time ,14.45350001,knapsack_MIMIC-140-60-30.txt
+MIMIC, average time ,17.6464,knapsack_MIMIC-140-60-42.txt
+MIMIC, average time ,21.01489999,knapsack_MIMIC-140-60-54.txt
+MIMIC, average time ,11.42190001,knapsack_MIMIC-140-80-16.txt
+MIMIC, average time ,16.93209999,knapsack_MIMIC-140-80-40.txt
+MIMIC, average time ,20.87319999,knapsack_MIMIC-140-80-56.txt
+MIMIC, average time ,26.11689999,knapsack_MIMIC-140-80-72.txt
+MIMIC, average time ,2.578999996,knapsack_MIMIC-40-100-20.txt
+MIMIC, average time ,3.464599991,knapsack_MIMIC-40-100-50.txt
+MIMIC, average time ,4.307599998,knapsack_MIMIC-40-100-70.txt
+MIMIC, average time ,5.168499994,knapsack_MIMIC-40-100-90.txt
+MIMIC, average time ,6.303200006,knapsack_MIMIC-40-120-108.txt
+MIMIC, average time ,2.818499994,knapsack_MIMIC-40-120-24.txt
+MIMIC, average time ,4.209699988,knapsack_MIMIC-40-120-60.txt
+MIMIC, average time ,4.95389998,knapsack_MIMIC-40-120-84.txt
+MIMIC, average time ,6.471400023,knapsack_MIMIC-40-140-126.txt
+MIMIC, average time ,2.988900018,knapsack_MIMIC-40-140-28.txt
+MIMIC, average time ,4.464300013,knapsack_MIMIC-40-140-70.txt
+MIMIC, average time ,5.683800006,knapsack_MIMIC-40-140-98.txt
+MIMIC, average time ,2.208899999,knapsack_MIMIC-40-40-20.txt
+MIMIC, average time ,2.215400004,knapsack_MIMIC-40-40-28.txt
+MIMIC, average time ,2.659799981,knapsack_MIMIC-40-40-36.txt
+MIMIC, average time ,1.873899984,knapsack_MIMIC-40-40-8.txt
+MIMIC, average time ,1.996700001,knapsack_MIMIC-40-60-12.txt
+MIMIC, average time ,2.315400004,knapsack_MIMIC-40-60-30.txt
+MIMIC, average time ,2.80769999,knapsack_MIMIC-40-60-42.txt
+MIMIC, average time ,3.026899982,knapsack_MIMIC-40-60-54.txt
+MIMIC, average time ,2.0546,knapsack_MIMIC-40-80-16.txt
+MIMIC, average time ,2.841000009,knapsack_MIMIC-40-80-40.txt
+MIMIC, average time ,3.246499991,knapsack_MIMIC-40-80-56.txt
+MIMIC, average time ,3.906399989,knapsack_MIMIC-40-80-72.txt
+MIMIC, average time ,5.004099989,knapsack_MIMIC-60-100-20.txt
+MIMIC, average time ,8.276199985,knapsack_MIMIC-60-100-50.txt
+MIMIC, average time ,9.491299987,knapsack_MIMIC-60-100-70.txt
+MIMIC, average time ,10.21959999,knapsack_MIMIC-60-100-90.txt
+MIMIC, average time ,9.865100002,knapsack_MIMIC-60-120-108.txt
+MIMIC, average time ,5.130400014,knapsack_MIMIC-60-120-24.txt
+MIMIC, average time ,7.26170001,knapsack_MIMIC-60-120-60.txt
+MIMIC, average time ,9.838599992,knapsack_MIMIC-60-120-84.txt
+MIMIC, average time ,13.35780001,knapsack_MIMIC-60-140-126.txt
+MIMIC, average time ,5.4875,knapsack_MIMIC-60-140-28.txt
+MIMIC, average time ,8.857099986,knapsack_MIMIC-60-140-70.txt
+MIMIC, average time ,11.47190001,knapsack_MIMIC-60-140-98.txt
+MIMIC, average time ,4.289899993,knapsack_MIMIC-60-40-20.txt
+MIMIC, average time ,4.83579998,knapsack_MIMIC-60-40-28.txt
+MIMIC, average time ,5.926600003,knapsack_MIMIC-60-40-36.txt
+MIMIC, average time ,3.406399989,knapsack_MIMIC-60-40-8.txt
+MIMIC, average time ,3.735400009,knapsack_MIMIC-60-60-12.txt
+MIMIC, average time ,5.130200005,knapsack_MIMIC-60-60-30.txt
+MIMIC, average time ,5.966300011,knapsack_MIMIC-60-60-42.txt
+MIMIC, average time ,7.180200005,knapsack_MIMIC-60-60-54.txt
+MIMIC, average time ,4.37349999,knapsack_MIMIC-60-80-16.txt
+MIMIC, average time ,6.234899998,knapsack_MIMIC-60-80-40.txt
+MIMIC, average time ,7.543300009,knapsack_MIMIC-60-80-56.txt
+MIMIC, average time ,9.214600015,knapsack_MIMIC-60-80-72.txt
+MIMIC, average time ,8.223300004,knapsack_MIMIC-80-100-20.txt
+MIMIC, average time ,11.41020002,knapsack_MIMIC-80-100-50.txt
+MIMIC, average time ,13.61559999,knapsack_MIMIC-80-100-70.txt
+MIMIC, average time ,16.30040002,knapsack_MIMIC-80-100-90.txt
+MIMIC, average time ,19.53740001,knapsack_MIMIC-80-120-108.txt
+MIMIC, average time ,8.572099996,knapsack_MIMIC-80-120-24.txt
+MIMIC, average time ,12.41000001,knapsack_MIMIC-80-120-60.txt
+MIMIC, average time ,15.61069999,knapsack_MIMIC-80-120-84.txt
+MIMIC, average time ,21.54699998,knapsack_MIMIC-80-140-126.txt
+MIMIC, average time ,10.0517,knapsack_MIMIC-80-140-28.txt
+MIMIC, average time ,15.16530001,knapsack_MIMIC-80-140-70.txt
+MIMIC, average time ,17.94360001,knapsack_MIMIC-80-140-98.txt
+MIMIC, average time ,7.471099997,knapsack_MIMIC-80-40-20.txt
+MIMIC, average time ,7.935500002,knapsack_MIMIC-80-40-28.txt
+MIMIC, average time ,8.887399983,knapsack_MIMIC-80-40-36.txt
+MIMIC, average time ,5.994700003,knapsack_MIMIC-80-40-8.txt
+MIMIC, average time ,6.554099989,knapsack_MIMIC-80-60-12.txt
+MIMIC, average time ,8.679400015,knapsack_MIMIC-80-60-30.txt
+MIMIC, average time ,9.944400001,knapsack_MIMIC-80-60-42.txt
+MIMIC, average time ,12.06999998,knapsack_MIMIC-80-60-54.txt
+MIMIC, average time ,8.474300003,knapsack_MIMIC-80-80-16.txt
+MIMIC, average time ,10.18529999,knapsack_MIMIC-80-80-40.txt
+MIMIC, average time ,12.5704,knapsack_MIMIC-80-80-56.txt
+MIMIC, average time ,14.29589999,knapsack_MIMIC-80-80-72.txt
+RHC, average feval calls ,800002,knapsack100.txt
+RHC, average feval calls ,800002,knapsack120.txt
+RHC, average feval calls ,800002,knapsack140.txt
+RHC, average feval calls ,800002,knapsack40.txt
+RHC, average feval calls ,800002,knapsack60.txt
+RHC, average feval calls ,800002,knapsack80.txt
+RHC, average results ,9030.623511,knapsack100.txt
+RHC, average results ,9491.945109,knapsack120.txt
+RHC, average results ,11452.20676,knapsack140.txt
+RHC, average results ,4044.037797,knapsack40.txt
+RHC, average results ,4636.393138,knapsack60.txt
+RHC, average results ,6330.915365,knapsack80.txt
+RHC, average time ,0.205200005,knapsack100.txt
+RHC, average time ,0.236400008,knapsack120.txt
+RHC, average time ,0.275699997,knapsack140.txt
+RHC, average time ,0.169999981,knapsack40.txt
+RHC, average time ,0.153399992,knapsack60.txt
+RHC, average time ,0.185500002,knapsack80.txt
+SA70, average feval calls ,800002,knapsack100.txt
+SA70, average feval calls ,800002,knapsack120.txt
+SA70, average feval calls ,800002,knapsack140.txt
+SA70, average feval calls ,800002,knapsack40.txt
+SA70, average feval calls ,800002,knapsack60.txt
+SA70, average feval calls ,800002,knapsack80.txt
+SA70, average results ,9009.36851,knapsack100.txt
+SA70, average results ,9679.092339,knapsack120.txt
+SA70, average results ,11620.37873,knapsack140.txt
+SA70, average results ,4029.351835,knapsack40.txt
+SA70, average results ,4648.09737,knapsack60.txt
+SA70, average results ,6145.012275,knapsack80.txt
+SA70, average time ,0.812999988,knapsack100.txt
+SA70, average time ,0.840799999,knapsack120.txt
+SA70, average time ,0.877200007,knapsack140.txt
+SA70, average time ,0.75250001,knapsack40.txt
+SA70, average time ,0.793099999,knapsack60.txt
+SA70, average time ,0.779400015,knapsack80.txt
+SA80, average feval calls ,800002,knapsack100.txt
+SA80, average feval calls ,800002,knapsack120.txt
+SA80, average feval calls ,800002,knapsack140.txt
+SA80, average feval calls ,800002,knapsack40.txt
+SA80, average feval calls ,800002,knapsack60.txt
+SA80, average feval calls ,800002,knapsack80.txt
+SA80, average results ,8970.077985,knapsack100.txt
+SA80, average results ,9694.473016,knapsack120.txt
+SA80, average results ,11605.87341,knapsack140.txt
+SA80, average results ,3965.396826,knapsack40.txt
+SA80, average results ,4495.832845,knapsack60.txt
+SA80, average results ,6292.80487,knapsack80.txt
+SA80, average time ,0.81500001,knapsack100.txt
+SA80, average time ,0.839700007,knapsack120.txt
+SA80, average time ,0.875099993,knapsack140.txt
+SA80, average time ,0.837199998,knapsack40.txt
+SA80, average time ,0.828799987,knapsack60.txt
+SA80, average time ,0.803399992,knapsack80.txt
+SA95, average feval calls ,800002,knapsack100.txt
+SA95, average feval calls ,800002,knapsack120.txt
+SA95, average feval calls ,800002,knapsack140.txt
+SA95, average feval calls ,800002,knapsack40.txt
+SA95, average feval calls ,800002,knapsack60.txt
+SA95, average feval calls ,800002,knapsack80.txt
+SA95, average results ,8988.632304,knapsack100.txt
+SA95, average results ,9649.667557,knapsack120.txt
+SA95, average results ,11511.16376,knapsack140.txt
+SA95, average results ,4040.862904,knapsack40.txt
+SA95, average results ,4711.454478,knapsack60.txt
+SA95, average results ,6440.972783,knapsack80.txt
+SA95, average time ,0.819700003,knapsack100.txt
+SA95, average time ,0.83599999,knapsack120.txt
+SA95, average time ,0.871800017,knapsack140.txt
+SA95, average time ,0.970899987,knapsack40.txt
+SA95, average time ,0.779100013,knapsack60.txt
+SA95, average time ,0.80769999,knapsack80.txt
+SABOL, average feval calls ,800002,knapsack100.txt
+SABOL, average feval calls ,800002,knapsack120.txt
+SABOL, average feval calls ,800002,knapsack140.txt
+SABOL, average feval calls ,800002,knapsack40.txt
+SABOL, average feval calls ,800002,knapsack60.txt
+SABOL, average feval calls ,800002,knapsack80.txt
+SABOL, average results ,5521.672903,knapsack100.txt
+SABOL, average results ,6648.420056,knapsack120.txt
+SABOL, average results ,7266.99962,knapsack140.txt
+SABOL, average results ,2153.564965,knapsack40.txt
+SABOL, average results ,3054.505017,knapsack60.txt
+SABOL, average results ,4074.145748,knapsack80.txt
+SABOL, average time ,0.235000014,knapsack100.txt
+SABOL, average time ,0.262000012,knapsack120.txt
+SABOL, average time ,0.297599983,knapsack140.txt
+SABOL, average time ,0.154299998,knapsack40.txt
+SABOL, average time ,0.188400006,knapsack60.txt
+SABOL, average time ,0.197000003,knapsack80.txt
+SAFAS, average feval calls ,800002,knapsack100.txt
+SAFAS, average feval calls ,800002,knapsack120.txt
+SAFAS, average feval calls ,800002,knapsack140.txt
+SAFAS, average feval calls ,800002,knapsack40.txt
+SAFAS, average feval calls ,800002,knapsack60.txt
+SAFAS, average feval calls ,800002,knapsack80.txt
+SAFAS, average results ,5846.85629,knapsack100.txt
+SAFAS, average results ,6670.636915,knapsack120.txt
+SAFAS, average results ,6925.892195,knapsack140.txt
+SAFAS, average results ,1924.166837,knapsack40.txt
+SAFAS, average results ,2837.314101,knapsack60.txt
+SAFAS, average results ,4096.31905,knapsack80.txt
+SAFAS, average time ,0.2171,knapsack100.txt
+SAFAS, average time ,0.243199992,knapsack120.txt
+SAFAS, average time ,0.283100009,knapsack140.txt
+SAFAS, average time ,0.158300018,knapsack40.txt
+SAFAS, average time ,0.178200006,knapsack60.txt
+SAFAS, average time ,0.178299999,knapsack80.txt

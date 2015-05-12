@@ -1,0 +1,2772 @@
+RHC, average results , 100.0,countones-100.txt
+RHC, average feval calls , 5002.0,countones-100.txt
+RHC, average time , 0.0107999920845,countones-100.txt
+SA95, average results , 100.0,countones-100.txt
+SA95, average feval calls , 5002.0,countones-100.txt
+SA95, average time , 0.00410000085831,countones-100.txt
+SA80, average results , 100.0,countones-100.txt
+SA80, average feval calls , 5002.0,countones-100.txt
+SA80, average time , 0.00439999103546,countones-100.txt
+SA70, average results , 100.0,countones-100.txt
+SA70, average feval calls , 5002.0,countones-100.txt
+SA70, average time , 0.00530000925064,countones-100.txt
+SABOL, average results , 49.55,countones-100.txt
+SABOL, average feval calls , 5002.0,countones-100.txt
+SABOL, average time , 0.00379999876022,countones-100.txt
+SAFAS, average results , 52.35,countones-100.txt
+SAFAS, average feval calls , 5002.0,countones-100.txt
+SAFAS, average time , 0.00310000181198,countones-100.txt
+RHC, average results , 120.0,countones-120.txt
+RHC, average feval calls , 5002.0,countones-120.txt
+RHC, average time , 0.00885000228882,countones-120.txt
+SA95, average results , 120.0,countones-120.txt
+SA95, average feval calls , 5002.0,countones-120.txt
+SA95, average time , 0.00484999418259,countones-120.txt
+SA80, average results , 120.0,countones-120.txt
+SA80, average feval calls , 5002.0,countones-120.txt
+SA80, average time , 0.00584999322891,countones-120.txt
+SA70, average results , 120.0,countones-120.txt
+SA70, average feval calls , 5002.0,countones-120.txt
+SA70, average time , 0.00440000295639,countones-120.txt
+SABOL, average results , 60.1,countones-120.txt
+SABOL, average feval calls , 5002.0,countones-120.txt
+SABOL, average time , 0.00435000658035,countones-120.txt
+SAFAS, average results , 62.5,countones-120.txt
+SAFAS, average feval calls , 5002.0,countones-120.txt
+SAFAS, average time , 0.00419999361038,countones-120.txt
+RHC, average results , 140.0,countones-140.txt
+RHC, average feval calls , 5002.0,countones-140.txt
+RHC, average time , 0.00794999599457,countones-140.txt
+SA95, average results , 140.0,countones-140.txt
+SA95, average feval calls , 5002.0,countones-140.txt
+SA95, average time , 0.00529999732971,countones-140.txt
+SA80, average results , 140.0,countones-140.txt
+SA80, average feval calls , 5002.0,countones-140.txt
+SA80, average time , 0.00625,countones-140.txt
+SA70, average results , 140.0,countones-140.txt
+SA70, average feval calls , 5002.0,countones-140.txt
+SA70, average time , 0.00575000047684,countones-140.txt
+SABOL, average results , 68.2,countones-140.txt
+SABOL, average feval calls , 5002.0,countones-140.txt
+SABOL, average time , 0.00479999780655,countones-140.txt
+SAFAS, average results , 69.0,countones-140.txt
+SAFAS, average feval calls , 5002.0,countones-140.txt
+SAFAS, average time , 0.00405000448227,countones-140.txt
+RHC, average results , 40.0,countones-40.txt
+RHC, average feval calls , 5002.0,countones-40.txt
+RHC, average time , 0.00714999437332,countones-40.txt
+SA95, average results , 40.0,countones-40.txt
+SA95, average feval calls , 5002.0,countones-40.txt
+SA95, average time , 0.00550000667572,countones-40.txt
+SA80, average results , 40.0,countones-40.txt
+SA80, average feval calls , 5002.0,countones-40.txt
+SA80, average time , 0.00509999990463,countones-40.txt
+SA70, average results , 40.0,countones-40.txt
+SA70, average feval calls , 5002.0,countones-40.txt
+SA70, average time , 0.00569999217987,countones-40.txt
+SABOL, average results , 19.65,countones-40.txt
+SABOL, average feval calls , 5002.0,countones-40.txt
+SABOL, average time , 0.00325000286102,countones-40.txt
+SAFAS, average results , 19.2,countones-40.txt
+SAFAS, average feval calls , 5002.0,countones-40.txt
+SAFAS, average time , 0.00405000448227,countones-40.txt
+RHC, average results , 60.0,countones-60.txt
+RHC, average feval calls , 5002.0,countones-60.txt
+RHC, average time , 0.00979999303818,countones-60.txt
+SA95, average results , 60.0,countones-60.txt
+SA95, average feval calls , 5002.0,countones-60.txt
+SA95, average time , 0.00540000200272,countones-60.txt
+SA80, average results , 60.0,countones-60.txt
+SA80, average feval calls , 5002.0,countones-60.txt
+SA80, average time , 0.00400000810623,countones-60.txt
+SA70, average results , 60.0,countones-60.txt
+SA70, average feval calls , 5002.0,countones-60.txt
+SA70, average time , 0.0038999915123,countones-60.txt
+SABOL, average results , 30.85,countones-60.txt
+SABOL, average feval calls , 5002.0,countones-60.txt
+SABOL, average time , 0.00394999980927,countones-60.txt
+SAFAS, average results , 28.75,countones-60.txt
+SAFAS, average feval calls , 5002.0,countones-60.txt
+SAFAS, average time , 0.00394999980927,countones-60.txt
+RHC, average results , 80.0,countones-80.txt
+RHC, average feval calls , 5002.0,countones-80.txt
+RHC, average time , 0.00759999752045,countones-80.txt
+SA95, average results , 80.0,countones-80.txt
+SA95, average feval calls , 5002.0,countones-80.txt
+SA95, average time , 0.00429999828339,countones-80.txt
+SA80, average results , 80.0,countones-80.txt
+SA80, average feval calls , 5002.0,countones-80.txt
+SA80, average time , 0.00425000190735,countones-80.txt
+SA70, average results , 80.0,countones-80.txt
+SA70, average feval calls , 5002.0,countones-80.txt
+SA70, average time , 0.00440000295639,countones-80.txt
+SABOL, average results , 38.9,countones-80.txt
+SABOL, average feval calls , 5002.0,countones-80.txt
+SABOL, average time , 0.00400000810623,countones-80.txt
+SAFAS, average results , 40.25,countones-80.txt
+SAFAS, average feval calls , 5002.0,countones-80.txt
+SAFAS, average time , 0.0033499956131,countones-80.txt
+GA, average results , 76.6,countones_ga_100-100-1-100-0.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-1-100-0.txt
+GA, average time , 0.0546000003815,countones_ga_100-100-1-100-0.txt
+GA, average results , 77.1,countones_ga_100-100-1-100-1.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-1-100-1.txt
+GA, average time , 0.0418999910355,countones_ga_100-100-1-100-1.txt
+GA, average results , 78.9,countones_ga_100-100-1-100-10.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-1-100-10.txt
+GA, average time , 0.0400000095367,countones_ga_100-100-1-100-10.txt
+GA, average results , 75.1,countones_ga_100-100-1-40-0.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-1-40-0.txt
+GA, average time , 0.0174999952316,countones_ga_100-100-1-40-0.txt
+GA, average results , 74.7,countones_ga_100-100-1-40-1.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-1-40-1.txt
+GA, average time , 0.0245000123978,countones_ga_100-100-1-40-1.txt
+GA, average results , 75.6,countones_ga_100-100-1-40-10.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-1-40-10.txt
+GA, average time , 0.025,countones_ga_100-100-1-40-10.txt
+GA, average results , 76.4,countones_ga_100-100-1-60-0.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-1-60-0.txt
+GA, average time , 0.0378999948502,countones_ga_100-100-1-60-0.txt
+GA, average results , 77.1,countones_ga_100-100-1-60-1.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-1-60-1.txt
+GA, average time , 0.0369000196457,countones_ga_100-100-1-60-1.txt
+GA, average results , 76.4,countones_ga_100-100-1-60-10.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-1-60-10.txt
+GA, average time , 0.0338999986649,countones_ga_100-100-1-60-10.txt
+GA, average results , 75.9,countones_ga_100-100-1-80-0.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-1-80-0.txt
+GA, average time , 0.0401999950409,countones_ga_100-100-1-80-0.txt
+GA, average results , 78.9,countones_ga_100-100-1-80-1.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-1-80-1.txt
+GA, average time , 0.0292999982834,countones_ga_100-100-1-80-1.txt
+GA, average results , 77.4,countones_ga_100-100-1-80-10.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-1-80-10.txt
+GA, average time , 0.0375999927521,countones_ga_100-100-1-80-10.txt
+GA, average results , 80.0,countones_ga_100-100-2-100-0.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-2-100-0.txt
+GA, average time , 0.0299000024796,countones_ga_100-100-2-100-0.txt
+GA, average results , 80.2,countones_ga_100-100-2-100-1.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-2-100-1.txt
+GA, average time , 0.0443000078201,countones_ga_100-100-2-100-1.txt
+GA, average results , 78.7,countones_ga_100-100-2-100-10.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-2-100-10.txt
+GA, average time , 0.0479000091553,countones_ga_100-100-2-100-10.txt
+GA, average results , 74.8,countones_ga_100-100-2-40-0.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-2-40-0.txt
+GA, average time , 0.0303000211716,countones_ga_100-100-2-40-0.txt
+GA, average results , 75.4,countones_ga_100-100-2-40-1.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-2-40-1.txt
+GA, average time , 0.0315999984741,countones_ga_100-100-2-40-1.txt
+GA, average results , 75.9,countones_ga_100-100-2-40-10.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-2-40-10.txt
+GA, average time , 0.0296000003815,countones_ga_100-100-2-40-10.txt
+GA, average results , 74.1,countones_ga_100-100-2-60-0.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-2-60-0.txt
+GA, average time , 0.0371999979019,countones_ga_100-100-2-60-0.txt
+GA, average results , 76.6,countones_ga_100-100-2-60-1.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-2-60-1.txt
+GA, average time , 0.037700009346,countones_ga_100-100-2-60-1.txt
+GA, average results , 77.4,countones_ga_100-100-2-60-10.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-2-60-10.txt
+GA, average time , 0.0444000005722,countones_ga_100-100-2-60-10.txt
+GA, average results , 78.3,countones_ga_100-100-2-80-0.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-2-80-0.txt
+GA, average time , 0.0516999959946,countones_ga_100-100-2-80-0.txt
+GA, average results , 77.2,countones_ga_100-100-2-80-1.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-2-80-1.txt
+GA, average time , 0.0378999948502,countones_ga_100-100-2-80-1.txt
+GA, average results , 78.3,countones_ga_100-100-2-80-10.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-2-80-10.txt
+GA, average time , 0.0420000076294,countones_ga_100-100-2-80-10.txt
+GA, average results , 77.3,countones_ga_100-100-3-100-0.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-3-100-0.txt
+GA, average time , 0.034700012207,countones_ga_100-100-3-100-0.txt
+GA, average results , 76.8,countones_ga_100-100-3-100-1.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-3-100-1.txt
+GA, average time , 0.0332000017166,countones_ga_100-100-3-100-1.txt
+GA, average results , 78.8,countones_ga_100-100-3-100-10.txt
+GA, average feval calls , 15101.0,countones_ga_100-100-3-100-10.txt
+GA, average time , 0.0531000137329,countones_ga_100-100-3-100-10.txt
+GA, average results , 73.8,countones_ga_100-100-3-40-0.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-3-40-0.txt
+GA, average time , 0.0506999969482,countones_ga_100-100-3-40-0.txt
+GA, average results , 74.6,countones_ga_100-100-3-40-1.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-3-40-1.txt
+GA, average time , 0.0345999956131,countones_ga_100-100-3-40-1.txt
+GA, average results , 76.3,countones_ga_100-100-3-40-10.txt
+GA, average feval calls , 6101.0,countones_ga_100-100-3-40-10.txt
+GA, average time , 0.022000002861,countones_ga_100-100-3-40-10.txt
+GA, average results , 74.0,countones_ga_100-100-3-60-0.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-3-60-0.txt
+GA, average time , 0.0412000179291,countones_ga_100-100-3-60-0.txt
+GA, average results , 76.6,countones_ga_100-100-3-60-1.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-3-60-1.txt
+GA, average time , 0.0273000001907,countones_ga_100-100-3-60-1.txt
+GA, average results , 78.5,countones_ga_100-100-3-60-10.txt
+GA, average feval calls , 9101.0,countones_ga_100-100-3-60-10.txt
+GA, average time , 0.0349999904633,countones_ga_100-100-3-60-10.txt
+GA, average results , 78.3,countones_ga_100-100-3-80-0.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-3-80-0.txt
+GA, average time , 0.0576000213623,countones_ga_100-100-3-80-0.txt
+GA, average results , 79.7,countones_ga_100-100-3-80-1.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-3-80-1.txt
+GA, average time , 0.0308000087738,countones_ga_100-100-3-80-1.txt
+GA, average results , 76.8,countones_ga_100-100-3-80-10.txt
+GA, average feval calls , 12101.0,countones_ga_100-100-3-80-10.txt
+GA, average time , 0.0287999868393,countones_ga_100-100-3-80-10.txt
+GA, average results , 83.4,countones_ga_100-200-1-120-0.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-1-120-0.txt
+GA, average time , 0.0582000017166,countones_ga_100-200-1-120-0.txt
+GA, average results , 85.3,countones_ga_100-200-1-120-2.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-1-120-2.txt
+GA, average time , 0.0682000160217,countones_ga_100-200-1-120-2.txt
+GA, average results , 85.7,countones_ga_100-200-1-120-20.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-1-120-20.txt
+GA, average time , 0.0984999895096,countones_ga_100-200-1-120-20.txt
+GA, average results , 83.5,countones_ga_100-200-1-160-0.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-1-160-0.txt
+GA, average time , 0.0901000022888,countones_ga_100-200-1-160-0.txt
+GA, average results , 85.4,countones_ga_100-200-1-160-2.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-1-160-2.txt
+GA, average time , 0.10490000248,countones_ga_100-200-1-160-2.txt
+GA, average results , 85.1,countones_ga_100-200-1-160-20.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-1-160-20.txt
+GA, average time , 0.0964999914169,countones_ga_100-200-1-160-20.txt
+GA, average results , 85.4,countones_ga_100-200-1-200-0.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-1-200-0.txt
+GA, average time , 0.0910000085831,countones_ga_100-200-1-200-0.txt
+GA, average results , 86.3,countones_ga_100-200-1-200-2.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-1-200-2.txt
+GA, average time , 0.167100000381,countones_ga_100-200-1-200-2.txt
+GA, average results , 86.3,countones_ga_100-200-1-200-20.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-1-200-20.txt
+GA, average time , 0.0695999860764,countones_ga_100-200-1-200-20.txt
+GA, average results , 80.9,countones_ga_100-200-1-80-0.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-1-80-0.txt
+GA, average time , 0.0500999927521,countones_ga_100-200-1-80-0.txt
+GA, average results , 80.7,countones_ga_100-200-1-80-2.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-1-80-2.txt
+GA, average time , 0.0410000085831,countones_ga_100-200-1-80-2.txt
+GA, average results , 82.9,countones_ga_100-200-1-80-20.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-1-80-20.txt
+GA, average time , 0.0329999923706,countones_ga_100-200-1-80-20.txt
+GA, average results , 84.6,countones_ga_100-200-2-120-0.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-2-120-0.txt
+GA, average time , 0.050200009346,countones_ga_100-200-2-120-0.txt
+GA, average results , 84.4,countones_ga_100-200-2-120-2.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-2-120-2.txt
+GA, average time , 0.0428000211716,countones_ga_100-200-2-120-2.txt
+GA, average results , 86.5,countones_ga_100-200-2-120-20.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-2-120-20.txt
+GA, average time , 0.0378000020981,countones_ga_100-200-2-120-20.txt
+GA, average results , 84.8,countones_ga_100-200-2-160-0.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-2-160-0.txt
+GA, average time , 0.0680999994278,countones_ga_100-200-2-160-0.txt
+GA, average results , 84.2,countones_ga_100-200-2-160-2.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-2-160-2.txt
+GA, average time , 0.0465000152588,countones_ga_100-200-2-160-2.txt
+GA, average results , 85.6,countones_ga_100-200-2-160-20.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-2-160-20.txt
+GA, average time , 0.0734999895096,countones_ga_100-200-2-160-20.txt
+GA, average results , 86.3,countones_ga_100-200-2-200-0.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-2-200-0.txt
+GA, average time , 0.0778000116348,countones_ga_100-200-2-200-0.txt
+GA, average results , 87.7,countones_ga_100-200-2-200-2.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-2-200-2.txt
+GA, average time , 0.0920000076294,countones_ga_100-200-2-200-2.txt
+GA, average results , 86.7,countones_ga_100-200-2-200-20.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-2-200-20.txt
+GA, average time , 0.0764999866486,countones_ga_100-200-2-200-20.txt
+GA, average results , 81.4,countones_ga_100-200-2-80-0.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-2-80-0.txt
+GA, average time , 0.0341000080109,countones_ga_100-200-2-80-0.txt
+GA, average results , 82.3,countones_ga_100-200-2-80-2.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-2-80-2.txt
+GA, average time , 0.0398000001907,countones_ga_100-200-2-80-2.txt
+GA, average results , 81.1,countones_ga_100-200-2-80-20.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-2-80-20.txt
+GA, average time , 0.0434000015259,countones_ga_100-200-2-80-20.txt
+GA, average results , 84.6,countones_ga_100-200-3-120-0.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-3-120-0.txt
+GA, average time , 0.0388000011444,countones_ga_100-200-3-120-0.txt
+GA, average results , 83.8,countones_ga_100-200-3-120-2.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-3-120-2.txt
+GA, average time , 0.0468000173569,countones_ga_100-200-3-120-2.txt
+GA, average results , 85.6,countones_ga_100-200-3-120-20.txt
+GA, average feval calls , 18201.0,countones_ga_100-200-3-120-20.txt
+GA, average time , 0.044000005722,countones_ga_100-200-3-120-20.txt
+GA, average results , 87.0,countones_ga_100-200-3-160-0.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-3-160-0.txt
+GA, average time , 0.0579999923706,countones_ga_100-200-3-160-0.txt
+GA, average results , 85.9,countones_ga_100-200-3-160-2.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-3-160-2.txt
+GA, average time , 0.0826999902725,countones_ga_100-200-3-160-2.txt
+GA, average results , 85.4,countones_ga_100-200-3-160-20.txt
+GA, average feval calls , 24201.0,countones_ga_100-200-3-160-20.txt
+GA, average time , 0.0644999980927,countones_ga_100-200-3-160-20.txt
+GA, average results , 85.7,countones_ga_100-200-3-200-0.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-3-200-0.txt
+GA, average time , 0.072000002861,countones_ga_100-200-3-200-0.txt
+GA, average results , 85.1,countones_ga_100-200-3-200-2.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-3-200-2.txt
+GA, average time , 0.0704999923706,countones_ga_100-200-3-200-2.txt
+GA, average results , 85.0,countones_ga_100-200-3-200-20.txt
+GA, average feval calls , 30201.0,countones_ga_100-200-3-200-20.txt
+GA, average time , 0.0875999927521,countones_ga_100-200-3-200-20.txt
+GA, average results , 81.5,countones_ga_100-200-3-80-0.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-3-80-0.txt
+GA, average time , 0.0443000078201,countones_ga_100-200-3-80-0.txt
+GA, average results , 83.3,countones_ga_100-200-3-80-2.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-3-80-2.txt
+GA, average time , 0.0336999893188,countones_ga_100-200-3-80-2.txt
+GA, average results , 83.4,countones_ga_100-200-3-80-20.txt
+GA, average feval calls , 12201.0,countones_ga_100-200-3-80-20.txt
+GA, average time , 0.0346999883652,countones_ga_100-200-3-80-20.txt
+GA, average results , 86.4,countones_ga_100-400-1-160-0.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-1-160-0.txt
+GA, average time , 0.0878000020981,countones_ga_100-400-1-160-0.txt
+GA, average results , 87.1,countones_ga_100-400-1-160-4.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-1-160-4.txt
+GA, average time , 0.0833000183105,countones_ga_100-400-1-160-4.txt
+GA, average results , 87.2,countones_ga_100-400-1-160-40.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-1-160-40.txt
+GA, average time , 0.0861999988556,countones_ga_100-400-1-160-40.txt
+GA, average results , 89.2,countones_ga_100-400-1-240-0.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-1-240-0.txt
+GA, average time , 0.146799993515,countones_ga_100-400-1-240-0.txt
+GA, average results , 89.4,countones_ga_100-400-1-240-4.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-1-240-4.txt
+GA, average time , 0.106600022316,countones_ga_100-400-1-240-4.txt
+GA, average results , 89.4,countones_ga_100-400-1-240-40.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-1-240-40.txt
+GA, average time , 0.0986999988556,countones_ga_100-400-1-240-40.txt
+GA, average results , 91.8,countones_ga_100-400-1-320-0.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-1-320-0.txt
+GA, average time , 0.111100006104,countones_ga_100-400-1-320-0.txt
+GA, average results , 90.0,countones_ga_100-400-1-320-4.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-1-320-4.txt
+GA, average time , 0.108999991417,countones_ga_100-400-1-320-4.txt
+GA, average results , 90.4,countones_ga_100-400-1-320-40.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-1-320-40.txt
+GA, average time , 0.124799990654,countones_ga_100-400-1-320-40.txt
+GA, average results , 92.1,countones_ga_100-400-1-400-0.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-1-400-0.txt
+GA, average time , 0.163199996948,countones_ga_100-400-1-400-0.txt
+GA, average results , 92.6,countones_ga_100-400-1-400-4.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-1-400-4.txt
+GA, average time , 0.157899999619,countones_ga_100-400-1-400-4.txt
+GA, average results , 91.0,countones_ga_100-400-1-400-40.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-1-400-40.txt
+GA, average time , 0.126200008392,countones_ga_100-400-1-400-40.txt
+GA, average results , 87.3,countones_ga_100-400-2-160-0.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-2-160-0.txt
+GA, average time , 0.0868999958038,countones_ga_100-400-2-160-0.txt
+GA, average results , 87.2,countones_ga_100-400-2-160-4.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-2-160-4.txt
+GA, average time , 0.114699983597,countones_ga_100-400-2-160-4.txt
+GA, average results , 86.0,countones_ga_100-400-2-160-40.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-2-160-40.txt
+GA, average time , 0.0934000015259,countones_ga_100-400-2-160-40.txt
+GA, average results , 89.7,countones_ga_100-400-2-240-0.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-2-240-0.txt
+GA, average time , 0.101099991798,countones_ga_100-400-2-240-0.txt
+GA, average results , 90.2,countones_ga_100-400-2-240-4.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-2-240-4.txt
+GA, average time , 0.0977999925613,countones_ga_100-400-2-240-4.txt
+GA, average results , 88.7,countones_ga_100-400-2-240-40.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-2-240-40.txt
+GA, average time , 0.0893000125885,countones_ga_100-400-2-240-40.txt
+GA, average results , 90.9,countones_ga_100-400-2-320-0.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-2-320-0.txt
+GA, average time , 0.172300004959,countones_ga_100-400-2-320-0.txt
+GA, average results , 90.2,countones_ga_100-400-2-320-4.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-2-320-4.txt
+GA, average time , 0.120799994469,countones_ga_100-400-2-320-4.txt
+GA, average results , 91.2,countones_ga_100-400-2-320-40.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-2-320-40.txt
+GA, average time , 0.111899995804,countones_ga_100-400-2-320-40.txt
+GA, average results , 92.5,countones_ga_100-400-2-400-0.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-2-400-0.txt
+GA, average time , 0.120899987221,countones_ga_100-400-2-400-0.txt
+GA, average results , 91.9,countones_ga_100-400-2-400-4.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-2-400-4.txt
+GA, average time , 0.126800012589,countones_ga_100-400-2-400-4.txt
+GA, average results , 90.3,countones_ga_100-400-2-400-40.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-2-400-40.txt
+GA, average time , 0.11210000515,countones_ga_100-400-2-400-40.txt
+GA, average results , 87.3,countones_ga_100-400-3-160-0.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-3-160-0.txt
+GA, average time , 0.0793999910355,countones_ga_100-400-3-160-0.txt
+GA, average results , 87.4,countones_ga_100-400-3-160-4.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-3-160-4.txt
+GA, average time , 0.0769000053406,countones_ga_100-400-3-160-4.txt
+GA, average results , 86.6,countones_ga_100-400-3-160-40.txt
+GA, average feval calls , 24401.0,countones_ga_100-400-3-160-40.txt
+GA, average time , 0.102300000191,countones_ga_100-400-3-160-40.txt
+GA, average results , 90.1,countones_ga_100-400-3-240-0.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-3-240-0.txt
+GA, average time , 0.0831000089645,countones_ga_100-400-3-240-0.txt
+GA, average results , 88.9,countones_ga_100-400-3-240-4.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-3-240-4.txt
+GA, average time , 0.0792000055313,countones_ga_100-400-3-240-4.txt
+GA, average results , 88.7,countones_ga_100-400-3-240-40.txt
+GA, average feval calls , 36401.0,countones_ga_100-400-3-240-40.txt
+GA, average time , 0.0963999986649,countones_ga_100-400-3-240-40.txt
+GA, average results , 90.3,countones_ga_100-400-3-320-0.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-3-320-0.txt
+GA, average time , 0.115899991989,countones_ga_100-400-3-320-0.txt
+GA, average results , 91.1,countones_ga_100-400-3-320-4.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-3-320-4.txt
+GA, average time , 0.109400010109,countones_ga_100-400-3-320-4.txt
+GA, average results , 90.3,countones_ga_100-400-3-320-40.txt
+GA, average feval calls , 48401.0,countones_ga_100-400-3-320-40.txt
+GA, average time , 0.12619998455,countones_ga_100-400-3-320-40.txt
+GA, average results , 91.1,countones_ga_100-400-3-400-0.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-3-400-0.txt
+GA, average time , 0.155500006676,countones_ga_100-400-3-400-0.txt
+GA, average results , 91.7,countones_ga_100-400-3-400-4.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-3-400-4.txt
+GA, average time , 0.125900006294,countones_ga_100-400-3-400-4.txt
+GA, average results , 90.6,countones_ga_100-400-3-400-40.txt
+GA, average feval calls , 60401.0,countones_ga_100-400-3-400-40.txt
+GA, average time , 0.140200018883,countones_ga_100-400-3-400-40.txt
+GA, average results , 63.5,countones_ga_100-50-1-20-0.txt
+GA, average feval calls , 3051.0,countones_ga_100-50-1-20-0.txt
+GA, average time , 0.0155000209808,countones_ga_100-50-1-20-0.txt
+GA, average results , 68.5,countones_ga_100-50-1-20-5.txt
+GA, average feval calls , 3051.0,countones_ga_100-50-1-20-5.txt
+GA, average time , 0.0172999858856,countones_ga_100-50-1-20-5.txt
+GA, average results , 64.6,countones_ga_100-50-1-30-0.txt
+GA, average feval calls , 4551.0,countones_ga_100-50-1-30-0.txt
+GA, average time , 0.0259000062943,countones_ga_100-50-1-30-0.txt
+GA, average results , 69.3,countones_ga_100-50-1-30-5.txt
+GA, average feval calls , 4551.0,countones_ga_100-50-1-30-5.txt
+GA, average time , 0.028200006485,countones_ga_100-50-1-30-5.txt
+GA, average results , 68.4,countones_ga_100-50-1-40-0.txt
+GA, average feval calls , 6051.0,countones_ga_100-50-1-40-0.txt
+GA, average time , 0.0240000009537,countones_ga_100-50-1-40-0.txt
+GA, average results , 71.3,countones_ga_100-50-1-40-5.txt
+GA, average feval calls , 6051.0,countones_ga_100-50-1-40-5.txt
+GA, average time , 0.0288999795914,countones_ga_100-50-1-40-5.txt
+GA, average results , 66.2,countones_ga_100-50-1-50-0.txt
+GA, average feval calls , 7551.0,countones_ga_100-50-1-50-0.txt
+GA, average time , 0.0167000055313,countones_ga_100-50-1-50-0.txt
+GA, average results , 66.9,countones_ga_100-50-1-50-5.txt
+GA, average feval calls , 7551.0,countones_ga_100-50-1-50-5.txt
+GA, average time , 0.0234000205994,countones_ga_100-50-1-50-5.txt
+GA, average results , 66.7,countones_ga_100-50-2-20-0.txt
+GA, average feval calls , 3051.0,countones_ga_100-50-2-20-0.txt
+GA, average time , 0.018499994278,countones_ga_100-50-2-20-0.txt
+GA, average results , 69.1,countones_ga_100-50-2-20-5.txt
+GA, average feval calls , 3051.0,countones_ga_100-50-2-20-5.txt
+GA, average time , 0.0220999956131,countones_ga_100-50-2-20-5.txt
+GA, average results , 64.4,countones_ga_100-50-2-30-0.txt
+GA, average feval calls , 4551.0,countones_ga_100-50-2-30-0.txt
+GA, average time , 0.0167000055313,countones_ga_100-50-2-30-0.txt
+GA, average results , 69.8,countones_ga_100-50-2-30-5.txt
+GA, average feval calls , 4551.0,countones_ga_100-50-2-30-5.txt
+GA, average time , 0.0180000066757,countones_ga_100-50-2-30-5.txt
+GA, average results , 66.4,countones_ga_100-50-2-40-0.txt
+GA, average feval calls , 6051.0,countones_ga_100-50-2-40-0.txt
+GA, average time , 0.0163000106812,countones_ga_100-50-2-40-0.txt
+GA, average results , 70.9,countones_ga_100-50-2-40-5.txt
+GA, average feval calls , 6051.0,countones_ga_100-50-2-40-5.txt
+GA, average time , 0.0218000173569,countones_ga_100-50-2-40-5.txt
+GA, average results , 68.2,countones_ga_100-50-2-50-0.txt
+GA, average feval calls , 7551.0,countones_ga_100-50-2-50-0.txt
+GA, average time , 0.0413000106812,countones_ga_100-50-2-50-0.txt
+GA, average results , 67.6,countones_ga_100-50-2-50-5.txt
+GA, average feval calls , 7551.0,countones_ga_100-50-2-50-5.txt
+GA, average time , 0.034099984169,countones_ga_100-50-2-50-5.txt
+GA, average results , 66.8,countones_ga_100-50-3-20-0.txt
+GA, average feval calls , 3051.0,countones_ga_100-50-3-20-0.txt
+GA, average time , 0.0168999910355,countones_ga_100-50-3-20-0.txt
+GA, average results , 69.8,countones_ga_100-50-3-20-5.txt
+GA, average feval calls , 3051.0,countones_ga_100-50-3-20-5.txt
+GA, average time , 0.0160000085831,countones_ga_100-50-3-20-5.txt
+GA, average results , 67.2,countones_ga_100-50-3-30-0.txt
+GA, average feval calls , 4551.0,countones_ga_100-50-3-30-0.txt
+GA, average time , 0.0151999950409,countones_ga_100-50-3-30-0.txt
+GA, average results , 69.6,countones_ga_100-50-3-30-5.txt
+GA, average feval calls , 4551.0,countones_ga_100-50-3-30-5.txt
+GA, average time , 0.0175999879837,countones_ga_100-50-3-30-5.txt
+GA, average results , 68.7,countones_ga_100-50-3-40-0.txt
+GA, average feval calls , 6051.0,countones_ga_100-50-3-40-0.txt
+GA, average time , 0.0173000097275,countones_ga_100-50-3-40-0.txt
+GA, average results , 68.1,countones_ga_100-50-3-40-5.txt
+GA, average feval calls , 6051.0,countones_ga_100-50-3-40-5.txt
+GA, average time , 0.0287000179291,countones_ga_100-50-3-40-5.txt
+GA, average results , 68.4,countones_ga_100-50-3-50-0.txt
+GA, average feval calls , 7551.0,countones_ga_100-50-3-50-0.txt
+GA, average time , 0.0717000007629,countones_ga_100-50-3-50-0.txt
+GA, average results , 70.2,countones_ga_100-50-3-50-5.txt
+GA, average feval calls , 7551.0,countones_ga_100-50-3-50-5.txt
+GA, average time , 0.0243999958038,countones_ga_100-50-3-50-5.txt
+GA, average results , 89.4,countones_ga_120-120-1-120-0.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-1-120-0.txt
+GA, average time , 0.0705000162125,countones_ga_120-120-1-120-0.txt
+GA, average results , 94.7,countones_ga_120-120-1-120-1.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-1-120-1.txt
+GA, average time , 0.0640000104904,countones_ga_120-120-1-120-1.txt
+GA, average results , 93.9,countones_ga_120-120-1-120-12.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-1-120-12.txt
+GA, average time , 0.0698999881744,countones_ga_120-120-1-120-12.txt
+GA, average results , 88.8,countones_ga_120-120-1-48-0.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-1-48-0.txt
+GA, average time , 0.025400018692,countones_ga_120-120-1-48-0.txt
+GA, average results , 87.7,countones_ga_120-120-1-48-1.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-1-48-1.txt
+GA, average time , 0.0413000106812,countones_ga_120-120-1-48-1.txt
+GA, average results , 88.9,countones_ga_120-120-1-48-12.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-1-48-12.txt
+GA, average time , 0.0411000013351,countones_ga_120-120-1-48-12.txt
+GA, average results , 90.7,countones_ga_120-120-1-72-0.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-1-72-0.txt
+GA, average time , 0.0389999866486,countones_ga_120-120-1-72-0.txt
+GA, average results , 90.3,countones_ga_120-120-1-72-1.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-1-72-1.txt
+GA, average time , 0.0288000106812,countones_ga_120-120-1-72-1.txt
+GA, average results , 91.9,countones_ga_120-120-1-72-12.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-1-72-12.txt
+GA, average time , 0.040499997139,countones_ga_120-120-1-72-12.txt
+GA, average results , 91.9,countones_ga_120-120-1-96-0.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-1-96-0.txt
+GA, average time , 0.0480000019073,countones_ga_120-120-1-96-0.txt
+GA, average results , 90.9,countones_ga_120-120-1-96-1.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-1-96-1.txt
+GA, average time , 0.0541000127792,countones_ga_120-120-1-96-1.txt
+GA, average results , 95.0,countones_ga_120-120-1-96-12.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-1-96-12.txt
+GA, average time , 0.0667999982834,countones_ga_120-120-1-96-12.txt
+GA, average results , 92.1,countones_ga_120-120-2-120-0.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-2-120-0.txt
+GA, average time , 0.049799990654,countones_ga_120-120-2-120-0.txt
+GA, average results , 93.4,countones_ga_120-120-2-120-1.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-2-120-1.txt
+GA, average time , 0.0661000013351,countones_ga_120-120-2-120-1.txt
+GA, average results , 92.2,countones_ga_120-120-2-120-12.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-2-120-12.txt
+GA, average time , 0.0522000074387,countones_ga_120-120-2-120-12.txt
+GA, average results , 89.4,countones_ga_120-120-2-48-0.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-2-48-0.txt
+GA, average time , 0.0407999992371,countones_ga_120-120-2-48-0.txt
+GA, average results , 88.4,countones_ga_120-120-2-48-1.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-2-48-1.txt
+GA, average time , 0.0431999921799,countones_ga_120-120-2-48-1.txt
+GA, average results , 88.6,countones_ga_120-120-2-48-12.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-2-48-12.txt
+GA, average time , 0.0436000108719,countones_ga_120-120-2-48-12.txt
+GA, average results , 90.3,countones_ga_120-120-2-72-0.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-2-72-0.txt
+GA, average time , 0.0401000022888,countones_ga_120-120-2-72-0.txt
+GA, average results , 91.2,countones_ga_120-120-2-72-1.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-2-72-1.txt
+GA, average time , 0.0749000072479,countones_ga_120-120-2-72-1.txt
+GA, average results , 91.4,countones_ga_120-120-2-72-12.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-2-72-12.txt
+GA, average time , 0.0391999959946,countones_ga_120-120-2-72-12.txt
+GA, average results , 93.8,countones_ga_120-120-2-96-0.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-2-96-0.txt
+GA, average time , 0.0430999994278,countones_ga_120-120-2-96-0.txt
+GA, average results , 92.2,countones_ga_120-120-2-96-1.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-2-96-1.txt
+GA, average time , 0.040700006485,countones_ga_120-120-2-96-1.txt
+GA, average results , 91.4,countones_ga_120-120-2-96-12.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-2-96-12.txt
+GA, average time , 0.0713000059128,countones_ga_120-120-2-96-12.txt
+GA, average results , 92.1,countones_ga_120-120-3-120-0.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-3-120-0.txt
+GA, average time , 0.125200009346,countones_ga_120-120-3-120-0.txt
+GA, average results , 92.0,countones_ga_120-120-3-120-1.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-3-120-1.txt
+GA, average time , 0.0609000205994,countones_ga_120-120-3-120-1.txt
+GA, average results , 94.5,countones_ga_120-120-3-120-12.txt
+GA, average feval calls , 18121.0,countones_ga_120-120-3-120-12.txt
+GA, average time , 0.112999987602,countones_ga_120-120-3-120-12.txt
+GA, average results , 88.7,countones_ga_120-120-3-48-0.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-3-48-0.txt
+GA, average time , 0.0295000076294,countones_ga_120-120-3-48-0.txt
+GA, average results , 86.7,countones_ga_120-120-3-48-1.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-3-48-1.txt
+GA, average time , 0.047000002861,countones_ga_120-120-3-48-1.txt
+GA, average results , 89.8,countones_ga_120-120-3-48-12.txt
+GA, average feval calls , 7321.0,countones_ga_120-120-3-48-12.txt
+GA, average time , 0.0282999992371,countones_ga_120-120-3-48-12.txt
+GA, average results , 91.6,countones_ga_120-120-3-72-0.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-3-72-0.txt
+GA, average time , 0.0769999980927,countones_ga_120-120-3-72-0.txt
+GA, average results , 89.1,countones_ga_120-120-3-72-1.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-3-72-1.txt
+GA, average time , 0.0510999917984,countones_ga_120-120-3-72-1.txt
+GA, average results , 90.8,countones_ga_120-120-3-72-12.txt
+GA, average feval calls , 10921.0,countones_ga_120-120-3-72-12.txt
+GA, average time , 0.0509000062943,countones_ga_120-120-3-72-12.txt
+GA, average results , 92.2,countones_ga_120-120-3-96-0.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-3-96-0.txt
+GA, average time , 0.0493000030518,countones_ga_120-120-3-96-0.txt
+GA, average results , 92.1,countones_ga_120-120-3-96-1.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-3-96-1.txt
+GA, average time , 0.0585999965668,countones_ga_120-120-3-96-1.txt
+GA, average results , 93.2,countones_ga_120-120-3-96-12.txt
+GA, average feval calls , 14521.0,countones_ga_120-120-3-96-12.txt
+GA, average time , 0.0414000034332,countones_ga_120-120-3-96-12.txt
+GA, average results , 100.0,countones_ga_120-240-1-144-0.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-1-144-0.txt
+GA, average time , 0.104200005531,countones_ga_120-240-1-144-0.txt
+GA, average results , 99.5,countones_ga_120-240-1-144-2.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-1-144-2.txt
+GA, average time , 0.0828000068665,countones_ga_120-240-1-144-2.txt
+GA, average results , 99.1,countones_ga_120-240-1-144-24.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-1-144-24.txt
+GA, average time , 0.0634999990463,countones_ga_120-240-1-144-24.txt
+GA, average results , 100.1,countones_ga_120-240-1-192-0.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-1-192-0.txt
+GA, average time , 0.110799980164,countones_ga_120-240-1-192-0.txt
+GA, average results , 100.4,countones_ga_120-240-1-192-2.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-1-192-2.txt
+GA, average time , 0.0740000009537,countones_ga_120-240-1-192-2.txt
+GA, average results , 100.5,countones_ga_120-240-1-192-24.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-1-192-24.txt
+GA, average time , 0.0921000003815,countones_ga_120-240-1-192-24.txt
+GA, average results , 101.2,countones_ga_120-240-1-240-0.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-1-240-0.txt
+GA, average time , 0.0996999979019,countones_ga_120-240-1-240-0.txt
+GA, average results , 100.0,countones_ga_120-240-1-240-2.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-1-240-2.txt
+GA, average time , 0.116400003433,countones_ga_120-240-1-240-2.txt
+GA, average results , 100.2,countones_ga_120-240-1-240-24.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-1-240-24.txt
+GA, average time , 0.105400013924,countones_ga_120-240-1-240-24.txt
+GA, average results , 97.0,countones_ga_120-240-1-96-0.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-1-96-0.txt
+GA, average time , 0.0461999893188,countones_ga_120-240-1-96-0.txt
+GA, average results , 96.1,countones_ga_120-240-1-96-2.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-1-96-2.txt
+GA, average time , 0.043700003624,countones_ga_120-240-1-96-2.txt
+GA, average results , 96.8,countones_ga_120-240-1-96-24.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-1-96-24.txt
+GA, average time , 0.0943000078201,countones_ga_120-240-1-96-24.txt
+GA, average results , 99.4,countones_ga_120-240-2-144-0.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-2-144-0.txt
+GA, average time , 0.0513000011444,countones_ga_120-240-2-144-0.txt
+GA, average results , 100.1,countones_ga_120-240-2-144-2.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-2-144-2.txt
+GA, average time , 0.0914999961853,countones_ga_120-240-2-144-2.txt
+GA, average results , 98.6,countones_ga_120-240-2-144-24.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-2-144-24.txt
+GA, average time , 0.0510999917984,countones_ga_120-240-2-144-24.txt
+GA, average results , 100.5,countones_ga_120-240-2-192-0.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-2-192-0.txt
+GA, average time , 0.0989000082016,countones_ga_120-240-2-192-0.txt
+GA, average results , 101.6,countones_ga_120-240-2-192-2.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-2-192-2.txt
+GA, average time , 0.0837999820709,countones_ga_120-240-2-192-2.txt
+GA, average results , 100.1,countones_ga_120-240-2-192-24.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-2-192-24.txt
+GA, average time , 0.0651000022888,countones_ga_120-240-2-192-24.txt
+GA, average results , 101.3,countones_ga_120-240-2-240-0.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-2-240-0.txt
+GA, average time , 0.132399988174,countones_ga_120-240-2-240-0.txt
+GA, average results , 100.1,countones_ga_120-240-2-240-2.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-2-240-2.txt
+GA, average time , 0.0905999898911,countones_ga_120-240-2-240-2.txt
+GA, average results , 100.3,countones_ga_120-240-2-240-24.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-2-240-24.txt
+GA, average time , 0.0861999988556,countones_ga_120-240-2-240-24.txt
+GA, average results , 95.7,countones_ga_120-240-2-96-0.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-2-96-0.txt
+GA, average time , 0.0403000116348,countones_ga_120-240-2-96-0.txt
+GA, average results , 95.7,countones_ga_120-240-2-96-2.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-2-96-2.txt
+GA, average time , 0.0703999996185,countones_ga_120-240-2-96-2.txt
+GA, average results , 96.4,countones_ga_120-240-2-96-24.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-2-96-24.txt
+GA, average time , 0.0450000047684,countones_ga_120-240-2-96-24.txt
+GA, average results , 98.4,countones_ga_120-240-3-144-0.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-3-144-0.txt
+GA, average time , 0.0556999921799,countones_ga_120-240-3-144-0.txt
+GA, average results , 100.4,countones_ga_120-240-3-144-2.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-3-144-2.txt
+GA, average time , 0.0868000030518,countones_ga_120-240-3-144-2.txt
+GA, average results , 98.9,countones_ga_120-240-3-144-24.txt
+GA, average feval calls , 21841.0,countones_ga_120-240-3-144-24.txt
+GA, average time , 0.0491999864578,countones_ga_120-240-3-144-24.txt
+GA, average results , 100.6,countones_ga_120-240-3-192-0.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-3-192-0.txt
+GA, average time , 0.110500001907,countones_ga_120-240-3-192-0.txt
+GA, average results , 101.5,countones_ga_120-240-3-192-2.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-3-192-2.txt
+GA, average time , 0.09390001297,countones_ga_120-240-3-192-2.txt
+GA, average results , 99.0,countones_ga_120-240-3-192-24.txt
+GA, average feval calls , 29041.0,countones_ga_120-240-3-192-24.txt
+GA, average time , 0.084299993515,countones_ga_120-240-3-192-24.txt
+GA, average results , 102.0,countones_ga_120-240-3-240-0.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-3-240-0.txt
+GA, average time , 0.0891000032425,countones_ga_120-240-3-240-0.txt
+GA, average results , 100.6,countones_ga_120-240-3-240-2.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-3-240-2.txt
+GA, average time , 0.0693000078201,countones_ga_120-240-3-240-2.txt
+GA, average results , 102.7,countones_ga_120-240-3-240-24.txt
+GA, average feval calls , 36241.0,countones_ga_120-240-3-240-24.txt
+GA, average time , 0.0947999954224,countones_ga_120-240-3-240-24.txt
+GA, average results , 96.7,countones_ga_120-240-3-96-0.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-3-96-0.txt
+GA, average time , 0.0444999933243,countones_ga_120-240-3-96-0.txt
+GA, average results , 96.3,countones_ga_120-240-3-96-2.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-3-96-2.txt
+GA, average time , 0.0615999937057,countones_ga_120-240-3-96-2.txt
+GA, average results , 97.2,countones_ga_120-240-3-96-24.txt
+GA, average feval calls , 14641.0,countones_ga_120-240-3-96-24.txt
+GA, average time , 0.0434000015259,countones_ga_120-240-3-96-24.txt
+GA, average results , 101.6,countones_ga_120-480-1-192-0.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-1-192-0.txt
+GA, average time , 0.114499998093,countones_ga_120-480-1-192-0.txt
+GA, average results , 101.6,countones_ga_120-480-1-192-4.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-1-192-4.txt
+GA, average time , 0.0836999893188,countones_ga_120-480-1-192-4.txt
+GA, average results , 101.5,countones_ga_120-480-1-192-48.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-1-192-48.txt
+GA, average time , 0.0986000061035,countones_ga_120-480-1-192-48.txt
+GA, average results , 105.3,countones_ga_120-480-1-288-0.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-1-288-0.txt
+GA, average time , 0.0956999778748,countones_ga_120-480-1-288-0.txt
+GA, average results , 106.9,countones_ga_120-480-1-288-4.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-1-288-4.txt
+GA, average time , 0.0851000070572,countones_ga_120-480-1-288-4.txt
+GA, average results , 104.3,countones_ga_120-480-1-288-48.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-1-288-48.txt
+GA, average time , 0.131199979782,countones_ga_120-480-1-288-48.txt
+GA, average results , 107.5,countones_ga_120-480-1-384-0.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-1-384-0.txt
+GA, average time , 0.128299999237,countones_ga_120-480-1-384-0.txt
+GA, average results , 105.9,countones_ga_120-480-1-384-4.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-1-384-4.txt
+GA, average time , 0.141199994087,countones_ga_120-480-1-384-4.txt
+GA, average results , 105.9,countones_ga_120-480-1-384-48.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-1-384-48.txt
+GA, average time , 0.154299998283,countones_ga_120-480-1-384-48.txt
+GA, average results , 107.3,countones_ga_120-480-1-480-0.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-1-480-0.txt
+GA, average time , 0.134800004959,countones_ga_120-480-1-480-0.txt
+GA, average results , 107.6,countones_ga_120-480-1-480-4.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-1-480-4.txt
+GA, average time , 0.158700013161,countones_ga_120-480-1-480-4.txt
+GA, average results , 106.0,countones_ga_120-480-1-480-48.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-1-480-48.txt
+GA, average time , 0.157299995422,countones_ga_120-480-1-480-48.txt
+GA, average results , 102.9,countones_ga_120-480-2-192-0.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-2-192-0.txt
+GA, average time , 0.0742000102997,countones_ga_120-480-2-192-0.txt
+GA, average results , 101.9,countones_ga_120-480-2-192-4.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-2-192-4.txt
+GA, average time , 0.0781000137329,countones_ga_120-480-2-192-4.txt
+GA, average results , 102.5,countones_ga_120-480-2-192-48.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-2-192-48.txt
+GA, average time , 0.121700000763,countones_ga_120-480-2-192-48.txt
+GA, average results , 103.7,countones_ga_120-480-2-288-0.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-2-288-0.txt
+GA, average time , 0.093799996376,countones_ga_120-480-2-288-0.txt
+GA, average results , 104.9,countones_ga_120-480-2-288-4.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-2-288-4.txt
+GA, average time , 0.0933000087738,countones_ga_120-480-2-288-4.txt
+GA, average results , 105.2,countones_ga_120-480-2-288-48.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-2-288-48.txt
+GA, average time , 0.133600020409,countones_ga_120-480-2-288-48.txt
+GA, average results , 106.9,countones_ga_120-480-2-384-0.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-2-384-0.txt
+GA, average time , 0.135599994659,countones_ga_120-480-2-384-0.txt
+GA, average results , 105.8,countones_ga_120-480-2-384-4.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-2-384-4.txt
+GA, average time , 0.119900012016,countones_ga_120-480-2-384-4.txt
+GA, average results , 105.4,countones_ga_120-480-2-384-48.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-2-384-48.txt
+GA, average time , 0.136400008202,countones_ga_120-480-2-384-48.txt
+GA, average results , 107.2,countones_ga_120-480-2-480-0.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-2-480-0.txt
+GA, average time , 0.202300000191,countones_ga_120-480-2-480-0.txt
+GA, average results , 108.2,countones_ga_120-480-2-480-4.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-2-480-4.txt
+GA, average time , 0.131900000572,countones_ga_120-480-2-480-4.txt
+GA, average results , 106.1,countones_ga_120-480-2-480-48.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-2-480-48.txt
+GA, average time , 0.138099980354,countones_ga_120-480-2-480-48.txt
+GA, average results , 102.2,countones_ga_120-480-3-192-0.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-3-192-0.txt
+GA, average time , 0.0666000127792,countones_ga_120-480-3-192-0.txt
+GA, average results , 104.1,countones_ga_120-480-3-192-4.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-3-192-4.txt
+GA, average time , 0.0963000059128,countones_ga_120-480-3-192-4.txt
+GA, average results , 103.1,countones_ga_120-480-3-192-48.txt
+GA, average feval calls , 29281.0,countones_ga_120-480-3-192-48.txt
+GA, average time , 0.0795000076294,countones_ga_120-480-3-192-48.txt
+GA, average results , 104.7,countones_ga_120-480-3-288-0.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-3-288-0.txt
+GA, average time , 0.111899995804,countones_ga_120-480-3-288-0.txt
+GA, average results , 104.7,countones_ga_120-480-3-288-4.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-3-288-4.txt
+GA, average time , 0.0956000089645,countones_ga_120-480-3-288-4.txt
+GA, average results , 104.2,countones_ga_120-480-3-288-48.txt
+GA, average feval calls , 43681.0,countones_ga_120-480-3-288-48.txt
+GA, average time , 0.100699996948,countones_ga_120-480-3-288-48.txt
+GA, average results , 107.2,countones_ga_120-480-3-384-0.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-3-384-0.txt
+GA, average time , 0.11939997673,countones_ga_120-480-3-384-0.txt
+GA, average results , 106.2,countones_ga_120-480-3-384-4.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-3-384-4.txt
+GA, average time , 0.121499991417,countones_ga_120-480-3-384-4.txt
+GA, average results , 104.6,countones_ga_120-480-3-384-48.txt
+GA, average feval calls , 58081.0,countones_ga_120-480-3-384-48.txt
+GA, average time , 0.128699994087,countones_ga_120-480-3-384-48.txt
+GA, average results , 105.8,countones_ga_120-480-3-480-0.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-3-480-0.txt
+GA, average time , 0.135399985313,countones_ga_120-480-3-480-0.txt
+GA, average results , 106.7,countones_ga_120-480-3-480-4.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-3-480-4.txt
+GA, average time , 0.145700001717,countones_ga_120-480-3-480-4.txt
+GA, average results , 106.4,countones_ga_120-480-3-480-48.txt
+GA, average feval calls , 72481.0,countones_ga_120-480-3-480-48.txt
+GA, average time , 0.190999984741,countones_ga_120-480-3-480-48.txt
+GA, average results , 79.6,countones_ga_120-60-1-24-0.txt
+GA, average feval calls , 3661.0,countones_ga_120-60-1-24-0.txt
+GA, average time , 0.01890001297,countones_ga_120-60-1-24-0.txt
+GA, average results , 81.7,countones_ga_120-60-1-24-6.txt
+GA, average feval calls , 3661.0,countones_ga_120-60-1-24-6.txt
+GA, average time , 0.0272000074387,countones_ga_120-60-1-24-6.txt
+GA, average results , 81.6,countones_ga_120-60-1-36-0.txt
+GA, average feval calls , 5461.0,countones_ga_120-60-1-36-0.txt
+GA, average time , 0.0167999982834,countones_ga_120-60-1-36-0.txt
+GA, average results , 84.8,countones_ga_120-60-1-36-6.txt
+GA, average feval calls , 5461.0,countones_ga_120-60-1-36-6.txt
+GA, average time , 0.0200000047684,countones_ga_120-60-1-36-6.txt
+GA, average results , 80.8,countones_ga_120-60-1-48-0.txt
+GA, average feval calls , 7261.0,countones_ga_120-60-1-48-0.txt
+GA, average time , 0.0210000038147,countones_ga_120-60-1-48-0.txt
+GA, average results , 82.2,countones_ga_120-60-1-48-6.txt
+GA, average feval calls , 7261.0,countones_ga_120-60-1-48-6.txt
+GA, average time , 0.034900021553,countones_ga_120-60-1-48-6.txt
+GA, average results , 81.8,countones_ga_120-60-1-60-0.txt
+GA, average feval calls , 9061.0,countones_ga_120-60-1-60-0.txt
+GA, average time , 0.0380000114441,countones_ga_120-60-1-60-0.txt
+GA, average results , 82.1,countones_ga_120-60-1-60-6.txt
+GA, average feval calls , 9061.0,countones_ga_120-60-1-60-6.txt
+GA, average time , 0.0289999961853,countones_ga_120-60-1-60-6.txt
+GA, average results , 77.2,countones_ga_120-60-2-24-0.txt
+GA, average feval calls , 3661.0,countones_ga_120-60-2-24-0.txt
+GA, average time , 0.0151999950409,countones_ga_120-60-2-24-0.txt
+GA, average results , 81.4,countones_ga_120-60-2-24-6.txt
+GA, average feval calls , 3661.0,countones_ga_120-60-2-24-6.txt
+GA, average time , 0.018700003624,countones_ga_120-60-2-24-6.txt
+GA, average results , 79.6,countones_ga_120-60-2-36-0.txt
+GA, average feval calls , 5461.0,countones_ga_120-60-2-36-0.txt
+GA, average time , 0.0355000019073,countones_ga_120-60-2-36-0.txt
+GA, average results , 80.0,countones_ga_120-60-2-36-6.txt
+GA, average feval calls , 5461.0,countones_ga_120-60-2-36-6.txt
+GA, average time , 0.0194000005722,countones_ga_120-60-2-36-6.txt
+GA, average results , 81.8,countones_ga_120-60-2-48-0.txt
+GA, average feval calls , 7261.0,countones_ga_120-60-2-48-0.txt
+GA, average time , 0.0200999975204,countones_ga_120-60-2-48-0.txt
+GA, average results , 81.5,countones_ga_120-60-2-48-6.txt
+GA, average feval calls , 7261.0,countones_ga_120-60-2-48-6.txt
+GA, average time , 0.0445000171661,countones_ga_120-60-2-48-6.txt
+GA, average results , 80.4,countones_ga_120-60-2-60-0.txt
+GA, average feval calls , 9061.0,countones_ga_120-60-2-60-0.txt
+GA, average time , 0.0322000026703,countones_ga_120-60-2-60-0.txt
+GA, average results , 84.0,countones_ga_120-60-2-60-6.txt
+GA, average feval calls , 9061.0,countones_ga_120-60-2-60-6.txt
+GA, average time , 0.0274000167847,countones_ga_120-60-2-60-6.txt
+GA, average results , 76.2,countones_ga_120-60-3-24-0.txt
+GA, average feval calls , 3661.0,countones_ga_120-60-3-24-0.txt
+GA, average time , 0.015299987793,countones_ga_120-60-3-24-0.txt
+GA, average results , 81.9,countones_ga_120-60-3-24-6.txt
+GA, average feval calls , 3661.0,countones_ga_120-60-3-24-6.txt
+GA, average time , 0.0240000009537,countones_ga_120-60-3-24-6.txt
+GA, average results , 79.9,countones_ga_120-60-3-36-0.txt
+GA, average feval calls , 5461.0,countones_ga_120-60-3-36-0.txt
+GA, average time , 0.0235999822617,countones_ga_120-60-3-36-0.txt
+GA, average results , 82.4,countones_ga_120-60-3-36-6.txt
+GA, average feval calls , 5461.0,countones_ga_120-60-3-36-6.txt
+GA, average time , 0.0259999990463,countones_ga_120-60-3-36-6.txt
+GA, average results , 80.1,countones_ga_120-60-3-48-0.txt
+GA, average feval calls , 7261.0,countones_ga_120-60-3-48-0.txt
+GA, average time , 0.0244000196457,countones_ga_120-60-3-48-0.txt
+GA, average results , 85.0,countones_ga_120-60-3-48-6.txt
+GA, average feval calls , 7261.0,countones_ga_120-60-3-48-6.txt
+GA, average time , 0.0238999843597,countones_ga_120-60-3-48-6.txt
+GA, average results , 82.9,countones_ga_120-60-3-60-0.txt
+GA, average feval calls , 9061.0,countones_ga_120-60-3-60-0.txt
+GA, average time , 0.0320999860764,countones_ga_120-60-3-60-0.txt
+GA, average results , 84.5,countones_ga_120-60-3-60-6.txt
+GA, average feval calls , 9061.0,countones_ga_120-60-3-60-6.txt
+GA, average time , 0.031500005722,countones_ga_120-60-3-60-6.txt
+GA, average results , 107.6,countones_ga_140-140-1-112-0.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-1-112-0.txt
+GA, average time , 0.0866999864578,countones_ga_140-140-1-112-0.txt
+GA, average results , 105.2,countones_ga_140-140-1-112-1.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-1-112-1.txt
+GA, average time , 0.0861000061035,countones_ga_140-140-1-112-1.txt
+GA, average results , 106.6,countones_ga_140-140-1-112-14.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-1-112-14.txt
+GA, average time , 0.0773999929428,countones_ga_140-140-1-112-14.txt
+GA, average results , 107.8,countones_ga_140-140-1-140-0.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-1-140-0.txt
+GA, average time , 0.122499990463,countones_ga_140-140-1-140-0.txt
+GA, average results , 106.1,countones_ga_140-140-1-140-1.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-1-140-1.txt
+GA, average time , 0.100899982452,countones_ga_140-140-1-140-1.txt
+GA, average results , 108.3,countones_ga_140-140-1-140-14.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-1-140-14.txt
+GA, average time , 0.122699999809,countones_ga_140-140-1-140-14.txt
+GA, average results , 102.1,countones_ga_140-140-1-56-0.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-1-56-0.txt
+GA, average time , 0.0319000005722,countones_ga_140-140-1-56-0.txt
+GA, average results , 103.0,countones_ga_140-140-1-56-1.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-1-56-1.txt
+GA, average time , 0.0305999994278,countones_ga_140-140-1-56-1.txt
+GA, average results , 104.7,countones_ga_140-140-1-56-14.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-1-56-14.txt
+GA, average time , 0.0360000133514,countones_ga_140-140-1-56-14.txt
+GA, average results , 105.7,countones_ga_140-140-1-84-0.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-1-84-0.txt
+GA, average time , 0.0394000053406,countones_ga_140-140-1-84-0.txt
+GA, average results , 104.6,countones_ga_140-140-1-84-1.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-1-84-1.txt
+GA, average time , 0.0359999895096,countones_ga_140-140-1-84-1.txt
+GA, average results , 105.2,countones_ga_140-140-1-84-14.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-1-84-14.txt
+GA, average time , 0.065700006485,countones_ga_140-140-1-84-14.txt
+GA, average results , 106.0,countones_ga_140-140-2-112-0.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-2-112-0.txt
+GA, average time , 0.0648000001907,countones_ga_140-140-2-112-0.txt
+GA, average results , 104.2,countones_ga_140-140-2-112-1.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-2-112-1.txt
+GA, average time , 0.0646000146866,countones_ga_140-140-2-112-1.txt
+GA, average results , 104.9,countones_ga_140-140-2-112-14.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-2-112-14.txt
+GA, average time , 0.0480999946594,countones_ga_140-140-2-112-14.txt
+GA, average results , 107.1,countones_ga_140-140-2-140-0.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-2-140-0.txt
+GA, average time , 0.105100011826,countones_ga_140-140-2-140-0.txt
+GA, average results , 105.0,countones_ga_140-140-2-140-1.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-2-140-1.txt
+GA, average time , 0.0798000097275,countones_ga_140-140-2-140-1.txt
+GA, average results , 108.8,countones_ga_140-140-2-140-14.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-2-140-14.txt
+GA, average time , 0.096599984169,countones_ga_140-140-2-140-14.txt
+GA, average results , 102.8,countones_ga_140-140-2-56-0.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-2-56-0.txt
+GA, average time , 0.0332000017166,countones_ga_140-140-2-56-0.txt
+GA, average results , 100.6,countones_ga_140-140-2-56-1.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-2-56-1.txt
+GA, average time , 0.0887000083923,countones_ga_140-140-2-56-1.txt
+GA, average results , 102.4,countones_ga_140-140-2-56-14.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-2-56-14.txt
+GA, average time , 0.0700000047684,countones_ga_140-140-2-56-14.txt
+GA, average results , 104.9,countones_ga_140-140-2-84-0.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-2-84-0.txt
+GA, average time , 0.0345999956131,countones_ga_140-140-2-84-0.txt
+GA, average results , 105.4,countones_ga_140-140-2-84-1.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-2-84-1.txt
+GA, average time , 0.0368000030518,countones_ga_140-140-2-84-1.txt
+GA, average results , 102.5,countones_ga_140-140-2-84-14.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-2-84-14.txt
+GA, average time , 0.0482000112534,countones_ga_140-140-2-84-14.txt
+GA, average results , 107.3,countones_ga_140-140-3-112-0.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-3-112-0.txt
+GA, average time , 0.0866000175476,countones_ga_140-140-3-112-0.txt
+GA, average results , 104.9,countones_ga_140-140-3-112-1.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-3-112-1.txt
+GA, average time , 0.0537000179291,countones_ga_140-140-3-112-1.txt
+GA, average results , 107.7,countones_ga_140-140-3-112-14.txt
+GA, average feval calls , 16941.0,countones_ga_140-140-3-112-14.txt
+GA, average time , 0.141499996185,countones_ga_140-140-3-112-14.txt
+GA, average results , 106.9,countones_ga_140-140-3-140-0.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-3-140-0.txt
+GA, average time , 0.0748999834061,countones_ga_140-140-3-140-0.txt
+GA, average results , 107.5,countones_ga_140-140-3-140-1.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-3-140-1.txt
+GA, average time , 0.0706000089645,countones_ga_140-140-3-140-1.txt
+GA, average results , 106.9,countones_ga_140-140-3-140-14.txt
+GA, average feval calls , 21141.0,countones_ga_140-140-3-140-14.txt
+GA, average time , 0.0792999982834,countones_ga_140-140-3-140-14.txt
+GA, average results , 101.9,countones_ga_140-140-3-56-0.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-3-56-0.txt
+GA, average time , 0.0416000127792,countones_ga_140-140-3-56-0.txt
+GA, average results , 100.3,countones_ga_140-140-3-56-1.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-3-56-1.txt
+GA, average time , 0.0773000001907,countones_ga_140-140-3-56-1.txt
+GA, average results , 103.7,countones_ga_140-140-3-56-14.txt
+GA, average feval calls , 8541.0,countones_ga_140-140-3-56-14.txt
+GA, average time , 0.0326999902725,countones_ga_140-140-3-56-14.txt
+GA, average results , 103.4,countones_ga_140-140-3-84-0.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-3-84-0.txt
+GA, average time , 0.0531999826431,countones_ga_140-140-3-84-0.txt
+GA, average results , 102.1,countones_ga_140-140-3-84-1.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-3-84-1.txt
+GA, average time , 0.0580000162125,countones_ga_140-140-3-84-1.txt
+GA, average results , 106.8,countones_ga_140-140-3-84-14.txt
+GA, average feval calls , 12741.0,countones_ga_140-140-3-84-14.txt
+GA, average time , 0.0379999876022,countones_ga_140-140-3-84-14.txt
+GA, average results , 109.6,countones_ga_140-280-1-112-0.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-1-112-0.txt
+GA, average time , 0.0904000043869,countones_ga_140-280-1-112-0.txt
+GA, average results , 111.3,countones_ga_140-280-1-112-2.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-1-112-2.txt
+GA, average time , 0.0618999958038,countones_ga_140-280-1-112-2.txt
+GA, average results , 109.9,countones_ga_140-280-1-112-28.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-1-112-28.txt
+GA, average time , 0.104399991035,countones_ga_140-280-1-112-28.txt
+GA, average results , 112.7,countones_ga_140-280-1-168-0.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-1-168-0.txt
+GA, average time , 0.142899990082,countones_ga_140-280-1-168-0.txt
+GA, average results , 115.1,countones_ga_140-280-1-168-2.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-1-168-2.txt
+GA, average time , 0.0983000040054,countones_ga_140-280-1-168-2.txt
+GA, average results , 113.4,countones_ga_140-280-1-168-28.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-1-168-28.txt
+GA, average time , 0.094000005722,countones_ga_140-280-1-168-28.txt
+GA, average results , 113.9,countones_ga_140-280-1-224-0.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-1-224-0.txt
+GA, average time , 0.10680000782,countones_ga_140-280-1-224-0.txt
+GA, average results , 113.2,countones_ga_140-280-1-224-2.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-1-224-2.txt
+GA, average time , 0.116799998283,countones_ga_140-280-1-224-2.txt
+GA, average results , 114.8,countones_ga_140-280-1-224-28.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-1-224-28.txt
+GA, average time , 0.117100000381,countones_ga_140-280-1-224-28.txt
+GA, average results , 115.4,countones_ga_140-280-1-280-0.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-1-280-0.txt
+GA, average time , 0.103699994087,countones_ga_140-280-1-280-0.txt
+GA, average results , 115.7,countones_ga_140-280-1-280-2.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-1-280-2.txt
+GA, average time , 0.146099996567,countones_ga_140-280-1-280-2.txt
+GA, average results , 116.0,countones_ga_140-280-1-280-28.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-1-280-28.txt
+GA, average time , 0.174799990654,countones_ga_140-280-1-280-28.txt
+GA, average results , 108.9,countones_ga_140-280-2-112-0.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-2-112-0.txt
+GA, average time , 0.0781000137329,countones_ga_140-280-2-112-0.txt
+GA, average results , 111.6,countones_ga_140-280-2-112-2.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-2-112-2.txt
+GA, average time , 0.137599992752,countones_ga_140-280-2-112-2.txt
+GA, average results , 110.8,countones_ga_140-280-2-112-28.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-2-112-28.txt
+GA, average time , 0.102799987793,countones_ga_140-280-2-112-28.txt
+GA, average results , 114.2,countones_ga_140-280-2-168-0.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-2-168-0.txt
+GA, average time , 0.163800001144,countones_ga_140-280-2-168-0.txt
+GA, average results , 113.8,countones_ga_140-280-2-168-2.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-2-168-2.txt
+GA, average time , 0.137900018692,countones_ga_140-280-2-168-2.txt
+GA, average results , 113.7,countones_ga_140-280-2-168-28.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-2-168-28.txt
+GA, average time , 0.0979999780655,countones_ga_140-280-2-168-28.txt
+GA, average results , 117.3,countones_ga_140-280-2-224-0.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-2-224-0.txt
+GA, average time , 0.10759999752,countones_ga_140-280-2-224-0.txt
+GA, average results , 116.3,countones_ga_140-280-2-224-2.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-2-224-2.txt
+GA, average time , 0.114999985695,countones_ga_140-280-2-224-2.txt
+GA, average results , 113.2,countones_ga_140-280-2-224-28.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-2-224-28.txt
+GA, average time , 0.112599992752,countones_ga_140-280-2-224-28.txt
+GA, average results , 116.3,countones_ga_140-280-2-280-0.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-2-280-0.txt
+GA, average time , 0.117599987984,countones_ga_140-280-2-280-0.txt
+GA, average results , 116.3,countones_ga_140-280-2-280-2.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-2-280-2.txt
+GA, average time , 0.11859998703,countones_ga_140-280-2-280-2.txt
+GA, average results , 118.0,countones_ga_140-280-2-280-28.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-2-280-28.txt
+GA, average time , 0.115899991989,countones_ga_140-280-2-280-28.txt
+GA, average results , 111.3,countones_ga_140-280-3-112-0.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-3-112-0.txt
+GA, average time , 0.0881999969482,countones_ga_140-280-3-112-0.txt
+GA, average results , 110.0,countones_ga_140-280-3-112-2.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-3-112-2.txt
+GA, average time , 0.0710999965668,countones_ga_140-280-3-112-2.txt
+GA, average results , 111.6,countones_ga_140-280-3-112-28.txt
+GA, average feval calls , 17081.0,countones_ga_140-280-3-112-28.txt
+GA, average time , 0.148299980164,countones_ga_140-280-3-112-28.txt
+GA, average results , 113.7,countones_ga_140-280-3-168-0.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-3-168-0.txt
+GA, average time , 0.111200022697,countones_ga_140-280-3-168-0.txt
+GA, average results , 113.2,countones_ga_140-280-3-168-2.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-3-168-2.txt
+GA, average time , 0.15759999752,countones_ga_140-280-3-168-2.txt
+GA, average results , 112.1,countones_ga_140-280-3-168-28.txt
+GA, average feval calls , 25481.0,countones_ga_140-280-3-168-28.txt
+GA, average time , 0.137000012398,countones_ga_140-280-3-168-28.txt
+GA, average results , 114.1,countones_ga_140-280-3-224-0.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-3-224-0.txt
+GA, average time , 0.143200016022,countones_ga_140-280-3-224-0.txt
+GA, average results , 113.7,countones_ga_140-280-3-224-2.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-3-224-2.txt
+GA, average time , 0.130900001526,countones_ga_140-280-3-224-2.txt
+GA, average results , 114.8,countones_ga_140-280-3-224-28.txt
+GA, average feval calls , 33881.0,countones_ga_140-280-3-224-28.txt
+GA, average time , 0.156999993324,countones_ga_140-280-3-224-28.txt
+GA, average results , 116.9,countones_ga_140-280-3-280-0.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-3-280-0.txt
+GA, average time , 0.160500001907,countones_ga_140-280-3-280-0.txt
+GA, average results , 116.0,countones_ga_140-280-3-280-2.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-3-280-2.txt
+GA, average time , 0.184400010109,countones_ga_140-280-3-280-2.txt
+GA, average results , 116.8,countones_ga_140-280-3-280-28.txt
+GA, average feval calls , 42281.0,countones_ga_140-280-3-280-28.txt
+GA, average time , 0.169999980927,countones_ga_140-280-3-280-28.txt
+GA, average results , 117.8,countones_ga_140-560-1-224-0.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-1-224-0.txt
+GA, average time , 0.180200004578,countones_ga_140-560-1-224-0.txt
+GA, average results , 117.2,countones_ga_140-560-1-224-5.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-1-224-5.txt
+GA, average time , 0.175699996948,countones_ga_140-560-1-224-5.txt
+GA, average results , 115.3,countones_ga_140-560-1-224-56.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-1-224-56.txt
+GA, average time , 0.172900009155,countones_ga_140-560-1-224-56.txt
+GA, average results , 119.3,countones_ga_140-560-1-336-0.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-1-336-0.txt
+GA, average time , 0.173100018501,countones_ga_140-560-1-336-0.txt
+GA, average results , 119.5,countones_ga_140-560-1-336-5.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-1-336-5.txt
+GA, average time , 0.222599983215,countones_ga_140-560-1-336-5.txt
+GA, average results , 119.7,countones_ga_140-560-1-336-56.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-1-336-56.txt
+GA, average time , 0.185000014305,countones_ga_140-560-1-336-56.txt
+GA, average results , 121.3,countones_ga_140-560-1-448-0.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-1-448-0.txt
+GA, average time , 0.384999990463,countones_ga_140-560-1-448-0.txt
+GA, average results , 120.5,countones_ga_140-560-1-448-5.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-1-448-5.txt
+GA, average time , 0.234100008011,countones_ga_140-560-1-448-5.txt
+GA, average results , 121.2,countones_ga_140-560-1-448-56.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-1-448-56.txt
+GA, average time , 0.226400017738,countones_ga_140-560-1-448-56.txt
+GA, average results , 123.5,countones_ga_140-560-1-560-0.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-1-560-0.txt
+GA, average time , 0.38180000782,countones_ga_140-560-1-560-0.txt
+GA, average results , 121.1,countones_ga_140-560-1-560-5.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-1-560-5.txt
+GA, average time , 0.413599991798,countones_ga_140-560-1-560-5.txt
+GA, average results , 120.8,countones_ga_140-560-1-560-56.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-1-560-56.txt
+GA, average time , 0.288700008392,countones_ga_140-560-1-560-56.txt
+GA, average results , 118.6,countones_ga_140-560-2-224-0.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-2-224-0.txt
+GA, average time , 0.10039999485,countones_ga_140-560-2-224-0.txt
+GA, average results , 118.5,countones_ga_140-560-2-224-5.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-2-224-5.txt
+GA, average time , 0.131399989128,countones_ga_140-560-2-224-5.txt
+GA, average results , 117.5,countones_ga_140-560-2-224-56.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-2-224-56.txt
+GA, average time , 0.113599991798,countones_ga_140-560-2-224-56.txt
+GA, average results , 119.8,countones_ga_140-560-2-336-0.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-2-336-0.txt
+GA, average time , 0.1492000103,countones_ga_140-560-2-336-0.txt
+GA, average results , 120.8,countones_ga_140-560-2-336-5.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-2-336-5.txt
+GA, average time , 0.201200008392,countones_ga_140-560-2-336-5.txt
+GA, average results , 118.7,countones_ga_140-560-2-336-56.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-2-336-56.txt
+GA, average time , 0.420799994469,countones_ga_140-560-2-336-56.txt
+GA, average results , 121.1,countones_ga_140-560-2-448-0.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-2-448-0.txt
+GA, average time , 0.213800001144,countones_ga_140-560-2-448-0.txt
+GA, average results , 121.1,countones_ga_140-560-2-448-5.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-2-448-5.txt
+GA, average time , 0.191799998283,countones_ga_140-560-2-448-5.txt
+GA, average results , 120.6,countones_ga_140-560-2-448-56.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-2-448-56.txt
+GA, average time , 0.262600016594,countones_ga_140-560-2-448-56.txt
+GA, average results , 122.3,countones_ga_140-560-2-560-0.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-2-560-0.txt
+GA, average time , 0.193000006676,countones_ga_140-560-2-560-0.txt
+GA, average results , 123.2,countones_ga_140-560-2-560-5.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-2-560-5.txt
+GA, average time , 0.240400004387,countones_ga_140-560-2-560-5.txt
+GA, average results , 121.4,countones_ga_140-560-2-560-56.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-2-560-56.txt
+GA, average time , 0.194499993324,countones_ga_140-560-2-560-56.txt
+GA, average results , 116.9,countones_ga_140-560-3-224-0.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-3-224-0.txt
+GA, average time , 0.10680000782,countones_ga_140-560-3-224-0.txt
+GA, average results , 117.9,countones_ga_140-560-3-224-5.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-3-224-5.txt
+GA, average time , 0.133999991417,countones_ga_140-560-3-224-5.txt
+GA, average results , 116.6,countones_ga_140-560-3-224-56.txt
+GA, average feval calls , 34161.0,countones_ga_140-560-3-224-56.txt
+GA, average time , 0.109399986267,countones_ga_140-560-3-224-56.txt
+GA, average results , 119.2,countones_ga_140-560-3-336-0.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-3-336-0.txt
+GA, average time , 0.129299998283,countones_ga_140-560-3-336-0.txt
+GA, average results , 118.9,countones_ga_140-560-3-336-5.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-3-336-5.txt
+GA, average time , 0.145000004768,countones_ga_140-560-3-336-5.txt
+GA, average results , 117.9,countones_ga_140-560-3-336-56.txt
+GA, average feval calls , 50961.0,countones_ga_140-560-3-336-56.txt
+GA, average time , 0.125900006294,countones_ga_140-560-3-336-56.txt
+GA, average results , 122.7,countones_ga_140-560-3-448-0.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-3-448-0.txt
+GA, average time , 0.28869998455,countones_ga_140-560-3-448-0.txt
+GA, average results , 121.3,countones_ga_140-560-3-448-5.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-3-448-5.txt
+GA, average time , 0.17650001049,countones_ga_140-560-3-448-5.txt
+GA, average results , 120.2,countones_ga_140-560-3-448-56.txt
+GA, average feval calls , 67761.0,countones_ga_140-560-3-448-56.txt
+GA, average time , 0.234600019455,countones_ga_140-560-3-448-56.txt
+GA, average results , 122.0,countones_ga_140-560-3-560-0.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-3-560-0.txt
+GA, average time , 0.224799990654,countones_ga_140-560-3-560-0.txt
+GA, average results , 122.0,countones_ga_140-560-3-560-5.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-3-560-5.txt
+GA, average time , 0.270900011063,countones_ga_140-560-3-560-5.txt
+GA, average results , 121.6,countones_ga_140-560-3-560-56.txt
+GA, average feval calls , 84561.0,countones_ga_140-560-3-560-56.txt
+GA, average time , 0.201699995995,countones_ga_140-560-3-560-56.txt
+GA, average results , 90.3,countones_ga_140-70-1-28-0.txt
+GA, average feval calls , 4271.0,countones_ga_140-70-1-28-0.txt
+GA, average time , 0.0557000160217,countones_ga_140-70-1-28-0.txt
+GA, average results , 95.5,countones_ga_140-70-1-28-7.txt
+GA, average feval calls , 4271.0,countones_ga_140-70-1-28-7.txt
+GA, average time , 0.0361999988556,countones_ga_140-70-1-28-7.txt
+GA, average results , 93.6,countones_ga_140-70-1-42-0.txt
+GA, average feval calls , 6371.0,countones_ga_140-70-1-42-0.txt
+GA, average time , 0.189100003242,countones_ga_140-70-1-42-0.txt
+GA, average results , 95.1,countones_ga_140-70-1-42-7.txt
+GA, average feval calls , 6371.0,countones_ga_140-70-1-42-7.txt
+GA, average time , 0.0326999902725,countones_ga_140-70-1-42-7.txt
+GA, average results , 94.6,countones_ga_140-70-1-56-0.txt
+GA, average feval calls , 8471.0,countones_ga_140-70-1-56-0.txt
+GA, average time , 0.0838999986649,countones_ga_140-70-1-56-0.txt
+GA, average results , 97.9,countones_ga_140-70-1-56-7.txt
+GA, average feval calls , 8471.0,countones_ga_140-70-1-56-7.txt
+GA, average time , 0.0966000080109,countones_ga_140-70-1-56-7.txt
+GA, average results , 93.3,countones_ga_140-70-1-70-0.txt
+GA, average feval calls , 10571.0,countones_ga_140-70-1-70-0.txt
+GA, average time , 0.0836999893188,countones_ga_140-70-1-70-0.txt
+GA, average results , 97.5,countones_ga_140-70-1-70-7.txt
+GA, average feval calls , 10571.0,countones_ga_140-70-1-70-7.txt
+GA, average time , 0.0743999958038,countones_ga_140-70-1-70-7.txt
+GA, average results , 91.6,countones_ga_140-70-2-28-0.txt
+GA, average feval calls , 4271.0,countones_ga_140-70-2-28-0.txt
+GA, average time , 0.170600008965,countones_ga_140-70-2-28-0.txt
+GA, average results , 93.4,countones_ga_140-70-2-28-7.txt
+GA, average feval calls , 4271.0,countones_ga_140-70-2-28-7.txt
+GA, average time , 0.0311000108719,countones_ga_140-70-2-28-7.txt
+GA, average results , 93.9,countones_ga_140-70-2-42-0.txt
+GA, average feval calls , 6371.0,countones_ga_140-70-2-42-0.txt
+GA, average time , 0.0308000087738,countones_ga_140-70-2-42-0.txt
+GA, average results , 96.4,countones_ga_140-70-2-42-7.txt
+GA, average feval calls , 6371.0,countones_ga_140-70-2-42-7.txt
+GA, average time , 0.050200009346,countones_ga_140-70-2-42-7.txt
+GA, average results , 94.8,countones_ga_140-70-2-56-0.txt
+GA, average feval calls , 8471.0,countones_ga_140-70-2-56-0.txt
+GA, average time , 0.0694000005722,countones_ga_140-70-2-56-0.txt
+GA, average results , 97.9,countones_ga_140-70-2-56-7.txt
+GA, average feval calls , 8471.0,countones_ga_140-70-2-56-7.txt
+GA, average time , 0.0523999929428,countones_ga_140-70-2-56-7.txt
+GA, average results , 96.3,countones_ga_140-70-2-70-0.txt
+GA, average feval calls , 10571.0,countones_ga_140-70-2-70-0.txt
+GA, average time , 0.0831000089645,countones_ga_140-70-2-70-0.txt
+GA, average results , 96.7,countones_ga_140-70-2-70-7.txt
+GA, average feval calls , 10571.0,countones_ga_140-70-2-70-7.txt
+GA, average time , 0.0700000047684,countones_ga_140-70-2-70-7.txt
+GA, average results , 90.4,countones_ga_140-70-3-28-0.txt
+GA, average feval calls , 4271.0,countones_ga_140-70-3-28-0.txt
+GA, average time , 0.0273000001907,countones_ga_140-70-3-28-0.txt
+GA, average results , 94.1,countones_ga_140-70-3-28-7.txt
+GA, average feval calls , 4271.0,countones_ga_140-70-3-28-7.txt
+GA, average time , 0.031299996376,countones_ga_140-70-3-28-7.txt
+GA, average results , 94.8,countones_ga_140-70-3-42-0.txt
+GA, average feval calls , 6371.0,countones_ga_140-70-3-42-0.txt
+GA, average time , 0.0345999956131,countones_ga_140-70-3-42-0.txt
+GA, average results , 96.2,countones_ga_140-70-3-42-7.txt
+GA, average feval calls , 6371.0,countones_ga_140-70-3-42-7.txt
+GA, average time , 0.0298000097275,countones_ga_140-70-3-42-7.txt
+GA, average results , 93.9,countones_ga_140-70-3-56-0.txt
+GA, average feval calls , 8471.0,countones_ga_140-70-3-56-0.txt
+GA, average time , 0.0286999940872,countones_ga_140-70-3-56-0.txt
+GA, average results , 95.9,countones_ga_140-70-3-56-7.txt
+GA, average feval calls , 8471.0,countones_ga_140-70-3-56-7.txt
+GA, average time , 0.0369000196457,countones_ga_140-70-3-56-7.txt
+GA, average results , 94.2,countones_ga_140-70-3-70-0.txt
+GA, average feval calls , 10571.0,countones_ga_140-70-3-70-0.txt
+GA, average time , 0.0302000045776,countones_ga_140-70-3-70-0.txt
+GA, average results , 98.3,countones_ga_140-70-3-70-7.txt
+GA, average feval calls , 10571.0,countones_ga_140-70-3-70-7.txt
+GA, average time , 0.0430000066757,countones_ga_140-70-3-70-7.txt
+GA, average results , 39.0,countones_ga_40-160-1-128-0.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-1-128-0.txt
+GA, average time , 0.0375999927521,countones_ga_40-160-1-128-0.txt
+GA, average results , 39.3,countones_ga_40-160-1-128-1.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-1-128-1.txt
+GA, average time , 0.0330000162125,countones_ga_40-160-1-128-1.txt
+GA, average results , 39.7,countones_ga_40-160-1-128-16.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-1-128-16.txt
+GA, average time , 0.0368999958038,countones_ga_40-160-1-128-16.txt
+GA, average results , 39.0,countones_ga_40-160-1-160-0.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-1-160-0.txt
+GA, average time , 0.0409999847412,countones_ga_40-160-1-160-0.txt
+GA, average results , 39.5,countones_ga_40-160-1-160-1.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-1-160-1.txt
+GA, average time , 0.0487999916077,countones_ga_40-160-1-160-1.txt
+GA, average results , 39.8,countones_ga_40-160-1-160-16.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-1-160-16.txt
+GA, average time , 0.0582000017166,countones_ga_40-160-1-160-16.txt
+GA, average results , 38.1,countones_ga_40-160-1-64-0.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-1-64-0.txt
+GA, average time , 0.0251000165939,countones_ga_40-160-1-64-0.txt
+GA, average results , 38.2,countones_ga_40-160-1-64-1.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-1-64-1.txt
+GA, average time , 0.0223999977112,countones_ga_40-160-1-64-1.txt
+GA, average results , 38.2,countones_ga_40-160-1-64-16.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-1-64-16.txt
+GA, average time , 0.0352999925613,countones_ga_40-160-1-64-16.txt
+GA, average results , 38.7,countones_ga_40-160-1-96-0.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-1-96-0.txt
+GA, average time , 0.0311000108719,countones_ga_40-160-1-96-0.txt
+GA, average results , 39.1,countones_ga_40-160-1-96-1.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-1-96-1.txt
+GA, average time , 0.0243000030518,countones_ga_40-160-1-96-1.txt
+GA, average results , 39.2,countones_ga_40-160-1-96-16.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-1-96-16.txt
+GA, average time , 0.0351000070572,countones_ga_40-160-1-96-16.txt
+GA, average results , 39.2,countones_ga_40-160-2-128-0.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-2-128-0.txt
+GA, average time , 0.0507999897003,countones_ga_40-160-2-128-0.txt
+GA, average results , 39.1,countones_ga_40-160-2-128-1.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-2-128-1.txt
+GA, average time , 0.0383999824524,countones_ga_40-160-2-128-1.txt
+GA, average results , 39.5,countones_ga_40-160-2-128-16.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-2-128-16.txt
+GA, average time , 0.0520999908447,countones_ga_40-160-2-128-16.txt
+GA, average results , 39.1,countones_ga_40-160-2-160-0.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-2-160-0.txt
+GA, average time , 0.0556999921799,countones_ga_40-160-2-160-0.txt
+GA, average results , 39.5,countones_ga_40-160-2-160-1.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-2-160-1.txt
+GA, average time , 0.0353999853134,countones_ga_40-160-2-160-1.txt
+GA, average results , 39.5,countones_ga_40-160-2-160-16.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-2-160-16.txt
+GA, average time , 0.0383999824524,countones_ga_40-160-2-160-16.txt
+GA, average results , 38.3,countones_ga_40-160-2-64-0.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-2-64-0.txt
+GA, average time , 0.0272000074387,countones_ga_40-160-2-64-0.txt
+GA, average results , 38.1,countones_ga_40-160-2-64-1.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-2-64-1.txt
+GA, average time , 0.0475000143051,countones_ga_40-160-2-64-1.txt
+GA, average results , 38.5,countones_ga_40-160-2-64-16.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-2-64-16.txt
+GA, average time , 0.0526999950409,countones_ga_40-160-2-64-16.txt
+GA, average results , 38.8,countones_ga_40-160-2-96-0.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-2-96-0.txt
+GA, average time , 0.0348000049591,countones_ga_40-160-2-96-0.txt
+GA, average results , 39.1,countones_ga_40-160-2-96-1.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-2-96-1.txt
+GA, average time , 0.0280999898911,countones_ga_40-160-2-96-1.txt
+GA, average results , 38.8,countones_ga_40-160-2-96-16.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-2-96-16.txt
+GA, average time , 0.0552000045776,countones_ga_40-160-2-96-16.txt
+GA, average results , 39.5,countones_ga_40-160-3-128-0.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-3-128-0.txt
+GA, average time , 0.0490999937057,countones_ga_40-160-3-128-0.txt
+GA, average results , 39.5,countones_ga_40-160-3-128-1.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-3-128-1.txt
+GA, average time , 0.0457999944687,countones_ga_40-160-3-128-1.txt
+GA, average results , 39.7,countones_ga_40-160-3-128-16.txt
+GA, average feval calls , 19361.0,countones_ga_40-160-3-128-16.txt
+GA, average time , 0.0457000017166,countones_ga_40-160-3-128-16.txt
+GA, average results , 39.5,countones_ga_40-160-3-160-0.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-3-160-0.txt
+GA, average time , 0.0286999940872,countones_ga_40-160-3-160-0.txt
+GA, average results , 39.8,countones_ga_40-160-3-160-1.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-3-160-1.txt
+GA, average time , 0.0569999933243,countones_ga_40-160-3-160-1.txt
+GA, average results , 39.7,countones_ga_40-160-3-160-16.txt
+GA, average feval calls , 24161.0,countones_ga_40-160-3-160-16.txt
+GA, average time , 0.031500005722,countones_ga_40-160-3-160-16.txt
+GA, average results , 38.3,countones_ga_40-160-3-64-0.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-3-64-0.txt
+GA, average time , 0.0290999889374,countones_ga_40-160-3-64-0.txt
+GA, average results , 38.4,countones_ga_40-160-3-64-1.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-3-64-1.txt
+GA, average time , 0.052899980545,countones_ga_40-160-3-64-1.txt
+GA, average results , 38.5,countones_ga_40-160-3-64-16.txt
+GA, average feval calls , 9761.0,countones_ga_40-160-3-64-16.txt
+GA, average time , 0.0508000135422,countones_ga_40-160-3-64-16.txt
+GA, average results , 38.6,countones_ga_40-160-3-96-0.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-3-96-0.txt
+GA, average time , 0.0411999940872,countones_ga_40-160-3-96-0.txt
+GA, average results , 39.1,countones_ga_40-160-3-96-1.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-3-96-1.txt
+GA, average time , 0.0355000019073,countones_ga_40-160-3-96-1.txt
+GA, average results , 38.8,countones_ga_40-160-3-96-16.txt
+GA, average feval calls , 14561.0,countones_ga_40-160-3-96-16.txt
+GA, average time , 0.0327000141144,countones_ga_40-160-3-96-16.txt
+GA, average results , 27.0,countones_ga_40-20-1-12-0.txt
+GA, average feval calls , 1821.0,countones_ga_40-20-1-12-0.txt
+GA, average time , 0.0292000055313,countones_ga_40-20-1-12-0.txt
+GA, average results , 29.1,countones_ga_40-20-1-12-2.txt
+GA, average feval calls , 1821.0,countones_ga_40-20-1-12-2.txt
+GA, average time , 0.0105999946594,countones_ga_40-20-1-12-2.txt
+GA, average results , 28.6,countones_ga_40-20-1-16-0.txt
+GA, average feval calls , 2421.0,countones_ga_40-20-1-16-0.txt
+GA, average time , 0.0118000030518,countones_ga_40-20-1-16-0.txt
+GA, average results , 29.1,countones_ga_40-20-1-16-2.txt
+GA, average feval calls , 2421.0,countones_ga_40-20-1-16-2.txt
+GA, average time , 0.0132999897003,countones_ga_40-20-1-16-2.txt
+GA, average results , 28.3,countones_ga_40-20-1-20-0.txt
+GA, average feval calls , 3021.0,countones_ga_40-20-1-20-0.txt
+GA, average time , 0.0288999795914,countones_ga_40-20-1-20-0.txt
+GA, average results , 29.9,countones_ga_40-20-1-20-2.txt
+GA, average feval calls , 3021.0,countones_ga_40-20-1-20-2.txt
+GA, average time , 0.018399977684,countones_ga_40-20-1-20-2.txt
+GA, average results , 25.7,countones_ga_40-20-1-8-0.txt
+GA, average feval calls , 1221.0,countones_ga_40-20-1-8-0.txt
+GA, average time , 0.0124000072479,countones_ga_40-20-1-8-0.txt
+GA, average results , 29.9,countones_ga_40-20-1-8-2.txt
+GA, average feval calls , 1221.0,countones_ga_40-20-1-8-2.txt
+GA, average time , 0.0117000102997,countones_ga_40-20-1-8-2.txt
+GA, average results , 26.6,countones_ga_40-20-2-12-0.txt
+GA, average feval calls , 1821.0,countones_ga_40-20-2-12-0.txt
+GA, average time , 0.0497000217438,countones_ga_40-20-2-12-0.txt
+GA, average results , 28.8,countones_ga_40-20-2-12-2.txt
+GA, average feval calls , 1821.0,countones_ga_40-20-2-12-2.txt
+GA, average time , 0.0125,countones_ga_40-20-2-12-2.txt
+GA, average results , 25.8,countones_ga_40-20-2-16-0.txt
+GA, average feval calls , 2421.0,countones_ga_40-20-2-16-0.txt
+GA, average time , 0.0134000062943,countones_ga_40-20-2-16-0.txt
+GA, average results , 29.8,countones_ga_40-20-2-16-2.txt
+GA, average feval calls , 2421.0,countones_ga_40-20-2-16-2.txt
+GA, average time , 0.0141000032425,countones_ga_40-20-2-16-2.txt
+GA, average results , 26.8,countones_ga_40-20-2-20-0.txt
+GA, average feval calls , 3021.0,countones_ga_40-20-2-20-0.txt
+GA, average time , 0.0108000040054,countones_ga_40-20-2-20-0.txt
+GA, average results , 28.2,countones_ga_40-20-2-20-2.txt
+GA, average feval calls , 3021.0,countones_ga_40-20-2-20-2.txt
+GA, average time , 0.0170000076294,countones_ga_40-20-2-20-2.txt
+GA, average results , 26.8,countones_ga_40-20-2-8-0.txt
+GA, average feval calls , 1221.0,countones_ga_40-20-2-8-0.txt
+GA, average time , 0.0190999984741,countones_ga_40-20-2-8-0.txt
+GA, average results , 29.4,countones_ga_40-20-2-8-2.txt
+GA, average feval calls , 1221.0,countones_ga_40-20-2-8-2.txt
+GA, average time , 0.0128999948502,countones_ga_40-20-2-8-2.txt
+GA, average results , 25.7,countones_ga_40-20-3-12-0.txt
+GA, average feval calls , 1821.0,countones_ga_40-20-3-12-0.txt
+GA, average time , 0.0095999956131,countones_ga_40-20-3-12-0.txt
+GA, average results , 29.0,countones_ga_40-20-3-12-2.txt
+GA, average feval calls , 1821.0,countones_ga_40-20-3-12-2.txt
+GA, average time , 0.0118000030518,countones_ga_40-20-3-12-2.txt
+GA, average results , 26.8,countones_ga_40-20-3-16-0.txt
+GA, average feval calls , 2421.0,countones_ga_40-20-3-16-0.txt
+GA, average time , 0.0336999893188,countones_ga_40-20-3-16-0.txt
+GA, average results , 29.2,countones_ga_40-20-3-16-2.txt
+GA, average feval calls , 2421.0,countones_ga_40-20-3-16-2.txt
+GA, average time , 0.0107999801636,countones_ga_40-20-3-16-2.txt
+GA, average results , 26.1,countones_ga_40-20-3-20-0.txt
+GA, average feval calls , 3021.0,countones_ga_40-20-3-20-0.txt
+GA, average time , 0.0330000162125,countones_ga_40-20-3-20-0.txt
+GA, average results , 29.2,countones_ga_40-20-3-20-2.txt
+GA, average feval calls , 3021.0,countones_ga_40-20-3-20-2.txt
+GA, average time , 0.0407999992371,countones_ga_40-20-3-20-2.txt
+GA, average results , 25.9,countones_ga_40-20-3-8-0.txt
+GA, average feval calls , 1221.0,countones_ga_40-20-3-8-0.txt
+GA, average time , 0.0144000053406,countones_ga_40-20-3-8-0.txt
+GA, average results , 27.4,countones_ga_40-20-3-8-2.txt
+GA, average feval calls , 1221.0,countones_ga_40-20-3-8-2.txt
+GA, average time , 0.0218999862671,countones_ga_40-20-3-8-2.txt
+GA, average results , 29.4,countones_ga_40-40-1-16-0.txt
+GA, average feval calls , 2441.0,countones_ga_40-40-1-16-0.txt
+GA, average time , 0.015700006485,countones_ga_40-40-1-16-0.txt
+GA, average results , 32.6,countones_ga_40-40-1-16-4.txt
+GA, average feval calls , 2441.0,countones_ga_40-40-1-16-4.txt
+GA, average time , 0.0150000095367,countones_ga_40-40-1-16-4.txt
+GA, average results , 29.9,countones_ga_40-40-1-24-0.txt
+GA, average feval calls , 3641.0,countones_ga_40-40-1-24-0.txt
+GA, average time , 0.0121999979019,countones_ga_40-40-1-24-0.txt
+GA, average results , 32.2,countones_ga_40-40-1-24-4.txt
+GA, average feval calls , 3641.0,countones_ga_40-40-1-24-4.txt
+GA, average time , 0.0395999908447,countones_ga_40-40-1-24-4.txt
+GA, average results , 30.2,countones_ga_40-40-1-32-0.txt
+GA, average feval calls , 4841.0,countones_ga_40-40-1-32-0.txt
+GA, average time , 0.0351000070572,countones_ga_40-40-1-32-0.txt
+GA, average results , 33.6,countones_ga_40-40-1-32-4.txt
+GA, average feval calls , 4841.0,countones_ga_40-40-1-32-4.txt
+GA, average time , 0.0233999967575,countones_ga_40-40-1-32-4.txt
+GA, average results , 30.5,countones_ga_40-40-1-40-0.txt
+GA, average feval calls , 6041.0,countones_ga_40-40-1-40-0.txt
+GA, average time , 0.0303999900818,countones_ga_40-40-1-40-0.txt
+GA, average results , 33.6,countones_ga_40-40-1-40-4.txt
+GA, average feval calls , 6041.0,countones_ga_40-40-1-40-4.txt
+GA, average time , 0.0211999893188,countones_ga_40-40-1-40-4.txt
+GA, average results , 29.9,countones_ga_40-40-2-16-0.txt
+GA, average feval calls , 2441.0,countones_ga_40-40-2-16-0.txt
+GA, average time , 0.0723000049591,countones_ga_40-40-2-16-0.txt
+GA, average results , 32.2,countones_ga_40-40-2-16-4.txt
+GA, average feval calls , 2441.0,countones_ga_40-40-2-16-4.txt
+GA, average time , 0.015499997139,countones_ga_40-40-2-16-4.txt
+GA, average results , 29.1,countones_ga_40-40-2-24-0.txt
+GA, average feval calls , 3641.0,countones_ga_40-40-2-24-0.txt
+GA, average time , 0.0118000030518,countones_ga_40-40-2-24-0.txt
+GA, average results , 32.6,countones_ga_40-40-2-24-4.txt
+GA, average feval calls , 3641.0,countones_ga_40-40-2-24-4.txt
+GA, average time , 0.0125,countones_ga_40-40-2-24-4.txt
+GA, average results , 30.0,countones_ga_40-40-2-32-0.txt
+GA, average feval calls , 4841.0,countones_ga_40-40-2-32-0.txt
+GA, average time , 0.0210999965668,countones_ga_40-40-2-32-0.txt
+GA, average results , 33.0,countones_ga_40-40-2-32-4.txt
+GA, average feval calls , 4841.0,countones_ga_40-40-2-32-4.txt
+GA, average time , 0.0250999927521,countones_ga_40-40-2-32-4.txt
+GA, average results , 31.0,countones_ga_40-40-2-40-0.txt
+GA, average feval calls , 6041.0,countones_ga_40-40-2-40-0.txt
+GA, average time , 0.0144000053406,countones_ga_40-40-2-40-0.txt
+GA, average results , 33.1,countones_ga_40-40-2-40-4.txt
+GA, average feval calls , 6041.0,countones_ga_40-40-2-40-4.txt
+GA, average time , 0.0358999967575,countones_ga_40-40-2-40-4.txt
+GA, average results , 31.3,countones_ga_40-40-3-16-0.txt
+GA, average feval calls , 2441.0,countones_ga_40-40-3-16-0.txt
+GA, average time , 0.0134000062943,countones_ga_40-40-3-16-0.txt
+GA, average results , 32.7,countones_ga_40-40-3-16-4.txt
+GA, average feval calls , 2441.0,countones_ga_40-40-3-16-4.txt
+GA, average time , 0.015499997139,countones_ga_40-40-3-16-4.txt
+GA, average results , 30.1,countones_ga_40-40-3-24-0.txt
+GA, average feval calls , 3641.0,countones_ga_40-40-3-24-0.txt
+GA, average time , 0.015700006485,countones_ga_40-40-3-24-0.txt
+GA, average results , 32.6,countones_ga_40-40-3-24-4.txt
+GA, average feval calls , 3641.0,countones_ga_40-40-3-24-4.txt
+GA, average time , 0.0118000030518,countones_ga_40-40-3-24-4.txt
+GA, average results , 30.7,countones_ga_40-40-3-32-0.txt
+GA, average feval calls , 4841.0,countones_ga_40-40-3-32-0.txt
+GA, average time , 0.0137000083923,countones_ga_40-40-3-32-0.txt
+GA, average results , 33.3,countones_ga_40-40-3-32-4.txt
+GA, average feval calls , 4841.0,countones_ga_40-40-3-32-4.txt
+GA, average time , 0.0146999835968,countones_ga_40-40-3-32-4.txt
+GA, average results , 31.3,countones_ga_40-40-3-40-0.txt
+GA, average feval calls , 6041.0,countones_ga_40-40-3-40-0.txt
+GA, average time , 0.0172000169754,countones_ga_40-40-3-40-0.txt
+GA, average results , 33.2,countones_ga_40-40-3-40-4.txt
+GA, average feval calls , 6041.0,countones_ga_40-40-3-40-4.txt
+GA, average time , 0.0253999948502,countones_ga_40-40-3-40-4.txt
+GA, average results , 35.4,countones_ga_40-80-1-32-0.txt
+GA, average feval calls , 4881.0,countones_ga_40-80-1-32-0.txt
+GA, average time , 0.0172999858856,countones_ga_40-80-1-32-0.txt
+GA, average results , 36.1,countones_ga_40-80-1-32-8.txt
+GA, average feval calls , 4881.0,countones_ga_40-80-1-32-8.txt
+GA, average time , 0.0273000001907,countones_ga_40-80-1-32-8.txt
+GA, average results , 35.6,countones_ga_40-80-1-48-0.txt
+GA, average feval calls , 7281.0,countones_ga_40-80-1-48-0.txt
+GA, average time , 0.0213000059128,countones_ga_40-80-1-48-0.txt
+GA, average results , 36.6,countones_ga_40-80-1-48-8.txt
+GA, average feval calls , 7281.0,countones_ga_40-80-1-48-8.txt
+GA, average time , 0.0283999919891,countones_ga_40-80-1-48-8.txt
+GA, average results , 36.0,countones_ga_40-80-1-64-0.txt
+GA, average feval calls , 9681.0,countones_ga_40-80-1-64-0.txt
+GA, average time , 0.028200006485,countones_ga_40-80-1-64-0.txt
+GA, average results , 36.8,countones_ga_40-80-1-64-8.txt
+GA, average feval calls , 9681.0,countones_ga_40-80-1-64-8.txt
+GA, average time , 0.0384999990463,countones_ga_40-80-1-64-8.txt
+GA, average results , 36.3,countones_ga_40-80-1-80-0.txt
+GA, average feval calls , 12081.0,countones_ga_40-80-1-80-0.txt
+GA, average time , 0.0364000082016,countones_ga_40-80-1-80-0.txt
+GA, average results , 36.9,countones_ga_40-80-1-80-8.txt
+GA, average feval calls , 12081.0,countones_ga_40-80-1-80-8.txt
+GA, average time , 0.0232000112534,countones_ga_40-80-1-80-8.txt
+GA, average results , 34.9,countones_ga_40-80-2-32-0.txt
+GA, average feval calls , 4881.0,countones_ga_40-80-2-32-0.txt
+GA, average time , 0.0166000127792,countones_ga_40-80-2-32-0.txt
+GA, average results , 36.3,countones_ga_40-80-2-32-8.txt
+GA, average feval calls , 4881.0,countones_ga_40-80-2-32-8.txt
+GA, average time , 0.0177000045776,countones_ga_40-80-2-32-8.txt
+GA, average results , 35.9,countones_ga_40-80-2-48-0.txt
+GA, average feval calls , 7281.0,countones_ga_40-80-2-48-0.txt
+GA, average time , 0.0354000091553,countones_ga_40-80-2-48-0.txt
+GA, average results , 36.3,countones_ga_40-80-2-48-8.txt
+GA, average feval calls , 7281.0,countones_ga_40-80-2-48-8.txt
+GA, average time , 0.0202999830246,countones_ga_40-80-2-48-8.txt
+GA, average results , 35.9,countones_ga_40-80-2-64-0.txt
+GA, average feval calls , 9681.0,countones_ga_40-80-2-64-0.txt
+GA, average time , 0.0176000118256,countones_ga_40-80-2-64-0.txt
+GA, average results , 36.6,countones_ga_40-80-2-64-8.txt
+GA, average feval calls , 9681.0,countones_ga_40-80-2-64-8.txt
+GA, average time , 0.0185000181198,countones_ga_40-80-2-64-8.txt
+GA, average results , 35.5,countones_ga_40-80-2-80-0.txt
+GA, average feval calls , 12081.0,countones_ga_40-80-2-80-0.txt
+GA, average time , 0.0255999803543,countones_ga_40-80-2-80-0.txt
+GA, average results , 37.6,countones_ga_40-80-2-80-8.txt
+GA, average feval calls , 12081.0,countones_ga_40-80-2-80-8.txt
+GA, average time , 0.0351999998093,countones_ga_40-80-2-80-8.txt
+GA, average results , 34.7,countones_ga_40-80-3-32-0.txt
+GA, average feval calls , 4881.0,countones_ga_40-80-3-32-0.txt
+GA, average time , 0.022000002861,countones_ga_40-80-3-32-0.txt
+GA, average results , 36.5,countones_ga_40-80-3-32-8.txt
+GA, average feval calls , 4881.0,countones_ga_40-80-3-32-8.txt
+GA, average time , 0.0194000005722,countones_ga_40-80-3-32-8.txt
+GA, average results , 34.4,countones_ga_40-80-3-48-0.txt
+GA, average feval calls , 7281.0,countones_ga_40-80-3-48-0.txt
+GA, average time , 0.0243999958038,countones_ga_40-80-3-48-0.txt
+GA, average results , 36.9,countones_ga_40-80-3-48-8.txt
+GA, average feval calls , 7281.0,countones_ga_40-80-3-48-8.txt
+GA, average time , 0.0276000022888,countones_ga_40-80-3-48-8.txt
+GA, average results , 35.8,countones_ga_40-80-3-64-0.txt
+GA, average feval calls , 9681.0,countones_ga_40-80-3-64-0.txt
+GA, average time , 0.0256000041962,countones_ga_40-80-3-64-0.txt
+GA, average results , 37.5,countones_ga_40-80-3-64-8.txt
+GA, average feval calls , 9681.0,countones_ga_40-80-3-64-8.txt
+GA, average time , 0.0255000114441,countones_ga_40-80-3-64-8.txt
+GA, average results , 36.2,countones_ga_40-80-3-80-0.txt
+GA, average feval calls , 12081.0,countones_ga_40-80-3-80-0.txt
+GA, average time , 0.0267999887466,countones_ga_40-80-3-80-0.txt
+GA, average results , 37.9,countones_ga_40-80-3-80-8.txt
+GA, average feval calls , 12081.0,countones_ga_40-80-3-80-8.txt
+GA, average time , 0.0335000038147,countones_ga_40-80-3-80-8.txt
+GA, average results , 55.1,countones_ga_60-120-1-120-0.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-1-120-0.txt
+GA, average time , 0.0400000095367,countones_ga_60-120-1-120-0.txt
+GA, average results , 56.2,countones_ga_60-120-1-120-1.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-1-120-1.txt
+GA, average time , 0.0421999931335,countones_ga_60-120-1-120-1.txt
+GA, average results , 55.2,countones_ga_60-120-1-120-12.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-1-120-12.txt
+GA, average time , 0.0429999828339,countones_ga_60-120-1-120-12.txt
+GA, average results , 50.1,countones_ga_60-120-1-48-0.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-1-48-0.txt
+GA, average time , 0.0223999977112,countones_ga_60-120-1-48-0.txt
+GA, average results , 50.1,countones_ga_60-120-1-48-1.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-1-48-1.txt
+GA, average time , 0.0268000125885,countones_ga_60-120-1-48-1.txt
+GA, average results , 52.0,countones_ga_60-120-1-48-12.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-1-48-12.txt
+GA, average time , 0.0233000040054,countones_ga_60-120-1-48-12.txt
+GA, average results , 52.4,countones_ga_60-120-1-72-0.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-1-72-0.txt
+GA, average time , 0.0321000099182,countones_ga_60-120-1-72-0.txt
+GA, average results , 52.5,countones_ga_60-120-1-72-1.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-1-72-1.txt
+GA, average time , 0.0476999998093,countones_ga_60-120-1-72-1.txt
+GA, average results , 52.7,countones_ga_60-120-1-72-12.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-1-72-12.txt
+GA, average time , 0.0217000007629,countones_ga_60-120-1-72-12.txt
+GA, average results , 54.4,countones_ga_60-120-1-96-0.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-1-96-0.txt
+GA, average time , 0.0490000009537,countones_ga_60-120-1-96-0.txt
+GA, average results , 53.3,countones_ga_60-120-1-96-1.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-1-96-1.txt
+GA, average time , 0.0395999908447,countones_ga_60-120-1-96-1.txt
+GA, average results , 54.7,countones_ga_60-120-1-96-12.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-1-96-12.txt
+GA, average time , 0.0410000085831,countones_ga_60-120-1-96-12.txt
+GA, average results , 53.7,countones_ga_60-120-2-120-0.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-2-120-0.txt
+GA, average time , 0.0410000085831,countones_ga_60-120-2-120-0.txt
+GA, average results , 55.1,countones_ga_60-120-2-120-1.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-2-120-1.txt
+GA, average time , 0.0360000133514,countones_ga_60-120-2-120-1.txt
+GA, average results , 55.2,countones_ga_60-120-2-120-12.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-2-120-12.txt
+GA, average time , 0.0500999927521,countones_ga_60-120-2-120-12.txt
+GA, average results , 51.7,countones_ga_60-120-2-48-0.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-2-48-0.txt
+GA, average time , 0.0212999820709,countones_ga_60-120-2-48-0.txt
+GA, average results , 50.3,countones_ga_60-120-2-48-1.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-2-48-1.txt
+GA, average time , 0.0647000074387,countones_ga_60-120-2-48-1.txt
+GA, average results , 52.1,countones_ga_60-120-2-48-12.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-2-48-12.txt
+GA, average time , 0.0263999938965,countones_ga_60-120-2-48-12.txt
+GA, average results , 51.9,countones_ga_60-120-2-72-0.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-2-72-0.txt
+GA, average time , 0.0261000156403,countones_ga_60-120-2-72-0.txt
+GA, average results , 52.6,countones_ga_60-120-2-72-1.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-2-72-1.txt
+GA, average time , 0.0200000047684,countones_ga_60-120-2-72-1.txt
+GA, average results , 53.2,countones_ga_60-120-2-72-12.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-2-72-12.txt
+GA, average time , 0.0259000062943,countones_ga_60-120-2-72-12.txt
+GA, average results , 54.0,countones_ga_60-120-2-96-0.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-2-96-0.txt
+GA, average time , 0.0276000022888,countones_ga_60-120-2-96-0.txt
+GA, average results , 52.9,countones_ga_60-120-2-96-1.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-2-96-1.txt
+GA, average time , 0.0801999807358,countones_ga_60-120-2-96-1.txt
+GA, average results , 54.6,countones_ga_60-120-2-96-12.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-2-96-12.txt
+GA, average time , 0.0259000062943,countones_ga_60-120-2-96-12.txt
+GA, average results , 53.8,countones_ga_60-120-3-120-0.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-3-120-0.txt
+GA, average time , 0.0458000183105,countones_ga_60-120-3-120-0.txt
+GA, average results , 54.6,countones_ga_60-120-3-120-1.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-3-120-1.txt
+GA, average time , 0.031500005722,countones_ga_60-120-3-120-1.txt
+GA, average results , 55.0,countones_ga_60-120-3-120-12.txt
+GA, average feval calls , 18121.0,countones_ga_60-120-3-120-12.txt
+GA, average time , 0.0336999893188,countones_ga_60-120-3-120-12.txt
+GA, average results , 50.7,countones_ga_60-120-3-48-0.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-3-48-0.txt
+GA, average time , 0.0210000038147,countones_ga_60-120-3-48-0.txt
+GA, average results , 52.2,countones_ga_60-120-3-48-1.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-3-48-1.txt
+GA, average time , 0.0235999822617,countones_ga_60-120-3-48-1.txt
+GA, average results , 52.9,countones_ga_60-120-3-48-12.txt
+GA, average feval calls , 7321.0,countones_ga_60-120-3-48-12.txt
+GA, average time , 0.0179000139236,countones_ga_60-120-3-48-12.txt
+GA, average results , 53.5,countones_ga_60-120-3-72-0.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-3-72-0.txt
+GA, average time , 0.0378000020981,countones_ga_60-120-3-72-0.txt
+GA, average results , 52.6,countones_ga_60-120-3-72-1.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-3-72-1.txt
+GA, average time , 0.0391000032425,countones_ga_60-120-3-72-1.txt
+GA, average results , 53.0,countones_ga_60-120-3-72-12.txt
+GA, average feval calls , 10921.0,countones_ga_60-120-3-72-12.txt
+GA, average time , 0.0335999965668,countones_ga_60-120-3-72-12.txt
+GA, average results , 53.2,countones_ga_60-120-3-96-0.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-3-96-0.txt
+GA, average time , 0.0271000146866,countones_ga_60-120-3-96-0.txt
+GA, average results , 54.0,countones_ga_60-120-3-96-1.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-3-96-1.txt
+GA, average time , 0.0329999923706,countones_ga_60-120-3-96-1.txt
+GA, average results , 54.3,countones_ga_60-120-3-96-12.txt
+GA, average feval calls , 14521.0,countones_ga_60-120-3-96-12.txt
+GA, average time , 0.0384000062943,countones_ga_60-120-3-96-12.txt
+GA, average results , 57.8,countones_ga_60-240-1-144-0.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-1-144-0.txt
+GA, average time , 0.0415999889374,countones_ga_60-240-1-144-0.txt
+GA, average results , 56.9,countones_ga_60-240-1-144-2.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-1-144-2.txt
+GA, average time , 0.0420000076294,countones_ga_60-240-1-144-2.txt
+GA, average results , 56.4,countones_ga_60-240-1-144-24.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-1-144-24.txt
+GA, average time , 0.0396000146866,countones_ga_60-240-1-144-24.txt
+GA, average results , 58.7,countones_ga_60-240-1-192-0.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-1-192-0.txt
+GA, average time , 0.0614000082016,countones_ga_60-240-1-192-0.txt
+GA, average results , 57.4,countones_ga_60-240-1-192-2.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-1-192-2.txt
+GA, average time , 0.0391999959946,countones_ga_60-240-1-192-2.txt
+GA, average results , 57.4,countones_ga_60-240-1-192-24.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-1-192-24.txt
+GA, average time , 0.0894999980927,countones_ga_60-240-1-192-24.txt
+GA, average results , 59.1,countones_ga_60-240-1-240-0.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-1-240-0.txt
+GA, average time , 0.0544000148773,countones_ga_60-240-1-240-0.txt
+GA, average results , 58.8,countones_ga_60-240-1-240-2.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-1-240-2.txt
+GA, average time , 0.0760999917984,countones_ga_60-240-1-240-2.txt
+GA, average results , 58.3,countones_ga_60-240-1-240-24.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-1-240-24.txt
+GA, average time , 0.0760999917984,countones_ga_60-240-1-240-24.txt
+GA, average results , 55.9,countones_ga_60-240-1-96-0.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-1-96-0.txt
+GA, average time , 0.0429999828339,countones_ga_60-240-1-96-0.txt
+GA, average results , 56.0,countones_ga_60-240-1-96-2.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-1-96-2.txt
+GA, average time , 0.0276999950409,countones_ga_60-240-1-96-2.txt
+GA, average results , 55.6,countones_ga_60-240-1-96-24.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-1-96-24.txt
+GA, average time , 0.0444999933243,countones_ga_60-240-1-96-24.txt
+GA, average results , 57.2,countones_ga_60-240-2-144-0.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-2-144-0.txt
+GA, average time , 0.0410000085831,countones_ga_60-240-2-144-0.txt
+GA, average results , 57.3,countones_ga_60-240-2-144-2.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-2-144-2.txt
+GA, average time , 0.0429999828339,countones_ga_60-240-2-144-2.txt
+GA, average results , 57.5,countones_ga_60-240-2-144-24.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-2-144-24.txt
+GA, average time , 0.0513999938965,countones_ga_60-240-2-144-24.txt
+GA, average results , 58.1,countones_ga_60-240-2-192-0.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-2-192-0.txt
+GA, average time , 0.0493000030518,countones_ga_60-240-2-192-0.txt
+GA, average results , 58.0,countones_ga_60-240-2-192-2.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-2-192-2.txt
+GA, average time , 0.0513000011444,countones_ga_60-240-2-192-2.txt
+GA, average results , 57.3,countones_ga_60-240-2-192-24.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-2-192-24.txt
+GA, average time , 0.0398000001907,countones_ga_60-240-2-192-24.txt
+GA, average results , 58.7,countones_ga_60-240-2-240-0.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-2-240-0.txt
+GA, average time , 0.0706000089645,countones_ga_60-240-2-240-0.txt
+GA, average results , 58.6,countones_ga_60-240-2-240-2.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-2-240-2.txt
+GA, average time , 0.0726999998093,countones_ga_60-240-2-240-2.txt
+GA, average results , 57.9,countones_ga_60-240-2-240-24.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-2-240-24.txt
+GA, average time , 0.0730999946594,countones_ga_60-240-2-240-24.txt
+GA, average results , 56.1,countones_ga_60-240-2-96-0.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-2-96-0.txt
+GA, average time , 0.0315999984741,countones_ga_60-240-2-96-0.txt
+GA, average results , 55.2,countones_ga_60-240-2-96-2.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-2-96-2.txt
+GA, average time , 0.0317999839783,countones_ga_60-240-2-96-2.txt
+GA, average results , 55.6,countones_ga_60-240-2-96-24.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-2-96-24.txt
+GA, average time , 0.0303999900818,countones_ga_60-240-2-96-24.txt
+GA, average results , 57.3,countones_ga_60-240-3-144-0.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-3-144-0.txt
+GA, average time , 0.0537000179291,countones_ga_60-240-3-144-0.txt
+GA, average results , 57.0,countones_ga_60-240-3-144-2.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-3-144-2.txt
+GA, average time , 0.0588999986649,countones_ga_60-240-3-144-2.txt
+GA, average results , 57.1,countones_ga_60-240-3-144-24.txt
+GA, average feval calls , 21841.0,countones_ga_60-240-3-144-24.txt
+GA, average time , 0.0522000074387,countones_ga_60-240-3-144-24.txt
+GA, average results , 58.3,countones_ga_60-240-3-192-0.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-3-192-0.txt
+GA, average time , 0.0559000015259,countones_ga_60-240-3-192-0.txt
+GA, average results , 57.5,countones_ga_60-240-3-192-2.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-3-192-2.txt
+GA, average time , 0.053200006485,countones_ga_60-240-3-192-2.txt
+GA, average results , 57.8,countones_ga_60-240-3-192-24.txt
+GA, average feval calls , 29041.0,countones_ga_60-240-3-192-24.txt
+GA, average time , 0.0536000013351,countones_ga_60-240-3-192-24.txt
+GA, average results , 58.1,countones_ga_60-240-3-240-0.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-3-240-0.txt
+GA, average time , 0.0621000051498,countones_ga_60-240-3-240-0.txt
+GA, average results , 58.1,countones_ga_60-240-3-240-2.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-3-240-2.txt
+GA, average time , 0.055999994278,countones_ga_60-240-3-240-2.txt
+GA, average results , 57.6,countones_ga_60-240-3-240-24.txt
+GA, average feval calls , 36241.0,countones_ga_60-240-3-240-24.txt
+GA, average time , 0.065399980545,countones_ga_60-240-3-240-24.txt
+GA, average results , 56.5,countones_ga_60-240-3-96-0.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-3-96-0.txt
+GA, average time , 0.0358000040054,countones_ga_60-240-3-96-0.txt
+GA, average results , 56.4,countones_ga_60-240-3-96-2.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-3-96-2.txt
+GA, average time , 0.0324000120163,countones_ga_60-240-3-96-2.txt
+GA, average results , 56.8,countones_ga_60-240-3-96-24.txt
+GA, average feval calls , 14641.0,countones_ga_60-240-3-96-24.txt
+GA, average time , 0.0296000003815,countones_ga_60-240-3-96-24.txt
+GA, average results , 38.3,countones_ga_60-30-1-12-0.txt
+GA, average feval calls , 1831.0,countones_ga_60-30-1-12-0.txt
+GA, average time , 0.0128999948502,countones_ga_60-30-1-12-0.txt
+GA, average results , 42.7,countones_ga_60-30-1-12-3.txt
+GA, average feval calls , 1831.0,countones_ga_60-30-1-12-3.txt
+GA, average time , 0.0229000091553,countones_ga_60-30-1-12-3.txt
+GA, average results , 39.2,countones_ga_60-30-1-18-0.txt
+GA, average feval calls , 2731.0,countones_ga_60-30-1-18-0.txt
+GA, average time , 0.0177999973297,countones_ga_60-30-1-18-0.txt
+GA, average results , 43.3,countones_ga_60-30-1-18-3.txt
+GA, average feval calls , 2731.0,countones_ga_60-30-1-18-3.txt
+GA, average time , 0.0164999961853,countones_ga_60-30-1-18-3.txt
+GA, average results , 40.8,countones_ga_60-30-1-24-0.txt
+GA, average feval calls , 3631.0,countones_ga_60-30-1-24-0.txt
+GA, average time , 0.0151000022888,countones_ga_60-30-1-24-0.txt
+GA, average results , 41.9,countones_ga_60-30-1-24-3.txt
+GA, average feval calls , 3631.0,countones_ga_60-30-1-24-3.txt
+GA, average time , 0.0171000003815,countones_ga_60-30-1-24-3.txt
+GA, average results , 40.3,countones_ga_60-30-1-30-0.txt
+GA, average feval calls , 4531.0,countones_ga_60-30-1-30-0.txt
+GA, average time , 0.0311000108719,countones_ga_60-30-1-30-0.txt
+GA, average results , 43.3,countones_ga_60-30-1-30-3.txt
+GA, average feval calls , 4531.0,countones_ga_60-30-1-30-3.txt
+GA, average time , 0.0138999938965,countones_ga_60-30-1-30-3.txt
+GA, average results , 40.0,countones_ga_60-30-2-12-0.txt
+GA, average feval calls , 1831.0,countones_ga_60-30-2-12-0.txt
+GA, average time , 0.0203999996185,countones_ga_60-30-2-12-0.txt
+GA, average results , 43.6,countones_ga_60-30-2-12-3.txt
+GA, average feval calls , 1831.0,countones_ga_60-30-2-12-3.txt
+GA, average time , 0.0148000001907,countones_ga_60-30-2-12-3.txt
+GA, average results , 38.8,countones_ga_60-30-2-18-0.txt
+GA, average feval calls , 2731.0,countones_ga_60-30-2-18-0.txt
+GA, average time , 0.0147000074387,countones_ga_60-30-2-18-0.txt
+GA, average results , 41.9,countones_ga_60-30-2-18-3.txt
+GA, average feval calls , 2731.0,countones_ga_60-30-2-18-3.txt
+GA, average time , 0.025200009346,countones_ga_60-30-2-18-3.txt
+GA, average results , 40.1,countones_ga_60-30-2-24-0.txt
+GA, average feval calls , 3631.0,countones_ga_60-30-2-24-0.txt
+GA, average time , 0.0145999908447,countones_ga_60-30-2-24-0.txt
+GA, average results , 42.8,countones_ga_60-30-2-24-3.txt
+GA, average feval calls , 3631.0,countones_ga_60-30-2-24-3.txt
+GA, average time , 0.0180000066757,countones_ga_60-30-2-24-3.txt
+GA, average results , 38.1,countones_ga_60-30-2-30-0.txt
+GA, average feval calls , 4531.0,countones_ga_60-30-2-30-0.txt
+GA, average time , 0.0197999954224,countones_ga_60-30-2-30-0.txt
+GA, average results , 41.9,countones_ga_60-30-2-30-3.txt
+GA, average feval calls , 4531.0,countones_ga_60-30-2-30-3.txt
+GA, average time , 0.0259999990463,countones_ga_60-30-2-30-3.txt
+GA, average results , 38.2,countones_ga_60-30-3-12-0.txt
+GA, average feval calls , 1831.0,countones_ga_60-30-3-12-0.txt
+GA, average time , 0.0104000091553,countones_ga_60-30-3-12-0.txt
+GA, average results , 42.1,countones_ga_60-30-3-12-3.txt
+GA, average feval calls , 1831.0,countones_ga_60-30-3-12-3.txt
+GA, average time , 0.00989999771118,countones_ga_60-30-3-12-3.txt
+GA, average results , 39.3,countones_ga_60-30-3-18-0.txt
+GA, average feval calls , 2731.0,countones_ga_60-30-3-18-0.txt
+GA, average time , 0.0134999990463,countones_ga_60-30-3-18-0.txt
+GA, average results , 42.3,countones_ga_60-30-3-18-3.txt
+GA, average feval calls , 2731.0,countones_ga_60-30-3-18-3.txt
+GA, average time , 0.0113000154495,countones_ga_60-30-3-18-3.txt
+GA, average results , 42.8,countones_ga_60-30-3-24-0.txt
+GA, average feval calls , 3631.0,countones_ga_60-30-3-24-0.txt
+GA, average time , 0.015900015831,countones_ga_60-30-3-24-0.txt
+GA, average results , 42.2,countones_ga_60-30-3-24-3.txt
+GA, average feval calls , 3631.0,countones_ga_60-30-3-24-3.txt
+GA, average time , 0.0253999948502,countones_ga_60-30-3-24-3.txt
+GA, average results , 39.8,countones_ga_60-30-3-30-0.txt
+GA, average feval calls , 4531.0,countones_ga_60-30-3-30-0.txt
+GA, average time , 0.0286000013351,countones_ga_60-30-3-30-0.txt
+GA, average results , 43.1,countones_ga_60-30-3-30-3.txt
+GA, average feval calls , 4531.0,countones_ga_60-30-3-30-3.txt
+GA, average time , 0.0161999940872,countones_ga_60-30-3-30-3.txt
+GA, average results , 44.7,countones_ga_60-60-1-24-0.txt
+GA, average feval calls , 3661.0,countones_ga_60-60-1-24-0.txt
+GA, average time , 0.0138999938965,countones_ga_60-60-1-24-0.txt
+GA, average results , 48.1,countones_ga_60-60-1-24-6.txt
+GA, average feval calls , 3661.0,countones_ga_60-60-1-24-6.txt
+GA, average time , 0.0228999853134,countones_ga_60-60-1-24-6.txt
+GA, average results , 45.7,countones_ga_60-60-1-36-0.txt
+GA, average feval calls , 5461.0,countones_ga_60-60-1-36-0.txt
+GA, average time , 0.0255000114441,countones_ga_60-60-1-36-0.txt
+GA, average results , 47.8,countones_ga_60-60-1-36-6.txt
+GA, average feval calls , 5461.0,countones_ga_60-60-1-36-6.txt
+GA, average time , 0.0174999952316,countones_ga_60-60-1-36-6.txt
+GA, average results , 46.7,countones_ga_60-60-1-48-0.txt
+GA, average feval calls , 7261.0,countones_ga_60-60-1-48-0.txt
+GA, average time , 0.0214999914169,countones_ga_60-60-1-48-0.txt
+GA, average results , 48.2,countones_ga_60-60-1-48-6.txt
+GA, average feval calls , 7261.0,countones_ga_60-60-1-48-6.txt
+GA, average time , 0.0279000043869,countones_ga_60-60-1-48-6.txt
+GA, average results , 47.9,countones_ga_60-60-1-60-0.txt
+GA, average feval calls , 9061.0,countones_ga_60-60-1-60-0.txt
+GA, average time , 0.0266999959946,countones_ga_60-60-1-60-0.txt
+GA, average results , 49.3,countones_ga_60-60-1-60-6.txt
+GA, average feval calls , 9061.0,countones_ga_60-60-1-60-6.txt
+GA, average time , 0.0386999845505,countones_ga_60-60-1-60-6.txt
+GA, average results , 44.2,countones_ga_60-60-2-24-0.txt
+GA, average feval calls , 3661.0,countones_ga_60-60-2-24-0.txt
+GA, average time , 0.0219000101089,countones_ga_60-60-2-24-0.txt
+GA, average results , 47.1,countones_ga_60-60-2-24-6.txt
+GA, average feval calls , 3661.0,countones_ga_60-60-2-24-6.txt
+GA, average time , 0.019000005722,countones_ga_60-60-2-24-6.txt
+GA, average results , 45.9,countones_ga_60-60-2-36-0.txt
+GA, average feval calls , 5461.0,countones_ga_60-60-2-36-0.txt
+GA, average time , 0.0155000209808,countones_ga_60-60-2-36-0.txt
+GA, average results , 49.0,countones_ga_60-60-2-36-6.txt
+GA, average feval calls , 5461.0,countones_ga_60-60-2-36-6.txt
+GA, average time , 0.0144999980927,countones_ga_60-60-2-36-6.txt
+GA, average results , 47.5,countones_ga_60-60-2-48-0.txt
+GA, average feval calls , 7261.0,countones_ga_60-60-2-48-0.txt
+GA, average time , 0.0267999887466,countones_ga_60-60-2-48-0.txt
+GA, average results , 48.7,countones_ga_60-60-2-48-6.txt
+GA, average feval calls , 7261.0,countones_ga_60-60-2-48-6.txt
+GA, average time , 0.0215000152588,countones_ga_60-60-2-48-6.txt
+GA, average results , 47.4,countones_ga_60-60-2-60-0.txt
+GA, average feval calls , 9061.0,countones_ga_60-60-2-60-0.txt
+GA, average time , 0.0367000102997,countones_ga_60-60-2-60-0.txt
+GA, average results , 49.3,countones_ga_60-60-2-60-6.txt
+GA, average feval calls , 9061.0,countones_ga_60-60-2-60-6.txt
+GA, average time , 0.0348999977112,countones_ga_60-60-2-60-6.txt
+GA, average results , 44.3,countones_ga_60-60-3-24-0.txt
+GA, average feval calls , 3661.0,countones_ga_60-60-3-24-0.txt
+GA, average time , 0.0128000020981,countones_ga_60-60-3-24-0.txt
+GA, average results , 48.2,countones_ga_60-60-3-24-6.txt
+GA, average feval calls , 3661.0,countones_ga_60-60-3-24-6.txt
+GA, average time , 0.0183000087738,countones_ga_60-60-3-24-6.txt
+GA, average results , 44.7,countones_ga_60-60-3-36-0.txt
+GA, average feval calls , 5461.0,countones_ga_60-60-3-36-0.txt
+GA, average time , 0.0200000047684,countones_ga_60-60-3-36-0.txt
+GA, average results , 48.6,countones_ga_60-60-3-36-6.txt
+GA, average feval calls , 5461.0,countones_ga_60-60-3-36-6.txt
+GA, average time , 0.0246999979019,countones_ga_60-60-3-36-6.txt
+GA, average results , 47.0,countones_ga_60-60-3-48-0.txt
+GA, average feval calls , 7261.0,countones_ga_60-60-3-48-0.txt
+GA, average time , 0.0153000116348,countones_ga_60-60-3-48-0.txt
+GA, average results , 48.8,countones_ga_60-60-3-48-6.txt
+GA, average feval calls , 7261.0,countones_ga_60-60-3-48-6.txt
+GA, average time , 0.0241999864578,countones_ga_60-60-3-48-6.txt
+GA, average results , 47.7,countones_ga_60-60-3-60-0.txt
+GA, average feval calls , 9061.0,countones_ga_60-60-3-60-0.txt
+GA, average time , 0.0236000061035,countones_ga_60-60-3-60-0.txt
+GA, average results , 48.8,countones_ga_60-60-3-60-6.txt
+GA, average feval calls , 9061.0,countones_ga_60-60-3-60-6.txt
+GA, average time , 0.0348000049591,countones_ga_60-60-3-60-6.txt
+GA, average results , 70.1,countones_ga_80-160-1-128-0.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-1-128-0.txt
+GA, average time , 0.0539000034332,countones_ga_80-160-1-128-0.txt
+GA, average results , 71.5,countones_ga_80-160-1-128-1.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-1-128-1.txt
+GA, average time , 0.0414000034332,countones_ga_80-160-1-128-1.txt
+GA, average results , 69.0,countones_ga_80-160-1-128-16.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-1-128-16.txt
+GA, average time , 0.0613999843597,countones_ga_80-160-1-128-16.txt
+GA, average results , 71.4,countones_ga_80-160-1-160-0.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-1-160-0.txt
+GA, average time , 0.0533999919891,countones_ga_80-160-1-160-0.txt
+GA, average results , 71.9,countones_ga_80-160-1-160-1.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-1-160-1.txt
+GA, average time , 0.0582000017166,countones_ga_80-160-1-160-1.txt
+GA, average results , 70.7,countones_ga_80-160-1-160-16.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-1-160-16.txt
+GA, average time , 0.0661000013351,countones_ga_80-160-1-160-16.txt
+GA, average results , 66.5,countones_ga_80-160-1-64-0.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-1-64-0.txt
+GA, average time , 0.0793000221252,countones_ga_80-160-1-64-0.txt
+GA, average results , 66.6,countones_ga_80-160-1-64-1.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-1-64-1.txt
+GA, average time , 0.0435000181198,countones_ga_80-160-1-64-1.txt
+GA, average results , 67.4,countones_ga_80-160-1-64-16.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-1-64-16.txt
+GA, average time , 0.0423000097275,countones_ga_80-160-1-64-16.txt
+GA, average results , 67.0,countones_ga_80-160-1-96-0.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-1-96-0.txt
+GA, average time , 0.0428999900818,countones_ga_80-160-1-96-0.txt
+GA, average results , 69.2,countones_ga_80-160-1-96-1.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-1-96-1.txt
+GA, average time , 0.0449000120163,countones_ga_80-160-1-96-1.txt
+GA, average results , 69.5,countones_ga_80-160-1-96-16.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-1-96-16.txt
+GA, average time , 0.0375,countones_ga_80-160-1-96-16.txt
+GA, average results , 69.9,countones_ga_80-160-2-128-0.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-2-128-0.txt
+GA, average time , 0.0418999910355,countones_ga_80-160-2-128-0.txt
+GA, average results , 71.3,countones_ga_80-160-2-128-1.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-2-128-1.txt
+GA, average time , 0.0554000139236,countones_ga_80-160-2-128-1.txt
+GA, average results , 69.5,countones_ga_80-160-2-128-16.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-2-128-16.txt
+GA, average time , 0.0476999998093,countones_ga_80-160-2-128-16.txt
+GA, average results , 70.5,countones_ga_80-160-2-160-0.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-2-160-0.txt
+GA, average time , 0.0667000055313,countones_ga_80-160-2-160-0.txt
+GA, average results , 70.8,countones_ga_80-160-2-160-1.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-2-160-1.txt
+GA, average time , 0.0633999824524,countones_ga_80-160-2-160-1.txt
+GA, average results , 71.2,countones_ga_80-160-2-160-16.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-2-160-16.txt
+GA, average time , 0.0554999828339,countones_ga_80-160-2-160-16.txt
+GA, average results , 67.1,countones_ga_80-160-2-64-0.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-2-64-0.txt
+GA, average time , 0.0298000097275,countones_ga_80-160-2-64-0.txt
+GA, average results , 67.9,countones_ga_80-160-2-64-1.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-2-64-1.txt
+GA, average time , 0.0334999799728,countones_ga_80-160-2-64-1.txt
+GA, average results , 68.9,countones_ga_80-160-2-64-16.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-2-64-16.txt
+GA, average time , 0.0351000070572,countones_ga_80-160-2-64-16.txt
+GA, average results , 67.7,countones_ga_80-160-2-96-0.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-2-96-0.txt
+GA, average time , 0.040499997139,countones_ga_80-160-2-96-0.txt
+GA, average results , 69.4,countones_ga_80-160-2-96-1.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-2-96-1.txt
+GA, average time , 0.0374000072479,countones_ga_80-160-2-96-1.txt
+GA, average results , 67.1,countones_ga_80-160-2-96-16.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-2-96-16.txt
+GA, average time , 0.0585000038147,countones_ga_80-160-2-96-16.txt
+GA, average results , 70.1,countones_ga_80-160-3-128-0.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-3-128-0.txt
+GA, average time , 0.0444000005722,countones_ga_80-160-3-128-0.txt
+GA, average results , 70.3,countones_ga_80-160-3-128-1.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-3-128-1.txt
+GA, average time , 0.0577999830246,countones_ga_80-160-3-128-1.txt
+GA, average results , 70.0,countones_ga_80-160-3-128-16.txt
+GA, average feval calls , 19361.0,countones_ga_80-160-3-128-16.txt
+GA, average time , 0.0569000005722,countones_ga_80-160-3-128-16.txt
+GA, average results , 70.8,countones_ga_80-160-3-160-0.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-3-160-0.txt
+GA, average time , 0.0581000089645,countones_ga_80-160-3-160-0.txt
+GA, average results , 71.1,countones_ga_80-160-3-160-1.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-3-160-1.txt
+GA, average time , 0.0638000011444,countones_ga_80-160-3-160-1.txt
+GA, average results , 70.3,countones_ga_80-160-3-160-16.txt
+GA, average feval calls , 24161.0,countones_ga_80-160-3-160-16.txt
+GA, average time , 0.0611000061035,countones_ga_80-160-3-160-16.txt
+GA, average results , 67.1,countones_ga_80-160-3-64-0.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-3-64-0.txt
+GA, average time , 0.0256000041962,countones_ga_80-160-3-64-0.txt
+GA, average results , 65.9,countones_ga_80-160-3-64-1.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-3-64-1.txt
+GA, average time , 0.0346999883652,countones_ga_80-160-3-64-1.txt
+GA, average results , 67.4,countones_ga_80-160-3-64-16.txt
+GA, average feval calls , 9761.0,countones_ga_80-160-3-64-16.txt
+GA, average time , 0.0310000181198,countones_ga_80-160-3-64-16.txt
+GA, average results , 68.3,countones_ga_80-160-3-96-0.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-3-96-0.txt
+GA, average time , 0.0384999990463,countones_ga_80-160-3-96-0.txt
+GA, average results , 69.0,countones_ga_80-160-3-96-1.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-3-96-1.txt
+GA, average time , 0.0361000061035,countones_ga_80-160-3-96-1.txt
+GA, average results , 68.2,countones_ga_80-160-3-96-16.txt
+GA, average feval calls , 14561.0,countones_ga_80-160-3-96-16.txt
+GA, average time , 0.0618999958038,countones_ga_80-160-3-96-16.txt
+GA, average results , 73.1,countones_ga_80-320-1-128-0.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-1-128-0.txt
+GA, average time , 0.0965000152588,countones_ga_80-320-1-128-0.txt
+GA, average results , 72.1,countones_ga_80-320-1-128-3.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-1-128-3.txt
+GA, average time , 0.0547999858856,countones_ga_80-320-1-128-3.txt
+GA, average results , 70.7,countones_ga_80-320-1-128-32.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-1-128-32.txt
+GA, average time , 0.0600000143051,countones_ga_80-320-1-128-32.txt
+GA, average results , 73.9,countones_ga_80-320-1-192-0.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-1-192-0.txt
+GA, average time , 0.0593999862671,countones_ga_80-320-1-192-0.txt
+GA, average results , 74.1,countones_ga_80-320-1-192-3.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-1-192-3.txt
+GA, average time , 0.0565999984741,countones_ga_80-320-1-192-3.txt
+GA, average results , 73.4,countones_ga_80-320-1-192-32.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-1-192-32.txt
+GA, average time , 0.0654000043869,countones_ga_80-320-1-192-32.txt
+GA, average results , 75.4,countones_ga_80-320-1-256-0.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-1-256-0.txt
+GA, average time , 0.0875,countones_ga_80-320-1-256-0.txt
+GA, average results , 75.3,countones_ga_80-320-1-256-3.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-1-256-3.txt
+GA, average time , 0.0913999795914,countones_ga_80-320-1-256-3.txt
+GA, average results , 74.2,countones_ga_80-320-1-256-32.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-1-256-32.txt
+GA, average time , 0.0924999952316,countones_ga_80-320-1-256-32.txt
+GA, average results , 76.2,countones_ga_80-320-1-320-0.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-1-320-0.txt
+GA, average time , 0.0993000030518,countones_ga_80-320-1-320-0.txt
+GA, average results , 75.7,countones_ga_80-320-1-320-3.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-1-320-3.txt
+GA, average time , 0.105599999428,countones_ga_80-320-1-320-3.txt
+GA, average results , 74.9,countones_ga_80-320-1-320-32.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-1-320-32.txt
+GA, average time , 0.152799987793,countones_ga_80-320-1-320-32.txt
+GA, average results , 73.1,countones_ga_80-320-2-128-0.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-2-128-0.txt
+GA, average time , 0.0507999897003,countones_ga_80-320-2-128-0.txt
+GA, average results , 73.0,countones_ga_80-320-2-128-3.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-2-128-3.txt
+GA, average time , 0.0615000009537,countones_ga_80-320-2-128-3.txt
+GA, average results , 72.5,countones_ga_80-320-2-128-32.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-2-128-32.txt
+GA, average time , 0.0519999980927,countones_ga_80-320-2-128-32.txt
+GA, average results , 74.0,countones_ga_80-320-2-192-0.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-2-192-0.txt
+GA, average time , 0.0986999988556,countones_ga_80-320-2-192-0.txt
+GA, average results , 73.5,countones_ga_80-320-2-192-3.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-2-192-3.txt
+GA, average time , 0.0624000072479,countones_ga_80-320-2-192-3.txt
+GA, average results , 73.3,countones_ga_80-320-2-192-32.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-2-192-32.txt
+GA, average time , 0.0743999958038,countones_ga_80-320-2-192-32.txt
+GA, average results , 74.2,countones_ga_80-320-2-256-0.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-2-256-0.txt
+GA, average time , 0.115100002289,countones_ga_80-320-2-256-0.txt
+GA, average results , 75.2,countones_ga_80-320-2-256-3.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-2-256-3.txt
+GA, average time , 0.093700003624,countones_ga_80-320-2-256-3.txt
+GA, average results , 74.4,countones_ga_80-320-2-256-32.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-2-256-32.txt
+GA, average time , 0.105399990082,countones_ga_80-320-2-256-32.txt
+GA, average results , 75.6,countones_ga_80-320-2-320-0.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-2-320-0.txt
+GA, average time , 0.128699994087,countones_ga_80-320-2-320-0.txt
+GA, average results , 76.1,countones_ga_80-320-2-320-3.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-2-320-3.txt
+GA, average time , 0.0980999946594,countones_ga_80-320-2-320-3.txt
+GA, average results , 74.8,countones_ga_80-320-2-320-32.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-2-320-32.txt
+GA, average time , 0.08109998703,countones_ga_80-320-2-320-32.txt
+GA, average results , 72.3,countones_ga_80-320-3-128-0.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-3-128-0.txt
+GA, average time , 0.0539000034332,countones_ga_80-320-3-128-0.txt
+GA, average results , 71.4,countones_ga_80-320-3-128-3.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-3-128-3.txt
+GA, average time , 0.0459000110626,countones_ga_80-320-3-128-3.txt
+GA, average results , 72.2,countones_ga_80-320-3-128-32.txt
+GA, average feval calls , 19521.0,countones_ga_80-320-3-128-32.txt
+GA, average time , 0.101999998093,countones_ga_80-320-3-128-32.txt
+GA, average results , 74.5,countones_ga_80-320-3-192-0.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-3-192-0.txt
+GA, average time , 0.102799987793,countones_ga_80-320-3-192-0.txt
+GA, average results , 73.9,countones_ga_80-320-3-192-3.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-3-192-3.txt
+GA, average time , 0.133500003815,countones_ga_80-320-3-192-3.txt
+GA, average results , 74.2,countones_ga_80-320-3-192-32.txt
+GA, average feval calls , 29121.0,countones_ga_80-320-3-192-32.txt
+GA, average time , 0.0808000087738,countones_ga_80-320-3-192-32.txt
+GA, average results , 74.5,countones_ga_80-320-3-256-0.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-3-256-0.txt
+GA, average time , 0.0726000070572,countones_ga_80-320-3-256-0.txt
+GA, average results , 74.8,countones_ga_80-320-3-256-3.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-3-256-3.txt
+GA, average time , 0.0950000047684,countones_ga_80-320-3-256-3.txt
+GA, average results , 74.3,countones_ga_80-320-3-256-32.txt
+GA, average feval calls , 38721.0,countones_ga_80-320-3-256-32.txt
+GA, average time , 0.141300010681,countones_ga_80-320-3-256-32.txt
+GA, average results , 75.4,countones_ga_80-320-3-320-0.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-3-320-0.txt
+GA, average time , 0.101999998093,countones_ga_80-320-3-320-0.txt
+GA, average results , 76.6,countones_ga_80-320-3-320-3.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-3-320-3.txt
+GA, average time , 0.129600000381,countones_ga_80-320-3-320-3.txt
+GA, average results , 76.3,countones_ga_80-320-3-320-32.txt
+GA, average feval calls , 48321.0,countones_ga_80-320-3-320-32.txt
+GA, average time , 0.0796999931335,countones_ga_80-320-3-320-32.txt
+GA, average results , 52.3,countones_ga_80-40-1-16-0.txt
+GA, average feval calls , 2441.0,countones_ga_80-40-1-16-0.txt
+GA, average time , 0.0202999830246,countones_ga_80-40-1-16-0.txt
+GA, average results , 53.9,countones_ga_80-40-1-16-4.txt
+GA, average feval calls , 2441.0,countones_ga_80-40-1-16-4.txt
+GA, average time , 0.0207000017166,countones_ga_80-40-1-16-4.txt
+GA, average results , 51.6,countones_ga_80-40-1-24-0.txt
+GA, average feval calls , 3641.0,countones_ga_80-40-1-24-0.txt
+GA, average time , 0.015700006485,countones_ga_80-40-1-24-0.txt
+GA, average results , 57.0,countones_ga_80-40-1-24-4.txt
+GA, average feval calls , 3641.0,countones_ga_80-40-1-24-4.txt
+GA, average time , 0.0144000053406,countones_ga_80-40-1-24-4.txt
+GA, average results , 53.9,countones_ga_80-40-1-32-0.txt
+GA, average feval calls , 4841.0,countones_ga_80-40-1-32-0.txt
+GA, average time , 0.024799990654,countones_ga_80-40-1-32-0.txt
+GA, average results , 55.1,countones_ga_80-40-1-32-4.txt
+GA, average feval calls , 4841.0,countones_ga_80-40-1-32-4.txt
+GA, average time , 0.0253000020981,countones_ga_80-40-1-32-4.txt
+GA, average results , 52.6,countones_ga_80-40-1-40-0.txt
+GA, average feval calls , 6041.0,countones_ga_80-40-1-40-0.txt
+GA, average time , 0.0190999984741,countones_ga_80-40-1-40-0.txt
+GA, average results , 57.7,countones_ga_80-40-1-40-4.txt
+GA, average feval calls , 6041.0,countones_ga_80-40-1-40-4.txt
+GA, average time , 0.018499994278,countones_ga_80-40-1-40-4.txt
+GA, average results , 51.7,countones_ga_80-40-2-16-0.txt
+GA, average feval calls , 2441.0,countones_ga_80-40-2-16-0.txt
+GA, average time , 0.0131000041962,countones_ga_80-40-2-16-0.txt
+GA, average results , 54.4,countones_ga_80-40-2-16-4.txt
+GA, average feval calls , 2441.0,countones_ga_80-40-2-16-4.txt
+GA, average time , 0.0269999980927,countones_ga_80-40-2-16-4.txt
+GA, average results , 53.4,countones_ga_80-40-2-24-0.txt
+GA, average feval calls , 3641.0,countones_ga_80-40-2-24-0.txt
+GA, average time , 0.0138000011444,countones_ga_80-40-2-24-0.txt
+GA, average results , 56.9,countones_ga_80-40-2-24-4.txt
+GA, average feval calls , 3641.0,countones_ga_80-40-2-24-4.txt
+GA, average time , 0.0240000009537,countones_ga_80-40-2-24-4.txt
+GA, average results , 52.2,countones_ga_80-40-2-32-0.txt
+GA, average feval calls , 4841.0,countones_ga_80-40-2-32-0.txt
+GA, average time , 0.0178999900818,countones_ga_80-40-2-32-0.txt
+GA, average results , 56.0,countones_ga_80-40-2-32-4.txt
+GA, average feval calls , 4841.0,countones_ga_80-40-2-32-4.txt
+GA, average time , 0.0135999917984,countones_ga_80-40-2-32-4.txt
+GA, average results , 54.3,countones_ga_80-40-2-40-0.txt
+GA, average feval calls , 6041.0,countones_ga_80-40-2-40-0.txt
+GA, average time , 0.0415000200272,countones_ga_80-40-2-40-0.txt
+GA, average results , 54.0,countones_ga_80-40-2-40-4.txt
+GA, average feval calls , 6041.0,countones_ga_80-40-2-40-4.txt
+GA, average time , 0.015900015831,countones_ga_80-40-2-40-4.txt
+GA, average results , 51.7,countones_ga_80-40-3-16-0.txt
+GA, average feval calls , 2441.0,countones_ga_80-40-3-16-0.txt
+GA, average time , 0.0143000125885,countones_ga_80-40-3-16-0.txt
+GA, average results , 54.6,countones_ga_80-40-3-16-4.txt
+GA, average feval calls , 2441.0,countones_ga_80-40-3-16-4.txt
+GA, average time , 0.01890001297,countones_ga_80-40-3-16-4.txt
+GA, average results , 54.0,countones_ga_80-40-3-24-0.txt
+GA, average feval calls , 3641.0,countones_ga_80-40-3-24-0.txt
+GA, average time , 0.0200000047684,countones_ga_80-40-3-24-0.txt
+GA, average results , 56.7,countones_ga_80-40-3-24-4.txt
+GA, average feval calls , 3641.0,countones_ga_80-40-3-24-4.txt
+GA, average time , 0.0129999876022,countones_ga_80-40-3-24-4.txt
+GA, average results , 52.1,countones_ga_80-40-3-32-0.txt
+GA, average feval calls , 4841.0,countones_ga_80-40-3-32-0.txt
+GA, average time , 0.015299987793,countones_ga_80-40-3-32-0.txt
+GA, average results , 57.8,countones_ga_80-40-3-32-4.txt
+GA, average feval calls , 4841.0,countones_ga_80-40-3-32-4.txt
+GA, average time , 0.0240000009537,countones_ga_80-40-3-32-4.txt
+GA, average results , 53.4,countones_ga_80-40-3-40-0.txt
+GA, average feval calls , 6041.0,countones_ga_80-40-3-40-0.txt
+GA, average time , 0.0193000078201,countones_ga_80-40-3-40-0.txt
+GA, average results , 58.2,countones_ga_80-40-3-40-4.txt
+GA, average feval calls , 6041.0,countones_ga_80-40-3-40-4.txt
+GA, average time , 0.0358000040054,countones_ga_80-40-3-40-4.txt
+GA, average results , 59.6,countones_ga_80-80-1-32-0.txt
+GA, average feval calls , 4881.0,countones_ga_80-80-1-32-0.txt
+GA, average time , 0.0179000139236,countones_ga_80-80-1-32-0.txt
+GA, average results , 61.8,countones_ga_80-80-1-32-8.txt
+GA, average feval calls , 4881.0,countones_ga_80-80-1-32-8.txt
+GA, average time , 0.0267999887466,countones_ga_80-80-1-32-8.txt
+GA, average results , 60.1,countones_ga_80-80-1-48-0.txt
+GA, average feval calls , 7281.0,countones_ga_80-80-1-48-0.txt
+GA, average time , 0.0274999856949,countones_ga_80-80-1-48-0.txt
+GA, average results , 62.3,countones_ga_80-80-1-48-8.txt
+GA, average feval calls , 7281.0,countones_ga_80-80-1-48-8.txt
+GA, average time , 0.0261000156403,countones_ga_80-80-1-48-8.txt
+GA, average results , 63.7,countones_ga_80-80-1-64-0.txt
+GA, average feval calls , 9681.0,countones_ga_80-80-1-64-0.txt
+GA, average time , 0.0223999977112,countones_ga_80-80-1-64-0.txt
+GA, average results , 64.3,countones_ga_80-80-1-64-8.txt
+GA, average feval calls , 9681.0,countones_ga_80-80-1-64-8.txt
+GA, average time , 0.0345999956131,countones_ga_80-80-1-64-8.txt
+GA, average results , 59.5,countones_ga_80-80-1-80-0.txt
+GA, average feval calls , 12081.0,countones_ga_80-80-1-80-0.txt
+GA, average time , 0.0390000104904,countones_ga_80-80-1-80-0.txt
+GA, average results , 65.3,countones_ga_80-80-1-80-8.txt
+GA, average feval calls , 12081.0,countones_ga_80-80-1-80-8.txt
+GA, average time , 0.0500999927521,countones_ga_80-80-1-80-8.txt
+GA, average results , 60.2,countones_ga_80-80-2-32-0.txt
+GA, average feval calls , 4881.0,countones_ga_80-80-2-32-0.txt
+GA, average time , 0.0194999933243,countones_ga_80-80-2-32-0.txt
+GA, average results , 59.2,countones_ga_80-80-2-32-8.txt
+GA, average feval calls , 4881.0,countones_ga_80-80-2-32-8.txt
+GA, average time , 0.0243000030518,countones_ga_80-80-2-32-8.txt
+GA, average results , 61.8,countones_ga_80-80-2-48-0.txt
+GA, average feval calls , 7281.0,countones_ga_80-80-2-48-0.txt
+GA, average time , 0.0368000030518,countones_ga_80-80-2-48-0.txt
+GA, average results , 63.2,countones_ga_80-80-2-48-8.txt
+GA, average feval calls , 7281.0,countones_ga_80-80-2-48-8.txt
+GA, average time , 0.0359999895096,countones_ga_80-80-2-48-8.txt
+GA, average results , 61.8,countones_ga_80-80-2-64-0.txt
+GA, average feval calls , 9681.0,countones_ga_80-80-2-64-0.txt
+GA, average time , 0.0239999771118,countones_ga_80-80-2-64-0.txt
+GA, average results , 66.3,countones_ga_80-80-2-64-8.txt
+GA, average feval calls , 9681.0,countones_ga_80-80-2-64-8.txt
+GA, average time , 0.0473000049591,countones_ga_80-80-2-64-8.txt
+GA, average results , 62.0,countones_ga_80-80-2-80-0.txt
+GA, average feval calls , 12081.0,countones_ga_80-80-2-80-0.txt
+GA, average time , 0.0283999919891,countones_ga_80-80-2-80-0.txt
+GA, average results , 62.8,countones_ga_80-80-2-80-8.txt
+GA, average feval calls , 12081.0,countones_ga_80-80-2-80-8.txt
+GA, average time , 0.0350000143051,countones_ga_80-80-2-80-8.txt
+GA, average results , 59.5,countones_ga_80-80-3-32-0.txt
+GA, average feval calls , 4881.0,countones_ga_80-80-3-32-0.txt
+GA, average time , 0.0296999931335,countones_ga_80-80-3-32-0.txt
+GA, average results , 63.0,countones_ga_80-80-3-32-8.txt
+GA, average feval calls , 4881.0,countones_ga_80-80-3-32-8.txt
+GA, average time , 0.0286999940872,countones_ga_80-80-3-32-8.txt
+GA, average results , 59.8,countones_ga_80-80-3-48-0.txt
+GA, average feval calls , 7281.0,countones_ga_80-80-3-48-0.txt
+GA, average time , 0.018799996376,countones_ga_80-80-3-48-0.txt
+GA, average results , 61.7,countones_ga_80-80-3-48-8.txt
+GA, average feval calls , 7281.0,countones_ga_80-80-3-48-8.txt
+GA, average time , 0.0235000133514,countones_ga_80-80-3-48-8.txt
+GA, average results , 61.3,countones_ga_80-80-3-64-0.txt
+GA, average feval calls , 9681.0,countones_ga_80-80-3-64-0.txt
+GA, average time , 0.019000005722,countones_ga_80-80-3-64-0.txt
+GA, average results , 64.5,countones_ga_80-80-3-64-8.txt
+GA, average feval calls , 9681.0,countones_ga_80-80-3-64-8.txt
+GA, average time , 0.0549000024796,countones_ga_80-80-3-64-8.txt
+GA, average results , 62.1,countones_ga_80-80-3-80-0.txt
+GA, average feval calls , 12081.0,countones_ga_80-80-3-80-0.txt
+GA, average time , 0.0416999816895,countones_ga_80-80-3-80-0.txt
+GA, average results , 63.6,countones_ga_80-80-3-80-8.txt
+GA, average feval calls , 12081.0,countones_ga_80-80-3-80-8.txt
+GA, average time , 0.0463999986649,countones_ga_80-80-3-80-8.txt
+MIMIC, average results, 96.4,countones_MIMIC-100-100-20.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-100-100-20.txt
+MIMIC, average time , 0.990399980545,countones_MIMIC-100-100-20.txt
+MIMIC, average results, 95.8,countones_MIMIC-100-100-50.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-100-100-50.txt
+MIMIC, average time , 1.56849999428,countones_MIMIC-100-100-50.txt
+MIMIC, average results, 93.5,countones_MIMIC-100-100-70.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-100-100-70.txt
+MIMIC, average time , 1.99620001316,countones_MIMIC-100-100-70.txt
+MIMIC, average results, 82.2,countones_MIMIC-100-100-90.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-100-100-90.txt
+MIMIC, average time , 2.42039999962,countones_MIMIC-100-100-90.txt
+MIMIC, average results, 87.7,countones_MIMIC-100-120-108.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-100-120-108.txt
+MIMIC, average time , 2.91870000362,countones_MIMIC-100-120-108.txt
+MIMIC, average results, 96.7,countones_MIMIC-100-120-24.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-100-120-24.txt
+MIMIC, average time , 1.07769999504,countones_MIMIC-100-120-24.txt
+MIMIC, average results, 98.0,countones_MIMIC-100-120-60.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-100-120-60.txt
+MIMIC, average time , 1.65149998665,countones_MIMIC-100-120-60.txt
+MIMIC, average results, 97.1,countones_MIMIC-100-120-84.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-100-120-84.txt
+MIMIC, average time , 2.175,countones_MIMIC-100-120-84.txt
+MIMIC, average results, 90.3,countones_MIMIC-100-140-126.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-100-140-126.txt
+MIMIC, average time , 3.27349998951,countones_MIMIC-100-140-126.txt
+MIMIC, average results, 96.6,countones_MIMIC-100-140-28.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-100-140-28.txt
+MIMIC, average time , 1.10099999905,countones_MIMIC-100-140-28.txt
+MIMIC, average results, 98.7,countones_MIMIC-100-140-70.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-100-140-70.txt
+MIMIC, average time , 1.86440000534,countones_MIMIC-100-140-70.txt
+MIMIC, average results, 98.0,countones_MIMIC-100-140-98.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-100-140-98.txt
+MIMIC, average time , 2.41069998741,countones_MIMIC-100-140-98.txt
+MIMIC, average results, 88.0,countones_MIMIC-100-40-20.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-100-40-20.txt
+MIMIC, average time , 0.941299986839,countones_MIMIC-100-40-20.txt
+MIMIC, average results, 83.0,countones_MIMIC-100-40-28.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-100-40-28.txt
+MIMIC, average time , 1.01100001335,countones_MIMIC-100-40-28.txt
+MIMIC, average results, 69.4,countones_MIMIC-100-40-36.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-100-40-36.txt
+MIMIC, average time , 1.22890000343,countones_MIMIC-100-40-36.txt
+MIMIC, average results, 96.5,countones_MIMIC-100-40-8.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-100-40-8.txt
+MIMIC, average time , 0.680500006676,countones_MIMIC-100-40-8.txt
+MIMIC, average results, 96.5,countones_MIMIC-100-60-12.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-100-60-12.txt
+MIMIC, average time , 0.835399985313,countones_MIMIC-100-60-12.txt
+MIMIC, average results, 90.5,countones_MIMIC-100-60-30.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-100-60-30.txt
+MIMIC, average time , 1.07079999447,countones_MIMIC-100-60-30.txt
+MIMIC, average results, 87.9,countones_MIMIC-100-60-42.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-100-60-42.txt
+MIMIC, average time , 1.3396999836,countones_MIMIC-100-60-42.txt
+MIMIC, average results, 75.5,countones_MIMIC-100-60-54.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-100-60-54.txt
+MIMIC, average time , 1.53500001431,countones_MIMIC-100-60-54.txt
+MIMIC, average results, 96.0,countones_MIMIC-100-80-16.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-100-80-16.txt
+MIMIC, average time , 0.839499998093,countones_MIMIC-100-80-16.txt
+MIMIC, average results, 93.3,countones_MIMIC-100-80-40.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-100-80-40.txt
+MIMIC, average time , 1.32100000381,countones_MIMIC-100-80-40.txt
+MIMIC, average results, 91.8,countones_MIMIC-100-80-56.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-100-80-56.txt
+MIMIC, average time , 1.5396999836,countones_MIMIC-100-80-56.txt
+MIMIC, average results, 77.8,countones_MIMIC-100-80-72.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-100-80-72.txt
+MIMIC, average time , 2.11759998798,countones_MIMIC-100-80-72.txt
+MIMIC, average results, 116.0,countones_MIMIC-120-100-20.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-120-100-20.txt
+MIMIC, average time , 1.42769999504,countones_MIMIC-120-100-20.txt
+MIMIC, average results, 113.3,countones_MIMIC-120-100-50.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-120-100-50.txt
+MIMIC, average time , 2.16779999733,countones_MIMIC-120-100-50.txt
+MIMIC, average results, 111.5,countones_MIMIC-120-100-70.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-120-100-70.txt
+MIMIC, average time , 2.82680001259,countones_MIMIC-120-100-70.txt
+MIMIC, average results, 98.3,countones_MIMIC-120-100-90.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-120-100-90.txt
+MIMIC, average time , 3.75550000668,countones_MIMIC-120-100-90.txt
+MIMIC, average results, 102.1,countones_MIMIC-120-120-108.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-120-120-108.txt
+MIMIC, average time , 4.60820000172,countones_MIMIC-120-120-108.txt
+MIMIC, average results, 116.0,countones_MIMIC-120-120-24.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-120-120-24.txt
+MIMIC, average time , 1.62030000687,countones_MIMIC-120-120-24.txt
+MIMIC, average results, 116.9,countones_MIMIC-120-120-60.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-120-120-60.txt
+MIMIC, average time , 2.63010001183,countones_MIMIC-120-120-60.txt
+MIMIC, average results, 115.2,countones_MIMIC-120-120-84.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-120-120-84.txt
+MIMIC, average time , 4.18629999161,countones_MIMIC-120-120-84.txt
+MIMIC, average results, 106.2,countones_MIMIC-120-140-126.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-120-140-126.txt
+MIMIC, average time , 5.10409998894,countones_MIMIC-120-140-126.txt
+MIMIC, average results, 117.0,countones_MIMIC-120-140-28.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-120-140-28.txt
+MIMIC, average time , 1.70329999924,countones_MIMIC-120-140-28.txt
+MIMIC, average results, 117.1,countones_MIMIC-120-140-70.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-120-140-70.txt
+MIMIC, average time , 2.85730001926,countones_MIMIC-120-140-70.txt
+MIMIC, average results, 117.1,countones_MIMIC-120-140-98.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-120-140-98.txt
+MIMIC, average time , 3.84830000401,countones_MIMIC-120-140-98.txt
+MIMIC, average results, 105.3,countones_MIMIC-120-40-20.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-120-40-20.txt
+MIMIC, average time , 1.36859998703,countones_MIMIC-120-40-20.txt
+MIMIC, average results, 98.0,countones_MIMIC-120-40-28.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-120-40-28.txt
+MIMIC, average time , 1.6375,countones_MIMIC-120-40-28.txt
+MIMIC, average results, 82.4,countones_MIMIC-120-40-36.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-120-40-36.txt
+MIMIC, average time , 1.90750000477,countones_MIMIC-120-40-36.txt
+MIMIC, average results, 115.7,countones_MIMIC-120-40-8.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-120-40-8.txt
+MIMIC, average time , 0.983999991417,countones_MIMIC-120-40-8.txt
+MIMIC, average results, 115.0,countones_MIMIC-120-60-12.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-120-60-12.txt
+MIMIC, average time , 1.24600000381,countones_MIMIC-120-60-12.txt
+MIMIC, average results, 108.4,countones_MIMIC-120-60-30.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-120-60-30.txt
+MIMIC, average time , 1.66840000153,countones_MIMIC-120-60-30.txt
+MIMIC, average results, 103.2,countones_MIMIC-120-60-42.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-120-60-42.txt
+MIMIC, average time , 1.93499999046,countones_MIMIC-120-60-42.txt
+MIMIC, average results, 87.7,countones_MIMIC-120-60-54.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-120-60-54.txt
+MIMIC, average time , 2.28960001469,countones_MIMIC-120-60-54.txt
+MIMIC, average results, 115.0,countones_MIMIC-120-80-16.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-120-80-16.txt
+MIMIC, average time , 1.26879999638,countones_MIMIC-120-80-16.txt
+MIMIC, average results, 110.6,countones_MIMIC-120-80-40.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-120-80-40.txt
+MIMIC, average time , 1.97269999981,countones_MIMIC-120-80-40.txt
+MIMIC, average results, 108.1,countones_MIMIC-120-80-56.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-120-80-56.txt
+MIMIC, average time , 2.42630000114,countones_MIMIC-120-80-56.txt
+MIMIC, average results, 94.4,countones_MIMIC-120-80-72.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-120-80-72.txt
+MIMIC, average time , 3.11459999084,countones_MIMIC-120-80-72.txt
+MIMIC, average results, 134.4,countones_MIMIC-140-100-20.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-140-100-20.txt
+MIMIC, average time , 1.87679998875,countones_MIMIC-140-100-20.txt
+MIMIC, average results, 131.2,countones_MIMIC-140-100-50.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-140-100-50.txt
+MIMIC, average time , 2.94609999657,countones_MIMIC-140-100-50.txt
+MIMIC, average results, 130.6,countones_MIMIC-140-100-70.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-140-100-70.txt
+MIMIC, average time , 3.66480000019,countones_MIMIC-140-100-70.txt
+MIMIC, average results, 115.5,countones_MIMIC-140-100-90.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-140-100-90.txt
+MIMIC, average time , 4.80829999447,countones_MIMIC-140-100-90.txt
+MIMIC, average results, 118.9,countones_MIMIC-140-120-108.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-140-120-108.txt
+MIMIC, average time , 6.19949998856,countones_MIMIC-140-120-108.txt
+MIMIC, average results, 134.0,countones_MIMIC-140-120-24.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-140-120-24.txt
+MIMIC, average time , 1.92170000076,countones_MIMIC-140-120-24.txt
+MIMIC, average results, 134.3,countones_MIMIC-140-120-60.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-140-120-60.txt
+MIMIC, average time , 3.21830000877,countones_MIMIC-140-120-60.txt
+MIMIC, average results, 132.8,countones_MIMIC-140-120-84.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-140-120-84.txt
+MIMIC, average time , 4.59000000954,countones_MIMIC-140-120-84.txt
+MIMIC, average results, 121.8,countones_MIMIC-140-140-126.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-140-140-126.txt
+MIMIC, average time , 7.67369999886,countones_MIMIC-140-140-126.txt
+MIMIC, average results, 134.6,countones_MIMIC-140-140-28.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-140-140-28.txt
+MIMIC, average time , 2.48240001202,countones_MIMIC-140-140-28.txt
+MIMIC, average results, 136.9,countones_MIMIC-140-140-70.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-140-140-70.txt
+MIMIC, average time , 4.17559998035,countones_MIMIC-140-140-70.txt
+MIMIC, average results, 136.1,countones_MIMIC-140-140-98.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-140-140-98.txt
+MIMIC, average time , 5.73840000629,countones_MIMIC-140-140-98.txt
+MIMIC, average results, 122.4,countones_MIMIC-140-40-20.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-140-40-20.txt
+MIMIC, average time , 1.70449998379,countones_MIMIC-140-40-20.txt
+MIMIC, average results, 114.7,countones_MIMIC-140-40-28.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-140-40-28.txt
+MIMIC, average time , 2.04470000267,countones_MIMIC-140-40-28.txt
+MIMIC, average results, 94.0,countones_MIMIC-140-40-36.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-140-40-36.txt
+MIMIC, average time , 2.54210000038,countones_MIMIC-140-40-36.txt
+MIMIC, average results, 131.8,countones_MIMIC-140-40-8.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-140-40-8.txt
+MIMIC, average time , 1.31959998608,countones_MIMIC-140-40-8.txt
+MIMIC, average results, 133.7,countones_MIMIC-140-60-12.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-140-60-12.txt
+MIMIC, average time , 1.60110001564,countones_MIMIC-140-60-12.txt
+MIMIC, average results, 125.4,countones_MIMIC-140-60-30.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-140-60-30.txt
+MIMIC, average time , 2.55080001354,countones_MIMIC-140-60-30.txt
+MIMIC, average results, 118.7,countones_MIMIC-140-60-42.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-140-60-42.txt
+MIMIC, average time , 2.79290001392,countones_MIMIC-140-60-42.txt
+MIMIC, average results, 102.3,countones_MIMIC-140-60-54.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-140-60-54.txt
+MIMIC, average time , 3.14259998798,countones_MIMIC-140-60-54.txt
+MIMIC, average results, 134.1,countones_MIMIC-140-80-16.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-140-80-16.txt
+MIMIC, average time , 1.63320000172,countones_MIMIC-140-80-16.txt
+MIMIC, average results, 127.9,countones_MIMIC-140-80-40.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-140-80-40.txt
+MIMIC, average time , 2.43469998837,countones_MIMIC-140-80-40.txt
+MIMIC, average results, 125.6,countones_MIMIC-140-80-56.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-140-80-56.txt
+MIMIC, average time , 3.32769999504,countones_MIMIC-140-80-56.txt
+MIMIC, average results, 107.6,countones_MIMIC-140-80-72.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-140-80-72.txt
+MIMIC, average time , 4.36740000248,countones_MIMIC-140-80-72.txt
+MIMIC, average results, 39.3,countones_MIMIC-40-100-20.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-40-100-20.txt
+MIMIC, average time , 0.236999988556,countones_MIMIC-40-100-20.txt
+MIMIC, average results, 39.2,countones_MIMIC-40-100-50.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-40-100-50.txt
+MIMIC, average time , 0.391100001335,countones_MIMIC-40-100-50.txt
+MIMIC, average results, 39.0,countones_MIMIC-40-100-70.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-40-100-70.txt
+MIMIC, average time , 0.481599998474,countones_MIMIC-40-100-70.txt
+MIMIC, average results, 35.0,countones_MIMIC-40-100-90.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-40-100-90.txt
+MIMIC, average time , 0.523200011253,countones_MIMIC-40-100-90.txt
+MIMIC, average results, 36.2,countones_MIMIC-40-120-108.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-40-120-108.txt
+MIMIC, average time , 0.662300014496,countones_MIMIC-40-120-108.txt
+MIMIC, average results, 39.6,countones_MIMIC-40-120-24.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-40-120-24.txt
+MIMIC, average time , 0.375999999046,countones_MIMIC-40-120-24.txt
+MIMIC, average results, 39.8,countones_MIMIC-40-120-60.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-40-120-60.txt
+MIMIC, average time , 0.560899996758,countones_MIMIC-40-120-60.txt
+MIMIC, average results, 39.1,countones_MIMIC-40-120-84.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-40-120-84.txt
+MIMIC, average time , 0.630700016022,countones_MIMIC-40-120-84.txt
+MIMIC, average results, 37.7,countones_MIMIC-40-140-126.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-40-140-126.txt
+MIMIC, average time , 0.787199997902,countones_MIMIC-40-140-126.txt
+MIMIC, average results, 39.5,countones_MIMIC-40-140-28.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-40-140-28.txt
+MIMIC, average time , 0.329300022125,countones_MIMIC-40-140-28.txt
+MIMIC, average results, 39.9,countones_MIMIC-40-140-70.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-40-140-70.txt
+MIMIC, average time , 0.508500003815,countones_MIMIC-40-140-70.txt
+MIMIC, average results, 39.7,countones_MIMIC-40-140-98.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-40-140-98.txt
+MIMIC, average time , 0.681599998474,countones_MIMIC-40-140-98.txt
+MIMIC, average results, 35.7,countones_MIMIC-40-40-20.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-40-40-20.txt
+MIMIC, average time , 0.284599995613,countones_MIMIC-40-40-20.txt
+MIMIC, average results, 35.0,countones_MIMIC-40-40-28.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-40-40-28.txt
+MIMIC, average time , 0.371199989319,countones_MIMIC-40-40-28.txt
+MIMIC, average results, 29.2,countones_MIMIC-40-40-36.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-40-40-36.txt
+MIMIC, average time , 0.392199993134,countones_MIMIC-40-40-36.txt
+MIMIC, average results, 38.4,countones_MIMIC-40-40-8.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-40-40-8.txt
+MIMIC, average time , 0.246099996567,countones_MIMIC-40-40-8.txt
+MIMIC, average results, 38.6,countones_MIMIC-40-60-12.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-40-60-12.txt
+MIMIC, average time , 0.278999996185,countones_MIMIC-40-60-12.txt
+MIMIC, average results, 37.7,countones_MIMIC-40-60-30.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-40-60-30.txt
+MIMIC, average time , 0.277900004387,countones_MIMIC-40-60-30.txt
+MIMIC, average results, 36.1,countones_MIMIC-40-60-42.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-40-60-42.txt
+MIMIC, average time , 0.431100010872,countones_MIMIC-40-60-42.txt
+MIMIC, average results, 32.5,countones_MIMIC-40-60-54.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-40-60-54.txt
+MIMIC, average time , 0.405400013924,countones_MIMIC-40-60-54.txt
+MIMIC, average results, 39.1,countones_MIMIC-40-80-16.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-40-80-16.txt
+MIMIC, average time , 0.383499979973,countones_MIMIC-40-80-16.txt
+MIMIC, average results, 38.6,countones_MIMIC-40-80-40.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-40-80-40.txt
+MIMIC, average time , 0.283999991417,countones_MIMIC-40-80-40.txt
+MIMIC, average results, 37.7,countones_MIMIC-40-80-56.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-40-80-56.txt
+MIMIC, average time , 0.377600002289,countones_MIMIC-40-80-56.txt
+MIMIC, average results, 33.2,countones_MIMIC-40-80-72.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-40-80-72.txt
+MIMIC, average time , 0.473699998856,countones_MIMIC-40-80-72.txt
+MIMIC, average results, 58.5,countones_MIMIC-60-100-20.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-60-100-20.txt
+MIMIC, average time , 0.486100006104,countones_MIMIC-60-100-20.txt
+MIMIC, average results, 58.0,countones_MIMIC-60-100-50.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-60-100-50.txt
+MIMIC, average time , 0.758700013161,countones_MIMIC-60-100-50.txt
+MIMIC, average results, 57.7,countones_MIMIC-60-100-70.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-60-100-70.txt
+MIMIC, average time , 0.74430000782,countones_MIMIC-60-100-70.txt
+MIMIC, average results, 50.8,countones_MIMIC-60-100-90.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-60-100-90.txt
+MIMIC, average time , 1.08150000572,countones_MIMIC-60-100-90.txt
+MIMIC, average results, 53.2,countones_MIMIC-60-120-108.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-60-120-108.txt
+MIMIC, average time , 1.41829998493,countones_MIMIC-60-120-108.txt
+MIMIC, average results, 58.8,countones_MIMIC-60-120-24.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-60-120-24.txt
+MIMIC, average time , 0.608500003815,countones_MIMIC-60-120-24.txt
+MIMIC, average results, 59.2,countones_MIMIC-60-120-60.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-60-120-60.txt
+MIMIC, average time , 0.873399996758,countones_MIMIC-60-120-60.txt
+MIMIC, average results, 58.1,countones_MIMIC-60-120-84.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-60-120-84.txt
+MIMIC, average time , 1.10469999313,countones_MIMIC-60-120-84.txt
+MIMIC, average results, 55.2,countones_MIMIC-60-140-126.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-60-140-126.txt
+MIMIC, average time , 1.57759997845,countones_MIMIC-60-140-126.txt
+MIMIC, average results, 59.2,countones_MIMIC-60-140-28.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-60-140-28.txt
+MIMIC, average time , 0.600400018692,countones_MIMIC-60-140-28.txt
+MIMIC, average results, 59.3,countones_MIMIC-60-140-70.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-60-140-70.txt
+MIMIC, average time , 0.896899986267,countones_MIMIC-60-140-70.txt
+MIMIC, average results, 59.5,countones_MIMIC-60-140-98.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-60-140-98.txt
+MIMIC, average time , 1.05460000038,countones_MIMIC-60-140-98.txt
+MIMIC, average results, 53.2,countones_MIMIC-60-40-20.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-60-40-20.txt
+MIMIC, average time , 0.406999993324,countones_MIMIC-60-40-20.txt
+MIMIC, average results, 51.0,countones_MIMIC-60-40-28.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-60-40-28.txt
+MIMIC, average time , 0.568700003624,countones_MIMIC-60-40-28.txt
+MIMIC, average results, 43.0,countones_MIMIC-60-40-36.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-60-40-36.txt
+MIMIC, average time , 0.659800004959,countones_MIMIC-60-40-36.txt
+MIMIC, average results, 57.3,countones_MIMIC-60-40-8.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-60-40-8.txt
+MIMIC, average time , 0.476399993896,countones_MIMIC-60-40-8.txt
+MIMIC, average results, 57.8,countones_MIMIC-60-60-12.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-60-60-12.txt
+MIMIC, average time , 0.412199997902,countones_MIMIC-60-60-12.txt
+MIMIC, average results, 55.2,countones_MIMIC-60-60-30.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-60-60-30.txt
+MIMIC, average time , 0.582099986076,countones_MIMIC-60-60-30.txt
+MIMIC, average results, 54.0,countones_MIMIC-60-60-42.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-60-60-42.txt
+MIMIC, average time , 0.62349998951,countones_MIMIC-60-60-42.txt
+MIMIC, average results, 46.3,countones_MIMIC-60-60-54.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-60-60-54.txt
+MIMIC, average time , 0.665799999237,countones_MIMIC-60-60-54.txt
+MIMIC, average results, 56.7,countones_MIMIC-60-80-16.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-60-80-16.txt
+MIMIC, average time , 0.383999991417,countones_MIMIC-60-80-16.txt
+MIMIC, average results, 57.0,countones_MIMIC-60-80-40.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-60-80-40.txt
+MIMIC, average time , 0.534499979019,countones_MIMIC-60-80-40.txt
+MIMIC, average results, 55.9,countones_MIMIC-60-80-56.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-60-80-56.txt
+MIMIC, average time , 0.65759999752,countones_MIMIC-60-80-56.txt
+MIMIC, average results, 48.5,countones_MIMIC-60-80-72.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-60-80-72.txt
+MIMIC, average time , 1.02660000324,countones_MIMIC-60-80-72.txt
+MIMIC, average results, 76.7,countones_MIMIC-80-100-20.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-80-100-20.txt
+MIMIC, average time , 0.740899991989,countones_MIMIC-80-100-20.txt
+MIMIC, average results, 76.4,countones_MIMIC-80-100-50.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-80-100-50.txt
+MIMIC, average time , 1.09219999313,countones_MIMIC-80-100-50.txt
+MIMIC, average results, 76.8,countones_MIMIC-80-100-70.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-80-100-70.txt
+MIMIC, average time , 1.21900000572,countones_MIMIC-80-100-70.txt
+MIMIC, average results, 68.3,countones_MIMIC-80-100-90.txt
+MIMIC, average feval calls , 10101.0,countones_MIMIC-80-100-90.txt
+MIMIC, average time , 1.64760000706,countones_MIMIC-80-100-90.txt
+MIMIC, average results, 70.8,countones_MIMIC-80-120-108.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-80-120-108.txt
+MIMIC, average time , 1.89179999828,countones_MIMIC-80-120-108.txt
+MIMIC, average results, 77.1,countones_MIMIC-80-120-24.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-80-120-24.txt
+MIMIC, average time , 0.767200016975,countones_MIMIC-80-120-24.txt
+MIMIC, average results, 79.1,countones_MIMIC-80-120-60.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-80-120-60.txt
+MIMIC, average time , 1.15780000687,countones_MIMIC-80-120-60.txt
+MIMIC, average results, 77.8,countones_MIMIC-80-120-84.txt
+MIMIC, average feval calls , 12121.0,countones_MIMIC-80-120-84.txt
+MIMIC, average time , 1.63120000362,countones_MIMIC-80-120-84.txt
+MIMIC, average results, 71.9,countones_MIMIC-80-140-126.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-80-140-126.txt
+MIMIC, average time , 2.23499999046,countones_MIMIC-80-140-126.txt
+MIMIC, average results, 78.4,countones_MIMIC-80-140-28.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-80-140-28.txt
+MIMIC, average time , 0.799699997902,countones_MIMIC-80-140-28.txt
+MIMIC, average results, 79.1,countones_MIMIC-80-140-70.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-80-140-70.txt
+MIMIC, average time , 1.27339999676,countones_MIMIC-80-140-70.txt
+MIMIC, average results, 78.4,countones_MIMIC-80-140-98.txt
+MIMIC, average feval calls , 14141.0,countones_MIMIC-80-140-98.txt
+MIMIC, average time , 1.68660001755,countones_MIMIC-80-140-98.txt
+MIMIC, average results, 71.3,countones_MIMIC-80-40-20.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-80-40-20.txt
+MIMIC, average time , 0.7,countones_MIMIC-80-40-20.txt
+MIMIC, average results, 66.4,countones_MIMIC-80-40-28.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-80-40-28.txt
+MIMIC, average time , 0.788899993896,countones_MIMIC-80-40-28.txt
+MIMIC, average results, 55.6,countones_MIMIC-80-40-36.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-80-40-36.txt
+MIMIC, average time , 0.786100006104,countones_MIMIC-80-40-36.txt
+MIMIC, average results, 77.4,countones_MIMIC-80-40-8.txt
+MIMIC, average feval calls , 4041.0,countones_MIMIC-80-40-8.txt
+MIMIC, average time , 0.544600009918,countones_MIMIC-80-40-8.txt
+MIMIC, average results, 76.9,countones_MIMIC-80-60-12.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-80-60-12.txt
+MIMIC, average time , 0.562900018692,countones_MIMIC-80-60-12.txt
+MIMIC, average results, 74.1,countones_MIMIC-80-60-30.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-80-60-30.txt
+MIMIC, average time , 0.848000001907,countones_MIMIC-80-60-30.txt
+MIMIC, average results, 71.0,countones_MIMIC-80-60-42.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-80-60-42.txt
+MIMIC, average time , 1.06330001354,countones_MIMIC-80-60-42.txt
+MIMIC, average results, 60.7,countones_MIMIC-80-60-54.txt
+MIMIC, average feval calls , 6061.0,countones_MIMIC-80-60-54.txt
+MIMIC, average time , 1.25270001888,countones_MIMIC-80-60-54.txt
+MIMIC, average results, 77.4,countones_MIMIC-80-80-16.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-80-80-16.txt
+MIMIC, average time , 0.761400008202,countones_MIMIC-80-80-16.txt
+MIMIC, average results, 74.8,countones_MIMIC-80-80-40.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-80-80-40.txt
+MIMIC, average time , 1.04159998894,countones_MIMIC-80-80-40.txt
+MIMIC, average results, 74.3,countones_MIMIC-80-80-56.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-80-80-56.txt
+MIMIC, average time , 1.26079998016,countones_MIMIC-80-80-56.txt
+MIMIC, average results, 63.8,countones_MIMIC-80-80-72.txt
+MIMIC, average feval calls , 8081.0,countones_MIMIC-80-80-72.txt
+MIMIC, average time , 1.45610001087,countones_MIMIC-80-80-72.txt
